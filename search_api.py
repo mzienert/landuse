@@ -22,8 +22,8 @@ def initialize_search():
     
     try:
         logger.info("Loading sentence transformer model...")
-        model = SentenceTransformer('BAAI/bge-small-en-v1.5')
-        logger.info("Model loaded successfully: BAAI/bge-small-en-v1.5")
+        model = SentenceTransformer('intfloat/e5-large-v2')
+        logger.info("Model loaded successfully: intfloat/e5-large-v2 (1024 dimensions)")
         
         logger.info("Connecting to ChromaDB...")
         client = chromadb.PersistentClient(path="./chroma_db")

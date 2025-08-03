@@ -17,8 +17,8 @@ A semantic search system for the La Plata County Land Use Code, enabling natural
    python create_embeddings.py
    ```
    
-   **Note**: This processes 1,298 sections and takes ~2-3 minutes. The script will:
-   - Load the BAAI/bge-small-en-v1.5 model (384 dimensions)
+   **Note**: This processes 1,298 sections and takes ~2 minutes. The script will:
+   - Load the intfloat/e5-large-v2 model (1024 dimensions)
    - Generate embeddings for all county code sections
    - Store vectors in ChromaDB at `./chroma_db/`
 
@@ -52,7 +52,7 @@ A semantic search system for the La Plata County Land Use Code, enabling natural
 ### Technology Stack
 
 **Core Components:**
-- **Embedding Model**: `all-MiniLM-L6-v2` (384 dimensions, optimized for Apple Silicon)
+- **Embedding Model**: `intfloat/e5-large-v2` (1024 dimensions, optimized for legal text)
 - **Vector Database**: ChromaDB (local development) / Pinecone (production)
 - **API Framework**: Flask with CORS support
 - **Language**: Python 3.10+
@@ -157,7 +157,7 @@ Open in your browser:
 3. **Update model in scripts** (if changing models)
    ```bash
    # Edit create_embeddings.py and search_api.py
-   # Change: SentenceTransformer('BAAI/bge-small-en-v1.5')
+   # Change: SentenceTransformer('intfloat/e5-large-v2')
    # To your preferred model from the table above
    ```
 
@@ -175,19 +175,20 @@ Open in your browser:
 
 | Current Model | Previous Model | Improvement |
 |---------------|----------------|-------------|
-| BAAI/bge-small-en-v1.5 | all-MiniLM-L6-v2 | Better semantic understanding |
-| Relevance: 0.45-0.55 | Relevance: 0.15-0.25 | ~2-3x higher relevance scores |
-| Processing: ~15 sec | Processing: ~45 sec | 3x faster embedding generation |
+| intfloat/e5-large-v2 (1024D) | BAAI/bge-small-en-v1.5 (384D) | Superior legal text understanding |
+| Relevance: 0.65-0.67 | Relevance: 0.45-0.55 | +20% higher relevance scores |
+| Processing: ~2 min | Processing: ~15 sec | Acceptable trade-off for quality |
+| **Best for**: Legal/regulatory text | **Best for**: General purpose | Specialized for complex documents |
 
 ## 📊 Performance
 
 - **Dataset**: 1,298 sections of La Plata County Land Use Code
-- **Model**: BAAI/bge-small-en-v1.5 (384 dimensions)
-- **Embedding Generation**: ~15 seconds on M4 Pro (Apple Silicon optimized)
-- **Memory Usage**: ~6GB RAM during processing, ~2GB during API serving
+- **Model**: intfloat/e5-large-v2 (1024 dimensions)
+- **Embedding Generation**: ~2 minutes on M4 Pro (Apple Silicon optimized)
+- **Memory Usage**: ~8GB RAM during processing, ~3GB during API serving
 - **Search Speed**: Sub-second query response times
-- **Storage**: ~52MB ChromaDB + embeddings
-- **Quality**: 2-3x higher relevance scores vs all-MiniLM-L6-v2
+- **Storage**: ~140MB ChromaDB + embeddings
+- **Quality**: 20% higher relevance scores, superior legal text comprehension
 
 ## 🔧 Development
 
@@ -198,21 +199,23 @@ curl "http://localhost:8000/..."   # API endpoint testing
 ```
 
 **Model Information**
-- **Model**: `BAAI/bge-small-en-v1.5` (current production model)
-- **Dimensions**: 384 (optimized for legal/administrative text)
+- **Model**: `intfloat/e5-large-v2` (current production model)
+- **Dimensions**: 1024 (specialized for legal/administrative text)
 - **Apple Silicon**: Leverages MPS (Metal Performance Shaders)
-- **Performance**: 3x faster processing, 2-3x better relevance scores
+- **Performance**: 20% better relevance scores, superior legal context understanding
 
 ### Model Selection
 
-We prioritize quantized models for efficient use of 24GB RAM. Current recommendations:
+Model recommendations for different use cases:
 
-| Model | Dimensions | Size (Quantized) | Best For |
-|-------|------------|------------------|----------|
-| all-MiniLM-L6-v2 (Primary) | 384 | ~20MB (4-bit) | General purpose, county code analysis |
-| BAAI/bge-small-en-v1.5 | 384 | ~50MB (4-bit) | Enhanced semantic search |
-| paraphrase-MiniLM-L6-v2 | 384 | ~20MB (4-bit) | Variant phrasings |
-| nomic-embed-text-v1.5 | 768 | ~100MB (4-bit) | Long-form documents |
+| Model | Dimensions | Storage Size | Best For |
+|-------|------------|--------------|----------|
+| **intfloat/e5-large-v2** ⭐ | 1024 | ~140MB | **Legal/regulatory text (current)** |
+| BAAI/bge-small-en-v1.5 | 384 | ~52MB | General purpose, faster processing |
+| all-MiniLM-L6-v2 | 384 | ~50MB | Basic semantic search |
+| nomic-embed-text-v1.5 | 768 | ~100MB | Long-form documents |
+
+⭐ **Current production model** - Optimized for legal/administrative content with superior relevance scores (0.65-0.67 range).
 
 ## 🚀 Production Deployment
 

@@ -1,7 +1,7 @@
 INFO:__main__:Loading sentence transformer model...
 INFO:sentence_transformers.SentenceTransformer:Use pytorch device_name: mps
-INFO:sentence_transformers.SentenceTransformer:Load pretrained SentenceTransformer: BAAI/bge-small-en-v1.5
-INFO:__main__:Model loaded successfully: BAAI/bge-small-en-v1.5
+INFO:sentence_transformers.SentenceTransformer:Load pretrained SentenceTransformer: intfloat/e5-large-v2
+INFO:__main__:Model loaded successfully: intfloat/e5-large-v2 (1024 dimensions)
 INFO:__main__:Connecting to ChromaDB...
 INFO:chromadb.telemetry.product.posthog:Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
 INFO:__main__:Connected to database with 1298 documents
@@ -16,18 +16,17 @@ INFO:werkzeug:[33mPress CTRL+C to quit[0m
 INFO:werkzeug: * Restarting with stat
 INFO:__main__:Loading sentence transformer model...
 INFO:sentence_transformers.SentenceTransformer:Use pytorch device_name: mps
-INFO:sentence_transformers.SentenceTransformer:Load pretrained SentenceTransformer: BAAI/bge-small-en-v1.5
-INFO:__main__:Model loaded successfully: BAAI/bge-small-en-v1.5
+INFO:sentence_transformers.SentenceTransformer:Load pretrained SentenceTransformer: intfloat/e5-large-v2
+INFO:__main__:Model loaded successfully: intfloat/e5-large-v2 (1024 dimensions)
 INFO:__main__:Connecting to ChromaDB...
 INFO:chromadb.telemetry.product.posthog:Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
 INFO:__main__:Connected to database with 1298 documents
 INFO:__main__:Starting Flask server...
 WARNING:werkzeug: * Debugger is active!
 INFO:werkzeug: * Debugger PIN: 163-124-976
-INFO:werkzeug:127.0.0.1 - - [03/Aug/2025 17:15:05] "GET /health HTTP/1.1" 200 -
 Batches:   0%|          | 0/1 [00:00<?, ?it/s]/Users/matthewzienert/Documents/landuse/env/lib/python3.13/site-packages/torch/nn/modules/module.py:1762: FutureWarning: `encoder_attention_mask` is deprecated and will be removed in version 4.55.0 for `BertSdpaSelfAttention.forward`.
   return forward_call(*args, **kwargs)
-Batches: 100%|██████████| 1/1 [00:00<00:00,  6.26it/s]Batches: 100%|██████████| 1/1 [00:00<00:00,  6.25it/s]
-INFO:werkzeug:127.0.0.1 - - [03/Aug/2025 17:15:28] "GET /search/simple?query=building%20permits&num_results=3 HTTP/1.1" 200 -
-Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 28.44it/s]
-INFO:werkzeug:127.0.0.1 - - [03/Aug/2025 17:15:36] "GET /search/simple?query=zoning%20requirements&num_results=3 HTTP/1.1" 200 -
+Batches: 100%|██████████| 1/1 [00:00<00:00,  1.92it/s]Batches: 100%|██████████| 1/1 [00:00<00:00,  1.92it/s]
+INFO:werkzeug:127.0.0.1 - - [03/Aug/2025 17:38:33] "GET /search/simple?query=building%20permits&num_results=3 HTTP/1.1" 200 -
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 11.20it/s]
+INFO:werkzeug:127.0.0.1 - - [03/Aug/2025 17:43:36] "GET /search/simple?query=building%20permits&num_results=10 HTTP/1.1" 200 -

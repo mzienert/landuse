@@ -29,9 +29,9 @@ def setup_model():
     """Load the sentence transformer model"""
     print("Loading sentence transformer model...")
     try:
-        # Use BAAI/bge-small-en-v1.5 for enhanced semantic search
-        model = SentenceTransformer('BAAI/bge-small-en-v1.5')
-        print("Model loaded successfully: BAAI/bge-small-en-v1.5")
+        # Use intfloat/e5-large-v2 for 1024D embeddings that are memory efficient
+        model = SentenceTransformer('intfloat/e5-large-v2')
+        print("Model loaded successfully: intfloat/e5-large-v2 (1024 dimensions)")
         print(f"MLX Metal available: {mx.metal.is_available()}")
         return model
     except Exception as e:
@@ -111,7 +111,7 @@ def store_embeddings(collection, chunks, embeddings):
 def main():
     # Configuration
     JSON_FILE = "./la_plata_code/full_code.json"
-    BATCH_SIZE = 32  # Adjust based on available RAM
+    BATCH_SIZE = 8  # Very small batch for 1024D embeddings
     
     # Step 1: Load data
     chunks = load_json_data(JSON_FILE)
