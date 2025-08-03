@@ -1,0 +1,142 @@
+Chapter 20 procurement code
+ARTICLE V METHODS OF COMPETITIVE SOURCE SELECTION FOR STANDARD PURCHASES
+This article describes the appropriate methods of competitive source selection for
+standard purchases
+(i.e., purchases with a contract requirement of more than fifty thousand dollars ($50,000.00). Generally, while
+IFBs
+or
+RFPs
+will be used, the
+contract manager
+in consultation with the finance director, may also determine that an
+RFI
+,
+RFQ
+or other tools should also be utilized. When such tools are used, the procurement division will outline the process to be used, in writing, prior to letting a
+solicitation
+. The provisions of this article do not apply to the source selection methods applicable to
+small purchases
+or
+simplified purchases
+.
+Sec. 20-52 Invitation for bids
+An
+invitation for bids
+(“IFB”) is the formal process used to
+solicit
+bids
+from qualified
+vendors
+for
+goods
+and, in some cases for
+services
+, when complete
+specifications
+or specific purchase descriptions are available, and a measurable task or item is desired. The
+contract
+is awarded to the lowest responsive and responsible bidder, after considering any bid preferences as described in article III.
+I.
+General rule
+. An IFB shall be used to solicit bids for all purchases of more than fifty thousand dollars ($50,000.00) when complete specifications or purchase descriptions are available. The specifications for the items to be procured are not subject to negotiation.
+II.
+Requirements of an IFB
+. In consultation with the responsible department or
+elected official
+, the
+contract manager
+will prepare and publish an IFB solicitation package that shall include, at a minimum:
+A.
+Instructions and information to
+bidders
+concerning the bid submission requirements, including the time and closing date and the address of the office to which bids are to be delivered;
+B.
+The project description (furnished by the department or office), including the specifications or
+SoW
+and all drawings;
+C.
+The basis of
+award
+, including the award and evaluation criteria to be used;
+D.
+Inspection and acceptance requirements;
+E.
+Required warranty and bonding or security requirements and insurance requirements; and
+F.
+A list of all applicable deadlines, including any applicable delivery or performance schedule.
+III.
+Public notice -
+advertisement
+. Public notice of the opportunity to bid is required for any procurement utilizing the IFB process. The opportunity to bid must be published in a newspaper(s) of relevant geographic circulation or other publication(s) directed to the target vendor market on at least two (2) occasions no less than ten (10) days prior to the date set for
+bid opening
+. Public notice shall be adequate if it contains:
+A.
+The project name;
+B.
+A brief description of the goods or services desired;
+C.
+The closing date and time for receiving bids;
+D.
+The place where bid packets may be obtained;
+E.
+The name of the person to contact for information;
+F.
+Date, time and location of any pre-bid conferences;
+G.
+Any special instructions to bidders (such as information about whether prequalification is required or the cost of bid packets) or information about where the same may be obtained;
+H.
+A statement regarding the bidder’s responsibility for determining the date of the award of bid and being heard on the award, if so desired;
+I.
+A statement regarding the county’s right to waive
+minor deviations
+or informalities, amend or cancel any bid solicitation, reject all bids and accept the lowest responsive and responsible bid; and
+J.
+A reference to this
+code
+and any standardized contracts, incorporating them into the bid process, unless otherwise stated.
+IV.
+Communication with bidders
+. Once an IFB is made public, and through the time of contract award, all communication regarding the invitation shall be documented and directed to the contract manager. Unless otherwise set forth in the notice of the bid opportunity, the bid opportunity shall not be discussed with a potential bidder by any other county employee.
+V.
+Receipt of bids
+. The time and date for receipt of bids shall be included in the IFB and must state a specific time on a certain date. Bids received after the specified time on such date will be considered late and not accepted. All submitted bids must be
+sealed
+and shall be received without alteration or correction, except as specifically authorized elsewhere in this code. Bids shall not be opened upon receipt.
+VI.
+Withdrawal of bids
+. Withdrawal or modification of bids may be made by any bidder prior to the established due date and time for such bids upon written request from the bidder. Withdrawal of bids after the due date and time by prior to the time of award may be permitted, provided:
+A.
+The bidder provides evidentiary proof that clearly and convincingly demonstrates that a mistake was made in the costs or other material matter provided;
+B.
+The mistake is clear in the bid; or
+C.
+It is found by the finance director to be unconscionable not to allow the bid to be withdrawn.
+Any decisions to permit or deny a request to withdraw a bid after the due date and time but before the time of award shall be supported by written documentation prepared by the finance director.
+VII.
+Amendment to or cancellation of an IFB; rejection of bid
+. The contract manager may amend or cancel an IFB or reject a bid response by a
+vendor
+, in whole or in part, when it is in the
+best interest of the county
+. Each solicitation issued by the county shall state that the solicitation may be amended or cancelled and that any bid response to a solicitation issued by the county may be rejected, in whole or in part, when in the best interest of the county. If an amendment is made after the IFP is let, it shall be distributed to all bidders who submit bids and posted on the Rocky Mountain ePurchasing system, if applicable. If the solicitation is cancelled, notice of cancellation shall be sent to all offerors and posted on the Rocky Mountain ePurchasing system, along with the reasons cancellation was determined to be in the county’s best interest.
+VIII.
+Bid opening
+. Bids shall be publicly opened in the presence of one or more witnesses at the time and place designated in the IFB. Public participation may be by remote means only, as determined by the county and designated in the IFB. The name of the bidder and amount of each bid, and any other information deemed relevant by the contract manager or designee, shall be read aloud and recorded. This bid record will become subject to public records requests upon contract award. Since each bid is subject to analysis, legal review, and appropriate approvals prior to contract award, no acceptance of any bid offer will take place at the bid opening and no bids will be publicly released prior to award.
+IX.
+Bid evaluation
+. Bids shall be evaluated based on the requirements set forth in the solicitation package. Prior to confirmation of an award, the contract manager may contact potential vendors responding to the bid request for the purpose of obtaining clarification to assure a full understanding of, and conformance to, the solicitation requirements. Any questions or concerns regarding cost reasonableness may be addressed by the contract manager or finance director in the manner deemed to be in the best interest of the county. The county reserves the right to waive minor deviations or informalities in reviewing bids.
+X.
+Budget
+. If all bids received from responsible bidders exceed the funds
+budgeted
+for the acquisition, the county is not required to award a contract. If, however, time or economic considerations preclude the re-solicitation of bids, the finance director is authorized to negotiate an adjustment of the bid price with the lowest responsive and responsible bidder.
+XI.
+Determination of non-responsibility
+. If a bidder who otherwise would have been awarded a contract is found not responsible, the finance director shall prepare a written determination of non-responsibility, setting forth the basis of the finding. A copy of the determination shall be sent promptly to the non-responsible bidder. The final determination shall be made part of the contract file.
+XII.
+Award
+. A recommendation that the county award a contract determined to be in the best interest of the county shall be made by the contract manager and department head or elected official, as applicable, with reasonable promptness and presented to appropriate county personnel, in accordance with the county’s Fiscal Management Policy No. III.4, as amended, for consideration and execution. Upon approval, notice of award is sent to the successful bidder, along with all documents required to finalize the contract terms.
+(
+Res. No. 2020-42, § 20-52, 12/17/2020
+)
+Effective on: 1/1/2021

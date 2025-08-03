@@ -1,0 +1,92 @@
+Chapter 70: General Site Development Standards Applicable to All Development
+Sec. 70-21 Noise and vibration
+I.
+Purpose.
+This section is intended to lessen the off-site impacts of noise disturbance that may be created by new development. Standards set forth in this subsection do not apply to any agricultural use or construction of a single-family home.
+II.
+Applicability.
+Noise as measured at the property boundary shall not exceed state noise standards as set forth in C.R.S. § 25-12-103, as amended. Development subject to this section shall adhere to these standards during the hours of 7:00 p.m. – 7:00 a.m. In the hours between 7:00 a.m. and the next 7:00 p.m., the noise levels permitted in this section may be increased by ten (10) db(A) for a period of not to exceed fifteen (15) minutes in any one (1) hour period. Table 70-21 identifies the maximum noise limits:
+Table 70-21: Maximum Noise Limits
+TABLE 70-21: MAXIMUM NOISE LIMITS
+Land Use Type
+7:00 a.m. to 7:00 p.m. Decibel db(A) Level
+7:00 p.m. to 7:00 a.m. Decibel db(A) Level
+Residential
+55 db(A)
+50 db(A)
+Commercial
+60 db(A)
+55 db(A)
+Light Industrial
+70 db(A)
+65 db(A)
+Industrial
+80 db(A)
+75 db(A)
+TABLE 70-21: MAXIMUM NOISE LIMITS
+Land Use Type
+7:00 a.m. to 7:00 p.m. Decibel db(A) Level
+7:00 p.m. to 7:00 a.m. Decibel db(A) Level
+Residential
+55 db(A)
+50 db(A)
+Commercial
+60 db(A)
+55 db(A)
+Light Industrial
+70 db(A)
+65 db(A)
+Industrial
+80 db(A)
+75 db(A)
+TABLE 70-21: MAXIMUM NOISE LIMITS
+Land Use Type
+7:00 a.m. to 7:00 p.m. Decibel db(A) Level
+7:00 p.m. to 7:00 a.m. Decibel db(A) Level
+Residential
+55 db(A)
+50 db(A)
+Commercial
+60 db(A)
+55 db(A)
+Light Industrial
+70 db(A)
+65 db(A)
+Industrial
+80 db(A)
+75 db(A)
+TABLE 70-21: MAXIMUM NOISE LIMITS
+Land Use Type
+7:00 a.m. to 7:00 p.m. Decibel db(A) Level
+7:00 p.m. to 7:00 a.m. Decibel db(A) Level
+Residential
+55 db(A)
+50 db(A)
+Commercial
+60 db(A)
+55 db(A)
+Light Industrial
+70 db(A)
+65 db(A)
+Industrial
+80 db(A)
+75 db(A)
+III.
+Exceptions
+. The noise standards in this section shall not apply to the following land uses:
+A.
+Noises of agricultural vehicles, farm operations, motor vehicles as preempted by state law, home appliances, and chain saws in private use, occasionally used safety signals, warning signals, emergency pressure relief valves, discharge of firearms and temporary construction operations.
+B.
+Noises from any other land use, activity, or vehicle where state law preempts local control of noise levels, including without limitation qualifying sport shooting range exempted under C.R.S. § 25-12-109.
+C.
+This article is not intended to apply to the operation of aircraft or to other activities which are subject to federal law with respect to noise control.
+D.
+Vibration. Every use shall be operated so it does not inherently and recurrently generate a ground vibration that is perceptible, without instruments, at any point along any boundary line of the property on which the use is located. Where more than one (1) use is located on a property, then this standard shall be measured along any wall of any other building on the property.
+(
+Res. No.
+2020-30
+, § 70-21, 09/15/2020; Res. No.
+2023-11
+, §  04/26/2023
+)
+Effective on: 8/1/2023

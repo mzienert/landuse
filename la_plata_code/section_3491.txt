@@ -1,0 +1,160 @@
+Chapter 90 OIL AND GAS DEVELOPMENT
+FOOTNOTE(S):
+Editor's note—
+Res. No. 2008-33, § 1(Exh. A), adopted November 17, 2008, amended chapter 90 in its entirety to read as herein set out. Formerly, chapter 90 pertained to similar subject matter, and derived from LPLUS, § 8.1.1—8.1.5.b, 8.1.6.a—f., 8.1.7—8.1.10, 8.1.12, 8.1.14.a—g., 8.2.1—8.2.6, 8.3; Res. No. 1998-34, § 1, adopted October 5, 1998; Res. No. 1999-9, § 2, adopted February 22, 1999; Res. No. 2001-33, adopted August 27, 2001; Res. No. 2004-20, § 1, 2, adopted June 28, 2004; Res. No. 2004-35, §§ 1—10, adopted December 20, 2004, and Res. No. 2008-30, §§ 1, 2, adopted November 12, 2008.
+Cross reference—
+Buildings
+and building regulations, chapter
+18
+; public places, ch
+apter
+38
+;
+development
+standards and specifications,
+chapter
+74
+;
+floods
+, ch
+apter
+78
+; land
+use
+regulations for public property,
+ch
+apter
+94
+;
+subdivisions
+,
+ch
+apter
+102; zoning,
+ch
+apter
+106.
+Sec. 90-2 Jurisdiction; authority and applicability
+I.
+Authority.
+This chapter is adopted pursuant to the powers and authorities conferred by the laws of the State of Colorado set forth in section 81-1.
+II.
+Applicability and exemptions.
+A.
+General applicability.  Unless expressly exempt, waived or otherwise adjusted by the provisions of this code, it shall be unlawful for any person acting on their own behalf or acting as an agent, employee or independent contractor for any person to engage in oil and gas operations without first obtaining a permit in accordance with this code, including without limitation:
+1.
+Exploration for oil and gas (such as the drilling of test bores).
+2.
+Siting, drilling, deepening, recompleting, or abandoning a well.
+3.
+Production operations related to any well, including installation of pipelines.
+4.
+The generation, transporting, storing, treating, or disposing of wastes, including without limitation exploration and production wastes.
+5.
+Any construction, site preparation, modification or reclamation activities associated with oil and gas operations.
+6.
+Any alteration, extension or expansion of an
+OGL
+or
+OGF
+, unless the proposed change is exempt elsewhere under this code.
+B.
+Applicability to existing oil and gas operations.  OGLs and OGFs that were legally established prior to the effective date of this chapter will be allowed to continue but subject to public health, safety, welfare and environmental requirements as specified in this section, including, but not limited to, the following:
+1.
+Final reclamation review procedures described in subparagraph 90-4.II.E.1.
+2.
+Inspection procedures described in paragraph 90-4.II.E.
+3.
+Annual reporting requirements in section 90-16.
+4.
+Event based reporting in section 90-17.
+5.
+Transfers of permits as described in subparagraph 90-4.II.E.2 that occur on or after the effective date in subsection 90-1.III.
+6.
+Violations and enforcement in section 90-18.
+C.
+Discontinuation of nonconforming uses. An OGF or OGL that meets any of the following criteria shall be considered a discontinued
+nonconforming use
+and any further use of the OGF or OGL shall conform to this chapter:
+1.
+Wells that have been plugged or abandoned;
+2.
+Wells that have been temporarily abandoned for a period of three (3) consecutive years;
+3.
+Wells that have been inactive for a period of three (3) consecutive years, as determined by a review of county records and
+ECMC
+records;
+4.
+An OGF or OGL that has not been in active use for a period of three (3) consecutive years; or
+5.
+An OGF or OGL that has been orphaned to the state.
+D.
+Conflicts with other
+land use code
+provisions.  If any provisions of this chapter 90 conflict with any other provision in the La Plata County Land Use Code, the provisions of this chapter 90 shall control with respect to oil and gas operations, OGFs, and OGLs.
+E.
+Exemptions. This chapter shall not apply to any of the following:
+1.
+Indian trust lands, which shall include lands in which surface estates, mineral estates, or both are held in trust for the Southern Ute Indian Tribe or in restricted or trust status for individual Native Americans. This chapter shall also not apply to the Southern Ute Indian Tribe within the exterior boundaries of the Southern Ute Indian Reservation. This chapter shall apply to non-Indians conducting oil and gas operations on lands within the exterior boundaries of the Southern Ute Indian Reservation where both the surface and oil and gas estates are owned in fee by persons or entities other than the Southern Ute Indian Tribe, regardless of whether such lands are communitized or pooled.
+2.
+Normal repairs, routine maintenance, installation of emission control equipment, and upgrades or modifications required by federal, tribal, state or county regulations, including implementation of
+best management practices
+, provided the improvements do not expand the OGF or OGL beyond their original design as determined by the director, and provided further that the upgrade does not alter the OGF or OGL in a manner that violates a standard of this code, a condition of an existing permit, or creates new
+adverse impacts
+.
+3.
+Any change, alteration, extension or expansion of an OGL or OGF that is exempt under paragraphs 79-3.I.A or B (changes to nonconformities) or subsection 90-2.II, following a determination by the director that the proposal is not a
+substantial change
+that requires a new
+land use permit
+.
+4.
+Regulation of methane emissions.  The regulation of methane emissions is subject to the jurisdiction and control of the
+AQCC
+or, if the source of such emissions is within the exterior boundaries of the Southern Ute Indian Reservation, the
+SUIT/CEC
+.
+5.
+Federally regulated pipelines.  Pipelines that are exclusively regulated or subject to exclusive regulation by the federal government, including without limitation by
+PHMSA
+pursuant to 49 C.F.R. § 195 Subpart A, or the PUC pursuant to its certification
+agreement
+with PHMSA.
+6.
+Federal lands managed by the
+BLM
+or
+USFS
+.
+III.
+Minimum requirements.
+The requirements of this chapter and applicable code sections shall be regarded as the minimum requirements necessary to protect public health, safety, welfare, the environment or wildlife resources from oil and gas operations. Proposed development shall be reviewed on a site-specific basis to determine whether additional requirements, mitigation or other conditions are appropriate. This chapter and the code shall therefore be regarded as remedial and shall be liberally construed to further their underlying purposes.
+IV.
+Compliance with other authorities and county master plan.
+The regulations identified in this chapter are intended to supplement and are in addition to all applicable federal, state and municipal rules and regulations including, but not limited to, those promulgated by E
+CM
+C
+, AQCC, SUIT/CEC,
+CPW
+,
+CDPHE
+,
+BLM
+and USFS
+as well as the county’s master plan, the international building code, as amended and adopted by the county, and those other portions of the code described herein and as noted in those chapters.  Each applicant and operator shall comply with applicable federal, tribal and state rules, regulations and standards pertaining to public health, safety, general welfare, the environment and wildlife resources. The more protective of the regulations contained in this chapter or applicable federal, tribal or state rules and regulations and standards shall apply, and county staff is authorized to evaluate compliance with any such applicable standards in the course of reviewing applications for development under this code.
+V.
+Interaction with Southern Ute Indian Tribe.
+The county and the Southern Ute Indian Tribe are parties to a memorandum of understanding concerning OGFs built or operated on non-Indian fee land within the boundaries of the Southern Ute Indian Reservation by the
+SUIT
+doing business as Red Willow Production Company and Red Cedar Gathering Company, a joint venture in which the SUIT is the majority owner.  This MOU provides for a consultation process for the development and operation of the SUIT’s OGFs on non-Indian fee land within the Reservation and reasonable mitigation of those facilities’ impacts in a manner sensitive to the regulations set forth in this code.
+VI.
+Best management practices.
+This chapter contains regulations, which are
+BMPs
+that, in conjunction with the ECMC rules, protect and minimize adverse impacts to public health, safety, welfare, the environment and wildlife resources. The operator must comply with the regulations set forth in this chapter at all times, subject to enforcement pursuant to chapters 80 and 90 of this code.
+(
+Res. No.
+2023-11
+, §  04/26/2023
+)
+Effective on: 8/1/2023

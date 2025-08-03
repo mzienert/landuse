@@ -1,0 +1,15 @@
+Chapter 18 BUILDINGS AND BUILDING REGULATIONS
+Article III. Building Codes and standards: Amendments, additions and deletions to the international codes
+Sec. 18-38 Amendments and Deletions to the 2015 International Building Code
+As provided above in Section
+18-35
+, Chapter 1 of the 2015 International Building Code is deleted in its entirety and replaced by Section
+18-35
+of this Code. Otherwise, the 2015 International Building Code is adopted excepted as specified in this section.
+Section 1608 Snow Loads
+Sections 1608.1 General, and 1608.2, Ground snow loads, are deleted in their entirety and replaced with the following:
+1608.1 General. Roof systems and assemblies shall be designed using the snow load information contained in Table R301.2.3
+of this Code.
+1608.2 Snow loads.  The loading represented in Table R301.2.3
+of this Code provides live load pounds per square foot load for areas and elevations in La Plata County.  The K3/K4 line shall be the 8000 foot elevation line, using the County GIS mapping of snow load.  Properties having more than one snow load shall use the highest load in the calculations.  Buildings in regions with live loads of 80 pounds per square foot or more may, at the discretion of the building official, be required to have the structure designed by a design professional.
+Effective on: 12/11/2017

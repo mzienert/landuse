@@ -1,0 +1,661 @@
+Chapter 20 procurement code
+ARTICLE III – THE PUBLIC PROCUREMENT PROCESS; ACQUISITION AND DISPOSAL OF GOODS AND SERVICES
+This article III sets forth how
+vendors
+are to be identified and solicited and how personal property will be disposed of by the county.  Generally, all county purchases and
+contracts
+shall be procured competitively, unless otherwise set forth in this
+code
+.
+Both applicable law and the
+BOCC
+recognize, however, that it is not always in the
+county’s best interest
+to expend the time and resources required to make a
+standard purchase
+. As a result, certain exceptions based upon the nature and amount of the purchase are recognized. Whenever an exception is used to identify and select a
+vendor
+, the appropriate contract file should reflect the exception utilized and how it applied to the specific circumstance.
+Regardless of the way the vendor is selected and regardless of the amount of the purchase, a contract with that vendor is required (see article VI).
+Contents:
+ARTICLE III THE PUBLIC PROCUREMENT PROCESS; ACQUISITION AND DISPOSAL OF GOODS AND SERVICES
+Sec. 20-31 Exemptions to competitive solicitation requirements based on type of good or service
+Sec. 20-32 Exceptions to competitive solicitation requirements based on source of good or service or emergency
+Sec. 20-33 Small purchases
+Sec. 20-34 Simplified purchases
+Sec. 20-35 Standard purchases
+Sec. 20-36 Bid preferences
+Sec. 20-37 Prequalification of vendors
+Sec. 20-38 Disposal of county property
+Secs.  20-39—20-40. Reserved
+Sec. 20-31 Exemptions to competitive solicitation requirements based on type of good or service
+By their very nature, as well as by statute, some purchases of
+goods
+and
+services
+do not require public competition and publication requirements of public procurement in order to select an appropriate provider. In such instances, the public competition principles of openness, fairness and reasonableness of cost are achieved through other objectively reasonable methods.
+I.
+General requirements.
+Unless otherwise noted, the purchase or acquisition of the items and services listed in this section are not exempt from the requirement that the terms of the purchase must be documented in an appropriate contract and executed by the BOCC or appropriate authorized delegate, as set forth in Fiscal Management Policy II4, as amended. Further, review of any proposed contract for goods or services identified in this section must be reviewed by the county attorney’s office prior to execution, in accordance with the general parameters set forth in section 20-26, when:
+A.
+Any provisions in a standard contract form prepared by the County Attorney’s Office is proposed to be substantively amended, modified or deleted.
+B.
+Any irregular or non-standard purchases are proposed.
+C.
+Any contract in excess of twenty-five thousand dollars ($25,000.00) is prepared by a vendor.
+D.
+Any contract is in excess of two hundred fifty thousand dollars ($250,000.00), regardless of the form of contract.
+II.
+No competition required
+. In addition to the exceptions listed in section 20-2, expenditures to acquire or to pay for the following goods or services may be made without competition or comparison among vendors:
+A.
+Advertising
+space to publish or promote county business and events in geographically appropriate or legal newspapers, publications, television or radio spots, social media or other media outlet.
+B.
+Auto mileage and personal reimbursements
+, which will be reimbursed to county employees in the manner determined by the county’s policies and procedures or other applicable guidelines.
+C.
+Cooperative purchases
+, defined as purchases made from another
+contract
+or
+agreement
+written by another federal, state, county, city, government agency, or government cooperative for identical goods or services, do not require additional competition when the agreement has been formally competed or renewed by the acquiring government within the last eighteen (18) months. The finance director may approve a single purchase from a cooperative purchasing agreement or may approve ongoing participation in a cooperative purchasing agreement if it is found to be in the best interests of the county after considering the competitiveness of pricing under the contract and the efficiencies and cost savings of using the contract.
+D.
+Department of Human Services (“DHS”)
+contracts for client services that are paid directly to or on behalf of DHS clients for such items as: transportation, medications, medical examinations, psychological examinations, physical abuse examinations, birth certificates, drug testing, DNA testing, or other expenditures related to case services.
+E.
+Education and training expenses
+for training of county employees may be paid to organizations with public funds without requiring competition among providers.
+F.
+Goods or services (other than
+professional services
+) of a similar nature
+to those that have been
+bid
+by the county within the last twelve (12) months calculated from the later of the date the solicitation was let out or date the contract or the
+purchase order
+was executed.
+G.
+Goods or services from a specified vendor
+when necessary to comply with the terms and conditions of a sponsored grant or contract, or as part of required participation in a state program or pilot project.
+H.
+Insurance
+, including but not limited to all types of the risk management policies or self-insured pools for the county.
+I.
+Membership dues, meeting registration fees, and miscellaneous travel expenses and meals
+incurred to pay for or attend authorized functions will be paid on behalf of or reimbursed to county employees in the manner determined by the county’s personnel policies and procedures or other applicable guidelines.
+J.
+Non-capital computer equipment
+purchases made by the director of information technology (IT), which are valued at fifteen thousand dollars ($15,000.00) or less; provided, however, that, IT must coordinate purchases with the procurement division and, when practical, three (3) quotes should be solicited or cooperative purchases should be pursued.
+K.
+Personnel
+, including benefits as approved by the
+BOCC
+as compensation (contact human resources department).
+L.
+Pre-owned equipment or vehicles
+provided that the
+contract manager
+has determined that competition is not practical or would not be advantageous to the county.
+M.
+Professional services
+for contracts that meet one of the following criteria:
+1.
+Contracts procuring the services of the county manager or county attorney.
+2.
+Contracts procuring new services from the existing contractor, which services are a continuation of work previously contracted for under competitive procurement practices in the last five (5) years, when the success of the project or
+best interests of the county
+is predicated upon the previous contractor using data or other materials it developed during the earlier phase of the project.
+3.
+Contracts for services of a similar nature to those that have been bid by the county within the last three (3) years calculated from the later of the original date an
+award
+recommendation was made or the date a contract was executed.
+N.
+Purchases directly from government units
+, including federal, state, county, or other local governmental entities may be made without additional competition.
+O.
+Rent payments
+made pursuant to a properly negotiated and authorized lease agreement for equipment, buildings, vehicles, or other items.
+P.
+Renewal of software license and/or maintenance agreements
+when such services are only provided by the current
+vendor
+.
+Q.
+Software
+purchases made by the director of information technology (IT), which are valued at twenty-five thousand dollars ($25,000.00) or less; provided, however, that, IT must coordinate purchases with the procurement division and, when practical, three (3) quotes should be solicited or cooperative purchases should be pursued. This includes, but is not limited to, software license renewals and maintenance agreements or upgrades to existing software.
+R.
+Telephone service
+, including both land lines and cell phones.
+S.
+Utility services
+, including by way of example, electrical, water, natural gas, sewer, cable, internet, trash, recycling, or similar services.
+T.
+Weed and rodent
+control cost-share agreements.
+(
+Res. No. 2020-42, § 20-31, 12/17/2020
+)
+Effective on: 1/1/2021
+Sec. 20-32 Exceptions to competitive solicitation requirements based on source of good or service or emergency
+I.
+Sole source purchase
+. A
+sole source purchase
+is any purchase of a
+good
+or
+service
+with a
+contract
+requirement of more than ten thousand dollars ($10,000.00) that does not meet the competitive solicitation standards of either a
+simplified purchase
+or a
+standard purchase
+. The term also includes any
+contract amendment
+or extension outside the terms of the original
+solicitation
+and contract.
+A.
+General rule and application
+. A sole source purchase is permissible when: (1) the
+contract manager
+determines that there is only one source for the required goods or services; or (2) when the contract manager determines, after investigating the prevailing market for the relevant goods or services, that re-bidding a contract would result in higher costs and lower returns to the county than those enjoyed under an existing contract. In either case, the finance director must approve the
+sole source justification
+.
+1.
+Application of rule
+. Sole source refers to the supplier, not the product or service. Justification for a sole source purchase depends upon a needed item or service being available from only a single supplier under the prevailing conditions.
+a.
+Examples of circumstances that could necessitate a sole source procurement include:
+i.
+The purchase of technical equipment for which there is no competitive product, and which is available only from one supplier;
+ii.
+The purchase of
+professional services
+from a vendor, who is uniquely qualified to provide such services;
+iii.
+The purchase of a component or replacement part for which there is no commercially available product, and which can be obtained only from the manufacturer;
+iv.
+The purchase of an item where compatibility is the overriding consideration;
+v.
+The purchase of a used item which becomes immediately available and is subject to prior sale;
+vi.
+The purchase of a product for a trial or testing;
+vii.
+The use of other than original equipment manufacturer parts would void a still valid warranty; or
+viii.
+The purchase of a product or service from a vendor that has been awarded a contract by another governmental entity and that allows its product or service to be purchased by other governmental agencies from that contract.
+b.
+Examples of circumstances that do not necessitate or warrant use of a sole source procurement include:
+i.
+Whenever the item or service may be obtained from more than one source;
+ii.
+The vendor has provided excellent service or products in the past;
+iii.
+The vendor is familiar with the county’s preferred practices;
+iv.
+No other vendor can do the job as well; or
+v.
+There is insufficient time to vet the credentials of any other vendor, unless an emergency exists.
+B.
+Budget
+. Only those purchases that are authorized in an approved
+budget
+will be procured.
+C.
+Authorization
+. Department heads and
+elected officials
+are authorized to initiate sole source purchases when the amount to be spent is within an approved budget, a written sole source justification is prepared, and the sole source justification is approved by the finance director.
+D.
+Scope of work or specifications
+. A written
+scope of work
+or specifications is required to complete the mandatory sole source justification form.
+E.
+Solicitation standard – sole source justification
+. The standard by which the fairness and cost efficiency of a sole source purchase is determined shall be set forth in a written sole source justification form, signed by the department head or elected official, that includes:
+1.
+A description of the scope of work or specifications sought;
+2.
+An explanation of why no other supplier will be suitable or acceptable to meet the need;
+3.
+An explanation of how cost reasonableness was determined; and
+4.
+The finance director’s signature.
+F.
+Documentation and contract
+. The contract manager is responsible for maintaining documentation of any sole source purchase.
+G.
+Contract
+award
+. The appropriate approved contract form, determined by the contract type and amount, shall be used to document all sole source purchases. The contract manager and requesting department or elected official will negotiate a final contract document, obtain all requisite attachments and
+vendor
+signatures, and present the proposed contract to the
+BOCC
+or authorized delegate for approval.
+1.
+All contract forms will be written or approved by the county attorney’s office.
+2.
+Unless otherwise approved by the finance director, no contract will be submitted for approval by the BOCC or its delegate until it is ready for signature.
+3.
+Any work performed in accordance with the contract prior to approval is undertaken at the vendor’s sole risk and will not be paid for if the contract is not approved.
+H.
+Payment processing
+. Payment of invoices submitted for sole source purchases are processed in the same manner as payments for standard purchases when the sole source contract is more than fifty thousand dollars ($50,000.00), and as payments for simplified purchases when the sole source contract is fifty thousand dollars ($50,000.00) or less. Instead of a
+documented quote
+, however, and for both standard and simplified purchases, the sole source justification must be attached to the
+purchase requisition
+.
+II.
+Emergency purchases
+. An
+emergency purchase
+is a purchase made in response to a condition that creates a threat to public health, welfare, or safety such as may arise by: reason of fire, flood, avalanche, epidemic, pandemic, riot, equipment failure, motor vehicle, airplane or rail accidents, hazardous spills or other occurrence or imminent threat of widespread or severe damage, injury or loss of life or property resulting from any nature or human cause that creates an immediate and serious need for
+supplies
+or services.
+A.
+General rules
+. Emergency procurement shall be made with such competition as is practicable under the circumstances. Persons authorized to make emergency purchases shall request assistance of the procurement division, as much as practicable, especially in prolonged emergency situations. The basis for the emergency and for the selection of the particular contractor shall be maintained as a public record with payment records. The county's standard form agreements shall be used whenever possible.
+B.
+Limitations on purchase
+. An emergency purchase shall be limited only to a quantity of those
+supplies
+, equipment, materials, or services necessary to meet the emergency.
+C.
+Review of emergency.
+If the follow-up review of an emergency purchase indicates that the purchase was not necessary to respond to an emergency, the purchase will be referred to the county manager for appropriate resolution.
+D.
+Emergencies without an emergency operations center (“EOC”)
+. When an emergency arises or occurs for which no EOC is established, such as is the case of equipment failure in a county facility, and the functions and operations of a county department or elected official’s office would be seriously hampered or delayed through use of the otherwise applicable procurement process, emergency purchases may be made by the same individuals as otherwise set forth in this code so long as funds budgeted in the then-current year in the county’s general fund are available to the person making the purchase. Further, the county manager may authorize and execute emergency purchases of up to fifty thousand dollars ($50,000.00) for any single emergency event without additional approval from the BOCC so long as sufficient budgeted and appropriated funds are available in the county’s contingency fund.
+E.
+Emergencies with an established EOC
+. When an emergency arises or occurs for which an EOC is established, including but not limited to those emergencies as determined or proclaimed by the President of the United States, Governor of Colorado, BOCC, La Plata County Sheriff, or county manager, the following individuals have authority to make emergency purchases under this code:
+1.
+La Plata County Sheriff or Undersheriff
+.
+Contracts
+and a
+greements
+totaling fifty thousand dollars or less ($50,000.00) for any single emergency event, the purpose of which is to provide emergency response to both natural and manmade emergencies may be authorized and executed by the La Plata County Sheriff or Undersheriff without other approval so long as sufficient budgeted and appropriated funds are available in the Sheriff’s budget.
+2.
+Director of the office of emergency management, department heads and other elected officials
+. The director of the office of emergency management, department heads and other
+elected officials
+, or their designees, may request approval to make emergency purchases of goods or services, with budgeted and appropriated funds available to such department head or elected official in the county’s general fund, when a threat to public health, welfare, or safety exists and the need cannot be met through normal
+procurement
+methods Requests shall be made to, and written approval obtained from, the county EOC’s logistics section and finance section chiefs prior to making any emergency purchase. Further, the county manager may authorize and execute emergency purchases of up to fifty thousand dollars ($50,000.00) for any single emergency event without additional approval from the BOCC so long as sufficient budgeted and appropriated funds are available in the county’s contingency fund.
+The individual authorizing the emergency purchase shall inform the county manager and the finance director of the emergency purchase no later than the first working day following the purchase.
+(
+Res. No. 2020-42, § 20-32, 12/17/2020
+)
+Effective on: 1/1/2021
+Sec. 20-33 Small purchases
+A
+small purchase
+is any purchase with a
+contract
+requirement of ten thousand dollars ($10,000.00) or less, including software and non-capital computer equipment. The amount of a purchase cannot be divided to qualify as a small purchase.
+I.
+General rule
+. Small purchases may be made on the open market without public notice or competitive quotes when the price paid is objectively consistent with the price that would be paid by a member of the general public. All small purchases must meet the following criteria:
+A.
+Budget
+. Only those purchases that are authorized in an approved
+budget
+will be procured.
+B.
+Authorization
+. Subject to any approvals required by section 20-27, department heads and
+elected officials
+are authorized to make small purchases when the amount to be spent is within an approved budget.
+C.
+Scope of work or specifications
+. No written
+scope of work
+is required.
+D.
+Solicitation standard
+. Each department head or elected official is responsible for defining the standard by which the department or elected official will demonstrate that the method by which the
+vendor
+selected for a small purchase follows the principles of objective fairness, cost reasonableness and best use of public funds.
+1.
+Appropriate s
+olicitation
+standards could include evidence that price comparisons were conducted or evidence of what a member of the general public would pay when purchasing a like good or service, such as an internet price sheet, a catalog price list, or newspaper advertisement.
+2.
+Each department head or elected official is responsible for ensuring that all purchases are properly documented and signed. Examples of acceptable contract forms for small purchases include: a contractor invoice,
+purchase order,
+proof of purchase, P-Card statement, inventory list, or vendor contract form.
+E.
+Payment processing
+. No
+purchase requisition
+or
+purchase order number
+is required for payment of small purchase contracts of ten thousand dollars ($10,000.00) or less. Invoices for payment should be submitted to accounts payable in the finance department.
+1.
+The procurement division is not involved in processing payments of small purchases; it may, however, monitor such payments and will notify the department or elected official if a payment history suggests that the small purchase criteria no longer apply.
+F.
+Decentralized documentation and contract management
+. The department or elected official is responsible for retaining documentation enough to establish that the price paid was fair and reasonable.
+II.
+Procurement assistance
+. Any department, elected official, or county employee who desires assistance for any county purchase, regardless of type or cost, is encouraged to contact the procurement division.
+(
+Res. No. 2020-42, § 20-33, 12/17/2020
+)
+Effective on: 1/1/2021
+Sec. 20-34 Simplified purchases
+A
+simplified purchase
+is any purchase with a
+contract
+requirement of between ten thousand one dollars ($10,001.00) and fifty thousand dollars ($50,000.00). The amount of a purchase cannot be divided to avoid being classified as a simplified purchase or a
+standard purchase
+.
+I.
+General rule
+. Unless otherwise exempt from competitive
+solicitation
+pursuant to section 20-36, all simplified purchases must be
+procured
+either: (1) competitively through the
+documented quote
+process, or (2) by choosing a
+qualified vendor
+from the county’s current
+on-call list
+, as applicable. All simplified purchases must meet the following criteria:
+A.
+Budget.
+Only those purchases that are authorized in an approved
+budget
+will be procured.
+B.
+Authorization
+. Department heads and elected officials are authorized to request simplified purchases when the amount to be spent is within an approved budget, the provisions of this section are followed and any approvals required by section 20-27 have been obtained.
+C.
+Initiation of simplified purchase - scope of work or specifications.
+A simplified purchase is initiated when a department or
+elected official
+prepares written
+specifications
+or a written
+scope of work
+or
+service
+(defined in article IV).
+D.
+Solicitation standard
+. All simplified purchases are made directly by the procurement division either by: (1) notifying at least three (3) qualified vendors of the work or service specifications and essential contract terms; reviewing the responses received within the time specified; and selecting the
+vendor
+who best meets the selection criteria, or (2) selecting a qualified vendor from the county’s current on-call list who best meets the selection criteria.
+E.
+Documented quote
+. When the documented quote process is used, vendors may be notified of the specifications and terms and conditions by letter, email, telephone or in person; however, the method of contact must be documented, and steps must be taken to ensure that each vendor received the same information so that all responses are based upon equivalent information.
+A documented quote is a written description of the actions undertaken to meet the
+solicitation
+standard and will be completed by procurement for each simplified purchase in which the process is used. Invoices will not be approved for payment in the absence of a documented quote or justification for use of the on-call list that includes the following:
+1.
+A copy of the scope of work;
+2.
+The names and addresses of each vendor to whom information was provided when the documented quote process is used;
+3.
+A copy (or summary if communicated verbally) of each
+vendor
+response received when the documented quote process is used; and
+4.
+The reason(s) the successful bidder was selected.
+F.
+Contract award
+. The procurement division shall negotiate the final contract with the selected vendor in consultation with the county attorney’s office, as required under section 20-26, and shall obtain all required attachments. Contracts may be executed by the individual(s) delegated signature authority in accordance with the county’s Fiscal Management Policy No. III.4, as amended.
+G.
+Commencement of work
+. No work shall be performed until the contract, and all appropriate attachments, are signed by all parties.
+H.
+Payment processing
+. Upon receipt of a completed
+purchase requisition
+, the procurement division will assign a
+purchase order number
+to encumber the contract funds from the appropriate budget line item. Invoices thereafter received will be paid when submitted to the finance department in accordance with the county’s adopted fiscal management policies and procedures.
+No invoice can be paid without a purchase order number; no purchase order number can be assigned without a completed purchase requisition.
+I.
+Centralized documentation and contract
+. The contract manager is responsible for maintaining a complete contract file and all required documentation on all simplified purchases.
+(
+Res. No. 2020-42, § 20-34, 12/17/2020
+)
+Effective on: 1/1/2021
+Sec. 20-35 Standard purchases
+A
+standard purchase
+is any purchase with a
+contract
+requirement of more than fifty thousand dollars ($50,000.00). The amount of a purchase cannot be divided to avoid being classified as a standard purchase.
+I.
+General rule.
+All standard purchases must be procured competitively through the appropriate
+solicitation
+process, unless otherwise exempt from competitive solicitation pursuant to section 20-36. Standard purchases require:
+A.
+Budget.
+Only those purchases that are authorized in an approved
+budget
+will be procured. If the expenditure is not reflected in the current budget, procurement planning should incorporate the additional time required to obtain a budget supplement.
+B.
+Authorization.
+Department heads and
+elected officials
+are authorized to initiate standard purchases when the amount to be spent is within an approved budget and any approvals required by section 20-27 have been obtained.
+C.
+Initiation of a standard purchase - specifications or scope of work.
+A standard purchase is initiated when a department or elected official prepares written specifications or a written
+scope of work
+and attaches it to a
+purchase requisition
+, along with all the other information required to complete a purchase requisition.
+D.
+Solicitation standard.
+Based upon the information contained in the purchase requisition, and in collaboration with the department or elected official, the contract manager will identify the appropriate competitive solicitation method and contract terms and will plan, schedule, and execute the solicitation.
+E.
+Contract award.
+Once a
+qualified vendor
+has been selected, the contract manager and requesting department or elected official will negotiate a final contract document in consultation with the county attorney’s office, as required under section 20-26. All requisite attachments and
+vendor
+signatures will be obtained and the proposed contract will be presented to the
+BOCC
+or authorized delegate for approval and execution in accordance with the county’s Fiscal Management Policy No. III.4, as amended.
+F.
+Payment processing.
+Upon approval of a standard purchase contract, the contract manager will attach the contract documents to the existing purchase requisition and assign a
+purchase order number
+to encumber the contract funds from the appropriate budget line item. Invoices thereafter received by the department or elected official will be submitted to the finance department in accordance with the county’s adopted fiscal management policies and procedures.
+G.
+Centralized documentation and
+contract management
+.
+The contract manager is responsible for maintaining a complete contract file and all required documentation on all standard purchases.
+(
+Res. No. 2020-42, § 20-35, 12/17/2020
+)
+Effective on: 1/1/2021
+Sec. 20-36 Bid preferences
+I.
+BOCC intent.
+The
+BOCC
+intends to utilize the
+goods
+and
+services
+provided by
+local and regional businesses
+whenever possible, so long as selection does not result in a significant increase in cost to the county, and is not otherwise determined to be inapplicable in accordance with the provisions of this section.
+II.
+Preference authorized
+. Whenever a
+contract
+is
+awarded
+for goods or services procured under the
+simplified purchase
+or
+standard purchase
+procedures outlined in this article III, a local and regional business preference shall be allowed unless specifically waived by the finance director at the time an
+IFB
+,
+RFP
+or
+RFQ
+is let.
+III.
+Local and regional preference.
+The
+local business
+preference will be the lesser of: (1) five (5) percent or one hundred thousand dollars ($100,000.00) of the purchase price; or (2) five (5) percent of the final score for a
+bidder
+, based on the award/evaluation criteria used to select a
+qualified vendor
+. The regional business preference will be the lesser of: (1) two (2) percent or forty thousand dollars ($40,000.00) of the purchase price; or (2) two (2) percent of the final score for a vendor based on the award/evaluation criteria used to select a qualified
+vendor
+. Any bidder or offeror who seeks to claim a local or regional business designation must include a written request to the county for the same, with specific information evidencing the right to seek such designation, as part of its bid or
+proposal.
+IV.
+Green purchasing.
+Pursuant to the county’s Environmental Policy, Policy No. V.11, as amended, where desirable, the procurement division may establish a price-preference of five (5) percent for
+environmentally preferable products
+by including a preference statement and standard by which to achieve preference in a specific IFB, RFP or other solicitation.
+V.
+State mandated processes and preferences.
+Colorado law dictates solicitation and purchasing requirements and preferences in the following specific instances, which shall control over any contrary provisions of this
+code
+.
+A.
+Stationery and office supplies.
+In-state stationery supplies, as defined in C.R.S. § 30-11-110, shall be preferred over out-of-state purchases when the net cost does not exceed the cost of procurement and delivery from bidders outside the state.
+B.
+Work on county highways.
+Contracts for work on county highways for more than fifty thousand dollars ($50,000.00), as such amount may be modified pursuant to C.R.S. § 43-2-209, as amended, must be awarded to the lowest responsible bidder; provided, that the county reserves the right to reject any bids proffered.
+C.
+Public improvements.
+Contract for public projects, as defined by C.R.S. § 30-20-1103, will comply with the requirements of Part 11 of Article 20 of Title 30. No cost-plus a percentage of cost contracts will be permitted.
+D.
+Auditors.
+The auditor conducting the annual audit of the financial statements of the county for each fiscal year must be a certified public accountant licensed to practice in Colorado as an individual, partnership or professional corporation, pursuant to article 2 of title 12 of the Colorado Revised Statutes. All vendors submitting a bid or proposal for such services must provide evidence that employees meeting the definition of an auditor in C.R.S. § 29-1-602 will conduct such audits during the applicable term of a proposed contract.
+VI.
+No preference given in certain circumstances.
+No preference shall be given under this section if the finance director determines, in the finance director’s sole discretion, that awarding a contract in compliance with the preference provisions of this rule: (1) may cause a denial of state or federal money that would otherwise be available; (2) may otherwise be inconsistent with any requirement(s) applicable law or the purposes of this code; (3) may cause delay(s) in a procurement action that would compromise the public health, safety, or welfare of the county’s residents; (4) is redundant, as it would be in the case of a
+sole source purchase
+or
+cooperative purchase
+; or (5) is in direct conflict with federal
+grant
+or
+procurement
+procedures.
+(
+Res. No. 2020-42, § 20-36, 12/17/2020
+)
+Effective on: 1/1/2021
+Sec. 20-37 Prequalification of vendors
+The county reserves the right to prequalify any bidder, vendor, supplier, contractor or proposer as in its sole discretion shall be deemed to be in the best interests of the county. Vendors may be prequalified on an annual basis or on a project by project basis. If prequalification is required for a project, such requirement shall be published in the invitation to bid.
+I.
+Continuing requirements; termination of prequalification
+.
+A.
+Continuing requirements
+. Prequalified bidders, vendors suppliers, contractors or proposers shall notify the county immediately of any significant change in their fiscal or workmanship qualifications, or of any action taken in any jurisdiction against the contractor or an affiliate of the contractor precluding its ability to bid on, perform work for, or otherwise in any manner participate in projects.
+B.
+Termination of prequalification
+. The county may revoke or summarily suspend prequalification pursuant to this section if the procurement division, finance director or county manager determines that a bidder, vendor, supplier, contractor, proposer or affiliate of the same:
+1.
+Is declared by the county to be in default on any contract.
+2.
+Has made false, deceptive or fraudulent statements on its application for prequalification, in any documents connected with a bid or proposal including its performance capability statement, in any other information submitted to the county, or in the course of any determination associated with prequalification.
+3.
+Has failed to report any significant decreases in capabilities or limitations on bidding or performing work since applying for prequalification.
+4.
+Commits any action or inaction which evidences a lack of integrity in contract-related matters.
+5.
+No longer meets the criteria stated in the RFQ or RFI for which is submitted an application for prequalification.
+(
+Res. No. 2020-43, § 20-37, 12/17/2020
+)
+Effective on: 1/1/2021
+Sec. 20-38 Disposal of county property
+This procedure shall be used for disposing of all county-owned personal property acquired with county funds pursuant to this code or prior procurement codes, including but not limited to goods.
+I.
+Authority
+. Department heads and elected officials have the authority to deem personal property to be surplus, except for: (1) computer and computer-related equipment, which can be declared as surplus only by the IT department; and (2) vehicles and other motorized equipment, which shall be declared surplus only by the general services department.
+Storage, recycling, disposition or disposal of surplus personal property with a replacement cost of less than five hundred dollars ($500.00) shall be at the discretion of the appropriate department head or elected official; provided that donation of items to county employees is strictly prohibited, except as set forth in subsections (III) and (IV) below. The procurement division shall have the authority to determine the disposition of all
+surplus property
+which has a replacement cost of five hundred dollars ($500.00) or more.
+II.
+Approved dispositions
+. When surplus property cannot be sold to a bona-fide third party for value, approved dispositions, in the order of priority, include:
+A.
+The exchange or trade-in of supplies as part or full payment for the
+procurement
+of new supplies.
+B.
+The transfer of property no longer needed by one county department or
+elected official
+to another department or elected official. Surplus county property shall first be offered to other county departments via email. The property will be distributed on a first come, first served basis.
+C.
+Transfer to another governmental agency.
+D.
+Transfer of property to a registered 501(c) non-profit entity serving local needs, including any recipients of DHS
+contract
+awards
+or other non-profit agencies.
+E.
+Sale of supplies that cannot be used by any department or elected official, by public auction or other public
+advertisement
+, as deemed appropriate by the finance director, in accordance with subsection (IV) below.
+F.
+Sale at salvage or scrap.
+G.
+Disposal of surplus personal property that is deemed unfit for disposition in any other manner.
+III.
+Prohibited dispositions
+. County employees and their
+immediate family
+members are prohibited from purchasing surplus property, unless such purchases are made at a public auction or other advertised sale. Notwithstanding the foregoing, obsolete computers and computer-related equipment that is deemed by the IT director, or the director’s designee, to net less than twenty-five dollars ($25.00) in any public sale may be offered to county employees, free of charge.
+IV.
+Manner of sale.
+A.
+Sales under $2,000. A total sale (representing a single transaction of one or more items) estimated to be under two thousand dollars ($2,000.00) should be made by informal procedures calculated to achieve the maximum financial benefit to La Plata County.
+B.
+Sales of $2,000 or more
+. A total sale (representing a single transaction of one or more items) of surplus property in estimated amounts of two thousand dollars ($2,000.00) or more shall be formally advertised,
+sealed
+bids
+shall be taken, and the bids received shall be submitted to the
+contract manager
+for award. Sale by public auction may be used in lieu of sealed bids.
+1.
+La Plata County employees may submit sealed bids and may bid on surplus property at public auction.
+2.
+If no monetary offers are received in the form of sealed bids or bids at public auction, the finance director may negotiate a sale. County employees may not procure any surplus county property through a negotiated sale of any type.
+V.
+Returns
+. Nothing contained in this
+code
+shall be construed to prohibit the return of unused
+goods
+, which are surplus to the requirements of the county. Unused goods, supplies or equipment may be returned to the original contractor with or without a restocking fee if this method of disposal will result in higher benefit to the county.
+VI.
+Refunds
+. Funds received from the sale of surplus property will be credited back to the same fund from which its original purchase originated.
+(
+Res. No. 2020-42, § 20-38, 12/17/2020
+)
+Effective on: 1/1/2021
+Secs. 20-39—20-40. Reserved
+Effective on: 1/1/2021

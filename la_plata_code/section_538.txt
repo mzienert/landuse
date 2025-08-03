@@ -1,0 +1,243 @@
+Chapter 34 FIRE PREVENTION AND PROTECTION
+FOOTNOTE(S):
+Editor's note—
+Ord. No. 2010-01, § 1(Exh. A), adopted March 16, 2010, repealed and reenacted chapter 34 in its entirety to read as herein set out, with the exception of provisions enacted by Ord. No. 1994-2A (former § 34-66), which has been redesignated as section 34-1 at the direction of the city in Supplement No. 13 of this
+Code
+. Formerly, chapter 34 pertained to similar subject matter,and derived from Ord. No. 1998-1, §§ 1—10, 12, adopted September 6, 1988
+Cross reference—
+Fire code adoption
+and revision commission, § 2-361 et seq.;
+buildings
+and building regulations, ch. 18;
+emergency
+services, ch.
+26
+State Law reference—
+Ordinance regarding false fire alarms, C.R.S. § 30-15-401.5; authority to adopt resolutions regarding extinguishing campfires, C.R.S. § 30-15-201 et seq.
+ARTICLE III. AMENDMENTS, ADDITIONS, AND DELETIONS TO THE INTERNATIONAL FIRE CODE, 2015 EDITION
+DIVISION 2. ADDITIONAL AMENDMENTS, ADDITIONS, AND DELETIONS TO THE INTERNATIONAL FIRE CODE, 2015 EDITION
+Sec. 34-37. Amendments to the International Fire Code, 2015 edition.
+The following provisions of the 2015 International
+Fire Code
+are hereby deleted, amended, or reenacted to read as follows:
+I.
+Section 202 General definitions.
+The following definitions are added to Section 202:
+Aerial fire apparatus access road.
+A fire apparatus access road capable of accommodating fire department aerial apparatus.
+Combustible material.
+Any material that, in the form in which it is used and under the conditions anticipated, will ignite, and burn or will add appreciable heat to a fire.
+Fire apparatus access road
+.  A road that provides fire apparatus access from a fire station to a facility, building, or portion thereof except driveways governed by section 74-8 of the La Plata County Code.  This is a general term inclusive of all other terms such as fire lane, public street, private street, parking lot lane and access roadway.
+Fire apparatus approach
+.  The access in the vicinity of the structure that allows for strategic placement of fire apparatus.
+Key box.
+A secure, tamperproof device with a lock openable only by a fire department master key and containing building entry keys and other keys that may be required for access in an emergency.
+II.
+Section 304.1.2 shall be amended to read as follows:
+304.1.2 Vegetation.
+Weeds, grass, vines, or other growth that is capable of being ignited and endangering property, shall be cut down and removed by the owner or occupant of the premises.  Vegetation clearance requirements in urban-wildland interface areas shall be in accordance with the
+“Home Ignition Zone”
+published by the Colorado State Forest Service.
+III.
+Section 319 shall be added to read as follows:
+Mobile Food Preparation Vehicles
+Section 319
+319.1 General.
+Mobile food preparation vehicles that are equipped with appliances that produce smoke or grease-laden vapors shall comply with this section.
+319.2  Permit required.
+Permits shall be required as set forth in section 105.6.
+319.3 Exhaust hood.
+Cooking equipment that produces grease-laden vapors shall be provided with a kitchen exhaust hood in accordance with section 609.
+319.4 Fire protection.
+Fire protection shall be provided in accordance with sections 319.4.1
+and 319.4.2.
+319.4.1 Fire protection for cooking equipment.
+Cooking equipment shall be protected by automatic fire extinguishing systems in accordance with section 904.12.
+319.4.2 Fire extinguisher.
+Portable fire extinguishers shall be provided in accordance with section 906.4.
+319.5 Appliance connection to fuel supply piping.
+Gas cooking appliances shall be secured in place and connected to fuel-supply piping with an appliance connector complying with ANSI Z21.69/CSA 6.16.  The connecting installation shall be configured in accordance with the manufacturer’s installation instructions. Movement of appliances shall be limited by restraining devices installed in accordance with the connector and appliance manufacturer’s instructions.
+319.6 Cooking oil storage containers.
+Cooking oil storage containers within mobile food preparation vehicles shall have a maximum aggregate volume not more than one hundred twenty (120) gallons (454 L) and shall be stored in such a way as to not be toppled or damaged during transport.
+319.7  Cooking oil storage tanks.
+Cooking oil storage tanks within mobile food preparation vehicles shall comply with sections 319.7.1 through 319.7.5.2.
+319.7.1 Metallic storage tanks.
+Metallic cooling oil storage tanks shall be listed
+in accordance with UL 80 or UL 142 and shall be installed in accordance with the tank manufacturer’s instructions.
+319.7.2 Nonmetallic storage tanks.
+Nonmetallic cooking oil storage tanks shall be installed in accordance with the tank manufacturer’s instructions and shall comply with both of the following:
+1. Tanks shall be listed for use with cooking oil, including maximum temperature to which the tank will be exposed during use.
+2. Tank capacity shall not exceed two hundred (200) gallons (757 L) per tank.
+319.7.3 Cooking oil storage system components.
+Metal and nonmetallic cooking oil storage system components shall include, but are not limited to, piping, connections, fittings, valves, tubing, hose, pumps, vents, and other related components used for the transfer of cooking oil.
+319.7.4 Design criteria.
+The design, fabrication and assembly of system components shall be suitable for the working pressures, temperatures, and structural stresses to be encountered by the components.
+319.7.5 Tank venting.
+Normal and emergency venting shall be provided for cooking oil storage tanks.
+319.7.5.1 Normal vents.
+Normal vents shall be located above the maximum normal liquid line and shall have a minimum effective area not smaller than the largest filling or withdrawal connection. Normal vents are not required to vent to the exterior.
+319.7.5.2 Emergency vents.
+Emergency relief vents shall be located above the maximum normal liquid line and shall be in the form of a device or devices that will relieve excessive internal pressure caused by an exposure fire. For nonmetallic tanks, the emergency relief vent shall be allowed to be in the form of construction.  Emergency vents are not required to discharge to the exterior.
+319.8 LP-gas systems.
+Where LP-gas systems provide fuel for cooking appliances, such systems shall comply with chapter 61 and sections 319.8.1 through 319.8.5.
+319.8.1 Maximum aggregate volume.
+The maximum aggregate capacity of LP-gas containers transported on the vehicle and used to fuel cooking appliances only shall not exceed two hundred (200) pounds (91 kg) propane capacity.
+319.8.2 Protection of container.
+LP-gas containers installed on the vehicle shall be securely mounted and restrained to prevent movement.
+319.8.3 LP-gas container construction.
+LP-gas containers shall be manufactured in compliance with the requirements of NFPA 58.
+319.8.4 Protection of system piping.
+LP-gas system piping, including valves and fittings, shall be adequately protected to prevent tampering, impact damage and damage from vibration.
+319.8.5 LP-gas alarms.
+A
+listed
+LP-gas alarm shall be installed within the vehicle in the vicinity of the LP-gas system components, in accordance with the manufacturer’s instructions.
+319.9 CNG systems.
+Where CNG systems provide fuel for cooking appliances, such systems shall comply with sections 319.9.1 through 319.9.4.
+319.9.1 CNG containers supplying only cooking fuel.
+CNG containers installed solely to provide fuel for cooking purposes shall be in accordance with sections 319.9.3 through 319.9.1.3.
+319.9.1.1 Maximum aggregate volume.
+The maximum aggregate capacity of CNG containers transported on the vehicle shall not exceed 1,300 pounds (590 kg) water capacity.
+319.9.1.2 Protection of container.
+CNG containers shall be securely mounted and restrained to prevent movement. Containers shall not be installed in locations subject to a direct vehicle impact.
+319.9.1.3 CNG container construction.
+CNG containers shall be a NFV-2 cylinder.
+319.9.2  CNG containers supplying transportation and cooking fuel.
+Where CNG containers and systems are used to supply fuel for cooking purposes in addition to being used for transportation fuel, the installation shall be in accordance with NFPA 52.
+319.9.3 Protection of system piping.
+CNG system piping, including valves and fittings, shall be adequately protected to prevent tampering, impact damage and damage from vibration.
+319.9.4 Methane alarms.
+A listed methane gas alarm shall be installed within the vehicle in accordance with manufacturer’s instructions.
+319.10 Maintenance.
+Maintenance of systems on mobile food preparation vehicles shall be in accordance with sections 319.10.1 through 319.10.3.
+319.10.1 Exhaust system.
+The exhaust system, including the hood, grease-removal devices, fans, ducts, and other appurtenances shall be inspected and cleaned in accordance with section 609.3.
+319.10.2 Fire protection systems and devices.
+Fire protection systems and devices shall be maintained in accordance with section 901.6.
+319.10.3 Fuel gas systems.
+LP-gas containers installed on the vehicle and fuel-gas piping systems shall be inspected annually by an approved inspection agency or a company registered with the U.S. Department of Transportation to requalify LP-gas cylinders, to ensure that system components are free from damage, suitable for the intended service and not subject to leaking. CNG containers shall be inspected every 3 years in a qualified service facility. CNG containers shall not be used past their expiration date as listed on the manufacturer’s container label.  Upon satisfactory inspection, the approved
+inspection agency shall affix a tag on the fuel gas system or within the vehicle indicating the name of the inspection agency and the date of satisfactory inspection.
+IV.
+Section 403.2 shall be amended to include the exception
+:
+403.2   Group A occupancies.
+Exception
+. A-2 occupant load is excepted from the standards in this section if it is both (a) less than one hundred (100) and (b) not multi-story. For purposes of determining whether a structure is multi-story, a rooftop occupancy is considered an additional story in this case.
+V.
+Section 403.12.1 shall be amended to read as follows:
+403.12.1 Fire watch personnel.
+Where in the opinion of the fire code official, it is essential for public safety in a place of assembly or any other place where people congregate, because of the number of persons, or the nature of the performance, exhibition, display, contest or activity, the owner, agent, or lessee shall provide one or more fire watch personnel, as required and approved. Fire watch personnel shall comply with section 403.12.1.1, 403.12.1.2 and the State of Colorado Fire Watch Guidelines.
+VI.
+Section 403.12.3.2 shall be amended to read as follows:
+403.12.3.2 Crowd manager training.
+Training for crowd managers shall be completed and attained through the National Association of State Fire Marshals Crowd Manager Program or equivalent as approved by the fire code official.
+VII.
+Section 503.1.2 shall be amended to read as follows:
+503.1.2  Additional access.
+Additional access may be required as determined by subsection 74-4.XIII of the land use code.
+VIII.
+Section 503.2 shall be deleted in entirety and replaced as follows:
+503.2 Specifications.
+Fire apparatus access road(s) shall be installed and arranged in accordance with chapter 74 of the land use code.
+IX.
+Section 507.1 shall be amended to add a new section 507.1.1 as follows:
+507.1.1 Alternative methods to water supply.
+In areas that do not meet fire flow requirements per Appendix B for the building or facility, the fire code official is permitted to approve alternative methods to meet the intent of the fire code.
+X.
+Section 510.1 Exception 2 shall be amended to read as follows:
+Exception 2
+. Where it is determined by the fire code official and the La Plata County Sherriff’s Office that the radio coverage system is not needed.
+XI.
+Section 605.11.1.2  Shall be deleted in its entirety.
+XII.
+Table 901.6.1
+Shall be amended by adding “Underground suppression supply line” to the table as follows:
+TABLE 901.6.1
+FIRE PROTECTION SYSTEM MAINTANANCE STANDARDS
+SYSTEM
+STANDARD
+Portable fire extinguishers
+NFPA 10
+Carbon dioxide fire-extinguishing systems
+NFPA 12
+Halon 1301 fire-extinguishing systems
+NFPA 12A
+Dry-chemical extinguishing systems
+NFPA 17
+Wet-chemical extinguishing systems
+NFPA 17A
+Underground suppression supply line
+NFPA 24
+Water-based fire protection systems
+NFPA 25
+Fire alarm systems
+NFPA 72
+Smoke and heat vents
+NFPA 204
+Water-mist systems
+NFPA 750
+Clean-agent extinguishing systems
+NFPA 2001
+Aerosol fire-extinguishing systems
+NFPA 2010
+XIII.
+Se
+ctions 901.11 – 901.13 shall be added as follows:
+901.11 Plan certification for fire alarm systems and occupant notification.
+All fire alarm and occupant notification system plans submitted to the fire department for review and approval shall bear a review certification of minimum level III NICET (National Institute for the Certification of Engineering Technologies) in fire alarms.
+901.12 Plan certification for fire sprinkler systems.
+All fire sprinkler plans submitted to the fire department for review and approval shall bear a review certification of minimum level III NICET (National Institute for the Certification of Engineering Technologies) in fire sprinklers.
+901.13 Plan certification for all other fire protection systems.
+Plan certification for all other fire protection systems will be accompanied by a certification of competence if determined necessary and requested by the fire code official or his designee.
+XIV.
+Section 903.1.2 is added to read as follows:
+903.1.2
+Automatic sprinkler systems installed within La Plata County, whether required by this code or otherwise constructed, shall be installed throughout a building for complete protection.
+XV.
+Section 903.2.8.1 shall be amended to read as follows:
+903.2.8.1 Group R-3.
+An automatic sprinkler system is required in areas identified in the La Plata County Building Code, development agreements and conditions of approval and shall be installed in accordance with section 903.3.
+Exceptions:
+1. In a mixed-use building with two (2) or fewer dwelling units and no assembly, education, factory, high hazard, institutional or storage occupancies.
+2. In single family residences unless required through development process or as modification to meet other codes.
+XVI.
+Section 1101.4.3 is amended to read as follows:
+1101.4.3 Extension of time.
+The fire code official is authorized to grant necessary extensions of time when it can be shown that the specified time periods are not physically practical or pose an undue hardship. The granting of an extension of time for compliance shall be in the sole discretion of the fire code official based on a showing of good cause and subject to the filing of an acceptable systematic plan of correction with the fire code official.
+XVII.
+Section 1103.2 Exception is amended to read as follows
+:
+Exception
+: Where it is determined by the fire code official and the La Plata County Sherriff that the system is not needed.
+XVIII.
+Section 3103.2 is amended to read as follows:
+3103.2 Temporary tents and membrane structures.
+A permit and approval from the fire code official is required to erect, operate, or maintain an air-supported temporary membrane structure, tent or multiple tents placed side-by-side having a floor area in excess of seven hundred (700) square feet.
+Exception:
+1. Tents used exclusively for recreational and non-recreational camping.
+2. Funeral tents and curtains, or extensions attached thereto, when used for funeral services.
+3. Tents and awnings open on all sides, which comply with all of the following:
+3.1 Fire breaks of a minimum of twelve (12) feet separating the individual tents to seven hundred (700) square feet or less.
+3.2 A minimum clearance of twelve (12) feet to structures and other tents.
+3.3 Individual tents shall have a maximum size of seven hundred (700) square feet.
+XIX.
+Chapter 80 is amended to include the following references:
+NFPA 96
+– Standard for ventilation control and fire protection of commercial cooking operations.
+XX.
+Appendix B, Section B101.2 is added to read as follows:
+B101.2 Applicability.
+Appendix B shall not apply to development in La Plata County not requiring a land use permit pursuant to the La Plata County Code unless meeting the full fire-flows requirements is otherwise required by Colorado law.
+XXI.
+Only the following sections in Appendix D are adopted. No other portions of Appendix D are adopted:
+D103.5 Fire apparatus access road gates.
+D103.6 Signs.
+D105 Aerial fire apparatus access roads
+.
+(
+Ord. No. 2010-01, § 1 (Exh A), 03/02/2010; Ord. No.
+2023-1
+, § 34, 07/10/2023
+)
+Effective on: 8/13/2023

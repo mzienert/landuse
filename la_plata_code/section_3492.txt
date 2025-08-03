@@ -1,0 +1,284 @@
+Chapter 90 OIL AND GAS DEVELOPMENT
+FOOTNOTE(S):
+Editor's note—
+Res. No. 2008-33, § 1(Exh. A), adopted November 17, 2008, amended chapter 90 in its entirety to read as herein set out. Formerly, chapter 90 pertained to similar subject matter, and derived from LPLUS, § 8.1.1—8.1.5.b, 8.1.6.a—f., 8.1.7—8.1.10, 8.1.12, 8.1.14.a—g., 8.2.1—8.2.6, 8.3; Res. No. 1998-34, § 1, adopted October 5, 1998; Res. No. 1999-9, § 2, adopted February 22, 1999; Res. No. 2001-33, adopted August 27, 2001; Res. No. 2004-20, § 1, 2, adopted June 28, 2004; Res. No. 2004-35, §§ 1—10, adopted December 20, 2004, and Res. No. 2008-30, §§ 1, 2, adopted November 12, 2008.
+Cross reference—
+Buildings
+and building regulations, chapter
+18
+; public places, ch
+apter
+38
+;
+development
+standards and specifications,
+chapter
+74
+;
+floods
+, ch
+apter
+78
+; land
+use
+regulations for public property,
+ch
+apter
+94
+;
+subdivisions
+,
+ch
+apter
+102; zoning,
+ch
+apter
+106.
+Sec. 90-3 Definitions; abbreviations and acronyms
+I. Definitions.
+The words and terms used in this chapter shall have the meanings set forth below. If a term is not listed below, then the definition listed in section 62-1 of the code or the rules of the
+ECMC
+shall govern. If there is a conflict between either the definitions in chapter 62 or the rules of the ECMC and the definitions in this chapter, then the definitions in this chapter shall prevail. If the term is not defined in this chapter and there is a conflict between the definition in chapter 62 and the rules of the ECMC, the rules of the ECMC shall prevail.  If a term is not defined in chapter 62, chapter 90, or the rules of the ECMC, the term shall have its common meaning except all technical industry words or phrases related to the drilling and production of oil and gas shall have the meanings generally accepted in the oil and gas industry as determined by the director.
+(
+Res. No.
+2023-11
+, §  04/26/2023
+)
+Accessory equipment
+. Any equipment that is integral to the production and operation of an oil or gas well, including but not limited to tanks, treaters, separators and production pits.
+Effective on: 1/1/1901
+Applicant
+.
+That person or other legal entity possessing the legal right to develop the mineral resource, or any other use proposed in connection thereof for the site in question in accordance with chapter 90.
+Effective on: 1/1/1901
+Berm
+. Either an earthen barrier of compacted soils or a steel secondary containment around storage tanks, preventing the passage of liquid materials or a man-made landform, typically built as an earth mound, located to screen a structure or setback from view or to provide sound relief from a nearby OGF or OGL.
+Effective on: 1/1/1901
+Best management practices
+(BMP)
+. Practices that are designed to prevent or reduce impacts caused by oil and gas operations to air, water, soil or biological resources, and to minimize adverse impacts to public health, safety and welfare, including the environment and wildlife resources. Practices designed to maximize production and efficiency or reduce the amount of product left in the ground, while encouraged, are not BMPs.
+Effective on: 1/1/1901
+Building unit
+. A residential building unit; and every five thousand (5,000) square feet of building floor area in commercial facilities or every fifteen thousand (15,000) square feet of building floor area in warehouses that are operating and normally occupied during working hours.
+Effective on: 1/1/1901
+Cash bond
+. United States currency provided to the county as financial assurance, including certificates of deposit and money market accounts providing financial assurance that an operator will comply with all its obligations under state law, ongoing applicable standards and conditions required by the county’s code, permits or approvals during the lifetime of the OGL, OGF or other oil and gas operations within the county. A cash bond is not intended as cash collateral as defined in 11 U.S.C. § 363(a).
+Effective on: 1/1/1901
+Centralized facility
+. A facility serving multiple well pads consisting of one (1) or more compressors, generators or water, gas or oil treatment equipment.
+Effective on: 1/1/1901
+Chemical
+. Any element, chemical compound, or mixture of elements or compounds that has its own specific name or identity such as a chemical abstract service number, whether or not such chemical is subject to the requirements of 29 C.F.R. § 1910.1200(g)(2) (2011).
+Effective on: 1/1/1901
+Childcare center
+. A childcare center as defined in C.R.S. § 26-6-102(5) that is in operation at the time of the pre-application notice pursuant to ECMC Rule 303.e. A childcare center includes any associated outdoor play area adjacent to or directly accessible from the center and is fenced or has natural barriers, such as hedges or stationary walls, at least four (4) feet high demarcating its boundary.
+Effective on: 1/1/1901
+Completion phase
+. The period of perforation, hydraulic fracturing treatment, clean up, coiling, workover, installation of tubing, and flowback of one (1) or more wells at the OGL.
+Effective on: 1/1/1901
+Compressor station
+. A facility that collects natural gas from exploration and production facilities via gathering lines and transports natural gas into systems for further processing.
+Effective on: 1/1/1901
+Construction phase
+. The conducting of any site preparation, assembly, erection, substantial repairs or alterations or similar action in connection with the construction and installation of an OGF, visual mitigation measures, access routes, and pipelines. The construction phase ends when the OGL or OGF is fully prepared for its intended purpose.
+Effective on: 1/1/1901
+Contamination
+. The detectable presence of a constituent, impurity or some other undesirable element that spoils, corrupts infects, makes unfit, or makes inferior a material, physical body, natural environment, or human occupied environment.
+Effective on: 1/1/1901
+Cumulative impacts
+. When used in the ECMC rules or this chapter, the impacts on public health, safety, and welfare, the environment, and wildlife resources which may result from the incremental impact of the proposed action when added to other past, present, and reasonably foreseeable future actions regardless of what person, including those authorized by other states, federal agency, or Indian tribe or tribally controlled affiliates undertakes such other actions within a broad geographic area of similar oil and gas activities. Cumulative impacts can result from individually minor but collectively significant actions taking place over a period of time.
+Effective on: 1/1/1901
+Designated outside activity area
+. An outdoor venue or recreation area, such as a playground, permanent sports field, amphitheater, or other similar place of public assembly. The decision-making body shall determine whether a particular area should be a designated outside activity area and, if so, the appropriate boundaries for the area based on the totality of circumstances and consistent with the purposes of this code.
+Effective on: 1/1/1901
+Director
+. The La Plata County Community Development Director, or any member of the director’s staff authorized to represent the director, often the local government designee as defined in the ECMC Rules.
+Effective on: 1/1/1901
+Distribution voltage
+. 12.47 kV three (3) phase power.
+Effective on: 1/1/1901
+Drilling phase
+. The period in which a drilling or spudder rig is utilized to penetrate the surface of the earth with a drill bit and the installation of well casing and cement at one (1) or more wells.
+Effective on: 1/1/1901
+ECMC director
+.  The director of the Energy and Carbon Management Commission of the State of Colorado or any member of the director’s staff authorized to represent the ECMC director.
+Effective on: 1/1/1901
+Effective date
+. The effective date of this chapter 90 shall be August 1, 2023.
+Effective on: 1/1/1901
+Exploration and production waste (E&P waste)
+. E&P wastes are wastes intrinsically derived from primary field operations and uniquely associated with exploration, development, or production of oil or natural gas (as distinct from transportation or refining operations). Examples of E&P waste include: flowback fluids, produced water, drilling fluids, oily waste, drill cuttings, and tank bottoms.
+Effective on: 1/1/1901
+Financial assurance
+. A cash bond, surety bond, letter of credit or escrow account required under section 90-14 and accepted by the county to ensure an operator is able to perform its obligations under this code.
+Effective on: 1/1/1901
+Flowline
+. A segment of pipe transferring oil, gas, or condensate between a wellhead and processing equipment to the load point or point of delivery to a U.S. Department of Transportation pipeline and Hazardous Materials Safety Administration or Colorado Public Utilities Commission regulated gathering line or a segment of pipe transferring produced water between a wellhead and the point of disposal, discharge or loading. The definition of flowline does not include a gathering line.
+Effective on: 1/1/1901
+Gas well
+. A well, the principal production of which at the mouth of the well is gas, as defined by the Oil and Gas Conservation Act of the State of Colorado.
+Effective on: 1/1/1901
+Gathering line
+. A gathering pipeline or system as defined in the ECMC Rules.
+Effective on: 1/1/1901
+High occupancy building unit
+:
+Any school, nursing facility as defined in C.R.S.§ 25.5-4-103(14), hospital, life care institution as defined in C.R.S. § 12-13-101, or correctional facility as defined in C.R.S. § 17-1-102(1.7), provided the facility or institution regularly serves 16 or more persons.
+An operating childcare center, childcare facility, day care facility, or day care home.
+A multifamily dwelling unit with four or more units.
+Effective on: 1/1/1901
+High priority habitat
+. Habitat areas identified by CPW where measures to avoid, minimize, and mitigate adverse impacts to wildlife have been identified to protect breeding, nesting, foraging, migrating, or other uses by wildlife. The extent of high priority habitat areas is subject to update on a periodic basis and modified through ECMC rulemaking.
+Effective on: 1/1/1901
+Hydraulic fracturing treatment
+. All stages of the treatment of a well by the application of hydraulic fracturing fluid under pressure that is expressly designed to initiate or propagate fractures in a target geologic formation to enhance the production of oil and gas.
+Effective on: 1/1/1901
+Informed consent
+. Written and signed consent by a person or other legal entity to a proposed course of action after they have received adequate information and explanation about the material risks of and reasonably available alternatives to the proposed course of action. For an operator to obtain informed consent, the operator must provide the explanation in writing in the preferred language of the recipient, such explanation and consent must be contained in a document expressly used only for that purpose (it may not be combined with other information) and an adequate opportunity to consult with an attorney, ECMC staff or county staff provided. The operator should refer to and follow the “Informed Consent Guidance” published by the ECMC, noting the additional detail required by this definition.
+Effective on: 1/1/1901
+Impractical
+. Not wise to put into or keep in practice or effect. The relationship of financial costs to financial return is not a consideration in determining whether something is impractical.
+Effective on: 1/1/1901
+Improvement
+. Any new construction activity or addition of equipment or materials to an OGL or OGF.
+Effective on: 1/1/1901
+Inactive well
+. An oil or gas well that has been shut-in and has not produced for a period of twelve (12) consecutive months; an oil and gas well that has been temporarily abandoned for a period of six (6) consecutive months; a Class II UIC well which has not been utilized for a period of twelve (12) consecutive months; or, a suspended operations well or a waiting on completion well with no activity other than monthly bradenhead monitoring for more than twenty-four (24) consecutive months.
+Effective on: 1/1/1901
+Injection well
+. Any hole drilled into the earth into which fluids are injected for purposes of secondary recovery, storage, or disposal.
+Effective on: 1/1/1901
+Letter of credit
+. An irrevocable letter guaranteeing the creditworthiness of an operator, with the guarantee made by a third-party entity and the county as a beneficiary, which provides financial assurance that an operator will comply with all its obligations under state law, ongoing applicable standards and conditions required by the county’s code, permits or approvals during the lifetime of the OGL, OGF or other oil and gas operations subject to the county’s jurisdiction.
+Effective on: 1/1/1901
+Minimize adverse impacts
+. Means, to the extent necessary and reasonable to protect public health, safety, and welfare, the environment, and wildlife resources, to:
+(a) Avoid adverse impacts from oil and gas operations; and
+(b) Minimize and mitigate the significance, duration, extent and severity of those impacts that cannot be avoided.
+Effective on: 1/1/1901
+Nonconforming use; Nonconformity
+. A use that was legally established but no longer complies with the regulations of chapter 90.
+Effective on: 1/1/1901
+Non-noxious plant cover
+. The vertical projection of non-noxious plant canopies, including herbaceous and shrub species, when viewed from above.
+Effective on: 1/1/1901
+Oil and gas
+. Means oil or natural gas or both oil and natural gas.
+Effective on: 1/1/1901
+Oil and gas equipment; equipment
+. Machinery or structures located on OGLs or rights-of-way including, but not limited to, wellheads, separators, dehydration units, heaters, meters, storage tanks, compressors, pumping units, internal combustion engines, and electric motors.
+Effective on: 1/1/1901
+Oil and gas facility (OGF)
+. Equipment or improvements used or installed at an oil and gas location for the exploration, production, withdrawal, treatment, storage, or processing of crude oil, condensate, gas, or wastes (including without limitation E&P waste).
+Effective on: 1/1/1901
+Oil and gas location (OGL)
+. A definable area where an operator has disturbed or intends to disturb the land surface to locate an oil and gas facility.
+Effective on: 1/1/1901
+Oil and gas operations
+. Exploring for oil and gas, including the drilling of test bores; siting, drilling, deepening, recompleting, reworking or abandoning a well; producing operations related to any well, including installing flowlines; the generating, transporting, storing, processing, treating or disposing of waste at an OGF or OGL (including without limitation exploration and production wastes); and any constructing, site preparing, or reclaiming activities associated with such operations.
+Effective on: 1/1/1901
+Operational phases
+. Those phases within the life cycle of an OGL or OGF, which best describe the type of activities happening at the OGL or OGF during the phase. It is possible for multiple phases of operation to occur at the same time with respect to a single OGL. Chronologically, those phases are permitting, construction, drilling, completion, production and reclamation.
+Effective on: 1/1/1901
+Operator
+. Any person who exercises the right to control the conduct of oil and gas operations.
+Effective on: 1/1/1901
+Owner
+. The person who has the right to drill into and produce from a pool and to appropriate the oil and gas produced therefrom either for such owner or others, including owners of a well capable of producing oil or gas, or both.
+Effective on: 1/1/1901
+Permitting phase
+. The time in which the project proposed by the operator is being evaluated by the county. The permitting phase ends with a final decision by the county and when all additional required federal, tribal, state, and local permits or approvals have been obtained.
+Effective on: 1/1/1901
+Pipeline
+. A segment of pipe, piping system, or other appurtenant facility that transfers crude oil, crude oil emulsion, condensate, gas, produced water, other petroleum derivatives, or other produced fluids and that is not exclusively regulated or subject to exclusive regulation by the federal government, including without limitation by the U.S. Department of Transportation Pipeline and Hazardous Materials Safety Administration (PHMSA) pursuant to 49 C.F.R. § 195 Subpart A. Flowlines are excluded from this definition.
+Effective on: 1/1/1901
+Pipeline route
+. The area, most commonly a permanent easement, within which a pipeline is located.
+Effective on: 1/1/1901
+Plugged and abandoned
+. The permanent plugging of a well, the removal of its associated production facilities, the abandonment of its flowline(s).
+Effective on: 1/1/1901
+Pollution
+. Anthropogenic contamination or other degradation of the physical, chemical, biological, or radiological integrity of air, water, soil, or biological resources that is not authorized or allowed by ECMC Rules or applicable regulations promulgated by another federal, tribal, state or local government agency.
+Effective on: 1/1/1901
+Produced water
+. Water brought to the surface during oil or gas well drilling, completion, and production operations, which may include formation water, injected water, and flowback water. The term "produced water" shall refer to all water that is in the water system, whether such water is in the form of saltwater or water that has completed the recycling and treatment processes. Produced water can also be called "brine," "saltwater," or "formation water."
+Effective on: 1/1/1901
+Production facility
+. Any storage, separation, treating, dehydration, artificial lift, power supply, compression, pumping, metering, monitoring, flowline and other equipment directly associated with a well.
+Effective on: 1/1/1901
+Production phase
+. The period in which one (1) or more wells can produce hydrocarbons that flow through permanent separator facilities and into tanks or, if applicable, into a gathering line.
+Effective on: 1/1/1901
+Protect or protective
+. When used in either the ECMC rules or this chapter, when public health, safety, and welfare, the environment or wildlife resources are being considered, any activity or inactivity to prevent harm to, or maintain, or restore the quality of public health, safety and welfare, the environment, and wildlife resources, taking into consideration cumulative impacts.
+Effective on: 1/1/1901
+Reclamation, Final; final reclamation
+. The process of returning and restoring the surface of disturbed land to its condition prior to commencement of oil and gas operations.
+Effective on: 1/1/1901
+Reclamation, Interim; interim reclamation
+. A BMP that implements temporary measures to return or restore the surface of disturbed land as nearly as practicable to its condition prior to the commencement of oil and gas operations. Interim reclamation is conducted during the construction, drilling and well production phases of development to ensure that surface disturbance is within the limits established in the permit.
+Effective on: 1/1/1901
+Reclamation phase
+. The period of returning or restoring the surface of disturbed land as nearly as practicable to its condition prior to the commencement of oil and gas operations. The reclamation phase may be interim reclamation, final reclamation, or both.
+Effective on: 1/1/1901
+Residential building unit
+. A building or structure designed for use as a place of residence by one or more households. The term includes manufactured, mobile, and modular homes except to the extent that any such manufactured, mobile, or modular home is intended for use on the proposed site for temporary occupancy or for business purposes. Each individual residence within a building will be counted as one residential building unit.
+Res. No.
+2025-7
+, §  03/04/2025
+Effective on: 3/4/2025
+School
+. Any operating public school as defined in C.R.S. § 22-7-703(4), including any charter school as defined in C.R.S. § 22-30.5-103(2), or C.R.S. § 22-30.5-502(6), or private school as defined in C.R.S. § 22-30.5-103(6.5).
+Effective on: 1/1/1901
+School facility
+. Any discrete facility or area, whether indoor or outdoor, associated with a school, that students use commonly as part of their curriculum or extracurricular activities. A school facility is either adjacent to or owned by the school or school governing body, and the school or school governing body has the legal right to use the school facility at its discretion. The definition includes future school facility and any parcel dedicated by plat, deed, or otherwise to a school district for use for a future school facility.
+Effective on: 1/1/1901
+Setback
+. The minimum distance required by this code or applicable federal, tribal, state or local regulatory authority between the proposed oil and gas development and another use, structure, property line, or other aspect of the surrounding environment. The distance between (a) a wellhead, flowline or other pipeline, major oil and gas facility, structure, boundary, or other aspect of an OGL or OGF subject to a setback requirement and (b) the closest projection of a residential, commercial, or industrial building, lot or property line, a permitted facility or a platted building envelope in a platted subdivision, or other element not part of the OGL or OGF.
+Effective on: 1/1/1901
+Significant
+. Deserving to be considered important, notable and not trifling.
+Effective on: 1/1/1901
+Significantly degrade
+. To lower in grade or desirability to a significant, as opposed to trifling, degree.
+Effective on: 1/1/1901
+Spill
+. An unauthorized discharge of any type of waste, including exploration and production waste and other waste materials such as chemicals brought onto the site and discharged into the environment.
+Effective on: 1/1/1901
+Surety bond
+. A surety instrument issued by a surety company on behalf of an operator and in favor of the county  as obligee, providing financial assurance that an operator will comply with all its obligations under state law, ongoing applicable standards and conditions required by the county's code, permits or approvals during the lifetime of the OGL, OGF or other oil and gas operations within  the county.
+Effective on: 1/1/1901
+Surface owner.
+Any person owning all or part of the surface of land upon which oil and gas operations are conducted, as shown by the tax records of the county in which the tract of land is situated, or any person with such rights under a recorded contract to purchase.
+Effective on: 1/1/1901
+Surface use agreement
+. Any agreement in the nature of a contract or other form of document binding on the operator, including any damage agreement, waiver, local government approval or permit, or other form of agreement, which governs the operator's activities on the surface in relation to locating a well, multi-well site, production facility, pipeline or any other OGF that supports oil and gas development located on the surface owner's property.
+Effective on: 1/1/1901
+Temporarily abandoned well
+. A well that is neither currently producing nor permanently plugged but has all downhole completed intervals isolated with a plug set above the highest perforation such that the well cannot produce without removing a plug or a well which is incapable of production or injection without a downhole intervention or the addition of one or more pieces of wellhead or other equipment, including valves, tubing, rods, pumps, heater-treaters, separators, dehydrators, compressors, piping or tanks.
+Effective on: 1/1/1901
+Temporary use area
+. Disturbed lands adjacent to the well pad or right-of-way used by an operator during the construction or maintenance of a well, pipeline or other facility that will be reclaimed during interim reclamation for permanent operations.
+Effective on: 1/1/1901
+Unavoidable adverse impacts
+. Direct, indirect or cumulative adverse impacts to public health, safety, welfare, the environment or wildlife resources that are not entirely eliminated through the application of alternative location selection or other methods to minimize adverse impacts from oil and gas operations.
+Effective on: 1/1/1901
+Water pump station
+. A facility that receives produced water via gathering lines for the purpose of lowering gathering line water pressure.
+Effective on: 1/1/1901
+Water source
+. Water wells that are registered with CDOWR, including household, domestic, livestock, irrigation, municipal/public, and commercial wells, permitted or adjudicated springs, or monitoring wells installed for the purpose of complying with groundwater baseline sampling and monitoring requirements under ECMC Rules 318A.e.(4), 608, or 609.
+Effective on: 1/1/1901
+Waters of the state
+. Any and all surface and subsurface waters which are contained in or flow in or through Colorado, but does not include waters in sewage systems, waters in treatment works of disposal systems, water in potable water distribution systems, and all water withdrawn for use until use and treatment have been completed. Waters of the state include, but are not limited to, all streams, lakes, ponds, impounding reservoirs, wetlands, watercourses, waterways, wells, springs, irrigation ditches or canals, drainage systems, and all other bodies or accumulations of water, surface and underground, natural or artificial, public or private, situated wholly or partly within or bordering upon the state.
+Effective on: 1/1/1901
+Well
+. An oil or gas well, a hole drilled for purposes of producing oil or gas (including nonhydrocarbon gases such as carbon dioxide and helium), a Class II UIC well, a stratigraphic well, a gas storage well or a well used for the purpose of monitoring or observing a reservoir.
+Effective on: 1/1/1901
+Well site
+. Areas that are directly disturbed during the drilling and subsequent operation of or affected by production facilities directly associated with any oil well, gas well or injection well and its associated well pad.
+Effective on: 1/1/1901
+Working pad surface
+. The portion of an oil and gas location that has an improved surface upon which oil and gas operations take place.
+Effective on: 1/1/1901

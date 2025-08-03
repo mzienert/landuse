@@ -1,0 +1,208 @@
+Chapter 73 Standards and Additional Submittal Requirements for Specific Uses
+Overview
+The specific uses addressed in this chapter require particular attention for a variety of reasons. Although many uses have the potential to impact neighbors by generating noise, dust, odor, light, traffic or other potential nuisances, some uses require evaluation and mitigation efforts beyond those established more generally elsewhere in the code. By way of example, some uses present additional concerns to the health, safety and welfare of the community at large that justify special attention in this chapter. Other uses addressed in this chapter warrant special attention in order to accommodate unique technical considerations or to coordinate the county’s interests with regulations and standards set at the state and federal levels. Some uses addressed in this chapter present opportunities to promote the county’s interest in the use by allowing different standards than those generally applicable.
+Sec. 73-21 Telecommunication facilities
+I.
+Purpose.
+The purpose of this section is to regulate the deployment of telecommunications facilities in a manner that safeguards the public health, safety, and welfare, to promote public access to sufficient and competitive personal wireless services in the unincorporated county, while mitigating any potential adverse effects of such deployment.
+II.
+Applicability.
+Any deployment of a telecommunications facility shall require a land use permit, except for the following:
+A.
+Repairs that will not alter the physical appearance of a telecommunications facility;
+B.
+Removal of a telecommunications facility;
+C.
+Removal of antenna facilities from a telecommunications facility;
+D.
+Deployment which does not amount to a substantial change, upon confirmation by director determination.
+E.
+Deployment of one of the following:
+1.
+Amateur radio operators’ equipment licensed by the Federal Communications Commission;
+2.
+Any satellite earth station antenna two (2) meters (i.e. six feet and six and three quarter inches) or less in diameter which is located in an area whose existing or intended use is commercial or industrial;
+3.
+Any non-commercial satellite earth station antenna one (1) meter (i.e. three feet and three and three eighths inches) or less in diameter;
+4.
+Telecommunications towers with a tower height of less than thirty-five (35) feet, located on a gas or oil well pad, supporting only antennae that are solely used to transmit or receive information related to gas or oil well production;
+5.
+Utility meters that enable communication between the meter and the central utility system; and
+6.
+Small wireless facilities that are mounted upon or completely contained within a residence or commercial structure and have the sole purpose of improving telecommunications service for occupants of said residence or commercial structure.
+III.
+Deployment that does not amount to a substantial change.
+Deployment of telecommunications facilities may be authorized without a land use permit upon a director determination that the deployment does not amount to a substantial change.
+A.
+Submittal requirements. To confirm that the deployment does not amount to a substantial change, the provider requesting the director determination shall submit:
+1.
+A narrative setting forth the deployment’s proposed location, purpose, and specifications;
+2.
+Documentation that the provider lawfully may occupy and develop the proposed facility in the proposed location;
+3.
+Scaled plan and elevation drawings of at least two (2) sides of the proposed facility or facilities;
+4.
+A professional engineer’s certification that the proposed facility is structurally sound;
+5.
+A written statement that the proposed deployment shall comply with the FCC’s limitations on human exposure to radiofrequency radiation;
+6.
+A written statement from the provider acknowledging that, because the provider’s request for a director determination is not an application for a land use permit, the provisions of 47 C.F.R. § 1.6003 shall not apply.
+B.
+Limitation on tower height. No proposed increase to an existing telecommunications tower’s height shall result in a tower’s height exceeding the restrictions set forth in subsection IV.
+C.
+Time for review. Following submittal of all required items, the director shall issue a determination, within sixty (60) days, confirming the proposed deployment does not amount to a substantial change, and thus does not require a land use permit, or advising that the provider must apply for a land use permit.
+IV.
+Standards specific to telecommunication facilities.
+A.
+Radiofrequency radiation. All facilities shall demonstrate compliance with FCC standards regarding radiofrequency radiation.
+B.
+No facility shall be larger than necessary to efficiently provide personal wireless service, and space for collocation as required by paragraph IV.C.
+C.
+New telecommunications towers or other structures intended to support an antenna facility shall be capable of supporting at least two (2) additional antenna facilities.
+D.
+Collocation of new telecommunications facilities shall be required, unless the provider provides evidence that there are no existing structures capable of supporting the antenna facilities required to provide the proposed personal wireless service, or evidence of the provider’s good faith, but unsuccessful, efforts to collocate on existing structures.
+E.
+Structure mounted facilities shall be designed and constructed to blend with the architectural characteristics of the structures on which they are proposed to be mounted.
+F.
+Antenna facilities associated with structure mounted facilities shall be either inside the structure, inside an existing cabinet, or in a new cabinet adjacent to and similar in material and color to existing cabinets and the structure itself.
+G.
+Speculative towers shall not be permitted.
+H.
+Lattice towers shall not be permitted unless the provider demonstrates, in writing, that:
+1.
+Any other structure will not meet the standards of this section;
+2.
+Aesthetic considerations favor the construction of a lattice tower at the proposed location;
+3.
+A monopole tower would not be technically feasible for the proposed deployment (as documented in writing by a professional engineer).
+I.
+No telecommunications tower shall exceed one hundred ninety-nine (199) feet in height.
+J.
+The setback from a telecommunications tower to any property line shall be at least 1.3 times the tower’s height.
+K.
+Antenna equipment associated with telecommunications towers shall meet the following requirements:
+1.
+Antenna equipment at ground level shall be in an enclosed structure that is architecturally compatible with the surrounding environment, or screened completely by vegetation, berms, landscaping boulders, or an architecturally compatible wall or fence.
+2.
+Security fencing shall enclose the minimum space necessary for safety and shall be designed to blend with the character of the existing environment.
+3.
+Antenna equipment shall be grouped as closely as possible to other antenna equipment and the tower.
+4.
+Antenna equipment at ground level shall not exceed a surface area of four hundred fifty (450) square feet per provider.
+L.
+Architectural integration with existing buildings, structures and landscaping, including height, color, style, massing, placement, design and shape is required. Concealment or stealth methods, such as camouflaging transmission towers to look like poles or trees may be required.
+M.
+Roof-mounted antennas shall be located as far away as feasible from the edge of the building. Antennas attached to a building should be painted or otherwise treated to match the exterior building.
+V.
+Submittal requirements.
+In addition to the general land use permit application submittal requirements set forth in section 66-11, applicant shall submit the following documents and materials:
+A.
+Applicants seeking a land use permit for deployment of telecommunications facilities using existing structures shall submit:
+1.
+A narrative setting forth the deployment's proposed location, purpose, and specifications, including but not limited to:
+a.
+The type of service to be provided;
+b.
+The frequency or bandwidths to be used;
+c.
+The size, type, and output of any proposed lighting;
+d.
+Security;
+e.
+Signage;
+f.
+Documentation that the proposed facility’s design complies with the standards set forth at subsection IV.
+2.
+Documentation that the applicant lawfully may occupy and conduct deployment of the proposed facility in the proposed location.
+3.
+A propagation study demonstrating that the proposed deployment is no larger, or more densely deployed, than necessary to efficiently provide personal wireless service, and space for collocation where applicable.
+a.
+The propagation study shall include a graphic depiction and estimated size of the area in which personal wireless service will be provided and/or enhanced.
+b.
+The director, at the director’s discretion, may retain a qualified consultant to review the study, and the applicant shall be financially responsible for the reasonable costs of such review.
+4.
+Elevation drawings of at least two (2) sides of the facility. Drawings of structure mounted facilities shall include the structure.
+5.
+Photo-simulations, or photographs of an existing facility proposed for modification in its current state, showing at least two (2) sides of the proposed and existing facility.
+6.
+A professional engineer’s certification that the proposed facility, or the proposed modification to an existing facility, is structurally sound.
+7.
+A written statement that the proposed deployment shall comply with the FCC’s limitations on human exposure to radiofrequency radiation.
+8.
+A written statement setting forth the applicant’s position as to the applicable shot clock period for the proposed facility, as set forth at 47 C.F.R. § 1.6003.
+B.
+Applicants seeking a land use permit for deployment of telecommunications facilities using new structures shall submit:
+1.
+A narrative setting forth the deployment’s proposed location, purpose, and specifications, including but not limited to:
+a.
+The type of service to be provided;
+b.
+The frequency or bandwidths to be used;
+c.
+The size, type, and output of any proposed lighting;
+d.
+Security;
+e.
+Signage;
+2.
+Documentation that the applicant lawfully may occupy and conduct deployment of the proposed facility in the proposed location;
+3.
+A propagation study demonstrating that the proposed deployment is no larger, or more densely deployed, than necessary to efficiently provide personal wireless service, and space for collocation where applicable. The propagation study shall include, at a minimum:
+a.
+A graphic depiction and estimated size of the area in which personal wireless service will be provided and/or enhanced;
+b.
+A demonstration that there are no existing structures capable of supporting antenna facilities that will provide the proposed personal wireless service; or
+c.
+Certification that the applicant has made good faith, but unsuccessful, efforts to collocate on an existing structure;
+d.
+Graphic depictions and estimated sizes of the geographic areas for which the proposed deployment shall provide new or improved personal wireless service;
+e.
+The director, at his or her discretion, may retain a qualified consultant to review the study, and the applicant shall be financially responsible for the reasonable costs of such review;
+4.
+If construction of a telecommunications tower is proposed, a written narrative describing the potential for future collocation on the tower;
+5.
+If construction of a stealth tower is proposed, a written narrative describing the camouflaging scheme;
+6.
+If construction of a lattice tower is proposed, documentation that:
+a.
+Deployment of a monopole tower would not meet the standards of this section; or
+b.
+Aesthetic considerations favor the construction of a lattice tower at the proposed location; or
+c.
+A monopole tower would not be technically feasible for the proposed deployment (as documented in writing by a professional engineer);
+7.
+Elevation drawings of at least two (2) sides of the facility, including, for proposed telecommunications towers, a depiction of the proposed tower’s potential for future collocation;
+8.
+Photo-simulations, or photographs of an existing facility proposed for modification in its current state, showing at least two (2) sides of the proposed and existing facility;
+9.
+A landscaping plan;
+10.
+A professional engineer’s certification that the proposed facility, or the proposed modification to an existing facility, is structurally sound;
+11.
+A written statement that the proposed deployment shall comply with the FCC’s limitations on human exposure to radiofrequency radiation;
+12.
+A written statement setting forth the applicant’s position as to the applicable shot clock period for the proposed facility, as set forth at 47 C.F.R. § 1.6003.
+C.
+Because the FCC, by its declaratory ruling and third report and order adopted September 26, 2018 (FCC 18-133), requires that the time limits for review and disposition of any application for deployment of a telecommunications facility set forth at 47 C.F.R. § 1.6003(c) apply to all required authorizations, an applicant shall submit applications for all required authorizations (e.g., building and/or access permits) together with its application for land use permits.
+VI.
+Abandonment, removal, and reclamation.
+A.
+Abandonment prohibited. Telecommunications facilities shall not be disused unless they are also removed pursuant to this subsection.
+B.
+Abandonment determination. The director may request the board hold a hearing on the abandonment of a telecommunications facility. Notice of the hearing shall be provided to all providers holding permits to operate the facility, and the owner(s) of the parcel containing the facility, by certified mail at least ten (10) days prior to the hearing. The board shall declare a telecommunications facility abandoned, and require its removal, if:
+1.
+The facility is unused by any provider for a period of one hundred eighty (180) days or more; or
+2.
+The facility presents an imminent danger to the health, safety, or welfare of the public.
+C.
+Removal. Upon a determination by the board that the telecommunications facility is abandoned, the permitted provider(s) shall have ninety (90) days to either resume use of the facility or remove it. Removal shall proceed according to the applicable provisions of the county building code and under the supervision of the building division.
+D.
+Reclamation. When a telecommunications facility is removed, the owner of the lot or parcel on which it was sited shall, at their own expense, restore the lot, parcel, and structure that had contained the facility to a condition substantially similar to that existing before the facility’s deployment, except such restoration shall not include the removal of any landscaping unless approved by the director.
+(
+Res. No.
+2020-30
+, § 73-21, 09/15/2020; Res. No.
+2023-27
+, § 73-21, 11/21/2023
+)
+Effective on: 1/1/2024

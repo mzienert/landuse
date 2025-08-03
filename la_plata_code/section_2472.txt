@@ -1,0 +1,54 @@
+Chapter 18 BUILDINGS AND BUILDING REGULATIONS
+Article III. Building Codes and standards: Amendments, additions and deletions to the international codes
+Sec. 18-36
+Amendments and Deletions to the 2015 International Residential Code.
+Amendments and Deletions to the 2015 International Residential Code are as follows:
+(
+Res. No. 2004-15, § 1 (Exh. A), 05/24/2004; Res. No. 2017-33, § 18-36, 10/10/2017; Res. No. 2023-15, § 18-36, 06/06/2023
+)
+Section R403
+Footings
+R403.1.1 Minimum size. Section R401.4 of the 2015 International
+Residential
+Code
+is deleted and replaced with the following:
+The minimum width, W, and thickness, T, for concrete footings shall be in accordance with Tables R403.4(1) through R403.1(3) and Figure R403.1(1) or R703.1.3, as applicable. The footing width shall be based on the load-bearing value of the soil in accordance with Table R401.4.1. Footing projections, P, shall be not less than 2 inches (51 mm) and shall not exceed the thickness of the footing. Footing thickness and projection for fireplaces shall be in accordance with Section R1001.2. The size of footings supporting piers and columns shall be based on the tributary load and allowable soil pressure in accordance with Table R401.4.1. Footings for wood foundations shall be in accordance with the details set forth in Section R403.2, and Figures R403.1(2) and R403.1(3). Where favorable soil conditions exist and design loading on foundation systems are within acceptable ranges, foundations depicted in the Foundation Details set forth in Attachment 1 to this Code can be used.  All footings shall be a minimum of 8” thick.
+R403.1.8 Foundations on expansive soils. Section 403.1.8 of the 2015 International Residential Code is deleted and replaced with the following:
+When soils at the
+building
+site
+of one and two
+dwelling units
+are found to have expansive characteristics per “The Soil Survey of La Plata
+County
+Area of Colorado” provided by the U.S. Dept. of
+Agriculture
+Soil
+Construction
+1981-82 and maps of the La Plata County (LPC) GIS, foundation systems must be designed by an architect or
+engineer
+licensed in the State of Colorado.
+Exception:  Foundations for manufactured homes, garages, and barns and other outbuildings constructed on soils found to have expansive soil characteristics as described in this section need not be designed by an architect or engineer licensed in the State of Colorado.
+R403.2 Footings for wood foundations.  Section R403.2 of the 2015 International Residential Code is deleted and replaced with the following:
+Footings for wood foundations shall be in accordance with Figures R403.1(2) and R403.1(3).
+Gravel
+shall be washed and well graded. The maximum size stone shall not exceed ¾ inch (19.1 mm). Gravel shall be free from organic, clayey or silty soils.
+Sand
+shall be coarse, not smaller than 1/16-inch (1.6 mm) grains and shall be free from organic, clayey or silty soils. Crushed stone shall have a maximum size of ½ inch (12.7 mm). All wood foundation systems for one and two
+family
+dwellings
+shall be designed by an architect or engineer licensed in the State of Colorado.  The
+building official
+may require special inspections be conducted by the architect or engineer of record.
+R403.3 Frost protected shallow foundations.  Section R403.3 of the 2015 International Residential Code is deleted and replaced with the following:
+For buildings where the monthly mean temperature of the building is maintained at a minimum of 64 degrees Fahrenheit (18 degrees Celsius), footings are not required to extend below the frost line when protected from frost by insulation in accordance with Figure R403.3(1) and Table R403.3(1). Foundations protected from frost in accordance with Figure R403.3(1) and Table R403.3(1) shall not be used for unheated spaces such as porches,
+utility
+rooms, garages and carports, and shall not be attached to
+basements
+or crawl spaces that are not maintained at a minimum monthly mean temperature of 64 degrees Fahrenheit (18 degrees Celsius).
+Materials used below grade for the purpose of insulating footings against frost shall be labeled as complying with ASTM
+Standard
+C 578 (Standard Specification for Rigid, Cellular Polystyrene Thermal Insulation). All frost protected shallow foundations shall be designed by an architect or engineer licensed in the State of Colorado.  Pursuant to Section
+18-35
+(110.3.7), the building official may require that special inspections be conducted by the architect or engineer of record.
+Effective on: 12/11/2017

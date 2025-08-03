@@ -1,0 +1,924 @@
+Chapter 18 BUILDINGS AND BUILDING REGULATIONS
+Article III. Building Codes and standards: Amendments, additions and deletions to the international codes
+Contents:
+Sec. 18-36 Amendments and Deletions to the 2015 International Residential Code.
+Sec. 18-37 Tiny Homes
+Sec. 18-38 Amendments and Deletions to the 2015 International Building Code
+Sec. 18-39 Adoption of the 2015 International Mechanical Code.
+Sec. 18-40 Adoption of the 2015 International Plumbing Code.
+Sec. 18-41 On-site Wastewater Treatment Systems
+Sec. 18-42 Adoption of the Electric Code.
+Sec. 18-43 Adoption of the 2015 International Fuel Gas Code.
+Sec. 18-44 Adoption of the 2015 International Energy Conservation Code.
+Sec. 18-45 Signs
+Sec. 18-36
+Amendments and Deletions to the 2015 International Residential Code.
+Amendments and Deletions to the 2015 International Residential Code are as follows:
+Contents:
+Section R301 Design Criteria
+Section R302 Fire-Resistant Construction
+Section R308 Glazing
+Section R312 Guards and Window Fall Protection
+Section R313 Automatic Fire Sprinkler Systems
+Section R314 Smoke Alarms
+Section R315 Carbon Monoxide Alarms
+Section R322 Flood-Resistant Construction
+Section R324 Solar Energy Systems
+Section R401 Foundations -  General
+Section R403 Footings
+Section R404 Foundation and Retaining Walls
+Section R408 Under-floor Space
+Section R502 Wood Floor Framing
+Section R702 Interior Covering
+Section 802 Wood Roof Framing
+Chapter 11. Energy Efficiency
+Section G2406 (303) Appliance Location
+Section G2415 (404)  Piping System Installation
+Section G2417 (406) Inspection, Testing and Purging
+Section G2427 (503) Venting of Appliances
+Section P2603 Structural and Piping Protection
+Section P2718 Clothes Washing Machine
+Section P3003 Joints and Connections
+Part VIII Electrical
+Appendices
+(
+Res. No. 2004-15, § 1 (Exh. A), 05/24/2004; Res. No. 2017-33, § 18-36, 10/10/2017; Res. No. 2023-15, § 18-36, 06/06/2023
+)
+Section R301 Design Criteria
+Table R301.2(2) of the 2015 International
+Residential
+Code
+is deleted and replaced with the following:
+TABLE R301.2(1)
+CLIMATIC AND GEOGRAPHIC DESIGN CRITERIA
+Required minimum roof live load (Snow Load) See Table 301.2.(2)
+Wind speed—90 MPH Basic, 115 MPH Ultimate (3 sec. gust) Exposure B or C applies (Table R301.2(3))
+Seismic Design Category—B
+Weathering—Severe
+Frost depth—32 inches
+Termite—Yes
+Decay—None to slight
+Winter design temperature—4 degrees F.
+Mean annual temperature—52 degrees F.
+Air freezing index—2000
+Flood
+Hazard—
+Community
+NO. 080097 August 19, 2010 Flood Insurance Study: La Plata
+County
+, Colorado and Incorporated areas.  Volume 1 & 2 – Resolution 2014-30, Chapter 78 La Plata County
+Land Use Code
+HDD—6981
+Climate Zone 5
+Ice barrier underlayment required
+Radon protection requirements are set forth in the 2015 International Residential Code Appendix F, as amended, to provide a means of vacating radon gas from crawlspaces and under floor slabs when it is determined that radon gas exists after the completion of a home’s
+construction
+.
+R301.2.3 Snow loads. Section R301.2.3 of the 2015 International Residential Code is deleted and replaced with the following:
+The design of roof systems and assemblies shall be designed using the snow load information contained in Table R301.2.3.  The information represented in Table R301.2.3 provides pounds per square foot snow load for areas and elevations in La Plata County.    This information can also be found by individual
+parcel
+of land on the La Plata County GIS maps.   Properties having more than one snow load shall
+use
+the higher load in the structural calculations.  Pursuant to section
+18-35
+(107.2(9)),
+buildings
+in regions with live loads of  80 pounds per square foot or more shall, at the discretion of the
+building official
+be required to be designed by a design professional.
+In the design of buildings and
+structures
+,
+consideration
+shall be given to the following:
+1.
+Unbalanced loading of roofs.
+2.
+Drifting due to
+adjacent
+obstructions.
+3.
+Accumulations in valleys and adjacent to parapet walls and chimneys.
+4.
+Ice loads on cornices of at least one and one half times the roof snow load.
+5.
+Possible
+impact
+loadings from snow falling on structure from higher roofs.
+6.
+Effect on structure from dynamic loading caused by snow sliding off roof.
+7.
+Snow sliding off roof and dynamically loading sidewalls by being forced against same due to snow embankment adjacent to the structure.
+8.
+Protection of entrances, exits and windows from the danger of falling icicles and snow sliding off pitched roofs.
+9.
+Ice weight where it will refreeze on unheated overhangs after having melted and run off from portions of roofs with heat below same.
+10.
+Projections through the roof, such as ventilation and plumbing vents, which may be torn off or damaged by sliding snow.
+11.
+Gas meter locations must be positioned in areas where they are least effected by ice and snow accumulations from roofs above. Where gas meter shed and protections are required the structure must be designed to resist 1.4 times the snow load requirement for the land/structure
+site
+snow load.
+12.
+All exterior decks must be designed based on the snow load criteria and requirements for the
+project
+location. Structural design must take into consideration the weight of total accumulation, impact loading from roofs above, uplift and mechanical connections and soil/foundation capabilities.
+Table R301.2.3
+Elevation
+Live Roof Snow Load (p.s.f.)
+Ground Snow Load (p.s.f.)
+Elevation
+Live Roof
+Snow Load (p.s.f.)
+Ground Snow Load (p.s.f.)
+< 6,500
+40
+57
+8,250
+97
+136
+6,750
+45
+64
+8,500
+105
+147
+7,000
+50
+70
+8,750
+112
+157
+7,250
+56
+78
+9,000
+120
+168
+7,500
+61
+86
+9,500
+136
+190
+7,750
+66
+94
+10,000
+154
+215
+8,000
+90
+126
+10,500
+173
+242
+R301.2.4 Flood plain construction.  section R301.2.4 of the 2015 International Residential Code is deleted and replaced with the following:
+Buildings and structures constructed in whole or in part in flood
+hazard
+areas (including A or V zones) as established in Table R301.2(1), and any
+substantial improvement
+or restoration of
+substantial damage
+to buildings and structures in flood hazard areas, shall be designed and constructed in accordance with Chapter 78 of the La Plata County Code, as amended. Buildings and structures that are in more than one flood hazard area shall comply with the provisions associated with the most restrictive flood hazard area. Buildings and structures located in whole or in part in identified
+floodways
+may be designed and constructed in accordance with American Society of Civil
+Engineers
+(“ASCE”) 24 (Flood Resistant Design and Construction).
+R301.6 Roof load. Section R301.6 of the 2015 International Residential Code is deleted and replaced with the following:
+The roof shall be designed for the Live Load based on the elevation above sea level of the property indicated in Table 301.2.3, as amended.
+(Res. No. 2004-15, § 1(Exh. A), 5-24-2004, Res. No. 2017-33)
+Effective on: 12/11/2017
+Section R302
+Fire-Resistant
+Construction
+R302.11.1.2 Unfaced fiberglass. Section R302.11.1.2 of the 2015 International
+Residential
+Code
+is deleted and replaced with the following:
+Unfaced fiberglass insulation may be used where piping, conduit, or similar penetrations are encountered.  The insulation shall be tightly packed around the object.  At
+intersections
+between concealed vertical and horizontal spaces, such as occurs at soffits, drop ceilings, and cove ceilings, solid blocking shall be used.
+(Res. No. 2004-15, § 1(Exh. A), 5-24-2004, Res. No. 2017-33)
+Effective on: 12/11/2017
+Section R308
+Glazing
+R308.4.3  Glazing in windows. Exception 2 to R308.4.3 of the 2015 International
+Residential
+Code
+is deleted and replaced with the following
+:
+Where horizontal rails are installed on the accessible side(s) of the glazing, the three barrier bars shall be installed at 12”, 24” and 36” above the walking
+surface
+.  The rails shall
+be capable of withstanding
+a horizontal load of 50 pounds per lineal foot without contacting the glass and have a cross-sectional height of not less than 1 ½ inches.
+R308.4.6  Glazing
+adjacent
+to stairs and ramps. Exception 1 to R308.4.6 of the 2015 International Residential Code is deleted and replaced with the following:
+Where horizontal rails are installed on the accessible side(s) of the glazing, the three barrier bars shall be installed at 12”, 24” and 36” above the walking surface.  The rails shall
+be capable of withstanding
+a horizontal load of 50 pounds per lineal foot without contacting the glass and have a cross-sectional height of not less than 1 ½ inches.
+Effective on: 12/11/2017
+Section R312
+Guards and Window Fall Protection
+R312.1.3 Opening limitations. Exception 3 below is added to section R312.1.3 of the 2015 International
+Residential
+Code
+:
+The openings between stair treads (open risers) do not require guard protection.
+(Res. No. 2004-15, § 1(Exh. A), 5-24-2004, Res. No. 2017-33)
+Effective on: 12/11/2017
+Section R313
+Automatic Fire Sprinkler Systems
+Section R313 of the 2015 International
+Residential
+Code
+is deleted in its entirety and replaced with the following:
+R313.1 Automatic fire sprinkler systems. Except as provided in section
+18-36
+(313.5) below, automatic fire sprinkler systems in one and two-family
+dwellings
+, or townhouses, are not mandated by this section.
+R313.2 Installation
+specifications
+. Group R-3 occupancies as outlined in section 310.5 of the International
+Building Code
+, when equipped with a fire sprinkler system, shall be required to follow the requirements for the installation of fire sprinkler systems in P2904, NFPA 13D or NFPA 13R. Other provisions of the Code requiring the installation of fire sprinkler systems in other occupancies and applications remain in effect as required by this Code.  Fire Districts in La Plata
+County
+encourage property
+owners
+to install fire sprinkler systems in new homes to improve the chance of the home surviving when it catches on fire in outlying areas of La Plata County.
+R313.3 Design and installation.  When a Planning
+Department
+process,
+project
+conditions of approval, or owners request requires an automatic residential fire sprinkler system to be installed, NFPA 13D, NFPA 13R or P2904 are the
+guidelines
+to be used to design and install the system.
+R313.4 Existing fire sprinkler system regulations.  Existing fire sprinkler requirements that have been enacted for existing
+subdivisions
+or other
+land use code
+project approvals shall remain in effect. Any future
+development
+within those existing subdivisions and projects must comply with the requirements of P2904, NFPA 13D or NFPA 13R.
+R313.5 Old Hermosa Cliffs Fire Protection District residential fire sprinklers. Within the boundaries of the Old Hermosa Cliffs Fire Protection District the following shall apply:
+An automatic fire-extinguishing system shall be installed throughout dwellings when any floor exceeds 30 feet above fire department
+access
+, or when fire apparatus access is not available year-round within 150 feet of all exterior walls of the
+building
+, and/or when the dwelling exceeds 3600 sq. ft. excluding the garage. Residential quick-response
+standard
+sprinklers shall be used within the building. The system must comply with NFPA 13D, NFPA 13R or P2904.  An approved automatic smoke-detection system is required and it is recommended the
+smoke
+detection system by supervised by an approved central alarm agency.
+Exception: A single
+family
+dwelling may be exempted from the above requirements when the
+Chief
+of the Fire Department/Fire Marshal and the
+building official
+agree on the exemption, or upon successful
+appeal
+to the La Plata County
+Board
+of Review.
+(Res. No. 2004-15, § 1(Exh. A), 5-24-2004, Res. No. 2017-33)
+Effective on: 12/11/2017
+Section R314
+Smoke
+Alarms
+R314.3 Location. Subsection 2 to R314.3 of the 2015 International
+Residential
+Code
+is deleted and replaced with the following:
+Smoke alarms shall be installed on the exterior of the sleeping area within 15’ of each
+bedroom
+door.
+(Res. No. 2004-15, § 1(Exh. A), 5-24-2004, Res. No. 2017-33)
+Effective on: 12/11/2017
+Section R315
+Carbon Monoxide Alarms
+R315.3 Location. Section R315.3 of the 2015 International
+Residential
+Code
+is deleted and replaced with the following:
+Carbon Monoxide alarms shall be installed on the exterior of the sleeping area within 15’ of each
+bedroom
+door.
+(Res. No. 2004-15, § 1(Exh. A), 5-24-2004, Res. No. 2017-33)
+Effective on: 12/11/2017
+Section R322
+Flood-Resistant
+Construction
+Section
+R322
+of the 2015 International
+Residential
+Code
+is deleted in its entirety and replaced with the following:
+R322.1 General.
+Buildings
+or
+structures
+constructed or substantially improved within the mapped
+flood
+hazard
+area must comply with the provisions of Chapter 78 of the La Plata
+County
+Code, as amended, and any subsequent enactments concerning flood plain
+management
+.
+R322.2 Construction documents.  Construction documents for foundation systems in flood hazard zones, as identified on maps and in the study titled “Flood Insurance Study – La Plata County Colorado and Incorporated Areas” as published by the Federal
+Emergency
+Management Agency (“FEMA”) on August 19, 2010, shall be certified by a registered Colorado
+professional engineer
+or architect.  The
+engineer
+or architect shall certify that the structure is designed and, when necessary, elevated, and has structural components capable of resisting hydrostatic and hydrodynamic loads and effects of buoyancy.
+Effective on: 12/11/2017
+Section R324
+Solar Energy Systems
+R324.4.2 Wind load.  Roof structures for the support of solar panels shall be designed using the LPC wind design speed in Table R301.2.1 at section
+18-36
+of this Code.
+Effective on: 12/11/2017
+Section R401 (Foundations)
+General
+R401.1 Application. Exception 3 below is added to Section R401.1 of the 2015 International
+Residential
+Code
+:
+3.  Where soil conditions allow, the
+use
+of the foundation designs set forth in Attachment 1 to this Code will be allowed.  The
+standards
+set forth in Attachment 1 are not designed for use in expansive soils or soils with low bearing capacity such as unconsolidated
+sand
+or silt. Determination of the location of expansive soils will be based on mapping in the La Plata
+County
+GIS maps and the U.S. Dept. of Agriculture- Soil Survey of La Plata County (see Section R401.4). When snow loads at the
+building
+site
+exceed 80 psf, live load engineered foundation
+plans
+may be required by the
+building official
+.
+R401.3
+Drainage
+.  Section R401.3 of the 2015 International Residential Code is deleted and replaced with the following:
+All foundation systems shall be provided with compacted backfill graded in a manner that assures
+surface water
+will be directed away from the foundation system.  The grade shall fall a minimum of 6 inches within the first 10 feet.  No water shall adversely
+impact
+adjacent
+lots
+or
+structures
+.
+Exception: Where lot lines, walls,
+slopes
+or other physical barriers prohibit 6 inches (152 mm) of fall within 10 feet (3048 mm), drains or swales shall be constructed to ensure drainage away from the structure. Impervious
+surfaces
+within 10 feet (3048 mm) of the building foundation shall be sloped to a minimum of 2 percent away from the building.
+R401.4 Soil tests.  Section R401.4 of the 2015 International Residential Code is deleted and replaced with the following:
+Classification of soils will be based on soil reports, visual observations, “The Soil Survey of La Plata County Area of Colorado” provided by the U.S. Dept. of
+Agriculture
+Soil
+Construction
+1981-82, and maps of the La Plata County GIS. When it is determined that expansive soils exist at a
+project
+location for a residential structure, soil tests and engineered foundation systems will be required for all residential structures.  Pursuant to section
+18-35
+(107.2), the building official shall determine the need for special engineering of the foundation system to address the
+adverse
+soil conditions when questionable soil characteristics are likely present.
+Effective on: 12/11/2017
+Section R403
+Footings
+R403.1.1 Minimum size. Section R401.4 of the 2015 International
+Residential
+Code
+is deleted and replaced with the following:
+The minimum width, W, and thickness, T, for concrete footings shall be in accordance with Tables R403.4(1) through R403.1(3) and Figure R403.1(1) or R703.1.3, as applicable. The footing width shall be based on the load-bearing value of the soil in accordance with Table R401.4.1. Footing projections, P, shall be not less than 2 inches (51 mm) and shall not exceed the thickness of the footing. Footing thickness and projection for fireplaces shall be in accordance with Section R1001.2. The size of footings supporting piers and columns shall be based on the tributary load and allowable soil pressure in accordance with Table R401.4.1. Footings for wood foundations shall be in accordance with the details set forth in Section R403.2, and Figures R403.1(2) and R403.1(3). Where favorable soil conditions exist and design loading on foundation systems are within acceptable ranges, foundations depicted in the Foundation Details set forth in Attachment 1 to this Code can be used.  All footings shall be a minimum of 8” thick.
+R403.1.8 Foundations on expansive soils. Section 403.1.8 of the 2015 International Residential Code is deleted and replaced with the following:
+When soils at the
+building
+site
+of one and two
+dwelling units
+are found to have expansive characteristics per “The Soil Survey of La Plata
+County
+Area of Colorado” provided by the U.S. Dept. of
+Agriculture
+Soil
+Construction
+1981-82 and maps of the La Plata County (LPC) GIS, foundation systems must be designed by an architect or
+engineer
+licensed in the State of Colorado.
+Exception:  Foundations for manufactured homes, garages, and barns and other outbuildings constructed on soils found to have expansive soil characteristics as described in this section need not be designed by an architect or engineer licensed in the State of Colorado.
+R403.2 Footings for wood foundations.  Section R403.2 of the 2015 International Residential Code is deleted and replaced with the following:
+Footings for wood foundations shall be in accordance with Figures R403.1(2) and R403.1(3).
+Gravel
+shall be washed and well graded. The maximum size stone shall not exceed ¾ inch (19.1 mm). Gravel shall be free from organic, clayey or silty soils.
+Sand
+shall be coarse, not smaller than 1/16-inch (1.6 mm) grains and shall be free from organic, clayey or silty soils. Crushed stone shall have a maximum size of ½ inch (12.7 mm). All wood foundation systems for one and two
+family
+dwellings
+shall be designed by an architect or engineer licensed in the State of Colorado.  The
+building official
+may require special inspections be conducted by the architect or engineer of record.
+R403.3 Frost protected shallow foundations.  Section R403.3 of the 2015 International Residential Code is deleted and replaced with the following:
+For buildings where the monthly mean temperature of the building is maintained at a minimum of 64 degrees Fahrenheit (18 degrees Celsius), footings are not required to extend below the frost line when protected from frost by insulation in accordance with Figure R403.3(1) and Table R403.3(1). Foundations protected from frost in accordance with Figure R403.3(1) and Table R403.3(1) shall not be used for unheated spaces such as porches,
+utility
+rooms, garages and carports, and shall not be attached to
+basements
+or crawl spaces that are not maintained at a minimum monthly mean temperature of 64 degrees Fahrenheit (18 degrees Celsius).
+Materials used below grade for the purpose of insulating footings against frost shall be labeled as complying with ASTM
+Standard
+C 578 (Standard Specification for Rigid, Cellular Polystyrene Thermal Insulation). All frost protected shallow foundations shall be designed by an architect or engineer licensed in the State of Colorado.  Pursuant to Section
+18-35
+(110.3.7), the building official may require that special inspections be conducted by the architect or engineer of record.
+Effective on: 12/11/2017
+Section R404 Foundation and Retaining Walls
+R404.1 Concrete and masonry foundation walls. Section R404.1 of the 2015 International
+Residential
+Code
+is deleted and replaced with the following:
+Concrete foundation walls shall be selected and constructed in accordance with the provisions of Section R404.1.3. Masonry foundation walls shall be selected and constructed in accordance with the provisions of Section R404.1.2. Where favorable soil conditions exist and design loading on foundation systems are within acceptable ranges, foundation walls criteria depicted in the Foundation Details- set forth in Attachment 1 to this Code can be used. All foundation walls must be a minimum of 8” thick.
+Effective on: 12/11/2017
+Section R408 Under-floor Space
+R408.3.2.1 Unvented crawlspaces. Section R408.3.2.1 of the
+IRC
+is deleted and replaced with the following:
+Continuously operated mechanical exhaust ventilation at an air changes per hour (ACH) rate of at least 1 cubic foot per minute (0.47 L/s) for each 50 square feet (4.7 m2) of crawl space floor area, including an air pathway to the common area (such as a duct or transfer grille), and perimeter walls insulated in accordance with the
+IECC
+-
+Residential
+Provisions. Humidistat
+control
+is acceptable in lieu of continuous operation of the exhaust system as long as the ACH requirements are met..
+R408.6
+Finished Grade
+. Section R401.4 of the 2015 International Residential
+Code
+is deleted and replaced with the following:
+The finished grade of the under-floor
+surface
+(crawlspace) shall be at or above the top of the footing. When homes are constructed in
+flood
+hazard
+zones crawlspace design and
+construction
+must meet the required flood plain regulations.
+R408.7 Flood Resistance. Subsection 2 of Section R408.7 of the 2015 International Residential Code is deleted and replaced with the following:
+2. Foundation systems constructed utilizing a foundation stem wall and crawlspace design must be constructed to
+specifications
+contained in
+FEMA
+Technical Bulletin TB-11, “Crawlspace Construction – for
+Buildings
+Located in
+Special Flood Hazard Areas
+,” National Flood Insurance Program Interim
+Guidelines
+.
+(
+Res. No. 2023-15, §  06/06/2023
+)
+Effective on: 8/1/2023
+Section R502
+Wood Floor Framing
+R502.1.7 Engineered wood rim
+board
+. Section R502.1.7 of the 2015 International
+Residential
+Code
+is deleted and replaced with the following:
+Engineered wood rim boards shall conform to ANSI/APA PRR 410 (
+Standard
+for Performance Rated Engineered Wood Rim Boards) or shall be evaluated in accordance with ASTM Standard D 7672 (Standard Specification for Evaluating Structural Capacities of Rim Board Products and Assemblies). Structural capacities shall be in accordance with ANSI/APA PRR 410 or established in accordance with ASTM D 7672. Rim boards conforming to ANSI/APA PRR 410 shall be marked in accordance with that standard.
+At the point where exterior decks are connected to the rim joist of the
+structure
+, Laminated Veneer Lumber (
+LVL
+) shall be installed as the rim joist in place of Laminated Strand Lumber (
+LSL
+) to provide adequate connection. Where there is the potential of seasonal ground water in the crawlspace
+LVL
+material should be considered for
+use
+as the entire exterior rim joist rather than the (
+LSL
+).
+Effective on: 12/11/2017
+Section R702
+Interior Covering
+R702.7 Vapor retarders. Section R702.7 of the 2015 International Residential Code is deleted and replaced with the following:
+Vapor retarders, Types I, II or III, are required on the interior side of the framed walls in climate zones 5, 6, 7, 8 and Marine 4.
+Effective on: 12/11/2017
+Section R802
+Wood Roof Framing
+R802.10.3 Bracing. Section R802.10.3 of the 2015 International Residential Code is deleted and replaced with the following:
+Trusses shall be braced to prevent rotation and provide lateral stability in accordance with the requirements specified in the construction documents for the building and on the individual truss design drawings. In the absence of specific bracing requirements, trusses shall be braced in accordance with accepted industry practice such as the SBCA
+Building Component Safety Information (BCSI) Guide to Good Practice for Handling, Installing & Bracing of Metal Plate Connected Wood Trusses.
+However, at a minimum, all truss systems must be provided with angled bracing from the peak of the gable end truss to the bottom cord of the trusses’ interior spanning four or more trusses. All trusses shall be supported laterally at all points of bearing by solid blocking, sheathing, bridging, or other approved methods.
+Effective on: 12/11/2017
+Chapter 11. Energy Efficiency
+Chapter 11 of the
+IRC
+is deleted in its entirety and replaced with applicable portions of the
+IECC
+.
+(
+Res. No. 2004-15, § 1 (Exh. A), 05/24/2004; Res. No. 2017-33, § 18-36, 10/10/2017; Res. No. 2023-15, § 18-36, 06/06/2023
+)
+Effective on: 8/1/2023
+Section G2406 (303)
+Appliance Location
+G2406.2 (303.2) Prohibited locations. Section G2406.2 (303.3) of the 2015 International Residential Code is supplemented to include subsection 6, as follows:
+LPG appliances shall not be installed in a pit or an under-floor area which forms a pit.
+Effective on: 12/11/2017
+Section G2415 (404)
+Piping System Installation
+G2415.12 (404.12) Minimal burial depth. Section G2415.12 of the 2015 International Residential Code is deleted and replaced with the following:
+G2412.12 (404.12) Minimum burial depth. Underground piping systems shall be
+installed at a minimum depth of 18 inches below grade.
+Effective on: 12/11/2017
+Section G2417 (406)
+Inspection, Testing and Purging
+G2417.4.1 (406.4.1) Test pressure. Section G2417.4.1 (406.4.1) of the 2015 International Residential Code is deleted and replaced with the following:
+The test pressure to be used shall be not less than one and one-half times the proposed maximum working pressure, but not less than 10 psig (69 kPa gauge) irrespective of design pressure.
+Effective on: 12/11/2017
+Section G2427 (503)
+Venting of Appliances
+G2427.4.1 (503.4.1) Plastic piping.  Section G2427.4.1 (503.4.1) of the 2015 International Residential Code is deleted and replaced with the following:
+Where plastic piping is used to vent an appliance, the appliance shall be listed for use with such venting materials and the appliance manufacturer’s installation instructions shall identify the specific plastic piping material. If PVC or ABS is used for venting it shall be Schd 40 solid core for both the combustion air and the exhaust vents.  Combustion air and exhaust shall be pressure tested to 5 psi minimum with a 15 lb. ¼” increment air gauge or a method approved by the Building Official.  All installation shall meet the manufacturer’s installation requirements and limitations.
+G2427.4.1.1 (503.4.1.1) (IFGS).  Plastic vent joints.  Section G2427.4.1.1 (503.4.1.1) (IFGS) of the 2015 International Residential Code is deleted and replaced with the following:
+Plastic pipe and fittings used to vent appliances shall be installed in accordance with the appliance manufacturer’s instructions. Primer is required and it shall be a contrasting color.
+Effective on: 12/11/2017
+Section P2603
+Structural and Piping Protection
+P2603.5 Freezing. Section P2603.5 of the 2015 International Residential Code is deleted and replaced with the following:
+In localities having a winter design temperature of 32 ºF (0ºC) or lower as shown in Table R301.2(1) of this code, a water, soil or waste pipe shall not be installed outside of a building, in exterior walls, in attics or crawl spaces, or in any other place subjected to freezing temperature unless adequate provision is made to protect it from freezing by insulation or heat or both. Water service pipe shall be installed no less than 48” below grade or no less than 6” below frost line if it is deeper than 42”.
+Effective on: 12/11/2017
+Section P2718 Clothes Washing Machine
+Section P2718 of the International Residential Code is amended to include section P2718.2 below:
+P2718.2  Discharge. Washing machines shall discharge to a 2” drain line.  When additional plumbing fixtures or sink discharges to the same line, the size shall be increased to 3”.
+Effective on: 12/11/2017
+Section P3003 Joints and Connections
+3003.9.2 Solvent cementing. All exceptions to Section P3003.9.2 of the 2015 International Residential Code are deleted.
+Effective on: 12/11/2017
+Part VIII Electrical
+Part VIII of the 2015 International Residential Code, including Chapters 34-43, is deleted in its entirety and replaced with the following:
+Electric installations.  An outside service disconnect is required on all buildings and structures provided with an electric service in accordance with section 18.42 of this code.
+Effective on: 12/11/2017
+Appendices
+The following Appendices to the
+IRC
+are hereby amended as noted.
+Appendix E: Manufactured Housing Used as
+Dwellings
+.
+Section AE304 Fees is deleted. Fees assessed pursuant to this
+Code
+shall be governed by section
+18-35
+(108).
+Appendix E is supplemented to incorporate by reference Attachment 3 to this Code (“Factory Built Home Requirements”).
+Appendix F: Passive Radon
+Control
+Methods.
+Section AF101.1 is deleted and replaced with the following:
+AF101.1 General.  A pre-installation radon system shall be installed consisting of a 4” PVC or ABS vent pipe for future venting purposes running from the crawl space and terminating in the attic at an easily accessible location with 24” clear work area. A prewired power connection from crawlspace to attic shall also be installed.  For slab
+construction
+, the pipe shall terminate under the slab with a glued “T”.  The pipe will be extended into attic and shall be installed if, after construction is complete, radon is found in the home.  All pipes and electric plugs shall be marked “For radon
+mitigation
+use
+only.”
+The remainder of the Appendix is to be used as a
+guideline
+for a full Radon Mitigation System as required by the
+Owner
+/
+Contractor
+.
+Appendix J: Existing
+Buildings
+and
+Structures
+.
+Section AJ102.4.1, Energy efficiency, is deleted and replaced with the following:
+AJ102.4.1. Energy efficiency. Replacement windows shall comply with the requirements of the
+IECC
+.
+Res. No. 2004-15, § 1 (Exh. A), 05/24/2004; Res. No. 2017-33, § 18-36, 10/10/2017; Res. No. 2023-15, § 18-36, 06/06/2023
+Effective on: 8/1/2023
+Sec.
+18-37
+Tiny Homes
+Definitions
+EGRESS ROOF ACCESS WINDOW.
+A skylight or roof window designed and installed to satisfy the
+emergency
+escape and
+rescue opening requirements in Section R310.2.
+LANDING PLATFORM. A landing provided as the top step of a stairway accessing a loft.
+LOFT. A floor level located more than 30 inches above the main floor and open to it on at least one side, with a ceiling height of less than 6 feet 8 inches, which is used as a living or sleeping space.
+TINY HOME
+. A
+dwelling
+that is 400 square feet or less.
+THOW
+.  A Tiny Home on Wheels.
+I.
+Scope.  This s
+ection shall be applicable to tiny homes used as single
+family
+dwelling units
+. Tiny homes shall comply with this
+Code
+except as otherwise stated in this section. This section only applies to tiny homes and cannot be applied to other
+residential
+units
+in La Plata
+County
+.
+II.
+Approvals. ​
+A.
+Upon the completion of all inspections required pursuant to section
+18-35
+(110) of this Code, a Tiny Home on Wheels (THOW) will receive a Certificate of Limited Compliance from La Plata County.  This can be converted to a Certificate of Occupancy upon the THOW’s installation on a property with a permanent foundation and completion of all required inspections pursuant to section
+18-35
+(110) of this Code.
+B.
+A tiny home that is
+site
+built or delivered and installed on a permanent foundation shall be issued a Certificate of Occupancy upon completion of all required inspections pursuant to section
+18-35
+(110) of this Code.
+III.
+Energy Code.  Tiny homes shall be built in compliance with the
+standards
+set forth in section
+18-44
+of this Code.
+IV.
+Snow load.
+A.
+A THOW without a known destination will be required to have a roof live load of 120 psf.  If the THOW has a known location of installation, the live load can be determined using the LPC GIS map as provided in section
+18-36
+(R301.2.3).
+B.
+A site built tiny home, or a tiny home delivered and installed on a permanent foundation, shall be built to the snow/live load as shown on the LPC GIS map as provided in section
+18-36
+(R301.2.3).
+V.
+Minimum ceiling height.  Habitable space and hallways in tiny houses shall have a ceiling height of not less than 6 feet 8 inches. Bathrooms, toilet rooms, and
+kitchens
+shall have a ceiling height of not less than 6 feet 4 inches. Obstructions, including but not limited to, beams, girders, ducts, and
+lighting
+shall not extend below those minimum ceiling heights.
+VI.
+Exception: Ceiling heights in lofts are permitted to be less than 6 feet 8 inches.
+VII.
+Lofts.
+A.
+Minimum loft area. Lofts shall have a floor area of not less than 35 square feet.
+B.
+Minimum dimensions. Lofts shall  not be less than 5 feet in any horizontal dimension.
+C.
+Height effect on loft area.  Portions of a loft with a sloping ceiling measuring less than 3 feet from the finished floor to the finished ceiling shall not be considered as contributing to the minimum required square footage or horizontal dimensions for the loft.
+Exception: Under gable roofs with a minimum
+slope
+of 6:12, portions of a loft with a sloping ceiling measuring less than 16 inches from the finished floor to the finished ceiling shall not be considered as contributing to the minimum required area for the loft.
+D.
+Loft access. The access to and primary egress from lofts shall conform with the
+specifications
+set forth below in subsections E through P.
+E.
+Stairways.  Stairways accessing lofts shall comply with this Code or with the subsections E through K below.
+F.
+Width.  Stairways accessing a loft shall not be less than 17 inches in clear width at or above the handrail. The minimum width below the handrail shall be not less than 20 inches.
+G.
+Headroom.  The headroom in stairways accessing a loft shall be not less than 6 feet 2 inches, as measured vertically, from a sloped line connecting the tread or landing platform nosings in the middle of their width.
+H.
+Treads and risers. Risers for stairs accessing a loft shall not be less than 7 inches and not more than 12 inches in height. Tread depth and riser height shall be calculated in accordance with one of the following formulas:
+1.
+The tread depth shall be 20 inches minus 4/3 of the riser height, or
+2.
+The riser height shall be 15 inches minus 3/4 of the tread depth.
+I.
+Landing platforms. The top tread and riser of stairways accessing lofts shall be constructed as a landing platform where the loft ceiling height is less than 6 feet 2 inches where the stairway meets the loft. The landing platform shall be 18 inches to 22 inches in depth measured from the nosing of the landing platform to the edge of the loft, and 16 to 18 inches in height measured from the landing platform to the loft floor.
+J.
+Handrails.  Handrails shall comply with Section R311.7.8 of the 2015 International Residential Code.
+K.
+Stairway guards. Guards at open sides of stairways shall comply with Section R312.1 of the 2015 International Residential Code.
+L.
+Ladders. Ladders accessing lofts shall comply with subsections M and N below.
+M.
+Size and capacity.  Ladders accessing lofts shall have a rung width of not less than 12 inches, and 10 inches to 14 inches spacing between rungs. Ladders shall be capable of supporting a 200 pound load on any rung. Rung spacing shall be uniform within 3/8-inch.
+N.
+Incline.  Ladders shall be installed at 70 to 80 degrees from horizontal.
+O.
+Alternating tread devices. Alternating tread devices accessing lofts shall comply with Sections R311.7.11.1 and R311.7.11.2 of the 2015 International Residential Code. The clear width at and below the handrails shall be not less than 20 inches.
+P.
+Ships ladders. Ships ladders accessing lofts shall comply with Sections R311.7.12.1 and R311.7.12.2 of the 2015 International Residential Code. The clear width at and below handrails shall be not less than 20 inches.
+Q.
+Loft guards. Loft guards shall be located along the open side of lofts. Loft guards shall not be less than 36 inches in height or one-half of the clear height to the ceiling, whichever is less.
+VIII.
+Emergency escape and rescue openings. Tiny homes shall meet the requirements of Section R310 of the 2015 International Residential Code for emergency escape and rescue openings.
+Exception: Egress roof access windows in lofts used as sleeping rooms shall be deemed to meet the requirements of Section R310 of the 2015 International Residential Code, where installed such that the bottom of the opening is not more than 44 inches above the loft floor, provided the egress roof access window complies with the minimum opening area requirements of Section R310.2.1 of the 2015 International Residential Code.
+(Res. No. 2017-33,  10-10-2017)
+Effective on: 12/11/2017
+Sec. 18-38 Amendments and Deletions to the 2015 International Building Code
+As provided above in Section
+18-35
+, Chapter 1 of the 2015 International Building Code is deleted in its entirety and replaced by Section
+18-35
+of this Code. Otherwise, the 2015 International Building Code is adopted excepted as specified in this section.
+Contents:
+Section 1207  Sound Transmission
+Section 1608 Snow Loads
+Section 1612  Flood Loads
+Section 2303  Minimum [Wood] Standards and Quality
+Section 3109 Swimming Pool Enclosures and Safety Devices
+Appendices
+Section 1207
+Sound Transmission
+Section 1207 of the 2015 International Building Code is deleted in its entirety.
+Effective on: 12/11/2017
+Section 1608 Snow Loads
+Sections 1608.1 General, and 1608.2, Ground snow loads, are deleted in their entirety and replaced with the following:
+1608.1 General. Roof systems and assemblies shall be designed using the snow load information contained in Table R301.2.3
+of this Code.
+1608.2 Snow loads.  The loading represented in Table R301.2.3
+of this Code provides live load pounds per square foot load for areas and elevations in La Plata County.  The K3/K4 line shall be the 8000 foot elevation line, using the County GIS mapping of snow load.  Properties having more than one snow load shall use the highest load in the calculations.  Buildings in regions with live loads of 80 pounds per square foot or more may, at the discretion of the building official, be required to have the structure designed by a design professional.
+Effective on: 12/11/2017
+Section 1612
+Flood Loads
+Section 1612 of the 2015 International Building Code is deleted in its entirety and replaced with the following:
+Buildings or structures constructed or substantially improved within the Mapped Flood Hazard Zone must comply with the provisions of Chapter 78 of the La Plata County Code.
+Effective on: 12/11/2017
+Section 2303
+Minimum [Wood] Standards and Quality
+Section 2303.1.11 Structural log members, of the 2015 International Building Code is deleted in its entirety and replaced with the following:
+Stress grading of structural log members of nonrectangular shape, as typically used in log buildings, shall be in accordance with ASTM D 3957 (Standard Practices for Establishing Stress Grades for Structural Members Used in Log Buildings). Such structural log members shall be identified by the grade mark of an approved lumber grading or inspection agency. In lieu of a grade mark on the material, a certificate of inspection as to species and grade issued by a lumber grading or inspection agency meeting the requirements of this section shall be permitted. If log grading is not available, a structural engineer licensed in the State of Colorado will be permitted to inspect the logs and design the structure using the ungraded material.
+Effective on: 12/11/2017
+Section 3109
+Swimming Pool Enclosures and Safety Devices
+Section 3109.4 Residential swimming pools. Section 3109.4 of the 2015 International Building Code is deleted in its entirety and replaced with the following:
+Swimming pools, spas, hot tubs, wading pools, etc. associated with single family dwellings are exempt from Section 3109. Community swimming pools, spas, hot tubs, wading pools etc. are subject to all the provisions of Section 3109.
+Effective on: 12/11/2017
+Appendices
+The following Appendices of the 2015 International Building Code, adopted pursuant to Section
+18-32
+(II) of this Code, are hereby amended as noted:
+Appendix Chapter J: Grading.
+Sections J103 (Permits Required); J104 (Permit Applications and Submittals) and J105 (Inspections) are deleted in their entirety.
+Effective on: 12/11/2017
+Sec. 18-39  Adoption of the 2015 International Mechanical Code
+The volumes, parts, chapters, and appendices of the 2015 International Mechanical Code, as published by the International Code Council, together with the additions and deletions set forth in this section are hereby adopted pursuant to C.R.S. § 30-28-201(1).
+S
+ection 106
+Permits
+Section 106.5.2 Fee schedule. Section 106.5.2 of the 2015 International Mechanical Code is deleted in its entirety. Fees assessed pursuant to this Code shall be governed by section
+18-35
+(109).
+The following Sections 303.3.1 and 303.9 are added to this Article III to supplement the provisions of the 2015 International Mechanical Code:
+Section 303.3.1 LPG appliances. LPG appliances shall not be installed in a pit or an under-floor space which forms a pit.
+Section 303.9 Unvented room heaters. Unvented room heaters must be installed in accordance with Section 620 of the International Fuel Gas Code.
+Effective on: 12/11/2017
+Sec. 18-40
+Adoption of the 2015 International Plumbing Code
+The volumes, parts, chapters, and appendices of the 2015 International Plumbing Code, as published by the International Code Council, together with amendments and deletions as set forth in this section, are hereby adopted pursuant to C.R.S. § 30-28-201(1).
+(Res. No. 2017-33,  10-10-2017)
+Section 101
+General
+Section 101.3 Intent. Section 101.3 of the 2015 International Plumbing Code is amended to include the following paragraph:
+The intent of this Code is to meet or exceed the requirements of the State of Colorado Plumbing Code. When technical requirements, specifications or standards in the Colorado Plumbing Code conflict, the more restrictive technical requirement, specification, or standard shall apply.
+P106.6.2 Fee schedule. Section P106.6.2 of the 2015 International Plumbing Code is hereby deleted in its entirety. Fees assessed pursuant to this Code shall be governed by section
+18-35
+(109).
+Effective on: 12/11/2017
+Sec. 18-41 On-site Wastewater Treatment Systems
+On-site Wastewater Treatment Systems (OWTS) are governed by the On-site Wastewater Treatment Systems Act, C.R.S. § 25-10-101 et seq., the Colorado Water Quality
+Control
+Act, C.R.S. § 25-8-101 et seq., the regulations of the Colorado
+Department
+of Health and Environment (CDPHE) and San Juan Basin
+Public
+Health Department (
+SJBPH
+), and, where applicable, the Safe Drinking Water Act, 42 U.S.C. § 300f et seq. and its implementing regulations.
+OWTS serving
+residential
+buildings
+or
+structures
+and which have a design capacity of 2,000 gallons per day or less must operate pursuant to a
+permit
+issued by SJBPH 5 CCR 1002-43. Permits for OWTS with a design capacity of greater than 2,000 gallons per day are subject to review by the CDPHE. C.R.S. § 25-10-104(2); 5 CCR 1002-22.17. OWTS serving buildings or structures used for business,
+commercial
+,
+industrial
+, or institutional purposes, or multifamily
+dwellings
+, must be designed by a licensed
+engineer
+and may be subject to applicable inspection, permitting, and enforcement processes under the
+jurisdiction
+of the CDPHE or the United States Environmental Protection Agency (
+EPA
+).
+Issuance of a
+county
+building permit
+does not satisfy applicable laws or regulations requiring permitting and/or inspection of
+OWTS
+, and the County is not responsible for inspection, permitting, or enforcing
+OWTS
+pursuant to applicable state or federal law, or the regulations of the
+SJBPH
+or the
+CDPHE
+.
+Applicants
+for building permits which require design and installation of an
+OWTS
+are responsible for identifying and obtaining all permits which may be required pursuant to state or federal law.
+(Res. No. 2017-33,  10-10-2017)
+Effective on: 12/11/2017
+Sec. 18-42  Electrical Installation Requirement
+In addition to electrical code regulations and requirements as enforced by the Colorado State Electric Board, La Plata County will require electrical services to buildings and structures to be provided with outside main electrical service disconnect, as follows:
+Electric installations.  In addition to electric code regulations and requirements enforced by the Colorado State Electric Board, La Plata County will require electrical service to buildings and structures to be provided with an outside main electrical service disconnect.  This must be located on the exterior of the building or within 50 feet of the structure.
+(Res. No. 2017-33,  10-10-2017)
+Effective on: 12/11/2017
+Sec. 18-43
+Adoption of the 2015 International Fuel Gas Code
+The volumes, parts, chapters, and appendices of the 2015 International Fuel Gas Code, as published by the International Code Council, together with amendments, additions, and deletions as set forth in this section are hereby adopted pursuant to C.R.S. § 30-28-201(1).
+FG106.6.2 Fee schedule. Section FG106.6.2 of the 2015 International Fuel Gas Code is hereby deleted in its entirety. Fees assessed pursuant to this Code shall be governed by section
+18-35
+(109).
+(Res. No. 2017-33,  10-10-2017)
+Section 303 Appliance Locations
+Section FG303.3 Prohibited locations. Section FG303.3 of the 2015 International Fuel Gas Code is amended to include the following subsection:
+No propane appliances are allowed in a basement, crawlspace, or pit.
+Effective on: 12/11/2017
+Section 404 Piping Systems Installation
+Section FG404.12  Minimum burial depth. Section FG404.12 of the 2015 International Fuel Gas Code is deleted in its entirety and replaced with the following:
+Underground piping systems shall be installed a minimum depth of 18 inches below grade, except as provided for in Section 404.12.1.
+Exception 2 to Section FG404.17.1 Limitations. Exception 2 to Section FG404.17.1 of the 2015 International Fuel Gas Code is deleted in its entirety.
+Effective on: 12/11/2017
+Section 406
+Inspection, Testing and Purging
+Section 406.4.1 Test pressure. Section 406.4.1 of the 2015 International Fuel Gas Code is deleted in its entirety and replaced with the following:
+The test pressure to be used shall be not less than one and one-half (1.5) times the proposed maximum working pressure, but not less than 10 psig irrespective of design pressure.
+Effective on: 12/11/2017
+Section 503 Venting of Appliances
+Section 503.4.1 Plastic piping. Section 503.4.1 of the 2015 International Fuel Gas Code is supplemented with the following:
+If PVC or ABS is used for venting it shall be SCH 40 solid core for both the combustion air and the exhaust vents.  Combustion air and exhaust shall be pressure tested to 5 psi minimum with a 15 lb. ¼ inch increment air gauge or a method approved by the building official.
+Section 503.4.1.1 Plastic vent joints. Section 503.4.1.1 of the 2015 International Fuel Gas Code is deleted in its entirety and replaced with the following:
+Plastic pipe and fittings used to vent appliances shall be installed in accordance with the appliance manufacturer’s instructions. Primer is required and it shall be a contrasting color.
+Effective on: 12/11/2017
+Sec. 18-44 Adoption of the 2015 International Energy Conservation Code.
+The volumes, parts, chapters, and appendices of the
+IECC
+, as published by the International Code Council, together with additions and deletions as set forth in this section, are hereby adopted pursuant to C.R.S. § 30-28-201(1).
+(
+Res. No. 2017-33, § 18-44, 10/10/2017; Res. No. 2023-15, § 18-36, 06/06/2023
+)
+Section 107 Fees
+Section 107 Fee schedule. Section 107 of the
+IECC
+is hereby deleted in its entirety.  Fees assessed pursuant to this Code shall be governed by section
+18-35
+(109).
+(
+Res. No. 2023-15, §  06/06/2023
+)
+Effective on: 8/1/2023
+Section 403
+Building
+Thermal Envelope
+R403.6.2 Testing. Mechanical ventilation systems shall be tested and verified to provide the minimum ventilation flow rates required by section R403.6. Testing shall be performed according to the ventilation
+equipment
+manufacturer's instructions, or by using a flow hood or box, flow grid, or other airflow measuring device at the mechanical ventilation fan's inlet terminals or grilles, outlet terminals or grilles, or in the connected ventilation ducts. Where required by the
+code official
+, testing shall be conducted by an approved third party. A written report of the results of the test shall be signed by the party conducting the test and provided to the code official.
+Exception:
+Kitchen
+range hoods that are ducted to the outside with 6-inch (152 mm) or larger duct and not more than one-degree (1.57 rad) elbow or equivalent in the duct run.
+(
+Res. No. 2017-33, § 403, 10/10/2017; Res. No. 2023-15, § 403, 06/06/2023
+)
+Effective on: 8/1/2023
+Sec. 18-45.
+Appendix H Signs - Appendix H of the International Building Code
+Appendix H of the International Building Code is hereby amended to include the following:
+A building permit is not required for the construction or improvement of signs, but all signs constructed in the unincorporated portions of the County shall comply with Chapters 74 and 93, and section 98-2 of the La Plata County Code, and any subsequent amendments, revisions, or additions to those or other provisions of the La Plata County Code.
+(Res. No. 2017-33,  10-10-2017)
+Effective on: 12/11/2017

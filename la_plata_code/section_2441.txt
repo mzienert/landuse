@@ -1,0 +1,13 @@
+Chapter 18 BUILDINGS AND BUILDING REGULATIONS
+Article III. Building Codes and standards: Amendments, additions and deletions to the international codes
+Sec. 18-38 Amendments and Deletions to the 2015 International Building Code
+As provided above in Section
+18-35
+, Chapter 1 of the 2015 International Building Code is deleted in its entirety and replaced by Section
+18-35
+of this Code. Otherwise, the 2015 International Building Code is adopted excepted as specified in this section.
+Section 2303
+Minimum [Wood] Standards and Quality
+Section 2303.1.11 Structural log members, of the 2015 International Building Code is deleted in its entirety and replaced with the following:
+Stress grading of structural log members of nonrectangular shape, as typically used in log buildings, shall be in accordance with ASTM D 3957 (Standard Practices for Establishing Stress Grades for Structural Members Used in Log Buildings). Such structural log members shall be identified by the grade mark of an approved lumber grading or inspection agency. In lieu of a grade mark on the material, a certificate of inspection as to species and grade issued by a lumber grading or inspection agency meeting the requirements of this section shall be permitted. If log grading is not available, a structural engineer licensed in the State of Colorado will be permitted to inspect the logs and design the structure using the ungraded material.
+Effective on: 12/11/2017

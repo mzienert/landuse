@@ -1,0 +1,34 @@
+Chapter 70: General Site Development Standards Applicable to All Development
+Sec. 70-3 Sewage disposal
+Applicants shall document sewage disposal for a development through one (1) of the means described in subsections I through III of this section:
+I.
+Connection to existing system
+.
+A.
+Except for land uses specifically exempted elsewhere in this code, development located within four hundred (400) feet of an existing central sewer system shall connect to that system, unless the existing system's provider certifies the system lacks sufficient capacity to serve the proposed development, the connection would be technically impracticable, or the provider otherwise refuses to serve the proposed development. The distance from the proposed development to the applicable existing system shall be measured in a direct line from the nearest point on the development's property line to any main of the provider’s collection system.
+B.
+Binding commitment. At project submittal the applicant shall provide written confirmation from the existing sewer provider stating the provider has the physical and legal capacity to serve the development and is willing to provide sewer service sufficient for build-out of the proposed development, including all phases if multiple phases are contemplated. Prior to permit issuance or final plat recording, the applicant shall provide a binding commitment for service signed by the service provider (such as a perpetual, non-revocable tap reservation) or evidence of tap purchases from the service provider.
+II.
+Individual systems—approval required.
+Individual, on-site wastewater treatment systems shall comply with the applicable standards adopted by LPCPH. Confirmation of conformance to the standards shall be provided by LPCPH prior to project approval. OWTS with design capacity less than or equal to two thousand (2,000) GPD, including all permits, performance, location, construction, alteration, installation and use must be reviewed and approved by LPCPH. OWTS with a design capacity greater than two thousand (2,000) GPD must be reviewed and approved by CDPHE including site location and design approval in conformance with C.R.S. § 25-8-702; and discharge permit requirements in conformance with the Water Quality Control Act, C.R.S. § 25-8-501
+et seq.
+III.
+Common sewage disposal
+. If a common sewage disposal system is proposed, all detailed plans and specifications for such system shall be prepared by a registered professional engineer.
+A.
+The plans shall be submitted to the CDPHE and/or LPCPH, whose approval shall be required before a new common sewage disposal system may be created. A copy of the easement and maintenance agreement approved by LPCPH shall also be provided to the county.
+B.
+The applicant shall provide written certification from the professional engineer of the adequacy and safety of the proposed system including, but not limited to: the adequacy of the proposed system in relation to the topography of the proposed development, the proposed population density, soil conditions, and watersheds located on or draining into or over the proposed development. The certification shall appear on both the final plat and the detailed plans and specifications of the planned sewage disposal system.
+C.
+Construction specifications for the proposed sewage disposal system shall comply with the applicable guidelines of the American Public Works Association, the regulations of CDPHE, and the county.
+IV.
+Future connections in urbanizing areas
+. Developments located within a municipality’s adopted 3-mile planning area shall include utility easements along the development’s public road rights-of-way to provide the opportunity for future sewage service connections. The applicant shall consult with the municipality, or applicable municipal service provider, to determine the minimum width necessary for such easements, and their specific locations.
+(
+Res. No.
+2020-30
+, § 70-3, 09/15/2020; Res. No.
+2023-27
+, § 70-3, 11/21/2023
+)
+Effective on: 1/1/2024

@@ -1,0 +1,120 @@
+Chapter 74: Road and Bridge Standards and Permits
+Sec. 74-7 Bridge standards
+I.
+Minimum bridge width and load
+. Minimum bridge width and load capacity shall be designed and constructed  in conformance with Table 74-7.
+Table 74-7: MINIMUM BRIDGE WIDTH AND LOAD CAPACITY
+Type
+Clear Surface Width (feet)
+Minimum Load Capacity (lbs.)
+Arterial
+32
+AASHTO HL-93
+Collector
+30
+AASHTO HL-93
+Major Local
+26
+AASHTO HL-93
+Minor Local
+24
+AASHTO HL-93
+Low ADT Roads
+16
+75,000
+Driveways
+14
+75,000
+Table 74-7: MINIMUM BRIDGE WIDTH AND LOAD CAPACITY
+Type
+Clear Surface Width (feet)
+Minimum Load Capacity (lbs.)
+Arterial
+32
+AASHTO HL-93
+Collector
+30
+AASHTO HL-93
+Major Local
+26
+AASHTO HL-93
+Minor Local
+24
+AASHTO HL-93
+Low ADT Roads
+16
+75,000
+Driveways
+14
+75,000
+Table 74-7: MINIMUM BRIDGE WIDTH AND LOAD CAPACITY
+Type
+Clear Surface Width (feet)
+Minimum Load Capacity (lbs.)
+Arterial
+32
+AASHTO HL-93
+Collector
+30
+AASHTO HL-93
+Major Local
+26
+AASHTO HL-93
+Minor Local
+24
+AASHTO HL-93
+Low ADT Roads
+16
+75,000
+Driveways
+14
+75,000
+Table 74-7: MINIMUM BRIDGE WIDTH AND LOAD CAPACITY
+Type
+Clear Surface Width (feet)
+Minimum Load Capacity (lbs.)
+Arterial
+32
+AASHTO HL-93
+Collector
+30
+AASHTO HL-93
+Major Local
+26
+AASHTO HL-93
+Minor Local
+24
+AASHTO HL-93
+Low ADT Roads
+16
+75,000
+Driveways
+14
+75,000
+*The minimum load capacity (working or live load) shall be seventy-five thousand (75,000) pounds, minimum front single axle = 24,000 pounds; minimum rear single axle = 60,000 pounds, to accommodate emergency response vehicles. The owner’s professional engineer shall ensure the bridge will safely accommodate the ultimate load anticipated throughout the life of the structure.
+A.
+HL-93 design shall be in accordance with the current version of the AASHTO LRFD Bridge Design Specification.
+B.
+All developments, uses and applicants for a driveway permit that includes a bridge shall submit plans certified by a professional engineer.
+C.
+Bridge structures shall be designed to convey no less than a twenty-five (25) year flood event with a minimum of two (2) foot of freeboard and should, to the maximum extent feasible, be designed for a one hundred (100) year flood. The public works director or planning engineer may require the bridge to convey a larger storm event if it provides access to a critical facility. If a bridge is to be constructed in the one hundred (100) year floodplain, all applicable floodplain regulations and codes apply, including the need to submit a Letter of Map Revision to FEMA for review and acceptance and the need to obtain a Floodplain Hazard Permit from the county.
+D.
+If a bridge is not designed for the AASHTO HL-93 load capacity, the load capacity shall be posted at both entrances to the bridge and shall be based on a certification by a professional engineer.
+E.
+Culverts over forty-eight (48) inches in diameter or equivalent shall be designed by a professional engineer to convey a twenty-five (25) year flood event or designated irrigation flow.
+F.
+Bridge structures and large culverts crossing irrigation ditches shall be consistent with the hydraulic requirements of the ditch company. The ditch company shall be consulted regarding all proposed designs and written consent of the ditch company and payment of applicable crossing fees may be required. The schedule for any proposed modifications that may disrupt the flow of water must be referred to the ditch owner for review and comment.
+II.
+Vehicular bridges
+. Vehicular bridges shall be constructed according to CDOT’s Standard Specifications for Road and Bridge Specifications.
+III.
+Railings
+. Bridge rails, pedestrian walkways, and railings shall meet CDOT M-standards for bridge rails and shall include adequate end anchorages for the applicable speed and traffic volumes. Alternate bridge rail designs, designed by a professional engineer, may be approved by the public works director or planning engineer.
+(
+Res. No.
+2020-30
+, § 74-7, 09/15/2020; Res. No.
+2023-19
+, § 74-7, 07/11/2023
+)
+Effective on: 7/11/2023

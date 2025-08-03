@@ -1,0 +1,144 @@
+Chapter 67 Division of Land
+Chapter 67 - Technical Appendix
+Section 67-15 Plat Preparation and Monumentation Standards
+I.
+Survey data
+A.
+All plats shall comply with state standards for survey accuracy, in accordance with C.R.S. § 38-51-101 et seq., as amended and all state law, including but not limited to C.R.S. § 38-50-101 et seq. and all laws, rules, and policies of the Department of Regulatory Agencies, State Board of Licensure for Architects, Professional Engineers and Professional Land Surveyors (“Board Rules”).
+B.
+The plat shall be signed, stamped, and certified by a professional land surveyor licensed to do such work in the State of Colorado.
+C.
+The final plat for recording shall be delineated on a waterproof, reproducible medium such as mylar, polypropylene or similar medium which is twenty-four (24) inches by thirty-six (36) inches in size. The margins shall be at least two (2) inch on the left or top, and half (1/2) inch on all other borders. The mylar shall be at a minimum three-mil thick.
+D.
+The following information shall be clearly and legibly shown on the plat. Sufficient data shall be provided to enable the reestablishment of the lines on the ground.
+1.
+Outer boundaries of the subdivision:
+a.
+Bearings, distances, and curve data of all perimeter boundary lines should be indicated outside the boundary line with a minimum font size of 0.10”.
+b.
+On curved boundaries, circular curve data shall include radius of curve, central angle, arc length, chord bearing and distance, and notation of non-tangent curves.
+c.
+Distances to one hundredths of a foot, and angles and bearings shall be shown to seconds of arc. Areas shall be shown to one thousandth of an acre.
+d.
+Description of all monuments, both found and set, which mark the boundaries of the subdivision, and all control monuments used in conducting the survey, in accordance with Board Rule 6.13.
+e.
+The location with dimensions of any witness corners or reference monuments.
+f.
+Bearings and distances to controlling monuments shall be shown.
+g.
+Any conflicting boundary evidence.
+h.
+Areas of conflict or overlapping deed descriptions shall be clearly identified.
+2.
+When measured dimensions differ from recorded dimensions, clearly indicate both on the final plat.
+3.
+Evidence of possession on the ground (fences, walls, structures, etc.).
+E.
+The centerline of roads shall be shown by bearing and distance and curve data, along with right-of-way widths.
+F.
+Distances to one hundredths of a foot, and angles and bearings shall be shown to seconds of arc.
+G.
+Easements:
+1.
+Easements created by the subdivision plat shall show sufficient information to establish the location on the ground.
+2.
+Existing recorded easements may be shown with reference to their reception number.
+3.
+Lot line easements that are shown shall be dimensioned by indicating the width compared to the lot line.
+H.
+Building envelopes and platted setback lines: If the plat designates building envelopes or required setback lines, they shall be fully dimensioned and include ties to the lot perimeter.
+II.
+Lots, tracts, and common areas
+A.
+All lots shall be identified and numbered. All lots are to be numbered progressively and in a logical fashion. Block numbers shall not be used.
+B.
+Bearings, distances, and curve data of all lot and tract lines should be indicated with a minimum font size of 0.08”.
+C.
+On curved boundaries, circular curve data shall include radius of curve, central angle, arc length, chord bearing and distance, and notation of non-tangent curves.
+D.
+Distances to one hundredths of a foot, and angles and bearings shall be shown to seconds of arc.
+E.
+The area of each lot, tract, and parcel shown to one thousandth of an acre or to one square foot.
+F.
+Description of all monuments in accordance with Board Rule 6.13.
+G.
+The location with dimensions of any witness corners or reference monuments
+H.
+Accurate angular and lineal dimensions for all lines, angles, curves and arcs used to describe boundaries, streets, alleys, easements, areas to be reserved for public use, and other important features shall be labeled. Inclusion of a curve data chart is optional.
+I.
+Perimeter subdivision lines shall be labeled with the distance and bearing to the public land survey system. Closure shall be in accordance with ALTA/NSPS Standards.
+J.
+True angles and distances to the nearest established streets, lines or official monuments shall be accurately described with appropriate symbols.
+K.
+The accurate location and description of all monuments are to be shown by the appropriate symbol, including all federal, state, county or other official benchmarks, monuments or triangulation stations in, or adjoining, the property shall be preserved in their precise position. Monument reports for all applicable corners shall be filed with the county clerk and recorder.
+L.
+All monumentation, including lot corners, angle points and points of curvature shall be set at a minimum with a durable metallic surveyor's cap attached to a five-eighths (5/8) inch × twenty four (24) inch rebar. The surveyor's cap shall be stamped with the state registration number of the professional land surveyor responsible for the establishment of the monument. A stream, creek, river or shoreline is itself a natural monument and each angle point is not required to be monumented. If townhome or condominium foundations or walls are lot or unit boundaries, the foundation or wall shall serve as the monument.
+M.
+In addition to any other requirements of a plat permitted or required by this code, all plats shall meet the minimum standards for land survey plats, as defined in C.R.S. §§ 38-51-102 and 38-51-106 and shall include all recorded or apparent rights-of-way and easements.
+III.
+Condominium and townhouse plats
+In addition to the items listed above, condominium and townhome plats shall contain the following pursuant to C.R.S. § 38-33.3-209,
+Plats and M
+aps. Each map must contain a certification that the map contains all the information required by C.R.S. § 38-33.3-209.
+A.
+Each condominium map must show:
+1.
+The name general schematic plan of the common interest;
+2.
+The location and dimensions of the exterior of the buildings with ties to the external boundary of the property;
+3.
+The units identifying number and the location of each units’ boundaries with all horizontal and vertical dimensions of each unit's perimeter;
+4.
+A basis of elevation and an on-site permanent benchmark tied to an existing NAVD benchmark;
+5.
+Floor elevations for each floor, ceiling heights, common wall and exterior wall width dimensions;
+6.
+The location and dimensions of limited common elements, including porches, balconies, patios, yards, and designated LCE parking spaces;
+7.
+The depiction of all general common elements;
+8.
+Building elevations, including front, side, and rear views;
+9.
+Any units in which the declarant has reserved the right to create additional units or common elements, identified appropriately;
+10.
+A reference to the recorded declaration of condominium.
+B.
+Townhouse plat must show:
+1.
+The name and a general schematic plan of the entire common interest community;
+2.
+The units identifying number and the location and dimensions of the boundary of the unit with ties to the external boundary of the property;
+3.
+The location and dimensions of limited common elements, including porches, balconies, patios, yards, and designated LCE parking spaces;
+4.
+The depiction of all general common elements;
+5.
+Any units in which the declarant has reserved the right to create additional units or common elements, identified appropriately;
+6.
+A reference to the recorded declaration;
+7.
+Monuments are required to be set at all unit boundary corners that are not defined as being the corners of the building structure.
+IV.
+Monumentation of subdivisions.
+A.
+Prior to the recording of the subdivision final plat, monuments shall be set by the professional land surveyor preparing the plat on the external boundaries of the subdivision no more than one thousand four hundred (1400) feet apart along any straight boundary line, at all angle points, at the beginning, end, and points of change of direction or change of radius of any curved boundaries, and at the beginning and end of any spiral curve.
+B.
+Monuments shall be a minimum of a one and one-half (1½) inch diameter durable metallic surveyor’s cap attached to a minimum of a five-eighths (5/8) inch × twenty-four (24) inch rebar. The surveyor’s cap shall be stamped with the state registration number of the professional land surveyor responsible for the establishment of the monument. Found monuments that are not aliquot corners and do not meet the above described standards shall be fully described on the plat, but they are not required to be upgraded if they are reasonably durable.
+C.
+Any monument for a section corner, quarter corner, sixteenth corner, GLO lot corner, or any corner established by a Public Land Survey Monument shall be monumented with a minimum of a two (2) inch metallic cap on a three-fourths (3/4) inch x thirty (30) inch rebar. If an existing corner is found that is smaller than a five-eighths (5/8) inch diameter, it must be upgraded (Board Rules 6.4.1.1 and 6.4.1.2). If a found monument has no cap, or a cap that is not a durable metallic cap, or a cap less than one and one-half (1½) inch diameter, a two (2) inch minimum durable metallic cap must be attached (Board Rule 6.4.2.3).
+D.
+Monuments in rock outcroppings or in concrete shall meet the requirements of Board Rule 6.4.2.4.
+E.
+For monuments landing in adverse terrain a witness corner or reference monument shall be set in accordance to Board Rule 6.4.2.5.
+F.
+If a monument is set that represents the same corner or control corner of an existing monument, the professional land surveyor setting the new monument shall make a note of the reason the professional land surveyor did not accept the existing monument (Board Rule 6.5.4.1).
+G.
+Monumentation of natural water boundaries: A stream, creek, river or shoreline is itself a natural monument. Where a riparian boundary is described as the thread of a non-navigable stream or to some water boundary, no further artificial monumentation is required (Board Rule 6.5.4.2).
+H.
+In addition to any other requirements of a plat permitted or required by this code, all plats shall meet the minimum standards for land survey plats, as defined in C.R.S. §§ 38-51-102 and 38-51-106 and shall depict all recorded or apparent rights-of-way and easements.
+(
+Res. No.
+2020-30
+, § Appendix, 09/15/2020
+)
+Effective on: 10/1/2020

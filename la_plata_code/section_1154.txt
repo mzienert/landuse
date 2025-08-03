@@ -1,0 +1,558 @@
+Chapter 78 FLOODS
+FOOTNOTE(S):
+Editor's note—
+Res. No. 2010-37, § 1(Exh. A), adopted July 20, 2010, repealed and reenacted chapter 78 in its entirety to read as herein set out. Formerly, chapter 78 pertained to similar subject matter, and derived from LPLUS, §§ 9.1.1—9.1.4, 9.2, 9.3.1—9.3.9, 9.4.1—9.4.3, 9.5.1—9.5.4, 9.6.1, 9.6.2; Res. No. 2001-14, Exh. A, adopted April 16, 2001; Res. No. 2002-43, § 1, adopted October 7, 2002; Res. No. 2004-20, § 1, adopted June 28, 2004, and Res. No. 2008-30, § 1, adopted November 12, 2008.
+Cross reference—
+Buildings
+and building regulations, ch. 18;
+development
+standards and specifications, ch. 74; land
+use
+and development
+permits
+, ch. 82;
+manufactured home
+, and
+recreational vehicle parks
+, ch. 86; natural resources, ch. 90;
+subdivisions
+, ch. 102; zoning, ch. 106.
+State Law reference—
+Authority to adopt
+flood
+control
+regulations, C.R.S. §§ 29-20-101 et seq., 30-15-401.
+ARTICLE II. FLOODPLAIN MANAGEMENT REGULATIONS
+FOOTNOTE(S):
+Editor's note—
+Res. No. 2014-30, § 1(Exh. A), adopted August 5, 2014, amended article II in its entirety to read as herein set out. Formerly, article II pertained to similar subject matter, and derived from Res. No. 2010-37, § 1(Exh. A), adopted July 20, 2010.
+DIVISION 1. GENERALLY
+Contents:
+Sec. 78-16. Findings of fact.
+Sec. 78-17. Statutory authorization.
+Sec. 78-18. Statement of purpose.
+Sec. 78-19. Methods of reducing flood losses.
+Sec. 78-20. Definitions
+Sec. 78-21. Lands to which this chapter applies.
+Sec. 78-22. Adoption of maps and studies.
+Sec. 78-23. Basis for establishing the areas of special flood hazard.
+Sec. 78-24. Amendments.
+Sec. 78-25. Warning and disclaimer of liability.
+Sec. 78-26. Interpretation.
+Sec. 78-27. Validity of prior regulations.
+Sec. 78-28. Compliance.
+Sec. 78-29. Abrogation and greater restrictions.
+Sec. 78-30. Penalty for violation of article.
+Sec. 78-31. Separate offenses.
+Sec. 78-32. Severability and validity.
+Sec. 78-33. Establishment of floodplain development permit.
+Secs. 78-34—78-49. Reserved.
+Sec. 78-16. Findings of fact.
+I.
+The
+flood
+hazard areas of the
+county
+are subject to periodic inundation which results in loss of life and property, health and safety hazards, disruption of commerce and governmental services, extraordinary public expenditures for flood protection and relief, and impairment of the tax base, all of which adversely affect the public health, safety and general welfare.
+II.
+These flood losses are caused by the cumulative effect of obstructions in areas of special flood hazards which increase flood heights and velocities, and when inadequately anchored, damage uses in other areas. Uses that are inadequately flood-proofed, elevated or otherwise protected from flood damage also contribute to the flood loss.
+Res. No.
+2014-30
+, § 1, 08/05/2014
+Effective on: 8/5/2014
+Sec. 78-17. Statutory authorization.
+This chapter is adopted pursuant to C.R.S. §§ 29-20-101 et seq., and 30-15-401 et seq.
+Res. No.
+2014-30
+, § 1, 08/05/2014
+Effective on: 8/5/2014
+Sec. 78-18. Statement of purpose.
+The intent and purpose of this chapter is to promote the public health, safety and general welfare and to minimize public and private losses due to
+flood
+conditions in specific areas by provisions designed to:
+I.
+Protect human life and health;
+II.
+Minimize expenditure of public money for costly flood
+control
+projects
+;
+III.
+Minimize the need for rescue and relief efforts associated with flooding and generally undertaken at the expense of the general public;
+IV.
+Minimize prolonged business interruptions;
+V.
+Minimize damage to
+critical facilities
+, infrastructure and other public
+facilities
+such as water, sewer and gas mains; electric and communications stations; and streets and bridges located in
+floodplains
+;
+VI.
+Help maintain a stable tax base by providing for the sound
+use
+and
+development
+of flood-prone areas in such a manner as to minimize future flood blight areas; and
+VII.
+Insure that potential buyers are notified that property is located in a flood hazard area.
+Res. No.
+2014-30
+, § 1, 08/05/2014
+Effective on: 8/5/2014
+Sec. 78-19. Methods of reducing flood losses.
+In order to accomplish its purposes, this chapter includes methods and provisions for:
+I.
+Restricting or prohibiting uses that are dangerous to health, safety or property in times of
+flood
+, or cause excessive increases in flood heights or velocities;
+II.
+Requiring that uses vulnerable to floods, including
+facilities
+which serve such uses, be protected against flood damage at the time of initial
+construction
+;
+III.
+Controlling the alteration of natural
+floodplains
+, stream
+channels
+and natural protective barriers, which help accommodate or channel floodwaters;
+IV.
+Controlling filling, grading, dredging and other
+development
+which
+may
+increase flood damage; and
+V.
+Preventing or regulating the construction of flood barriers that will unnaturally divert floodwaters or may increase flood hazards in other areas.
+Res. No.
+2014-30
+, § 1, 08/05/2014
+Effective on: 8/5/2014
+Sec. 78-20. Definitions
+The following words, terms and phrases, when used in this chapter,
+shall
+have the meanings ascribed to them in this section, except where the context clearly indicates a different meaning. If not defined below, words or phrases used in this chapter shall be interpreted first to give them the meaning as defined in chapter 62 of the code and then, if such term is also not defined in chapter 62, the common usage that gives this chapter its most reasonable application.
+(
+Res. No.
+2014-30
+, § 1, 08/05/2014
+)
+(
+Ord. No.
+2024-02
+, §  03/12/2024
+)
+100-year flood
+means a flood having a recurrence interval that has a one-percent chance of being equaled or exceeded during any given year (1-percent-annual-chance flood). The terms "100-year flood," "one percent chance flood" and "base flood" are synonymous with the term "100-year flood." The term does not imply that the flood will necessarily happen once every
+100
+years.
+Effective on: 8/5/2014
+100-year floodplain
+means the area of land susceptible to being inundated as a result of the occurrence of a 100-year flood.
+Effective on: 8/5/2014
+500-year flood
+means a flood having a recurrence interval that has a 0.2-percent chance of being equaled or exceeded during any given year (0.2-percent-chance-annual-flood). The term does not imply that the flood will necessarily happen once every 500 years.
+Effective on: 8/5/2014
+500-year floodplain
+means the area of land susceptible to being inundated as a result of the occurrence of a 500-year flood.
+Effective on: 8/5/2014
+Addition
+means any activity that expands the enclosed footprint or increases the square footage of an existing structure.
+Effective on: 8/5/2014
+Alluvial fan flooding
+means a fan-shaped sediment deposit formed by a stream that flows from a steep mountain valley or gorge onto a plain or the junction of a tributary stream with the main stream. Alluvial fans contain active stream channels and boulder bars, and recently abandoned channels. Alluvial fans are predominantly formed by alluvial deposits and are modified by infrequent sheet flood, channel avulsions and other stream processes.
+Effective on: 8/5/2014
+Area of shallow flooding
+means a designated Zone AO or AH on a community's flood insurance rate map (FIRM) with a one-percent chance or greater annual chance of flooding to an average depth of one to three feet where a clearly defined channel does not exist, where the path of flooding is unpredictable and where velocity flow may be evident. Such flooding is characterized by ponding or sheet flow.
+Effective on: 8/5/2014
+Area of special flood hazard means the land in the floodplain within a community subject to a one percent or greater chance of flooding in any given year; i.e., subject to 100-year flood. See "100-year flood."
+Effective on: 8/5/2014
+Base flood
+means a flood having one-percent chance of being equaled or exceeded in any year. The term is used interchangeably with the intermediate regional flood, the 100-year flood, and the one-percent flood.
+Effective on: 8/5/2014
+Base flood elevation
+means the elevation shown on a FEMA Flood Insurance Rate Map for Zones AE, AH, A1-A30, AR, AR/A, AR/AE, AR/A1-A30, AR/AH, AR/AO, V1-V30, and VE that indicates the water surface elevation resulting from a flood that has a one-percent chance of equaling or exceeding that level in any given year.
+Effective on: 8/5/2014
+Basement
+means any area of a building having its floor sub-grade (below ground level) on all sides.
+Effective on: 8/5/2014
+Channel means the physical confine of stream or waterway consisting of a bed and stream banks, existing in a variety of geometries.
+Effective on: 8/5/2014
+Channelization
+means the artificial creation, enlargement or realignment of a stream channel.
+Effective on: 8/5/2014
+Code of Federal Regulations (CFR)
+means the codification of the general and permanent rules published in the federal register by the executive departments and agencies of the federal government. It is divided into 50 titles that represent broad areas subject to federal regulation.
+Effective on: 8/5/2014
+Community
+means any political subdivision of the state of Colorado that has authority to adopt and enforce floodplain management regulations through zoning, including, but not limited to, cities, towns, unincorporated areas in the counties, Indian tribes and drainage and flood control districts.
+Effective on: 8/5/2014
+Conditional letter of map revision (CLOMR)
+means FEMA's comment on a proposed project, which does not revise an effective floodplain map, which would, upon construction, affect the hydrologic or hydraulic characteristics of a flooding source and thus result in the modification of the existing regulatory floodplain.
+Effective on: 8/5/2014
+Critical facility
+means a structure or related infrastructure, but not the land on which it is situated, as specified in Rule 6 of the Rules and Regulations for Regulatory Floodplains in Colorado, that if flooded may result in significant hazards to public health and safety or interrupt essential services and operations for the community at any time before, during and after a flood.
+Ord. No. 2024-02, §  03/12/2024
+Effective on: 4/25/2024
+Development
+means any man-made change to improved or unimproved real estate including, but not limited to, buildings or other structures, mining, dredging, filling, grading, paving, excavation, drilling operations or storage of equipment or materials.
+Effective on: 8/5/2014
+DFIRM database
+means database (usually spreadsheets containing data and analyses that accompany DFIRMs). The FEMA Mapping Specifications and Guidelines outline requirements for the development and maintenance of DFIRM databases.
+Effective on: 8/5/2014
+Digital flood insurance rate map (DFIRM)
+means a FEMA digital floodplain map. These digital maps serve as "regulatory floodplain maps" for insurance and floodplain management purposes.
+Effective on: 8/5/2014
+Elevated building
+means a non-basement building (i) built, in the case of a building in Zones A1-30, AE, A, A99, AO, AH, B, C, X, and D, to have the top of the elevated floor above the ground level by means of pilings, columns (posts and piers), or shear walls parallel to the flow of the water and (ii) adequately anchored so as not to impair the structural integrity of the building during a flood of up to the magnitude of the base flood. In the case of Zones A1-30, AE, A, A99, AO, AH, B, C, X, and D, "elevated building" also includes a building elevated by means of fill or solid foundation perimeter walls with openings sufficient to facilitate the unimpeded movement of flood waters.
+Effective on: 8/5/2014
+Existing manufactured home park
+or subdivision means a manufactured home park or subdivision for which the construction of facilities for servicing the lot on which the manufactured homes are to be affixed (including, at a minimum, the installation of utilities, either final site grading or the pouring of concrete pads, and the construction of streets) is completed before the effective date of the floodplain management regulations adopted by the county.
+Effective on: 8/5/2014
+Expansion to an existing manufactured home park
+or subdivision means the preparation of additional sites by the construction of facilities for servicing the lots on which the manufactured homes are to be affixed (including the installation of utilities, the construction of streets, and either final site grading or pouring of concrete pads).
+Effective on: 8/5/2014
+Federal register
+means the official daily publication for rules, proposed rules, and notices of federal agencies and organizations, as well as executive orders and other presidential documents.
+Effective on: 8/5/2014
+FEMA
+means the Federal Emergency Management Agency, the agency responsible for administering the National Flood Insurance Program.
+Effective on: 8/5/2014
+Flood
+or flooding means a general and temporary condition of partial or complete inundation of normally dry land areas from:
+I.
+The overflow of water from channels and reservoir spillways;
+II.
+The unusual and rapid accumulation or runoff of surface waters from any source; or
+III.
+Mudslides or mudflows that occur from excess surface water that is combined with mud or other debris that is sufficiently fluid so as to flow over the surface of normally dry land areas (such as earth carried by a current of water and deposited along the path of the current).
+Effective on: 8/5/2014
+Flood fringe
+means that area of the floodplain exclusive of the floodway area, plus that portion of the floodplain that could be completely obstructed without increasing the water surface elevation of the base flood more than one foot at any point. Where no floodway has been determined, the flood fringe shall be considered to be that portion of the floodplain in which the waters of a base flood will not attain a maximum depth greater than one and one-half feet or a velocity of over three feet per second.
+Effective on: 8/5/2014
+Flood insurance rate map (FIRM)
+means the official map on which FEMA has delineated both the special flood hazards areas and the risk premium zones applicable to the community.
+Effective on: 8/5/2014
+Flood insurance study (FIS)
+means the official report provided by FEMA that includes flood profiles, the flood boundary-floodway map, and the water surface elevation of the base flood.
+Effective on: 8/5/2014
+Floodplain
+or flood-prone area means any land area susceptible to being inundated as the result of a flood, including the area of land over which floodwater would flow from the spillway of a reservoir.
+Effective on: 8/5/2014
+Floodplain administrator
+means the community official designated by title to administer and enforce the floodplain management regulations.
+Effective on: 8/5/2014
+Floodplain development permit
+means a permit required before construction or development begins within any special flood hazard area (SFHA). If FEMA has not defined the SFHA within a community, the community shall require permits for all proposed construction or other development in the community including the placement of manufactured homes, so that it may determine whether such construction or other development is proposed within flood-prone areas. Permits are required to ensure that proposed development projects meet the requirements of the NFIP and this floodplain management ordinance.
+Effective on: 8/5/2014
+Floodplain management
+means the operation of an overall program of corrective and preventive measures for reducing flood damage, including but not limited to emergency preparedness plans, flood control works and floodplain management regulations.
+Effective on: 8/5/2014
+Floodplain management regulations
+means zoning ordinances, subdivision regulations, building codes, health regulations, special purpose ordinances (such as a floodplain ordinance, grading ordinance and erosion control ordinance) and other applications of police power. The term describes such state or local regulations, in any combination thereof, which provide standards for the purpose of flood damage prevention and reduction.
+Effective on: 8/5/2014
+Flood control structure
+means a physical structure designed and built expressly or partially for the purpose of reducing, redirecting, or guiding flood flows along a particular waterway. These specialized flood modifying works are those constructed in conformance with sound engineering standards.
+Effective on: 8/5/2014
+Flood proofing
+means any combination of structural and non-structural additions, changes, or adjustments to structures which reduce or eliminate flood damage to real estate or improved real property, water and sanitary facilities, structures and their contents.
+Effective on: 8/5/2014
+Floodway (regulatory floodway)
+means the channel of a river or other watercourse and adjacent land areas that must be reserved in order to discharge the base flood without cumulatively increasing the water surface elevation more than a designated height. The Colorado statewide standard for the designated height to be used for all newly studied reaches shall be one-half foot (six inches). Letters of map revision to existing floodway delineations may continue to use the floodway criteria in place at the time of the existing floodway delineation.
+Effective on: 8/5/2014
+Freeboard
+means the vertical distance in feet above a predicted water surface elevation intended to provide a margin of safety to compensate for unknown factors that could contribute to flood heights greater than the height calculated for a selected size flood such as debris blockage of bridge openings and the increased runoff due to urbanization of the watershed.
+Effective on: 8/5/2014
+Functionally dependent use
+means a use which cannot perform its intended purpose unless it is located or carried out in close proximity to water. The term includes only docking facilities, port facilities that are necessary for the loading and unloading of cargo or passengers, and ship building and ship repair facilities, but does not include long-term storage or related manufacturing facilities.
+Effective on: 8/5/2014
+Highest adjacent grade
+means the highest natural elevation of the ground surface prior to construction next to the proposed walls of a structure.
+Effective on: 8/5/2014
+Historic structure
+means any structure that is:
+I.
+Listed individually in the National Register of Historic Places (a listing maintained by the department of interior) or preliminarily determined by the secretary of the interior as meeting the requirements for individual listing on the National Register;
+II.
+Certified or preliminarily determined by the secretary of the interior as contributing to the historical significance of a registered historic district or a district preliminarily determined by the secretary to qualify as a registered historic district;
+III.
+Individually listed on a state inventory of historic places in states with historic preservation programs which have been approved by the secretary of interior; or
+IV.
+Individually listed on a local inventory of historic places in communities with historic preservation programs that have been certified either:
+A.
+By an approved state program as determined by the secretary of the interior; or
+B.
+Directly by the secretary of the interior in states without approved programs.
+Effective on: 8/5/2014
+Letter of map revision (LOMR)
+means FEMA's official revision of an effective flood insurance rate map (FIRM), or flood boundary and floodway map (FBFM), or both. LOMRs are generally based on the implementation of physical measures that affect the hydrologic or hydraulic characteristics of a flooding source and thus result in the modification of the existing regulatory floodway, the effective base flood elevations (BFEs), or the special flood hazard area (SFHA).
+Effective on: 8/5/2014
+Letter of map revision based on fill (LOMR-F)
+means FEMA's modification of the special flood hazard area (SFHA) shown on the flood insurance rate map (FIRM) based on the placement of fill outside the existing regulatory floodway.
+Effective on: 8/5/2014
+Levee
+means a man-made embankment, usually earthen, designed and constructed in accordance with sound engineering practices to contain, control, or divert the flow of water so as to provide protection from temporary flooding. For a levee structure to be reflected on the FEMA FIRMs as providing flood protection, the levee structure must meet the requirements set forth in 44 CFR 65.
+10.
+Effective on: 8/5/2014
+Levee system
+means a flood protection system which consists of a levee, or levees, and associated structures, such as closure and drainage devices, which are constructed and operated in accordance with sound engineering practices.
+Effective on: 8/5/2014
+Lowest floor
+means the lowest floor of the lowest enclosed area (including the basement). Any floor used for living purposes which includes working, storage, sleeping, cooking and eating, or recreation or any combination thereof. This includes any floor that could be converted to such a use such as a basement or crawl space. The lowest floor is a determinate for the flood insurance premium for a building, home or business. An unfinished or flood resistant enclosure, usable solely for parking or vehicles, building access or storage in an area other than a basement area is not considered a building's lowest floor; provided that such enclosure is not built so as to render the structure in violation of the applicable non-elevation design requirement of Section 60.3 of the National Flood Insurance Program regulations.
+Effective on: 8/5/2014
+Manufactured home
+means a structure, transportable in one or more sections, which is built on a permanent chassis and is designed for use with or without a permanent foundation when connected to the required utilities. This term "manufactured home" does not include a "recreational vehicle" unless determined to be used as a permanent dwelling per La Plata County Code, Chapter 18, Article IV.
+Ord. No. 2024-02, §  03/12/2024
+Effective on: 4/25/2024
+Manufactured home park
+or subdivision means:
+I.
+A parcel of land used for placement of manufactured homes, or contiguous parcels of land used for placement of manufactured homes which, if held in individual ownership, are operated as a single entity by a planned unit development, development approved under subpart B of this Code, homeowners association, or other ownership organization for provision of common utilities and service, and meeting the definition of a manufactured home park as to the number of manufactured home sites or spaces contained therein as specified in the land use system in effect at the time of the transaction governed by this chapter.
+II.
+For purposes of the definition of an existing manufactured home park or subdivision, a single parcel of ground on which manufactured home lots or spaces are rented for placement and occupancy of manufactured homes shall be considered to be a manufactured home park, if it meets the other criteria set forth in this definition, regardless of the number of spaces contained therein.
+Effective on: 8/5/2014
+Mean sea level
+means for purposes of the National Flood Insurance Program, the North American Vertical Datum (NAVD) of 1988 or other datum, to which base flood elevations shown on a community's flood insurance rate map are referenced.
+Effective on: 8/5/2014
+Material safety data sheet (MSDS)
+means a form with data regarding the properties of a particular substance. An important component of product stewardship and workplace safety, it is intended to provide workers and emergency personnel with procedures for handling or working with that substance in a safe manner, and includes information such as physical data (melting point, boiling point, flash point, etc.), toxicity, health effects, first aid, reactivity, storage, disposal, protective equipment, and spill-handling procedures.
+Effective on: 8/5/2014
+National flood insurance program (NFIP)
+means FEMA's program of flood insurance coverage and floodplain management administered in conjunction with the Robert T. Stafford Relief and Emergency Assistance Act. The NFIP has applicable Federal regulations promulgated in Title 44 of the Code of Federal Regulations. The U.S. Congress established the NFIP in 1968 with the passage of the National Flood Insurance Act of 1968.
+Effective on: 8/5/2014
+New construction
+means structures for which the start of construction commenced on or after the effective date of the regulations from which this chapter has been derived.
+Effective on: 8/5/2014
+New manufactured home park
+or manufactured home subdivision means a manufactured home park or subdivision for which the construction of facilities for servicing the lots on which the manufactured homes are to be affixed (including at minimum, the installation of utilities, the construction of streets, and either final site grading or the pouring of concrete pads) is completed on or after the effective date of floodplain management regulations adopted by the county.
+Effective on: 8/5/2014
+Nonconforming use
+means any structure, development or land use in existence on the effective date of the regulations from which this chapter was derived and not permitted under the terms and provisions of this chapter.
+Effective on: 8/5/2014
+No-rise certification
+means a record of the results of an engineering analysis conducted to determine whether a project will increase flood heights in a floodway. A no-rise certification must be supported by technical data and signed by a registered Colorado Professional Engineer. The supporting technical data should be based on the standard step-backwater computer model used to develop the 100-year floodway shown on the flood insurance rate map (FIRM) or flood boundary and floodway map (FBFM).
+Effective on: 8/5/2014
+Physical map revision (PMR)
+means FEMA's action whereby one or more map panels are physically revised and republished. A PMR is used to change flood risk zones, floodplain and/or floodway delineations, flood elevations, and/or planimetric features.
+Effective on: 8/5/2014
+Recreational vehicle
+means a vehicle which is:
+I.
+Built on a single chassis;
+II.
+Four hundred square feet or less when measured at the largest horizontal projections;
+III.
+Designed to be self-propelled or permanently towable by a light duty truck; and
+IV.
+Designed primarily not for use as a permanent dwelling but as temporary living quarters for recreational, camping, travel or seasonal use.
+Effective on: 8/5/2014
+Special flood hazard area (SFHA)
+means the land in the floodplain within a community subject to a one-percent or greater chance of flooding in any given year, i.e., the 100-year floodplain.
+Ord. No. 2024-02, §  03/12/2024
+Effective on: 4/25/2024
+Start of construction (including substantial improvement)
+means the date the building permit was issued, provided the actual start of construction, repair, reconstruction, addition, placement or other improvement was within 180 days of the permit date. The actual start means either the first placement of permanent construction of a structure on a site, such as the pouring of slab or footings, the installation of piles, the construction of columns, or any work beyond the stage of excavation; or the placement of a manufactured home on a foundation. Permanent construction does not include land preparation, such as clearing, grading and filling; nor does it include the installation of streets and/or walkways; nor does it include excavation for a basement, footings, piers or foundations, or the erection of temporary forms; nor does it include the installation on the property of accessory buildings, such as garages or sheds not occupied as dwelling units or not part of the main structure. For a substantial improvement, the actual start of construction means the first alteration of any wall, ceiling, floor, or other structural part of a building, whether or not that alteration affects the external dimensions of the building.
+Effective on: 8/5/2014
+Structure
+means a walled and roofed building, including a gas or liquid storage tank, which is principally aboveground, as well as a manufactured home.
+Effective on: 8/5/2014
+Substantial damage
+means damage of any origin sustained by a structure whereby the cost of restoring the structure to its before damaged condition would equal or exceed 50 percent of the market value of the structure before the damage occurred.
+Effective on: 8/5/2014
+Substantial improvement
+means any reconstruction, rehabilitation, addition, or other improvement of a structure, the cost of which equals or exceeds 50 percent of the market value of the structure before "start of construction" of the improvement. The value of the structure shall be determined by the local jurisdiction having land use authority in the area of interest. This includes structures which have incurred "substantial damage", regardless of the actual repair work performed. The term does not, however, include either:
+I.
+Any project for improvement of a structure to correct existing violations of state or local health, sanitary, or safety code specifications which have been identified by the local code enforcement official and which are the minimum necessary conditions; or
+II.
+Any alteration of a "historic structure" provided that the alteration will not preclude the structure's continued designation as a "historic structure."
+Effective on: 8/5/2014
+Threshold planning quantity (TPQ)
+means a quantity designated for each chemical on the list of extremely hazardous substances that triggers notification by facilities to the state that such facilities are subject to emergency planning requirements.
+Effective on: 8/5/2014
+Variance
+means grant of relief to a person from the requirement of this chapter when specific enforcement would result in unnecessary hardship. A variance, therefore, permits construction or development in a manner otherwise prohibited by this chapter. (For full requirements see Section 60.6 of the National Flood Insurance Program regulations).
+Effective on: 8/5/2014
+Violation
+means the failure of a structure or other development to be fully compliant with this chapter.
+Effective on: 8/5/2014
+Water surface elevation
+means the height, in relation to the North American Vertical Datum (NAVD) of 1988 (or other datum, where specified), of floods of various magnitudes and frequencies in the floodplains of coastal or riverine areas.
+(Res. No. 2014-30, § 1(Exh. A), 8-5-2014)
+Cross reference— Definitions generally, §
+1-2.
+Effective on: 8/5/2014
+Sec. 78-21. Lands to which this chapter applies.
+This chapter shall apply to all
+special flood hazard areas
+and areas removed from the
+floodplain
+by the issuance of a
+FEMA
+letter of map revision based on fill (LOMR-F)
+within the
+jurisdiction
+of the
+county
+.
+Res. No.
+2014-30
+, § 1, 08/05/2014
+Effective on: 8/5/2014
+Sec. 78-22. Adoption of maps and studies.
+I.
+Designation of
+flood
+insurance rate maps and flood insurance studies to be used in application of this chapter
+shall
+be by official resolutions of the
+board of county commissioners
+after a public hearing. Notice of such hearing shall be published one time in a newspaper of general circulation in the
+county
+at least ten days, but not more than 30 days, prior to the hearing. The published notice shall include the time and place of the hearing, and shall designate the county office where information shall be available for public inspection. Within 30 days of the conclusion of the hearing, a decision as to the
+floodplain
+designation will be made by the board of county commissioners.
+II.
+Prior to the designation of official studies and maps by the board of county commissioners, the proposed studies shall be reviewed by the
+planning commission
+and the state water conservation
+board
+. Recommendations shall be presented to the board of county
+commissioners
+by the above-named agencies for the adoption, rejection or adoption with modification of the studies and/or maps.
+Res. No.
+2014-30
+, § 1, 08/05/2014
+Effective on: 8/5/2014
+Sec. 78-23. Basis for establishing the areas of special flood hazard.
+The
+special flood hazard areas
+identified by
+FEMA
+in the Flood Insurance Study, La Plata County, Colorado, and Incorporated Areas, Effective April 25, 2024 along with accompanying Flood Insurance Rate Maps and Floodway Maps, including all attachments, revisions and supporting documentation (GIS BFE floodplain layers, hydraulic models, etc.) are hereby adopted by reference and declared to be a part of this chapter. These special flood hazard areas identified by the flood insurance study and attendant mapping are the minimum area of applicability of this chapter and may be supplemented by studies designated and approved by the board of county commissioners. The flood insurance study is on file at La Plata County Offices, 211 Rock Point Drive, Durango, Colorado 81301.
+Res. No.
+2014-30
+, § 1, 08/05/2014
+Ord. No.
+2024-02
+, §  03/12/2024
+Effective on: 4/25/2024
+Sec. 78-24. Amendments.
+Any changes or amendments to this chapter
+shall
+be adopted pursuant to the procedure set forth in C.R.S. § 30-15-401 et seq., as the same
+may
+from time to time be amended.
+(Res. No. 2014-30, § 1(Exh. A), 8-5-2014)
+Effective on: 8/5/2014
+Sec. 78-25. Warning and disclaimer of liability.
+The degree of
+flood
+protection required by this chapter is considered reasonable for regulatory purposes and is based on scientific and engineering considerations. Larger floods can and will occur on rare occasions. Flood heights
+may
+be increased by manmade or natural causes. This chapter does not imply that land outside of
+special flood hazard areas
+or uses permitted within such areas will be free from flooding or flood damages. This chapter
+shall
+not create liability on the part of the
+county
+, any officer or employee thereof or
+FEMA
+, for any flood damages that result from reliance on this chapter or any administrative decision made thereunder.
+(Res. No. 2014-30, § 1(Exh. A), 8-5-2014)
+Effective on: 8/5/2014
+Sec. 78-26. Interpretation.
+In the interpretation and application of this chapter, all provisions
+shall
+be:
+Considered as minimum requirements;
+Deemed neither to limit nor repeal any other powers granted under state statutes;
+Liberally construed in favor of the governing body.
+(Res. No. 2014-30, § 1(Exh. A), 8-5-2014)
+Effective on: 8/5/2014
+Sec. 78-27. Validity of prior regulations.
+Nothing in this chapter
+shall
+be deemed to affect the validity of prior regulations and all
+actions
+taken thereunder.
+(Res. No. 2014-30, § 1(Exh. A), 8-5-2014)
+Effective on: 8/5/2014
+Sec. 78-28. Compliance.
+No
+structure
+or land
+shall
+hereafter be constructed, located, extended, converted or altered without full compliance with the terms of this chapter and other applicable regulations. Nothing herein shall prevent the
+board
+of
+county
+commissioners
+from taking such lawful
+action
+as is necessary to prevent or remedy any
+violation
+. These regulations meet the minimum requirements as set forth by the Colorado Water Conservation
+Board
+and the National
+Flood
+Insurance Program.
+(Res. No. 2014-30, § 1(Exh. A), 8-5-2014)
+Effective on: 8/5/2014
+Sec. 78-29. Abrogation and greater restrictions.
+This chapter is not intended to repeal, abrogate or impair any existing
+easement
+, covenants or deed restrictions. However, where this chapter and other regulation, easement, covenant or deed restriction conflict or overlap, whichever imposes the more stringent restrictions
+shall
+prevail.
+(Res. No. 2014-30, § 1(Exh. A), 8-5-2014)
+Effective on: 8/5/2014
+Sec. 78-30. Penalty for violation of article.
+No
+structure
+or land
+shall
+hereafter be constructed, located, extended, converted, or altered without full compliance with the terms of this chapter and other applicable regulations.
+Violations
+of any provision of this chapter shall be punishable as provided in C.R.S. § 30-15-402, as the same
+may
+from time to time be amended. Nothing herein contained shall prevent the
+county
+from taking such other lawful
+action
+as is necessary to prevent or remedy any violation.
+(Res. No. 2014-30, § 1(Exh. A), 8-5-2014)
+Effective on: 8/5/2014
+Sec. 78-31. Separate offenses.
+For any
+violation
+of any provision of this chapter, each violation of any provision and day that such development is in violation
+shall
+be deemed a separate offense.
+Res. No.
+2014-30
+, § 1, 08/05/2014
+Ord. No.
+2024-02
+, §  03/12/2024
+State Law reference— Penalties, C.R.S. §§ 30-15-402, 30-28-124, 30-28-124.5.
+Effective on: 4/25/2024
+Sec. 78-32. Severability and validity.
+This chapter and the various parts thereof are hereby declared to be severable. If a section, subsection, sentence, clause or phrase of this chapter is, for any reason, declared unconstitutional, invalid or becomes inoperative for any reason, such declaration
+shall
+not affect the validity of any other section, subsection, sentence, clause or phrase, and it shall be presumed that this chapter would have been adopted without such unconstitutional, illegal or invalid parts or provisions.
+(Res. No. 2014-30, § 1(Exh. A), 8-5-2014)
+Effective on: 8/5/2014
+Sec. 78-33. Establishment of floodplain development permit.
+A
+floodplain
+development
+permit
+shall
+be required to ensure conformance with the provisions of this chapter.
+(Res. No. 2014-30, § 1(Exh. A), 8-5-2014)
+Effective on: 8/5/2014
+Secs. 78-34—78-49. Reserved.
+Effective on: 8/5/2014

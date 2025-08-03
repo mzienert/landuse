@@ -1,0 +1,170 @@
+Chapter 73 Standards and Additional Submittal Requirements for Specific Uses
+Overview
+The specific uses addressed in this chapter require particular attention for a variety of reasons. Although many uses have the potential to impact neighbors by generating noise, dust, odor, light, traffic or other potential nuisances, some uses require evaluation and mitigation efforts beyond those established more generally elsewhere in the code. By way of example, some uses present additional concerns to the health, safety and welfare of the community at large that justify special attention in this chapter. Other uses addressed in this chapter warrant special attention in order to accommodate unique technical considerations or to coordinate the county’s interests with regulations and standards set at the state and federal levels. Some uses addressed in this chapter present opportunities to promote the county’s interest in the use by allowing different standards than those generally applicable.
+Sec. 73-19 Small and large scale solar
+I.
+Purpose.
+The purpose of this section is to allow for a reasonable permitting process for solar electric energy development and to encourage the use of various scales of renewable energy development.
+II.
+Applicability.
+This section shall apply to small and large scale solar facilities.
+Table 73-19: Solar Energy Generation
+TABLE 73-19: SOLAR ENERGY GENERATION
+Type
+Generation
+Acreage
+Decision-making body
+Micro solar
+<150 kw
+<5,000 s.f.
+No permit required 66-3
+Small scale solar
+150 kw to 1 MW
+5,000 s.f. to 5 acres
+Administrative land use permit
+Large scale solar
+>1 MW up to 2 MW
+>5 to 10 acres
+Minor land use permit
+TABLE 73-19: SOLAR ENERGY GENERATION
+Type
+Generation
+Acreage
+Decision-making body
+Micro solar
+<150 kw
+<5,000 s.f.
+No permit required 66-3
+Small scale solar
+150 kw to 1 MW
+5,000 s.f. to 5 acres
+Administrative land use permit
+Large scale solar
+>1 MW up to 2 MW
+>5 to 10 acres
+Minor land use permit
+TABLE 73-19: SOLAR ENERGY GENERATION
+Type
+Generation
+Acreage
+Decision-making body
+Micro solar
+<150 kw
+<5,000 s.f.
+No permit required 66-3
+Small scale solar
+150 kw to 1 MW
+5,000 s.f. to 5 acres
+Administrative land use permit
+Large scale solar
+>1 MW up to 2 MW
+>5 to 10 acres
+Minor land use permit
+TABLE 73-19: SOLAR ENERGY GENERATION
+Type
+Generation
+Acreage
+Decision-making body
+Micro solar
+<150 kw
+<5,000 s.f.
+No permit required 66-3
+Small scale solar
+150 kw to 1 MW
+5,000 s.f. to 5 acres
+Administrative land use permit
+Large scale solar
+>1 MW up to 2 MW
+>5 to 10 acres
+Minor land use permit
+III.
+Standards specific to small and large scale solar.
+A.
+Structure mounted solar.
+1.
+The solar energy system components must be mounted as flush to a roof or structure as practicable.
+2.
+The solar energy system may increase the height of the structure by a maximum of five (5) feet.
+B.
+Ground-mounted solar.
+1.
+Setbacks. The following minimum setbacks shall apply:
+a.
+From the property lines of residential uses: fifty (50) feet;
+b.
+From the property lines of nonresidential uses: twenty (20) feet;
+c.
+From the legally described boundary line of a public right-of-way: fifty (50) feet.
+2.
+Screening. To the maximum extent feasible, ancillary solar equipment shall be screened from view when the adjacent property is residential.
+3.
+Glare. The height, location, setback or base elevation of a facility shall minimize the potential glare and other adverse impacts of the facility on adjacent properties and roadways.
+4.
+Height. Under no circumstances shall a facility be more than twenty (20) feet in height.
+5.
+Sensitive areas. To the maximum extent feasible, a facility shall avoid visually sensitive areas such as ridges, hilltops and scenic areas.
+6.
+Location on lot. On residential properties, a facility shall not be located within the front yard of the lot or within the side or rear setbacks.
+7.
+Underground utilities. Power lines must be underground except where the electrical collector wiring is brought together for connection to the transmission or distribution network, adjacent to that network. Proposed transmission and distribution facilities must be identified and included as part of the project application.
+8.
+Site disturbance. A facility must be designed to minimize site disturbances. Reestablishment of all disturbed areas, including the construction access, shall maintain the historic drainage patterns and permeable ground cover and must be done to minimize environmental impacts. Temporary and permanent erosion control measures shall be used as necessary to minimize erosion of the site.
+9.
+Decommissioning. Procedures to address decommissioning and abandonment of the facility must be addressed by written agreement with the county. The agreement must at a minimum provide for reuse or dismantlement of the facility at the owner's expense. A facility shall be considered abandoned if the use is discontinued (no energy production) for a period of more than twelve (12) consecutive months unless a plan has been submitted and approved by the director outlining steps and a schedule for returning the system to service.
+IV.
+Submittal requirements.
+In addition to the general land use permit application submittal requirements set forth in section 66-11, applicant shall submit the following documents and materials:
+A.
+If the applicant is not the surface owner, the name and address of the owner of the property; documentation of surface ownership and copies of documentation showing proof of right of entry by applicant for ingress and egress and installation of all necessary facilities and infrastructure, and other provisions relating to the use of the surface estate as may be appropriate.
+B.
+For solar proposed to be mounted to an existing building, a site plan and supporting materials containing these additional requirements, whether existing or proposed:
+1.
+A map of all new transmission and distribution infrastructure that will be necessitated by the facility, or a statement indicating that no new transmission or distribution infrastructure will be required;
+2.
+Location and proposed use of structures;
+3.
+Operating plan. A plan for the method of operations, including without limitation:
+a.
+Projected start and completion dates for construction, estimated duration of facility operation, description of equipment used, including horsepower; transportation, generation, and post-operation activities;
+b.
+A buffering plan, if applicable;
+c.
+Site reclamation plan;
+d.
+A plan for the management and prevention of noxious weeds on the site that complies with all county and state requirements.
+4.
+Elevation drawings of at least two (2) sides of all facilities, which shall include the building to which the solar will be mounted;
+5.
+An agreement, in a form acceptable to or supplied by the county, to address the decommissioning and abandonment of the solar energy facility.
+C.
+For ground-mounted solar or for building-mounted solar for which the host building does not already exist, a site plan and supporting materials containing these additional requirements, whether existing or proposed:
+1.
+Map of transmission and distribution infrastructure that will be used by the facility and all new transmission and/or distribution infrastructure that will be necessitated by the facility;
+2.
+Location of access roads and rights-of-way, together with the locations of any easements for access, irrigation, or utilities;
+3.
+Any significant site features including floodplains, water bodies, and drainage patterns;
+4.
+Location and proposed use of structures;
+5.
+Topographic information concerning the direction of drainage at the application site;
+6.
+Operating plan. A plan for the method of operations, including without limitation:
+a.
+Projected start and completion dates for construction, estimated duration of facility operation, description of equipment used, including horsepower; transportation, generation, and post-operation activities;
+b.
+A screening plan, if applicable;
+c.
+Site reclamation plan;
+d.
+A plan for the management and prevention of noxious weeds on the site that complies with all county and state requirements.
+7.
+Elevation drawings of at least two (2) sides of the facility. Drawings of building-mounted facilities shall include the building that is proposed to be built;
+8.
+An agreement, in a form acceptable to or supplied by the county, to address the decommissioning and abandonment of the facility.
+(
+Res. No.
+2020-30
+, § 73-19, 09/15/2020
+)
+Effective on: 10/1/2020

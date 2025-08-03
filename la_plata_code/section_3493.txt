@@ -1,0 +1,175 @@
+Chapter 90 OIL AND GAS DEVELOPMENT
+FOOTNOTE(S):
+Editor's note—
+Res. No. 2008-33, § 1(Exh. A), adopted November 17, 2008, amended chapter 90 in its entirety to read as herein set out. Formerly, chapter 90 pertained to similar subject matter, and derived from LPLUS, § 8.1.1—8.1.5.b, 8.1.6.a—f., 8.1.7—8.1.10, 8.1.12, 8.1.14.a—g., 8.2.1—8.2.6, 8.3; Res. No. 1998-34, § 1, adopted October 5, 1998; Res. No. 1999-9, § 2, adopted February 22, 1999; Res. No. 2001-33, adopted August 27, 2001; Res. No. 2004-20, § 1, 2, adopted June 28, 2004; Res. No. 2004-35, §§ 1—10, adopted December 20, 2004, and Res. No. 2008-30, §§ 1, 2, adopted November 12, 2008.
+Cross reference—
+Buildings
+and building regulations, chapter
+18
+; public places, ch
+apter
+38
+;
+development
+standards and specifications,
+chapter
+74
+;
+floods
+, ch
+apter
+78
+; land
+use
+regulations for public property,
+ch
+apter
+94
+;
+subdivisions
+,
+ch
+apter
+102; zoning,
+ch
+apter
+106.
+Sec. 90-4 Permits and procedures
+I.
+Permit(s) and reviews required.
+A.
+All activities to which this chapter 90 applies are deemed development, and a land use permit issued by the county is required prior to engaging in any such development. The specific uses addressed in this chapter require a unique balancing of rights (surface estate owner, mineral estate owner, surrounding landowners, and the broader community) against the risks of adverse impacts sometimes associated with oil and gas development. As frequently noted, the processes, submittal requirements, and standards set forth in this chapter are in addition to the more general requirements of other parts of the land use code, such as some definitions in chapter 62, the processes in chapter 66, the standards in chapters 70 and 74 and the provisions of chapters 79 through 81.  A more particular procedure, submittal requirement, or standard in chapter 90 will prevail over a less particular provision elsewhere in the land use code, and a more restrictive procedure, submittal requirement, or standard in chapter 90 will prevail over a less restrictive provision elsewhere in the land use code.
+B.
+There are two (2) categories of county oil and gas permits and a subsequent review process for transfers of permits and final reclamation subject to chapter 90.  The subsequent review process is described in paragraph 90-4.II.E.  The two permits are:
+1.
+Minor. A minor oil and gas permit is a type of administrative land use permit reviewed and approved by the
+CDD
+pursuant to sections 66-5 and 66-18, subject to the unique procedures in subsection 90-4.II.  The following types of development require a minor oil and gas permit:
+a.
+A working pad surface built with one (1) or more wells and operated to produce liquid petroleum or natural gas, including accessory equipment required for such production.
+b.
+Pipelines which extend less than one-quarter mile (1,320 feet) from the wellhead and ancillary equipment including but not limited to drip stations, vent stations, pigging facilities, chemical injection stations and valve boxes.
+c.
+Temporary storage and construction staging yards in place for less than six (6) months that are not involved in well drilling or production operations at the site.
+2.
+Major. A major oil and gas permit is a type of major land use permit ultimately reviewed and approved by the board pursuant to sections 66-7 and 66-21, subject to the unique procedures in subsection 90-4.II.  The following types of development require a major oil and gas permit:
+a.
+Centralized facilities.
+b.
+Water injection, centralized water transfer stations, centralized water pump stations and associated facilities serving multiple well pads.
+c.
+Any permanent accessory equipment, facility or structure related to the production of oil or gas which contains internal combustion engines with a cumulative horsepower, de-rated for elevation, of two hundred (200) BHP or greater.
+d.
+Transmission line or any pipeline that extends one-quarter mile (1,320 feet) or more from the wellhead and ancillary equipment served by such pipeline or for which the power of eminent domain may be exercised.
+e.
+Any other oil and gas operation,
+OGF
+, or
+OGL
+not meeting the definition of minor oil and gas facility.
+C.
+Vested rights.  The vesting for an approved oil and gas development under chapter 90 shall be as for all site-specific development plans pursuant to subparagraph 66-13.III.C.1. If the vesting of the site-specific development plan has expired, the applicant must reapply for and be granted a new approval to proceed with the project.  Any development activity occurring under an expired site-specific development plan or permit shall be subject to the enforcement and penalty provisions of chapter 80 and section 90-18.  One extension of time up to one (1) year may be approved by the director if all the following are satisfied:
+1.
+A written request for the extension is submitted to the CDD no later than forty-five (45) days prior to the date the site-specific development plan or permit is set to expire.
+2.
+The operator provides proof necessary for the director to determine, in the director’s sole discretion, that the project remains capable of satisfying the provisions of this chapter 90 and the conditions of approval for the permit without the need for new or revised conditions of approval or mitigation techniques.
+3.
+The applicant provides a written explanation for why the extension is warranted considering all relevant circu
+mstances including, but not limited to, the size and complexity of the development, economic cycles and market conditions.
+4.
+The surface owner has consented in writing to the extension.
+All other extensions of time to complete development pursuant to an approved site-specific development plan or an issued oil and gas permit must first be approved by the board pursuant to subparagraph 66-13.III.C.3.
+D.
+Subsequent review procedures subject to call-up. The county recognizes that many oil and gas developments require extensive investment of time, resources, and money to accomplish. In recognition of this fact, once conditions of approval are satisfied and development is timely completed to vest the rights outlined in the permit, the owner or operator generally enjoys the right to exercise the privileges granted under the permit, subject to an ongoing duty to comply with applicable laws as well as the terms and conditions of the permit. However, because circumstances and site conditions may change over the life of an OGF and OGL or the identity and financial responsibility of operators or the status of permits vary, a review of permits to be transferred is necessary as is a review of the initially approved reclamation plan prior to the final reclamation phase.  Both types of review by the director are subject to the call-up procedures described in paragraph 90-4.II.E.
+E.
+Expiration of permit after final reclamation. A permit shall expire upon the completion of final reclamation of the permitted OGF or OGL and final inspection by the
+ECMC
+and the county.
+II.
+Procedures.
+A.
+Interaction with ECMC permitting process. Many oil and gas development activities that require a land use permit from the county will also require a permit or other approval from the ECMC. In those cases, the county has a general preference for concurrent application for, and review of, the ECMC and county permits. A concurrent review may assist all involved parties in benefitting from the expertise, processes, and experiences of the other parties. To this end, applications for county land use permits pursuant to this chapter 90 will often require certain ECMC application materials as submittal requirements for the county land use permit. This ensures that the applicant has already prepared and submitted those materials to the ECMC before or concurrently with its submission to the county. Although the county’s submittal requirements require applying to the ECMC first, the county encourages applicants to begin the county’s pre-application process before submitting final materials to ECMC. Notwithstanding any recommended timeframe for processing applications, the director may pause the processing and review of an application for a county land use permit until a final decision by the ECMC or the ECMC director, when the director determines that such decision related to the ECMC’s process will assist the decision-making body for the county’s land use permit. This may mean that some applications that begin concurrently will not be finally resolved by the county until after the ECMC process has concluded. In no event does this code require the CDD to accept an application, deem an application complete, or present an application to a county decision-making body for final decision if the director concludes that the development that is the subject of the county land use permit application is subject to a review, approval, or permitting process by the ECMC for which the applicant has not already submitted a completed application to the ECMC.
+B.
+Interaction with federal permitting and/or NEPA processes. Some oil and gas development activities that require a land use permit from the county may also require, or be integrally related to, a permit or other approval from a federal agency. In those cases, the county has a general preference for concurrent application for, and review of, the federal agency and county permits. A concurrent review may assist all involved parties in benefitting from the expertise, processes, and experiences of the other parties. To this end, applications for county land use permits pursuant to this chapter 90 may require certain federal agency application materials, reports, or decisions (such as a final decision related to a NEPA process) as submittal requirements for the county land use permit. This ensures that the applicant has already prepared and submitted those materials to the federal agency before or concurrently with its submission to the county. Although the county’s submittal requirements require applying to, or otherwise engaging with, the appropriate federal agency first, the county encourages applicants to begin the county’s pre-application process before submitting final materials to the federal agency. Notwithstanding any recommended timeframe for processing applications, the director may pause the processing and review of an application for a county land use permit until a final decision by the federal agency, when the director determines that such decision related to the federal agency’s process will assist the decision-making body for the county’s land use permit. This may mean that some applications that begin concurrently will not be finally resolved by the county until after the applicable federal process has concluded. In no event does this code require the CDD to accept an application, deem an application complete, or present an application to a county decision-making body for final decision if the director concludes that the development that is the subject of the county land use permit application is subject to, or otherwise integrally related to or affected by, a review, approval, or permitting process by a federal agency for which the applicant has not already completed the applicable process with the federal agency.
+C.
+Summary of minor oil and gas permit application procedures. A minor oil and gas permit application is, and shall be processed as, a type of administrative land use permit pursuant to chapter 66, subject to the following more particular requirements:
+1.
+Notwithstanding subparagraph 66-11.II.A.1, the pre-submittal review of a proposed application submittal for a minor oil and gas permit shall not exceed fifteen (15) business days without the applicant’s consent.
+2.
+Staff’s compliance review of a minor oil and gas permit application may include a field inspection of the proposed site.
+3.
+At the request of the director, applicant, surface owner, or a surrounding landowner receiving notice pursuant to subsection 66-14.IV, the CDD may, at the discretion of the director and upon at least ten (10) days advance written notice to the surface owner of the proposed site, conduct a public site visit to evaluate the location, compliance with the code, and avoidance or mitigation that may be required for the proposed development. When possible, this site visit will be coordinated with site visits required by other governmental agencies. If the director determines that a public site visit is appropriate, such public site visit shall be conducted as part of a neighborhood meeting in general conformance with subsection 66-11.IV. When other governmental agencies are involved in the public site visit, the director may waive portions of subsection 66-11.IV as the director deems appropriate to facilitate the coordination with other governmental agencies. In no event is the county required to facilitate a public site visit.
+Figure 90-4 A: Summary of Minor Oil and Gas Permit Procedures
+D.
+Summary of major oil and gas permit application procedures. A major oil and gas permit application is, and shall be processed as, a type of major land use permit pursuant to chapter 66, subject to the following more particular requirements:
+1.
+No sketch plan is required for a major oil and gas permit. An application for a preliminary plan can be the first county application with respect to a major oil and gas permit.
+2.
+Notwithstanding subparagraph 66-11.II.A.1, the pre-submittal review of a proposed application submittal for a major oil and gas permit shall not exceed fifteen (15) business days without the applicant’s consent.
+3.
+Staff’s compliance review of a major oil and gas permit application may include a field inspection of the proposed site.
+4.
+At the request of the director, applicant, surface owner, or a surrounding landowner receiving notice pursuant to subsection 66-14.IV, the CDD may, at the discretion of the director and upon at least ten (10) days advance written notice to the surface owner of the proposed site, conduct a public site visit to evaluate the location, compliance with the code, and avoidance or mitigation that may be required for the proposed development. When possible, this site visit will be coordinated with site visits required by other governmental agencies. If the director determines that a public site visit is appropriate, such public site visit shall be conducted as part of a neighborhood meeting in general conformance with subsection 66-11.IV. When other governmental agencies are involved in the public site visit, the director may waive portions of subsection 66-11.IV as the director deems appropriate to facilitate the coordination with other governmental agencies. In no event is the county required to facilitate a public site visit.
+5.
+Prior to consideration by the board pursuant to sections 66-7 and 66-21, the
+PC
+shall hold a public meeting and, at the close of the public meeting, act to recommend that the board approve, approve with conditions or deny the application pursuant to section 66-12.
+Figure 90-4 B: Summary of Major Oil and Gas Permit Procedures
+E.
+Summary of subsequent review process subject to call-up.
+1.
+Final reclamation review.  Every operator that performs final reclamation on an OGL after the effective date of this chapter shall provide the CDD the information set forth in section 90-7 as part of the review and shall be subject to the procedures set forth in paragraph 90-4.II.E if modification to the final reclamation plan is desired or necessary.  A written request for final reclamation review containing the information required by section 90-7 shall be submitted to the CDD no more than one hundred eighty (180) days but not less than ninety (90) days prior to an operator’s commencement of final reclamation.
+a.
+No modifications, including compensation to the surface owner in lieu of completion of reclamation requirements, shall be approved unless they are at least as protective as the original final reclamation requirements.  Notwithstanding the foregoing, the director may approve, or approve with conditions, a final reclamation plan that proposes to leave all or part of the working pad surface or access road to the OGL unreclaimed if all the conditions set forth in paragraph 90-10.IX.D are met.
+b.
+Existing permits with approved plans.  For permits approved prior to the effective date of this chapter and which contained an approved final reclamation plan, the operator shall submit the information and materials required by section 90-7 along with a written certification that the plans for reclamation have not been changed since the final reclamation plan was approved with the permit.
+c.
+Existing permits with no approved plans. For permits approved prior to the effective date of this chapter which did not contain an approved final reclamation plan and no reclamation plan or associated financial assurance have been approved and provided pursuant to paragraph 90-14.I., the operator shall submit the information and materials required by section 90-7. The proposed final reclamation plan shall be reviewed and required, to the maximum extent practicable, to comply with the then current standards, rules and processes duly adopted by the ECMC and the county. The director shall approve, approve with conditions, or deny the proposed final reclamation plan as well as determine the amount of the financial assurance necessary to adequately address the scope of the final reclamation.
+d.
+Existing permits seeking modifications to an approved plan. For permits approved prior to the effective date of this chapter which contained a final reclamation plan to which the operator and surface owner now desire modifications, the operator shall submit the information and materials required by section 90-7 and identify the proposed modifications in detail.  The director shall approve, approve with conditions, or deny the proposed revisions to the final reclamation plan as well as determine the revised amount of the financial assurance necessary to adequately address the scope of the final reclamation, as modified. If modifications are requested, modifications shall be reviewed and required, to the maximum extent practicable, to comply with the then current standards, rules and processes duly adopted by the ECMC and the county.
+e.
+Permits approved after effective date.  All permits approved after the effective date of this chapter shall include a proposed final reclamation plan. At the time of final reclamation, if the operator is not requesting modifications to the approved final reclamation plan, the operator shall submit the information and materials required by section 90-7 along with a written certification that the plans for reclamation have not been changed since the final reclamation plan was approved with the permit. If the operator and surface owner desire modifications to the final reclamation plan approved with the permit, or if the director deems modifications to the permit’s final reclamation plan to be necessary to protect the public, such modifications shall be reviewed and required, to the maximum extent practicable, to comply with the then current standards, rules and processes duly adopted by the ECMC and the county. If the director determines the amount of the financial assurance is inadequate to address the scope of final reclamation including adjustments due to inflation, the director may require the financial assurance be increased.
+f.
+Final reclamation inspections.  A written request for final reclamation inspection shall be submitted to the CDD simultaneous with the operator’s submission to the ECMC of a Sundry Notice 4 describing final reclamation procedures or Form 6 Notice of Intent to Abandon indicating that the OGL meets reclamation requirements and objectives and is ready for inspection.  Upon receipt of the notice, the CDD may inspect the OGL to ensure full compliance and release of applicable financial assurances, rely on the inspections performed by ECMC staff and/or require a statement on behalf of a principal of the operator issued under the penalty of perjury that final reclamation has been fully and properly completed, is substantially free of defects in materials and workmanship and will be maintained as and to the extent required.  No final reclamation inspection shall be completed until such time as the operator has successfully completed the final reclamation review, and associated processes, if any, required by sections 90-4.II.E and 90-7. Final reclamation shall not be judged successful and complete sooner than all of the following have occurred: two (2) years after compliance with the applicable final reclamation plan and standards; the director or
+LGD
+complete the tasks and final reclamation inspection required of the ECMC director under ECMC Rule 1004; and, to the maximum extent feasible, a self-sustaining,  native (or otherwise approved) plant community is established at the OGL, with a density sufficient to control erosion and non-native plant invasion and to reestablish wildlife habitat or forage production.  The OGL must be free of state and county listed noxious weeds, oil field debris, contaminated soil and equipment.
+Figure 90-4 C: Summary of Final Reclamation Review
+2.
+Transfer of permits.  New and existing permits issued by the county may be transferred or assigned to another operator only with the written consent of the director or, if the director’s decision is called-up, the board.  All conditions of approval will survive a change in ownership and apply to the operator’s successors and assigns, including financial assurances. The operator shall remain responsible for compliance with all conditions of approval related to the permit(s) and compliance with this code, including the obligation for financial assurances, until such time as the transfer is approved by the director or the board, in the event of a call-up.
+​​​​​​The operator shall notify the CDD about the proposed assignment by providing ECMC Form 9, Transfer of Operatorship – Intent at least thirty (30) days, or as soon as practicable, before the anticipated transfer or assignment date. If the proposed transfer or assignment is subject to a non-disclosure or confidentiality agreement between the operator and the transferee, the operator will indicate such on the Form 9 and the director will keep the Form 9 and any other associated information confidential pursuant to C.R.S. § 24-72-204(3)(a)(IV) until the Form 9, Transfer of Operatorship - Subsequent is filed.  The Form 9, Transfer of Operatorship – Subsequent shall be filed with the CDD at the same time of filing with the ECMC.  If necessary to make a decision, the director may request from the operator or the transferee any other form of material described in the submittal portions of this chapter.  The director will make a final determination to approve, approve with conditions, or deny a request to transfer a county permit within thirty (30) days after receiving all submittal items required under this subparagraph 90-4.II.E.2. The director may consent to a transfer or an assignment of a permit only if:
+a.
+The transferee demonstrates the financial and operational capability to comply with all requirements, terms and conditions of any applicable provisions of a MOU between the county and the operator, this chapter, the terms and conditions of the permit to be assigned and all applicable local, state, tribal and federal laws, rules and regulations.  The transferee shall deliver to the county an acknowledgement that it assumes responsibility for compliance with this code, all terms and conditions of the transferred permits and applicable MOUs with the county.
+b.
+The transferee delivers to the county certificates of insurance in the amounts and according to the terms required under this chapter.
+c.
+The transferee delivers, in form and content satisfactory to the county, substitute financial assurances in equivalent amounts as those previously associated with the permit, provided however, if the director determines the amount of the financial assurance is inadequate to address the scope of final reclamation, the director may require the substitute financial assurance be adjusted for inflation or otherwise increased due to increased costs associated with reclamation.
+d.
+The operator and the transferee submit to the county a written document, in a form satisfactory to the county and binding upon both the operator and transferee, detailing and verifying responsibility for remedying any existing or previously unresolved noncompliance issues and the timeframe in which such issues shall be resolved.  The director may withhold consent to assignment of the permit until all such matters are satisfactorily resolved.
+e.
+The operator and the transferee deliver an assignment or partial assignment of applicable terms of any MOU between the county and the operator.
+f.
+The adopted fee, if any is legislatively adopted by the board, for review of the transfer is remitted.
+g.
+Prior to approving the transfer, the director shall prepare a report for the board that demonstrates compliance with the approval criteria stated in this section and the director’s final determination on the transferability of the permit.
+Figure 90-4 D: Summary of Permit Transfer Review
+3.
+Call-up procedure.  The decision made by the director in both types of review shall be subject to a call-up meeting before the board.  Within eight (8) days following the date of the director’s decision, the following parties may request review of the director’s decision by submitting a written call-up request to the director:
+a.
+In the case of a review of a proposed transfer, any individual county commissioner, the transferring operator, or the transferee, or;
+b.
+In the case of a review of final reclamation, any individual county commissioner, the operator, surface owner, surrounding landowner or commenting agency.
+Within twenty (20) days following receipt of a request for a call-up meeting, the director shall schedule a public meeting for review by the board.  Prior to the call-up meeting, the director shall prepare a report for the board that demonstrates compliance with the applicable criteria.  The call-up meeting shall be noticed pursuant to subsection 66-14.IV and shall be a de novo review by the board subject to the same criteria and standards originally applicable to the director’s decision.
+F.
+Notice procedures specific to oil and gas development.
+1.
+For all oil and gas development that is not characterized as a linear facility or corridor facility under subparagraph 66-14.III.B.2, the notices required by Table 66-14 A shall include those surrounding landowners within two thousand (2,000) feet of the property lines of the parcel subject to an application for a land use permit pursuant to this chapter 90.
+2.
+In addition to the contents required by subsection 66-14.IV, any notices required to be sent by subsection 66-14.IV for oil and gas development shall include the following:
+a.
+A statement concerning the county’s need to enter property which is a proposed OGL as follows: “For the purpose of implementing and enforcing the county’s oil and gas regulations, county personnel and its consultants and contractors may, from time to time, need to enter onto the property which is the subject of a proposed or existing oil and gas development.”
+b.
+A statement that additional information about the development may be available from the CDD, ECMC, and the federal government (as applicable), including appropriate contact information for all such appropriate agencies.
+(
+There are no resolutions associated with this section.
+)
+Effective on: 8/1/2023

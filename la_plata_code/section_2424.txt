@@ -1,0 +1,34 @@
+Chapter 18 BUILDINGS AND BUILDING REGULATIONS
+Article III. Building Codes and standards: Amendments, additions and deletions to the international codes
+Sec. 18-44 Adoption of the 2015 International Energy Conservation Code.
+The volumes, parts, chapters, and appendices of the
+IECC
+, as published by the International Code Council, together with additions and deletions as set forth in this section, are hereby adopted pursuant to C.R.S. § 30-28-201(1).
+(
+Res. No. 2017-33, § 18-44, 10/10/2017; Res. No. 2023-15, § 18-36, 06/06/2023
+)
+Section 107 Fees
+Section 107 Fee schedule. Section 107 of the
+IECC
+is hereby deleted in its entirety.  Fees assessed pursuant to this Code shall be governed by section
+18-35
+(109).
+(
+Res. No. 2023-15, §  06/06/2023
+)
+Effective on: 8/1/2023
+Section 403
+Building
+Thermal Envelope
+R403.6.2 Testing. Mechanical ventilation systems shall be tested and verified to provide the minimum ventilation flow rates required by section R403.6. Testing shall be performed according to the ventilation
+equipment
+manufacturer's instructions, or by using a flow hood or box, flow grid, or other airflow measuring device at the mechanical ventilation fan's inlet terminals or grilles, outlet terminals or grilles, or in the connected ventilation ducts. Where required by the
+code official
+, testing shall be conducted by an approved third party. A written report of the results of the test shall be signed by the party conducting the test and provided to the code official.
+Exception:
+Kitchen
+range hoods that are ducted to the outside with 6-inch (152 mm) or larger duct and not more than one-degree (1.57 rad) elbow or equivalent in the duct run.
+(
+Res. No. 2017-33, § 403, 10/10/2017; Res. No. 2023-15, § 403, 06/06/2023
+)
+Effective on: 8/1/2023

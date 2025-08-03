@@ -1,0 +1,180 @@
+Chapter 90 OIL AND GAS DEVELOPMENT
+FOOTNOTE(S):
+Editor's note—
+Res. No. 2008-33, § 1(Exh. A), adopted November 17, 2008, amended chapter 90 in its entirety to read as herein set out. Formerly, chapter 90 pertained to similar subject matter, and derived from LPLUS, § 8.1.1—8.1.5.b, 8.1.6.a—f., 8.1.7—8.1.10, 8.1.12, 8.1.14.a—g., 8.2.1—8.2.6, 8.3; Res. No. 1998-34, § 1, adopted October 5, 1998; Res. No. 1999-9, § 2, adopted February 22, 1999; Res. No. 2001-33, adopted August 27, 2001; Res. No. 2004-20, § 1, 2, adopted June 28, 2004; Res. No. 2004-35, §§ 1—10, adopted December 20, 2004, and Res. No. 2008-30, §§ 1, 2, adopted November 12, 2008.
+Cross reference—
+Buildings
+and building regulations, chapter
+18
+; public places, ch
+apter
+38
+;
+development
+standards and specifications,
+chapter
+74
+;
+floods
+, ch
+apter
+78
+; land
+use
+regulations for public property,
+ch
+apter
+94
+;
+subdivisions
+,
+ch
+apter
+102; zoning,
+ch
+apter
+106.
+Sec. 90-8 Additional submittal requirements for pipelines
+I.
+Applicability.
+The submittal requirements in this section apply to the construction or modification of pipelines.
+II.
+Additional submittals.
+In addition to all other applicable submittal requirements set forth in this code, an application that includes one or more pipelines shall include the following:
+A.
+New Pipeline(s). For each proposed new pipeline, the applicant shall submit the following:
+1.
+Indication of whether the pipeline will be either:
+a.
+Registered with the
+ECMC
+; or
+b.
+Not required to be registered with the ECMC.
+2.
+Preliminary information about each pipeline, including:
+a.
+In lieu of the site plan required by subsection 90-5.I.E, a site plan that includes all the following:
+i.
+North arrow, appropriate scale, overlain on aerial photography.
+ii.
+The entire length and width of the pipeline route displayed on a map of a scale sufficient to reasonably and legibly show all information required by this code.
+iii.
+Current surface ownership, as reflected in the county assessor’s records, of all parcels adjacent to or traversed over by the pipeline route, including
+tribal lands
+or Indian allotted lands, or subject to any applicable setback provision.  The map shall include names of platted subdivisions and, on the affected parcels, the approximate location of dwelling units or any facility or feature subject to a setback provision in this code or ECMC rules.
+iv.
+Utility easements, roads and other rights-of-way or other infrastructure within one hundred fifty (150) feet of the nearest edge of the pipeline route easement.
+v.
+Irrigation ditches or streams crossing or within one hundred fifty (150) feet of nearest edge of the pipeline route easement.
+vi.
+Areas within the
+FEMA
+100-year floodplain
+boundary.
+vii.
+wetlands that are crossed or within one hundred fifty (150) feet of the nearest edge of the pipeline route easement.
+viii.
+Recorded or proposed easements for the pipeline route (including the reception number of all recorded easements), any above ground appurtenances and uses, including but not limited to valve sites, laydown yards, parking and staging areas and both temporary and permanent existing and proposed access points.
+ix.
+Topographic details of the pipeline route showing contours at intervals no greater than forty (40) feet.
+x.
+Other site-specific information identified and requested at a pre-application meeting.
+b.
+In lieu of the vicinity map required by subsection 90-5.I.F, a vicinity map that includes all the following:
+i.
+Section, township, range.
+ii.
+The pipeline route.
+iii.
+North arrow and scale.
+iv.
+Mapped or defined geologic hazards or natural hazards within one hundred fifty (150) feet of the nearest edge of the pipeline easement, to include geologic phenomenon, wildfire hazards or debris flows.
+v.
+To the extent known or could be known through reasonable diligence and search of publicly and other readily available information, high priority habitat.
+vi.
+To the extent known or could be known through reasonable diligence and search of publicly and other readily available information, areas of paleontological, historical or archeological interest within two thousand (2,000) feet of the nearest edge of the pipeline easement, unless determined to be confidential by the county attorney.
+vii.
+To the extent known or could be known through reasonable diligence and search of publicly and other readily available information, existing, approved and proposed
+OGLs
+within two thousand (2,000) feet of the proposed pipeline route.
+viii.
+Existing improvements within the map area, which shall include improvements at least two thousand (2,000) feet from the pipeline route easement. At a minimum, existing improvements include any residential building unit or platted subdivision lot, high occupancy building unit, public school or school facility, community facility, day care facility, quasi-governmental public facility, water wells, oil and gas wells, mines, railroads, and buildings within the mapped area.
+ix.
+Other site-specific information identified and requested at a pre-application meeting.
+c.
+Proposed depth.
+d.
+Pipe material and thickness.
+e.
+Maximum diameter.
+f.
+Fluids that are transferred.
+g.
+Description of any integrity management system used.
+h.
+Description of the construction method used for public by-ways, road crossings,
+critical wildlife habitats
+, sensitive areas, and natural and manmade watercourses (i.e., open trench, bored and cased, or bored only), if applicable.  The description shall include a statement about how the disturbed areas shall be maintained during the construction phase to control soil erosion, dust and
+noxious weeds
+.
+3.
+If a new pipeline is proposed to connect to an existing OGL, then the applicant shall submit the following information about the OGL to which the new pipeline will connect, to the extent known or could be known (by the applicant or, if the existing OGL is owned by another party, by the current owner of the OGL) through reasonable diligence and search of publicly and other readily available information:
+a.
+Construction date.
+b.
+Whether or not the OGL is permitted by the county or any other governmental entity (including without limitation the federal government, a tribal government, or a state), and if so, a copy of any such permit(s), conditions of approval, or other documentation establishing the approved uses and restriction for the OGL.
+c.
+A narrative description of the type of modifications or other construction activity that will occur on the existing OGL in order to facilitate connection to the proposed new pipeline.
+d.
+A site plan and vicinity map, including without limitation all information required in subparagraphs 90-5.I.E and F for site plans and vicinity maps, specific to the existing OGL.
+e.
+Applicant’s analysis and supporting background materials of whether applicant believes the type of modifications or other construction activity at the existing OGL are permissible under section 90-19 or applicable provisions in chapter 79 or otherwise exempted by paragraph 90-2.II.C.
+B.
+Existing Pipeline(s). For each existing pipeline where the applicant proposes modifications, the applicant shall submit the following to the extent known or could be known through reasonable diligence and search of publicly and other readily available information:
+1.
+Whether or not the existing pipeline is permitted by the county or any other governmental entity (including without limitation the federal government, a tribal government, or a state), and if so, a copy of any such permit(s), conditions of approval, or other documentation establishing the approved uses and restrictions for the OGL.
+2.
+A narrative description of the type of modifications or other construction activity that will occur on the existing pipeline to facilitate connection to the proposed development.
+3.
+A site plan and vicinity map, including without limitation all information required in subparagraph 90-8.II.A.2 for site plans and vicinity maps, specific to the existing pipeline.
+4.
+Applicant’s analysis and supporting background materials of whether applicant believes the type of modifications or other construction activity at the existing pipeline are permissible under section 90-19 or applicable provisions in chapter 79 or otherwise exempted by paragraph 90-2.II.E. There shall be a rebuttable presumption that any segment of an existing pipeline that requires re-alignment or replacement shall be treated as a new pipeline subject to review and permitting by the county, unless otherwise exempted by paragraph 90-2.II.E.
+5.
+Proof that the existing pipeline is either:
+a.
+Registered with the ECMC, including date of construction and date of registration, or;
+b.
+Not required to be registered with the ECMC.
+6.
+If the pipeline is required to be registered with the ECMC:
+a.
+A copy of all information and documents submitted to the ECMC with respect to any such registration.
+b.
+A copy of any forms submitted to the ECMC after such registration based on updated information or due to changes made to the pipeline, including without limitation, any Form 44 related to such pipeline.
+c.
+Approximate depth.
+7.
+If the pipeline is not required to be registered with the ECMC:
+a.
+Date of construction.
+b.
+Approximate depth.
+c.
+Pipe material and thickness.
+d.
+Maximum diameter.
+e.
+Fluids that are transferred.
+f.
+Description of any integrity management system used or a copy of any applicable integrity management plan.
+g.
+Description of the construction method used for public by-ways, road crossings, critical wildlife habitats, sensitive areas, and natural and manmade watercourses (i.e., open trench, bored and cased, or bored only), if applicable.
+h.
+If any of the information required by this subparagraph is unknown, the applicant shall indicate unknown and explain how the lack of knowledge may or may not impact the proposed modification to the existing pipeline, including whether any necessary precautionary and mitigation measures will be taken in light of the unknown information.
+(
+Res. No.
+2023-11
+, §  04/26/2023
+)
+Effective on: 8/1/2023

@@ -1,0 +1,157 @@
+Chapter 78 FLOODS
+FOOTNOTE(S):
+Editor's note—
+Res. No. 2010-37, § 1(Exh. A), adopted July 20, 2010, repealed and reenacted chapter 78 in its entirety to read as herein set out. Formerly, chapter 78 pertained to similar subject matter, and derived from LPLUS, §§ 9.1.1—9.1.4, 9.2, 9.3.1—9.3.9, 9.4.1—9.4.3, 9.5.1—9.5.4, 9.6.1, 9.6.2; Res. No. 2001-14, Exh. A, adopted April 16, 2001; Res. No. 2002-43, § 1, adopted October 7, 2002; Res. No. 2004-20, § 1, adopted June 28, 2004, and Res. No. 2008-30, § 1, adopted November 12, 2008.
+Cross reference—
+Buildings
+and building regulations, ch. 18;
+development
+standards and specifications, ch. 74; land
+use
+and development
+permits
+, ch. 82;
+manufactured home
+, and
+recreational vehicle parks
+, ch. 86; natural resources, ch. 90;
+subdivisions
+, ch. 102; zoning, ch. 106.
+State Law reference—
+Authority to adopt
+flood
+control
+regulations, C.R.S. §§ 29-20-101 et seq., 30-15-401.
+ARTICLE II. FLOODPLAIN MANAGEMENT REGULATIONS
+FOOTNOTE(S):
+Editor's note—
+Res. No. 2014-30, § 1(Exh. A), adopted August 5, 2014, amended article II in its entirety to read as herein set out. Formerly, article II pertained to similar subject matter, and derived from Res. No. 2010-37, § 1(Exh. A), adopted July 20, 2010.
+DIVISION 3. FLOOD HAZARD REDUCTION
+Sec. 78-79. Standards for critical facilities.
+I.
+Classification of critical facilities. It is the responsibility of the
+board of county commissioners
+to identify and confirm that specific structures in their community meet the following criteria:
+Critical facilities are classified under the following categories: (i) essential services; (ii) hazardous materials; (iii) at-risk populations; and (iv) vital to restoring normal services.
+A.
+Essential services
+facilities
+include public safety,
+emergency
+response, emergency medical, designated emergency shelters, communications, public
+utility
+plant facilities, and transportation lifelines. These facilities consist of:
+1.
+Public safety (police stations, fire and rescue stations, emergency
+vehicle
+and
+equipment
+storage, and, emergency operation centers);
+2.
+Emergency medical (hospitals, ambulance service centers, urgent care centers having emergency treatment functions, and non-ambulatory surgical structures but excluding clinics, doctors offices, and non-urgent care medical structures that do not provide these functions);
+3.
+Designated emergency shelters;
+4.
+Communications (main hubs for telephone, broadcasting equipment for cable systems, satellite dish systems, cellular systems, television, radio, and other emergency warning systems, but excluding towers, poles, lines, cables, and conduits);
+5.
+Public utility plant facilities for generation and distribution (hubs, treatment plants, substations and pumping stations for water, power and gas, but not including towers, poles, power lines, buried pipelines,
+transmission lines
+,
+distribution lines
+, and
+service lines
+); and
+6.
+Air transportation lifelines (airports (municipal and larger), helicopter pads and structures serving emergency functions, and associated infrastructure (aviation
+control
+towers, air traffic control centers, and emergency equipment aircraft hangars)).
+Specific exemptions to this category include wastewater treatment plants (WWTP), non-potable water treatment and distribution systems, and hydroelectric power generating plants and related appurtenances.
+Public utility plant facilities may be exempted if it can be demonstrated to the satisfaction of the board of county commissioners that the facility is an element of a redundant system for which service will not be interrupted during a flood. At a minimum, it
+shall
+be demonstrated that redundant facilities are available (either owned by the same utility or available through an intergovernmental agreement or other contract) and connected, the alternative facilities are either located outside of the
+100-year floodplain
+or are compliant with the provisions of this article, and an operations plan is in effect that states how redundant systems will provide service to the affected area in the event of a flood. Evidence of ongoing redundancy shall be provided to the board of county commissioners on an as-needed basis upon request.
+B.
+Hazardous materials facilities include facilities that produce or store highly volatile, flammable, explosive, toxic and/or water-reactive materials. These facilities may include:
+1.
+Chemical and pharmaceutical plants (chemical plant, pharmaceutical manufacturing);
+2.
+Laboratories containing highly volatile, flammable, explosive, toxic and/or water-reactive materials;
+3.
+Refineries;
+4.
+Hazardous waste storage and disposal
+sites
+; and
+5.
+Above ground gasoline or propane storage or sales centers.
+Facilities shall be determined to be critical facilities if they produce or store materials in excess of threshold limits. If the
+owner
+of a facility is required by the Occupational Safety and Health Administration (OSHA) to keep a
+material safety data sheet (MSDS)
+on file for any chemicals stored or used in the work place, and the
+chemical(s)
+is stored in quantities equal to or greater than the
+threshold planning quantity (TPQ)
+for that chemical, then that facility shall be considered to be a critical facility. The TPQ for these chemicals is: either 500 pounds or the TPQ listed (whichever is lower) for the  chemicals listed under 40 C.F.R. § 302, also known as extremely hazardous substances (EHS); or 10,000 pounds for any other chemical. This threshold is consistent with the requirements for reportable chemicals established by the Colorado
+Department
+of Public Health and Environment. OSHA requirements for MSDS can be found in 29 C.F.R. § 1910.1200. The Environmental Protection Agency (EPA) regulation "Designation, Reportable Quantities, and Notification," 40 C.F.R. § 30 and OSHA regulation "Occupational Safety and Health Standards," 29 C.F.R. § 1910.1200 are incorporated herein by reference and include the regulations in existence at the time of the promulgation of this article, but exclude later amendments to or editions of the regulations.
+Specific exemptions to this category include:
+1.
+Finished consumer products within retail centers and households containing hazardous materials intended for household
+use
+, and
+agricultural
+products intended for agricultural use.
+2.
+Buildings
+and other structures containing hazardous materials for which it can be demonstrated to the satisfaction of the local authority having
+jurisdiction
+by hazard assessment and certification by a qualified professional (as determined by the local jurisdiction having land use authority) that a release of the subject hazardous material does not pose a major threat to the public.
+3.
+Pharmaceutical sales, use, storage, and distribution centers that do not manufacture pharmaceutical products.
+These exemptions shall not apply to buildings or other structures that also function as critical facilities under another category outlined in this chapter.
+C.
+At-risk population facilities include medical care, congregate care, and schools. These facilities consist of:
+1.
+Elder care (nursing homes);
+2.
+Congregate care serving 12 or more individuals (
+day care
+and assisted living); and
+3.
+Public and private schools (pre-schools, K-12 schools), before-school and after-school care serving 12 or more children).
+D.
+Facilities vital to restoring normal services including government operations. These facilities consist of:
+1.
+Essential government operations (public records, courts, jails, building permitting and inspection services, community administration and
+management
+, maintenance and equipment centers); and,
+2.
+Essential structures for public colleges and universities (dormitories, offices, and classrooms only).
+These facilities may be exempted if it is demonstrated to the board of county commissioners that the facility is an element of a redundant system for which service will not be interrupted during a flood. At a minimum, it shall be demonstrated that redundant facilities are available (either owned by the same entity or available through an intergovernmental agreement or other contract), the alternative facilities are either located outside of the 100-year floodplain or are compliant with this article, and an operations plan is in effect that states how redundant facilities will provide service to the affected area in the event of a flood. Evidence of ongoing redundancy shall be provided to the board of county commissioners on an as-needed basis upon request.
+II.
+Protection for critical facilities. All new and substantially improved critical facilities and new
+additions
+to critical facilities located within the
+special flood hazard area
+shall be regulated to a higher standard than structures not determined to be critical facilities. For the purposes of this article, protection shall include one of the following:
+A.
+Location outside the special flood hazard area; or
+B.
+Elevation of the
+lowest floor
+or
+flood proofing
+of the structure, together with attendant utility and sanitary facilities, to at least two feet above the
+base flood elevation
+.
+III.
+Ingress and egress for new critical facilities. New critical facilities shall, when practicable as determined by the board of county commissioners, have continuous non-inundated access (ingress and egress for evacuation and emergency services) during a100-year flood event.
+Res. No.
+2014-30
+, § 1, 08/05/2014
+Ord. No.
+2024-02
+, §  03/12/2024
+Effective on: 4/25/2024

@@ -1,0 +1,1374 @@
+Chapter 74: Road and Bridge Standards and Permits
+Contents:
+Chapter 74 Road and Bridge Standards and Permits
+Sec. 74-1 General provisions
+Sec. 74-2 Road classification standards and level of service standards
+Sec. 74-3 Review of development subject to this code
+Sec. 74-4 Roadway and sign design and construction standards
+Sec. 74-5 Additional road design and construction standards applicable to certain land use permits.
+Sec. 74-6 Subdivisions where all lots are greater than thirty-five (35) acres
+Sec. 74-7 Bridge standards
+Sec. 74-8 Driveway standards and permits
+Sec. 74-9 Permitting within county right-of-way and road improvement agreements.
+Sec. 74-10 Borrow ditches.
+Sec. 74-11 Impact Fees – Reserved.
+Sec. 74-1 General provisions
+I.
+Purpose
+. The purpose of this chapter is to ensure uniform, safe and adequate access to public roads and to ensure the development and use of real property does not create demand for public improvements and services that cannot be met with existing public resources. Safe and adequate access exists when traffic volumes do not exceed the capacity of the road; when operating conditions on the road and at intersections do not fall below the specified level of service; and when pavement sections and structures can accommodate projected traffic.
+II.
+Applicability.
+In addition to establishing requirements for the planning, design, construction and improvement of transportation facilities by land use permit applicants, the requirements contained in this chapter apply to all proposed uses and development within unincorporated areas of the county and to new transportation facilities planned, designed and constructed by the county; except:
+A.
+Development where no land use permit is required pursuant to section 66-3; provided, however, that all driveways shall comply with standards as noted in section 74-8 and subdivisions in which all lots are greater than thirty-five (35) acres shall comply with standards as noted in section 74-6;
+B.
+Additional dwelling units pursuant to section 73-3 that require a director determination; provided, however, that additional dwelling units may be subject to the applicability of driveway standards in 74-8;
+C.
+Lot consolidations
+,
+boundary adjustments
+and
+plat
+amendments unless the changes to the
+plat
+create an
+adverse impact
+to new or existing roads;
+D.
+Temporary uses approved pursuant to section 66-6;
+E.
+Accessory uses approved pursuant to sections 66-5 and 66-6;
+F.
+Development in the joint planning area pursuant to section 72-2;
+G.
+Special events which are addressed in chapter 42 or 73-20 of the La Plata County Code;
+H.
+Asphalt overlays, resurfacing of existing roads and related maintenance activities;
+I.
+Reconstruction of existing county roads and bridges by the county;
+J.
+AgPlus uses, however, all driveways shall comply with standards as noted in section 74-8; and
+K.
+Telecommunication facilities.
+III.
+Road design publications
+. In addressing the requirements of this chapter, horizontal and vertical alignment and other design data shall substantially conform to the latest addition of AASHTO’s A Policy on Geometric Design of Highways and Streets and, for minor local roads and low ADT roads, AASHTO’s Guidelines for Geometric Design. Designers are also expected to reference CDOT’s design manuals, this chapter and other documents, such as the comprehensive plan, the La Plata County Fire Code, International Fire Code and guidance documents published by the applicable local fire district.
+IV.
+Construction quality and materials
+. All materials and construction required by this chapter shall comply with CDOT’s Standard Specifications for Road and Bridge Construction.
+V.
+Traffic control plans and devices
+. All traffic control devices, road striping, signs, markers, delineators and signalization shall be in accordance with the latest version of the U.S. Department of Transportation, Federal Highways Administration Manual on Uniform Traffic Control Devices or as shown in the latest version of CDOT’s M&S Standard Plans. A traffic control plan is required for all work on or within a county right-of-way. The plan shall conform to the standards set forth in the MUTCD. Traffic control plans shall be submitted to the public works director for approval no less than twenty-four (24) hours prior to the performance of any work.
+VI.
+Professional qualifications and judgment.
+All road, right-of-way and drainage designs required by this chapter shall be prepared under the supervision of a professional engineer. Unless waived by the planning engineer or public works director, traffic analyses and construction plans shall be prepared, signed and sealed by a professional engineer. Because these standards cannot provide for all situations, the standards set forth in this chapter assist, but do not substitute for, competent work by design professionals. Design professionals shall consider all available information and use professional judgment to propose a final design. The public works director or planning engineer will evaluate proposed designs that depart from the requirements outlined in this chapter on the likelihood that such deviation will produce compensating or comparable results, adequate for the road uses and the welfare of the general public. The public works director or planning engineer will be the final authority resolving questions of fact in connection with standards for road construction not directly covered by this chapter.
+(
+Res. No.
+2020-30
+, § 74-1, 09/15/2020; Res. No. 2022-01, § 74-1, 01/04/2022
+)
+Effective on: 1/4/2022
+Sec. 74-2 Road classification standards and level of service standards
+I.
+Road classifications and standards for all private roads, public roads that are not county roads, county roads maintained by others, and new county roads.
+All roads that are existing, new private roads, public roads that are not county roads, county roads maintained by others or new county roads relied upon for access to their development shall meet the minimum standards in 74-1.IV, Table 74-2 below and section 74-4. The classifications and standards in this section account for current ADT in addition to the ADT expected to be generated by the development or use. If the classifications and standards in Table 74-2 are not met, the development shall make the improvements necessary to meet the standard or wait until the needed improvements are constructed by others. In addition to the classifications and standards in Table 74-2, the public works director may require additional improvements based on specific safety concerns including, but not limited to, road alignment, site distance and vehicle type generated by development. The road classifications and corresponding standards are:
+Table 74-2: Road Classifications and Standards
+TABLE 74-2: ROAD CLASSIFICATIONS AND STANDARDS
+Road Class
+ADT
+Design Speed (miles per hour)
+Minimum Right-of-Way Width (feet)
+Travel Way Width (feet)
+Shoulder Width (feet)
+Surface Type
+Maximum Grade (percent)
+Arterial
+2,500+
+45-55
+80
+24
+4
+Paved
+6
+Collector
+1,000-2,499
+30-45
+70
+24
+3
+Paved
+8
+Major local
+400-999
+25-40
+60
+22
+2
+Paved
+8
+Minor local
+49-399
+15-30
+50
+20
+2
+Gravel
+10
+Low ADT
+25-48
+n/a
+30
+20
+n/a
+Gravel
+10
+TABLE 74-2: ROAD CLASSIFICATIONS AND STANDARDS
+Road Class
+ADT
+Design Speed (miles per hour)
+Minimum Right-of-Way Width (feet)
+Travel Way Width (feet)
+Shoulder Width (feet)
+Surface Type
+Maximum Grade (percent)
+Arterial
+2,500+
+45-55
+80
+24
+4
+Paved
+6
+Collector
+1,000-2,499
+30-45
+70
+24
+3
+Paved
+8
+Major local
+400-999
+25-40
+60
+22
+2
+Paved
+8
+Minor local
+49-399
+15-30
+50
+20
+2
+Gravel
+10
+Low ADT
+25-48
+n/a
+30
+20
+n/a
+Gravel
+10
+TABLE 74-2: ROAD CLASSIFICATIONS AND STANDARDS
+Road Class
+ADT
+Design Speed (miles per hour)
+Minimum Right-of-Way Width (feet)
+Travel Way Width (feet)
+Shoulder Width (feet)
+Surface Type
+Maximum Grade (percent)
+Arterial
+2,500+
+45-55
+80
+24
+4
+Paved
+6
+Collector
+1,000-2,499
+30-45
+70
+24
+3
+Paved
+8
+Major local
+400-999
+25-40
+60
+22
+2
+Paved
+8
+Minor local
+49-399
+15-30
+50
+20
+2
+Gravel
+10
+Low ADT
+25-48
+n/a
+30
+20
+n/a
+Gravel
+10
+TABLE 74-2: ROAD CLASSIFICATIONS AND STANDARDS
+Road Class
+ADT
+Design Speed (miles per hour)
+Minimum Right-of-Way Width (feet)
+Travel Way Width (feet)
+Shoulder Width (feet)
+Surface Type
+Maximum Grade (percent)
+Arterial
+2,500+
+45-55
+80
+24
+4
+Paved
+6
+Collector
+1,000-2,499
+30-45
+70
+24
+3
+Paved
+8
+Major local
+400-999
+25-40
+60
+22
+2
+Paved
+8
+Minor local
+49-399
+15-30
+50
+20
+2
+Gravel
+10
+Low ADT
+25-48
+n/a
+30
+20
+n/a
+Gravel
+10
+II.
+Level of service standards for existing county roads.
+A.
+Level of service standards apply to any existing county road that experiences an increase in traffic due to a development, from the project entrance to the nearest state highway, city or town road. If the LOS is not met, the development shall make the improvements necessary to meet the LOS standard or wait until the needed improvements are constructed by others.
+B.
+Exemptions for level of service standards. The following projects are exempt from LOS standards:
+1.
+Development regulated by chapter 90.
+2.
+Subdivisions in which all lots are greater than thirty-five (35) acres.
+C.
+In addition to the level of service standards, the public works director may require additional improvements to county roads based on specific safety concerns including, but not limited to, road alignment, site distance and vehicle type generated by development.
+D.
+Paved county roads. The county has established specified levels of service for all paved county roads. The established level of service ensures that the operating conditions a driver experiences while traveling on a paved county road are maintained within the acceptable ranges established by the board. The capacity of a paved county road is defined as the maximum traffic volume that can be accommodated at the adopted level of service and depends on road characteristics, such as number of lanes, lane widths, intersection geometry and signalization, as determined by the Transportation Research Board, Highway Capacity Manual. Except as noted in paragraph 74-2.II.B., all paved county roads that experience an increase in traffic due to a proposed development must:
+1.
+Function at LOS D in the joint planning area, or future growth boundaries of a town or city;
+2.
+Function at LOS C in all other areas;
+3.
+Have a minimum of a twenty (20) foot width.
+E.
+Exemptions for portions of paved county roads. The following roads are exempt from level of service standards:
+1.
+County Road 240 (Florida Road) from Whippoorwill Drive to County Road 250 (East Animas);
+2.
+County Road 251, also known as 32nd Street, from Holly Ave. to County Road 250 (East Animas);
+3.
+County Road 250 (East Animas) between County Road 251 and County Road 240;
+4.
+Other urbanized county roads, as determined by the public works director or planning engineer, that no longer meet the criteria for uninterrupted flow shall be evaluated for level of service as interrupted flow.
+F.
+Unpaved county roads. The established level of service for unpaved roads ensures the road can accommodate emergency vehicles and not negatively impact maintenance or air quality. All unpaved county roads that experience an increase in traffic due to a proposed development must:
+1.
+Have a total surface width of twenty (20) feet.
+2.
+Carry no more than four hundred (400) ADT after completion of the project. Asphalt paving or double pin chip seal, if structurally adequate, with adequate sub-base and base course material, is required when cumulative traffic volumes exceed these capacities for unpaved roads. Double pin chip seal may be allowed only to improve a road that, with the new development, meets the thresholds of a major local road with less than nine hundred ninety-nine (999) ADT.
+3.
+Be adequately surfaced with all-weather material to carry the weight of a sixty thousand (60,000) pound vehicle, minimum front single axle = 24,000 pounds; minimum rear single axle = 32,000 pounds.
+(
+Res. No.
+2020-30
+, § 74-2, 09/15/2020; Res. No.
+2022-01
+, § 74-2, 01/04/2022
+)
+Effective on: 1/4/2022
+Sec. 74-3 Review of development subject to this code
+I.
+Improvements required
+. Applicants and owners are responsible for addressing and mitigating the road system impacts associated with their proposal as necessary to provide safe, efficient access to the development or use. This may include providing reasonable improvement to off-site transportation facilities made necessary by the development or use consistent with C.R.S. § 29-20-203.
+A.
+Auxiliary lanes. Where a development or use proposes to use an intersection that warrants auxiliary turn lanes, improvements for the auxiliary turn lanes shall be constructed by the owner.
+B.
+Existing roads. Whenever a proposed use or development impacts an existing road, including a county road, and the ability to maintain the functional classification, standards or safety of the road is impacted, the owner shall make on-site and off-site improvements to the existing road to address and mitigate the impacts associated with the use or development. The design and required improvements shall address all components and standards set forth in this chapter and shall be at the cost of the owner; provided, however, an applicant may seek reimbursement from subsequent development that utilizes the improvements when the conditions set forth in section 66-31 are satisfied. If the owner believes an existing private road, public road that is not a county road, or county road that is maintained by others conforms to these standards, the owner shall submit documentation illustrating such conformance and certification by a professional engineer that the road meets standards. The planning engineer may also require drawings of record to document conformance with the standards.
+C.
+New roads. When a development or use requires the design and construction of new public or private roadways, the design and required improvements shall address all components and standards set forth in this chapter and shall be at the cost of the owner.
+D.
+Extent of impacts. In satisfying the standards in this chapter for private roads, public roads that are not county roads, or county roads that are maintained by others, the development or use shall account for impacts and improvement from the farthest possible access point of the development or use to the connection with a county road, state highway or city or town road. In satisfying the standards in this chapter for county roads, developments or uses shall account for impacts from the proposed development or use to the nearest state highway or city or town road.
+E.
+Emergency or second primary access. If required by subsection 74-4.XIII, the owner shall construct emergency or second primary access.
+F.
+Improvements to state highways, if any, shall be determined by CDOT.
+Res. No.
+2020-30
+, § 74-3, 09/15/2020; Res. No.
+2024-26
+, §  08/13/2024
+II.
+Right-of-way management
+.
+A.
+Both legal and physical access is required for purposes of developing a parcel. Legal access is the legal right vested in an owner to enter or return from a parcel to a public roadway without obstruction. Adjacency to a public road or private access with the legal right to cross constitutes adequate legal access. Physical improvements to a parcel by a road or driveway that meets the standards in this chapter constitute physical access. The review of and requirements for access depends upon the road classifications and level of service for the road to which the parcel connects.
+B.
+Right-of-way dedication.
+1.
+All roadways and streets located within the subject property, the benefit of which is to the current or future residents of the property, shall be dedicated as public rights-of-way unless specifically approved as private rights-of-way and so designated on the plat or exemption documents.
+2.
+In addition to any other dedication requirements, in some instances it may be necessary for a property owner to dedicate land to the county to maintain safe and efficient operation of transportation facilities. Unless otherwise specified below, Table 74-2 shall be deemed to establish the minimum right-of-way width for private roads, public roads that are not county roads, county roads maintained by others, new county roads and improvements to existing county roads.
+a.
+Adjacent to subject property. Prior to issuance of a land use permit or recordation of a plat, an owner shall convey to the county right-of-way adjacent to any county road, along the full length of the subject property, in accordance with the following:
+i.
+Width. The owner shall dedicate the minimum width of the right-of-way necessary to meet the county road width requirements set forth in the County Road Right of Way Widths document referenced in the appendix to section 81-6. County roads not listed in the appendix shall have a minimum width of sixty (60) feet. For properties that front the county road on one (1) side, half the minimum width is required to be dedicated. When the property fronts the county road on both sides, the full width is required to be dedicated.
+ii.
+Conveyance. The owner shall transfer fee simple title to the on-site right-of-way to the county by general warranty deed, unless the county attorney determines less than fee simple title or other form of deed is appropriate under the circumstances.
+iii.
+When dedication is required by this section and the resultant lot or parcel area becomes less than that required by law for a proposed development, that area of land so dedicated may be included in the calculation of the land area needed for the purpose of complying with the applicable law.
+b.
+Off-site dedications or conveyances for existing county roads. Whenever a proposed use or development impacts an existing county road, and the ability to maintain the functional classification, standards or safety of the road is affected due to insufficient right-of-way width and the standards in 74-4, the owner is required to obtain and transfer to the county additional right-of-way to offset the impacts of the development as follows:
+i.
+Width. The owner shall dedicate the minimum width of right-of-way for the improved road as set forth in the County Road Right of Way Widths document referenced in the appendix to section 81-6. County roads not listed in the appendix shall have a minimum width of sixty (60) feet. The public works director may allow dedication of a lesser width if it is determined that, along with adequate drainage and maintenance, a roadway meeting the standards may be constructed in the lesser width. Under no circumstances shall the public works director accept a right-of-way of less than thirty (30) feet.
+ii.
+Conveyance. The owner shall obtain the necessary right-of-way, at the owner’s cost, and transfer fee simple title to the off-site right-of-way to the county by general warranty deed, unless the county attorney determines less than fee simple title or other form of deed is appropriate under the circumstances.
+c.
+New and existing off-site private roads, public roads that are not county roads, and county roads maintained by others. Right-of-way widths for off-site private roads, public roads that are not county roads and county roads maintained by others impacted by the development shall meet the standards set forth in section 74-2 and the applicant shall obtain any additional rights-of-way necessary to comply with the standards of this chapter. Except for county roads maintained by others, right-of-way for these roads shall not be dedicated to or accepted by the county.
+3.
+When, due to topography, hazards or other design constraints, additional road width is necessary to provide for public safety and maintenance to contain all cut and fill areas, auxiliary lanes, drainage or other road appurtenances along roadways, then dedication of right-of-way in excess of the minimum standards shall be required. If only cut and fill slopes extend outside the minimum right-of-way, the public works director or planning engineer may allow permanent slope easements in lieu of additional right-of-way.
+4.
+In addition to dedication requirements, in some instances it may be preferable or necessary for a property owner to pay an in-lieu sum to the county for the right-of-way acquisition required for the physical improvements necessary to offset the impacts of the development.
+C.
+Roadway acceptance. All offers of dedication of public road right-of-way contained on or within any plat, plan, permit or other legal document setting forth a valid offer of dedication to the public are hereby accepted on behalf of the public. However, this acceptance on behalf of the public shall not be construed as accepting any obligation on the part of the county to maintain the accepted right-of-way nor shall the acceptance be construed as designating such public roads as county roads. County roads are as depicted on the official county road map. Rights-of-way for purposes of this section shall include, but not be limited to, utility, path, road and railroad rights-of-way, easements, deeds or valid offers of conveyance of any kind.
+This provision shall not be construed to alter, modify or rescind prior legal action taken by recorded resolution of the board accepting, rejecting or vacating any rights-of-way contained on or within any subdivision or land use plat, plan, permit or other legal document containing a valid offer of dedication.
+D.
+Acquisition. The board is authorized by state statute to layout, widen, alter or change any county road and to acquire land for county programs, projects or public purposes. The county may coordinate such acquisitions with owners when the acquisitions are for a valid public purpose. Acquisition of right-of-way shall substantially follow the Real Estate Acquisition Guide for Local Public Agencies published by the FHWA, the Uniform Relocation Assistance and Real Property Acquisition Policies Act of 1970, 42 U.S.C. Ch. 61, and Title 38 of the Colorado Revised Statutes.
+III.
+Process outline, submittals and completion.
+A.
+Process outline. Except for subdivisions where all lots are greater than thirty-five (35) acres and subject to the process set forth in section 74-6, the submittal requirements set forth in this section and review process shall follow the common review procedures described in sections 66-10 through 66-14. In those instances, the public works department is a referral agency under subsection 66-11.II in the development review process.
+B.
+Submittal requirements. The applicant or owner of the proposed use or development shall submit the following:
+1.
+A survey depicting all utilities, underground and above ground, and all significant topographical features. Surveys used to generate construction plans shall be based on a ground or aerial survey. GIS generated data shall not be used;
+2.
+A traffic analysis as described in subsection 74-3.IV;
+3.
+A description of how any safety concerns will be resolved, including access for emergency vehicles or other concerns expressed by the applicable fire district, if appropriate;
+4.
+Technical reports evaluating drainage, geotechnical, hydrological, structural and pavement design and other pertinent engineering issues deemed necessary by the public works director or planning engineer given the context;
+5.
+A description of any impact on ditches or ditch crossings;
+6.
+A description of the proposed mitigation for all adverse impacts to environmental and natural resources. For example, mitigation through an erosion control plan or a stormwater management plan;
+7.
+Identification of the party responsible for maintaining the road, including any existing or proposed agreements to manage maintenance of the facilities through a perpetual association, corporation or other suitable means;
+8.
+For all required improvements and facilities, construction plans meeting the minimum formatting and content requirements set forth in the construction plan guidance documents provided by the public works director or planning engineer and comporting with current industry standards. All construction plans shall be completed with enough detail to facilitate review and clearly describe the existing conditions and proposed construction of the development in its entirety and detail all existing equipment, infrastructure, and access. The required detail of construction plans, as determined by the planning engineer or public works director, shall depend upon the size, nature, and complexity of the use or development.
+9.
+If the public works director or planning engineer determine a proposed development or use may exceed the thresholds identified in section 74-2, the public works director may require, as a preliminary submittal, an opinion letter prepared and signed by a professional engineer addressing trip generation and potential impacts to determine if a traffic impact study under paragraph 74-3.IV.C is required.
+10.
+Snow storage calculations if the property is located over seven thousand five hundred (7,500) feet in elevation.
+C.
+Submittal process.
+1.
+Preliminary submittals. One (1) set of preliminary submittal items, in an electronic format, is required at project submittal. It may be necessary for the applicant to revise and resubmit these submittals based upon review and approval by the county.
+2.
+Final submittals. Prior to construction, the applicant shall submit final submittal items, with appropriate documents signed and sealed by a professional engineer for county approval.
+3.
+Revisions or updates to the approved documents. Revisions to the approved documents and supporting information shall be submitted to the CDD for approval prior to project completion. Revised construction plans shall show the clouded revisions and be signed and sealed by a professional engineer. If the public works director or planning engineer do not approve the changes, the applicant shall comply with the previously approved documents.
+D.
+Project completion. Except when a development improvements agreement is used, the applicant shall complete the improvements prior to plat recording or issuance of the land use permit. An inspection by the county shall be performed to verify that all improvements have been constructed, revegetation measures have been installed, and conditions of approval have been met. The owner shall also submit the following prior to inspection:
+1.
+Certification by a professional engineer that the improvements have been constructed in accordance with the approved construction plans;
+2.
+Certification by the owner that all improvements have been constructed in accordance with the approved construction plans;
+3.
+If deemed necessary or applicable by the planning engineer, approval of the improvements by applicable commenting agencies, fire departments or metropolitan districts.
+IV.
+Traffic analysis.
+Because development and uses are responsible for addressing and mitigating their road system impacts, all proposed development and uses shall submit either a traffic evaluation under paragraph 74-3.IV.F or a traffic impact study under paragraph 74-3.IV.G, to inform staff and decision-making bodies about the development’s or use’s impacts on the roadway system as well as potential ways to mitigate those impacts. The public works director or planning engineer shall inform the applicant or owner of the level of analysis required during or subsequent to the pre-application meeting or after reviewing the opinion letter submitted pursuant to subparagraph 74-3.III.B.9. The public works director or planning engineer may ask for elements of a higher level of analysis where circumstances warrant.
+A.
+Exemptions. The planning engineer or public works director may waive a traffic analysis based on the following:
+1.
+Road improvements are not needed to accommodate the traffic to be generated by the project.
+2.
+The project takes direct access onto a city road or state highway. A second primary access onto a road that is not a city road or state highway will still require a traffic analysis for that portion of the traffic.
+3.
+The traffic to be generated does not adversely affect the traffic currently planned for and accommodated within, and adjacent to, the roadways, accesses, and intersections that provide access to the property; acceptable level of service on the adjacent public roadways, accesses, and intersections will be maintained; and no roadway, access, or intersection in the immediate vicinity has a history of safety or accident problems.
+B.
+The public works director or planning engineer may require traffic analysis to account for system impacts from approved development projects, phasing, or other projects in process concurrently with the county.
+C.
+The public works director or planning engineer may require an update to a previously submitted traffic analysis if there is an increase in background or project generated traffic or other factors that may impact traffic, level of service, or warrants for road improvements, since the original study was completed that may result in changes in level of service or the need for road improvements.
+D.
+Phased projects with a multi-year buildout will be required to prepare a master traffic analysis to address overall project impacts and identify key criteria that would warrant construction of road improvements. Unless exempted by paragraph 74-3.IV.A, each site specific development plan shall require a traffic analysis that verifies the accuracy of the original traffic projections, both on-site and background, and examines the warrants for road improvements.
+E.
+Projected traffic volumes. Both the traffic evaluation and the traffic impact study shall describe projected traffic volumes as follows:
+1.
+Trip generation values used for calculating ADT shall be primarily based on the type of occupancy for which the development is designed and secondarily based on the occupancy rate and activities generated. Subject to subparagraph 2 below, all uses shall use trip generation values as shown in the most current edition of the Trip Generation Manual, by the Institute of Transportation Engineers, or as verified by other data sources as determined by the public works director or planning engineer. When determining ADT under this subparagraph 1, primary consideration shall be given to the square footage of the proposed development and secondary consideration shall be given to other factors such as occupancy rate and the anticipated number of employees.
+2.
+For single-family use, multi-family use, and any nonresidential use not subject to subparagraph 1 above, trip generation values used for calculating ADT shall be as follows:
+TABLE 74-3 A: TRIP GENERATION VALUES
+Type of Use
+Unit
+Single-family
+8 ADT/unit
+Multi-family
+5 ADT/unit
+Non-residential (only if use is not covered in ITE manual)
+4 ADT/employee
+TABLE 74-3 A: TRIP GENERATION VALUES
+Type of Use
+Unit
+Single-family
+8 ADT/unit
+Multi-family
+5 ADT/unit
+Non-residential (only if use is not covered in ITE manual)
+4 ADT/employee
+TABLE 74-3 A: TRIP GENERATION VALUES
+Type of Use
+Unit
+Single-family
+8 ADT/unit
+Multi-family
+5 ADT/unit
+Non-residential (only if use is not covered in ITE manual)
+4 ADT/employee
+TABLE 74-3 A: TRIP GENERATION VALUES
+Type of Use
+Unit
+Single-family
+8 ADT/unit
+Multi-family
+5 ADT/unit
+Non-residential (only if use is not covered in ITE manual)
+4 ADT/employee
+F.
+Traffic evaluation. A traffic evaluation is required for projects that do not meet thresholds for a traffic impact study. The traffic evaluation shall:
+1.
+Quantify volume generated by the development or use
+and determine internal road classifications
+;
+2.
+If applicable, quantify off-site traffic volumes on a private road that provides access to a
+county road
+, state highway, city, or town road. Calculations shall account for future traffic from undeveloped lots at the single-family trip generation rate;
+3.
+Include entering sight distances for all intersections and accesses serving the project.
+4.
+Evaluate turn lane warrant based on CDOT Access Code and accounting for proposed and existing traffic volumes. For purposes of determining auxiliary lane warrants according to the current version of the Colorado State Highway Access Code, Volume 2, all county roads shall be considered category R-B unless the public works director determines other categories should be considered due to the densities of access points or because the proposed development or use is adjacent to an incorporated area.
+G.
+Traffic impact study.
+1.
+Applicability. A traffic impact study involves a detailed analysis of road conditions, impacts and mitigation. Safety, access, level of service, and off-site impact mitigation are emphasized. A traffic impact study is required when the public works director or planning engineer determines the proposed development or use is anticipated to generate one (1) of the following:
+a.
+One hundred (100) or more ADT;
+b.
+A fifty (50) percent or more equivalent single axle load increase on the nearest county road caused by trucks classified by the United States Department of Transportation as Class 6 or higher;
+c.
+Additional traffic to an existing county road that currently operates, or with the increased traffic due to the development or use will operate, at a level of service less than that described in section 74-2;
+d.
+Additional traffic to any intersection with an existing peak hour traffic volume that is within ten (10) percent of meeting warrants for auxiliary lanes as determined by the current version of the Colorado State Highway Access Code, Volume 2;
+e.
+Any increased traffic volume at an intersection or on a roadway with a documented accident history or other known existing safety hazards, as determined by the public works director or planning engineer.
+2.
+Content requirements. All traffic impact studies shall:
+a.
+Quantify traffic volume generated by the project at build out and determine internal road classifications;
+b.
+Include a vicinity map;
+c.
+Meet the requirements of the current version of the Colorado State Highway Access Code, Volume 2;
+d.
+Study turning movements and level of service at peak hour for intersections adjacent to the proposed development or use;
+e.
+Study traffic within the traffic impact area, including turning movements and level of service at peak hour at intersections adjacent to the proposed development or use.
+As determined by the planning engineer, the traffic impact area may be reduced or expanded depending on the traffic characteristics of the project, the existing and future land uses, and the road and traffic conditions that are affected by the project
+;
+f.
+If applicable, quantify off-site traffic volumes on private roadways that provide access to a county road, state highway, city, or town road. Calculations shall account for future traffic from undeveloped lots at the single-family trip generation rate;
+g.
+Include modal split assumptions with analytical support;
+h.
+Include level of service calculations;
+i.
+Include entering sight distances for all intersections and accesses serving the project;
+j.
+Include warrants and design criteria for acceleration and deceleration lanes as required by the current versions of the Colorado State Highway Access Code, Volume 2 and the American Association of State Highway and Transportation Officials Geometric Design of Highways and Streets. For purposes of determining auxiliary lane warrants pursuant to the Colorado State Highway Access Code, Volume 2, all county roads shall be considered category R-B unless the public works director determines other categories should be considered due to the density of access points or because the proposed development is adjacent to an incorporated area;
+k.
+Include a safety analysis of potential conflict points, turning movements, road alignment, and five (5) years of accident history;
+l.
+Identify required roadway improvements, including without limitation road width and shoulders, geometry, acceleration and deceleration lanes, and turn lanes, drainage improvements, guardrail, signs, and striping;
+m.
+Include pavement structural capacity analysis based on a geotechnical study, unless the public works director determines the proposed development’s anticipated traffic represents less than a twenty-five (25) percent increase in ESAL loads;
+n.
+Identify road maintenance needs and schedule, including without limitation culverts and dust control;
+o.
+Collect existing traffic counts at the morning and afternoon peak hour traffic times over a minimum of two (2) weekdays, unless the public works director determines that such traffic counts are not needed based on the availability of existing data; traffic counts taken between October and April shall include a seasonal adjustment factor as calculated by CDOT for the region and time of year;
+p.
+Evaluate current daily peak and peak hour traffic data and twenty (20) year projections including without limitation turning movements at all intersections and key year midpoints assuming a build out of the traffic impact area based on land use, comprehensive plans, and growth estimates;
+q.
+Include data collection sheets, calculation sheets, and software outputs;
+r.
+Include a section for conclusions, mitigation and recommendations. This section should describe safety impacts resulting from the development or use, needed actions to mitigate the impacts (both immediately adjacent to the site as well as off-site mitigation measures needed as a direct result of the development or use), and the applicant’s proposed methods and schedule for phased projects to implement the mitigation measures. This section should detail the anticipated site access configuration (driveways, private roadways, paths, sidewalks, etc.) consistent with the requirements of these standards.
+Res. No.
+2020-30
+, § 74-3, 09/15/2020; Res. No.
+2024-26
+, §  08/13/2024
+V.
+Design exceptions
+. Aside from LOS standards for existing
+county roads
+, in certain limited exceptions, it is recognized that a proposed design may deviate from the standards prescribed by the road design publications described in section 74-1 or elsewhere in this chapter. In such instances, the applicant’s or owner’s professional engineer shall document, in writing and with sufficient detail, the cause for such deviation. The rationale for the deviation shall demonstrate that the deviation satisfies all of the following:
+A.
+Is not likely to compromise public safety;
+B.
+Is not contrary to best engineering practices as reflected in the road design publications described in section 74-1 or elsewhere in this chapter;
+C.
+Is not contrary to the intent and general purposes of the code;
+D.
+Does not result in a significant impact to the public due to maintenance of the improvements;
+E.
+Is the minimum exception or deviation necessary to afford relief, given the context;
+F.
+Is reasonably necessary for the health, safety and welfare of the public.
+Upon receipt of the written request, the public works director or planning engineer shall evaluate the rationale according to the criteria in this section and advise the applicant’s or owner’s professional engineer whether the deviation, in whole or in part, is acceptable.
+If the applicant or owner do not agree with the determination of the public works director or planning engineer or the county attorney determines the request relates to special conditions or exceptional characteristics of the proposal, not created by the applicant, that may justify or require a variance from the strict and literal interpretation of this code’s standards to avoid undue hardship, the applicant or owner shall follow the variance process described in section 66-27.
+VI.
+Evaluation of development and use proposals.
+A.
+The following factors shall be considered when evaluating development or use proposals:
+1.
+Whether the proposal, design, proposed mitigation and construction plans meet the standards set forth in this chapter;
+2.
+Conformance with the road design publications described in subsection 74-1.III; provided, however, road widths for minor local roads shall be as set forth in this section 74-2;
+3.
+Whether the proposal will increase ESAL loads by fifty (50) percent or more, and whether the projected traffic loads from the development or use can be accommodated without damaging the roadway or increasing the county’s costs for maintenance;
+4.
+Whether there have been known safety issues including, but not limited to, road geometry, sight distance, number of accidents or need for emergency access;
+5.
+Whether the proposal adequately and appropriately mitigates the impacts (both immediately adjacent to the project as well as off-site mitigation measures needed as a direct result of the project), and whether the applicant’s or owner’s proposed methods and schedule for phasing is adequate to implement the mitigation measures.
+B.
+If the proposal does not meet the standards set forth in this chapter and no design modification would remedy the problems with the proposal, the planning engineer or public works director shall inform the director of such in the referral comments and articulate the specific standards that are not met.
+C.
+If the development proposal meets the requirements of this chapter but only by including recommended conditions of approval or specific plat notes, the planning engineer or public works director shall provide the necessary conditions of approval or plat notes to the director.
+D.
+Once submitted to the director, the referral agency comments shall become part of the permanent record and incorporated into the project file. The referral comments shall inform the CDD’s recommendation for project approval or denial to the decision-making body.
+(
+Res. No.
+2020-30
+, § 74-3, 09/15/2020; Res. No.
+2024-26
+, §  08/13/2024
+)
+Effective on: 8/13/2024
+Sec. 74-4 Roadway and sign design and construction standards
+I.
+Design speed.
+C.R.S. § 42-4-1102 requires that speed limits not be higher or lower than those prescribed by state statute unless the investigation or considerations required by the statute justify the change. The public works director or planning engineer may reduce a design speed and may require more stringent widths and grades from those set forth in Table 74-2 if such changes are warranted by topography, cross-section, drainage, snow storage, maintenance or other site-specific conditions.
+II.
+Turnouts
+. Turnouts shall be provided at fire hydrants for all low ADT and minor local roads. Required turnouts shall be sixty (60) feet (including tapers) in length and provide twenty-six (26) feet in total surface width of cross-section with reasonable tapering.
+III.
+Physical or geological constraints.
+Where physical or geological constraints limit road improvements, the surface width of arterial and collector roads may be reduced by the public works director to twenty-two (22) feet if the specified shoulder width is met, and the posted speed limit is forty-five (45) miles per hour or less. If the arterial or collector road is an urban road with urban improvements, including curb, gutter, and sidewalks, and has a posted speed of thirty-five (35) miles per hour or less, the surface width may be reduced by the public works director to twenty-one (21) feet if the paved shoulders will be five (5) feet in width or greater.
+IV.
+Shoulder width
+. The shoulder widths in Table 74-2 shall be required on both sides of the travel way width sections of the roadway and shall be at the same grade as the road surface.
+V.
+Cut and fill slope
+.
+A.
+Cut and fill slopes shall be completely contained within the right-of-way. If insufficient right-of-way exists, additional width shall be obtained as prescribed by subsection 74-3.II.
+B.
+The preferred design for cut slopes shall be four (4) foot horizontal to one (1) foot vertical. Cut slopes shall not be greater (steeper) than two (2) foot horizontal to one (1) foot vertical and ten (10) feet high except for cuts in stable bedrock verified by a professional engineer. The preferred design for fill slopes shall be four (4) foot horizontal to one (1) foot vertical. Fill slopes shall not be greater (steeper) than two (2) feet horizontal to one (1) foot vertical and four (4) feet high. A slope that exceeds the minimum cut or fill requirements shall either be certified as stable in its current finished state by a professional engineer or shall be designed by a professional engineer.
+VI.
+Superelevation
+. Maximum superelevation rate shall be six hundredths (.06) feet/foot. The public works director or planning engineer may require a lower superelevation rate based on safety considerations. Factors informing the need for superelevation include climate conditions, terrain conditions, classification of the road and the frequency of slow-moving vehicles on the roadway.
+VII.
+Parking areas
+. For projects that have a defined parking area, these standards shall apply from the road to the beginning of the surface widening for the parking area. These standards shall not apply within designated parking areas.
+VIII.
+Intersections
+.
+A.
+Intersections should be designed to intersect as nearly as possible at right angles, except where topography or other site conditions justify variations. A minimum angle of intersection of roads shall be sixty (60) degrees.
+B.
+Sight distances at intersections shall meet the Colorado State Highway Access Code (Volume 2, Code of Colorado Regulations 601-1, latest edition) minimum standards and the applicable road design publications described in subsection 74-1.III. Intersections including median openings shall be designed with adequate corner sight distance and kept free of obstacles.
+C.
+No fence, wall, entrance fixture, landscaping, tree or other sight obstruction shall be allowed to encroach upon the required sight distance at intersections.
+D.
+Roads entering the opposite sides of a road shall either be directly across from one another or offset by at least one hundred twenty-five (125) feet from centerline to centerline.
+E.
+The gradient for roads less than four hundred (400) ADT shall not exceed five (5) percent for the portion of the road within sixty (60) feet of an intersection, measured from the travel way. The gradient for all other roads shall not exceed five (5) percent for the portion of the road within one hundred (100) feet of an intersection, measured from the travel way.
+F.
+Corner radii at all intersections shall be a minimum twenty (20) feet in residential areas and forty (40) feet in industrial or commercial areas, as determined by the public works director.
+G.
+Design of auxiliary lanes shall conform to the current version of the Colorado State Highway Access Code. Designs also shall address right-of-way, guardrail, signing, and striping. The public works director may require additional construction requirements such as sawcutting, milling, and overlay of the asphalt be incorporated into the design to ensure the long term integrity of the pavement.
+IX.
+Surfacing requirements
+.
+A.
+All roads in a subdivision having a net density greater than three (3) units per acre shall be paved or double pin chip seal surfaced in accordance with the design standards set forth in the current CDOT Pavement Design Manual.
+B.
+The travel way width of major local, collector, and arterial classified roads shall be paved in accordance with the design standards set forth in the current CDOT Pavement Design Manual.
+C.
+Shoulders for arterials and collectors shall be paved.
+D.
+All roadways that are not paved that provide access onto a paved public road shall have paved aprons approved by the public works director.
+E.
+The surface width of low ADT and minor local classified roads shall have a minimum surfacing of eight (8) inches of class 2 ABC with three (3) inches of class 6 ABC finish material over suitable compacted subgrade material.
+X.
+Dead ends.
+All roadways (excluding driveways) in excess of one hundred fifty (150) feet in length that do not connect with another road shall contain a turnaround that does not exceed five (5) percent grade.
+A.
+Cul-de-sac turnarounds shall be provided on dead-end streets serving four (4) or more lots as depicted in this Figure 74-4 A: Cul-de-sac design:
+Figure 74-4 A: Cul-de-sac Design
+I.
+Dead-end roadways serving three (3) or fewer lots may also construct hammerheads consistent with one (1) of the following designs in Figure 74-4 B: Design standards for hammerheads for dead-end roadways.
+Figure 74-4 B: Design Standards for Hammerheads for Dead-end Roadways
+I.
+A professional engineer shall certify that the design and construction of the turnaround area can accommodate the safe turnaround of an AASHTO design vehicle WB-40, and a minimum of fifty (50) feet in length.
+II.
+Gates
+. Gated subdivision roads and accesses may be considered within a project when both the applicable fire district and public works director approve the gate’s design. Gate design shall account for public safety for pull-outs along travel lanes and effective accessibility for emergency vehicles through use of a Knox Box or other uniform devices or method.
+III.
+Road structure design and testing standards
+.
+A.
+The following standards apply to major local, collector, and arterial classified roads and may apply to minor local and low ADT classified roads as determined by the public works director or planning engineer. The costs of structure design and testing shall be at the sole cost of the owner.
+1.
+Soils testing and pavement design shall be accomplished by a certified testing firm under the supervision of a professional engineer. Frequency of testing shall be as determined by the public works director or planning engineer.
+2.
+Road structure design shall be in accordance with the criteria and procedures outlined in the current CDOT Pavement Design Manual and must be based on a twenty (20) year design life.
+3.
+Subgrade materials shall be tested by a professional engineer or certified testing firm at intervals no greater than one thousand (1,000) feet or as otherwise determined by the public works director. Subgrade design shall provide R values or CBR values necessary to support selected subbase, base course and surfacing requirements as outlined in the current CDOT Pavement Design Manual, or as required by the public works director. R values or CBR values shall be determined by testing subgrade soils or by comparable design soils conditions as determined by the professional engineer.
+4.
+The results of the testing and the road structure design shall be submitted to the public works director as part of the final plans.
+5.
+At the discretion of the planning engineer or public works director, construction testing of the road structure may be required.
+IV.
+Emergency and second primary access
+. Emergency and second primary access roads shall be located to achieve the greatest practical separation from the primary access road.
+A.
+Single family residential. Developments or uses intended for single family residential units shall have a second primary access or an emergency access from a county road or state highway as described in Table 74-4 C. More stringent requirements and additional intermediate turnarounds may also be required by the director based on local fire protection district guidance regarding the potential for impairment of a single road by vehicle congestion, condition of terrain, or climatic conditions, or by difficulties in firefighting caused by fire apparatus, water supply, topography, or resources available.
+Table 74-4 C: Minimum Emergency Access
+TABLE 74-4 C: MINIMUM EMERGENCY ACCESS
+Number of single-family residential units to be served by road
+Minimum width and type of emergency/second primary access
+≤ 30
+None required
+31-100
+20-foot-wide emergency only
+>100
+Second primary access as determined by Table 74-2, meeting all standards of Chapter 74
+TABLE 74-4 C: MINIMUM EMERGENCY ACCESS
+Number of single-family residential units to be served by road
+Minimum width and type of emergency/second primary access
+≤ 30
+None required
+31-100
+20-foot-wide emergency only
+>100
+Second primary access as determined by Table 74-2, meeting all standards of Chapter 74
+TABLE 74-4 C: MINIMUM EMERGENCY ACCESS
+Number of single-family residential units to be served by road
+Minimum width and type of emergency/second primary access
+≤ 30
+None required
+31-100
+20-foot-wide emergency only
+>100
+Second primary access as determined by Table 74-2, meeting all standards of Chapter 74
+TABLE 74-4 C: MINIMUM EMERGENCY ACCESS
+Number of single-family residential units to be served by road
+Minimum width and type of emergency/second primary access
+≤ 30
+None required
+31-100
+20-foot-wide emergency only
+>100
+Second primary access as determined by Table 74-2, meeting all standards of Chapter 74
+B.
+Multifamily, commercial, industrial, nonresidential and mixed use. Developments or uses intended for multifamily, commercial, industrial, nonresidential or mixed use developments shall have a second primary access from a county road or state highway as described in Table 74-4 D. More stringent requirements and additional intermediate turnarounds may also be required by the director based on local fire protection district guidance regarding the potential for impairment of a single road by vehicle congestion, condition of terrain, or climatic conditions, or by difficulties in firefighting caused by fire apparatus, water supply, topography, or resources available.
+Table 74-4 D: Minimum Access
+TABLE 74-4 D: MINIMUM ACCESS
+Development type
+Threshold
+Minimum width and type of emergency / second primary access
+Commercial, industrial, or nonresidential
+Buildings exceeding three (3) stories or 30 feet in height, o
+r
+>62,000 square feet of gross building area or facility area without sprinklers, or >124,000 square feet of gross building area or facility area with sprinklers
+Second primary access, as determined by Table 74-2 meeting all standards of Chapter 74
+Multifamily Residential
+>100 residential units without sprinklers, or >200 residential units with sprinklers
+Second primary access, as determined by Table 74-2 meeting all standards of Chapter 74
+Mixed Use
+Any single portion of the mixed use development would trigger a second primary access on its own based on the relevant development types or sizes in Tables 74-4 C or 74-4 D
+Second primary access, as determined by Table 74-2 meeting all standards of Chapter 74
+Mixed Use
+No portion of the mixed use development would trigger a second primary access on its own based on the relevant development types or sizes in Tables 74-4 C or 745-4 D
+Either 20-foot wide emergency only or second primary access, as determined by the director based on local fire protection district guidance regarding the potential for impairment of a single road by vehicle congestion, condition of terrain, or climatic conditions, or by difficulties in firefighting caused by fire apparatus, water supply, topography, or resources available
+TABLE 74-4 D: MINIMUM ACCESS
+Development type
+Threshold
+Minimum width and type of emergency / second primary access
+Commercial, industrial, or nonresidential
+Buildings exceeding three (3) stories or 30 feet in height, o
+r
+>62,000 square feet of gross building area or facility area without sprinklers, or >124,000 square feet of gross building area or facility area with sprinklers
+Second primary access, as determined by Table 74-2 meeting all standards of Chapter 74
+Multifamily Residential
+>100 residential units without sprinklers, or >200 residential units with sprinklers
+Second primary access, as determined by Table 74-2 meeting all standards of Chapter 74
+Mixed Use
+Any single portion of the mixed use development would trigger a second primary access on its own based on the relevant development types or sizes in Tables 74-4 C or 74-4 D
+Second primary access, as determined by Table 74-2 meeting all standards of Chapter 74
+Mixed Use
+No portion of the mixed use development would trigger a second primary access on its own based on the relevant development types or sizes in Tables 74-4 C or 745-4 D
+Either 20-foot wide emergency only or second primary access, as determined by the director based on local fire protection district guidance regarding the potential for impairment of a single road by vehicle congestion, condition of terrain, or climatic conditions, or by difficulties in firefighting caused by fire apparatus, water supply, topography, or resources available
+TABLE 74-4 D: MINIMUM ACCESS
+Development type
+Threshold
+Minimum width and type of emergency / second primary access
+Commercial, industrial, or nonresidential
+Buildings exceeding three (3) stories or 30 feet in height, o
+r
+>62,000 square feet of gross building area or facility area without sprinklers, or >124,000 square feet of gross building area or facility area with sprinklers
+Second primary access, as determined by Table 74-2 meeting all standards of Chapter 74
+Multifamily Residential
+>100 residential units without sprinklers, or >200 residential units with sprinklers
+Second primary access, as determined by Table 74-2 meeting all standards of Chapter 74
+Mixed Use
+Any single portion of the mixed use development would trigger a second primary access on its own based on the relevant development types or sizes in Tables 74-4 C or 74-4 D
+Second primary access, as determined by Table 74-2 meeting all standards of Chapter 74
+Mixed Use
+No portion of the mixed use development would trigger a second primary access on its own based on the relevant development types or sizes in Tables 74-4 C or 745-4 D
+Either 20-foot wide emergency only or second primary access, as determined by the director based on local fire protection district guidance regarding the potential for impairment of a single road by vehicle congestion, condition of terrain, or climatic conditions, or by difficulties in firefighting caused by fire apparatus, water supply, topography, or resources available
+TABLE 74-4 D: MINIMUM ACCESS
+Development type
+Threshold
+Minimum width and type of emergency / second primary access
+Commercial, industrial, or nonresidential
+Buildings exceeding three (3) stories or 30 feet in height, o
+r
+>62,000 square feet of gross building area or facility area without sprinklers, or >124,000 square feet of gross building area or facility area with sprinklers
+Second primary access, as determined by Table 74-2 meeting all standards of Chapter 74
+Multifamily Residential
+>100 residential units without sprinklers, or >200 residential units with sprinklers
+Second primary access, as determined by Table 74-2 meeting all standards of Chapter 74
+Mixed Use
+Any single portion of the mixed use development would trigger a second primary access on its own based on the relevant development types or sizes in Tables 74-4 C or 74-4 D
+Second primary access, as determined by Table 74-2 meeting all standards of Chapter 74
+Mixed Use
+No portion of the mixed use development would trigger a second primary access on its own based on the relevant development types or sizes in Tables 74-4 C or 745-4 D
+Either 20-foot wide emergency only or second primary access, as determined by the director based on local fire protection district guidance regarding the potential for impairment of a single road by vehicle congestion, condition of terrain, or climatic conditions, or by difficulties in firefighting caused by fire apparatus, water supply, topography, or resources available
+C.
+Emergency access roads shall:
+1.
+Be surfaced with all-weather material to carry the weight of a seventy-five thousand (75,000) pound vehicle, minimum front single axle = 24,000 pounds; minimum rear single axle = 60,000 pounds;
+2.
+Have road grades less than ten (10) percent. The director may require more stringent grade limit based on local fire protection district guidance regarding fire apparatus;
+3.
+Meet all other county requirements related to horizonal and vertical alignment;
+4.
+Have minimum surfacing of six (6) inches Class 6 (3/4" minus) aggregate on a compacted subgrade material.
+D.
+Permanent easements are required for all required access roads that cross other properties and the applicant or owner is responsible for procuring such easements. The easement width shall be that required to accommodate the road and cut and fill slopes. In no event shall the minimum width of the easement be less than thirty (30) feet.
+E.
+The planning director may issue a director determination letter granting a waiver to the emergency or second primary access standards based upon the written recommendation of the planning engineer, and appropriate fire protection district. The waiver may be based on practical or engineering considerations including, but not limited to: topography, grades, vegetative cover, aspect and density but primary consideration shall be given to the general health, safety, and welfare of the public. A waiver may be justified by the applicant or owner providing additional mitigation, including but not limited to installation of hydrants, ponds, building sprinkler systems or the use of fire-resistant building materials. Where circumstances require, more stringent requirements may by applied.
+F.
+Emergency access may be gated or fenced to prevent use by nonemergency or non-authorized vehicles. the gate or fence construction shall be approved by the local fire protection district, and the emergency road shall be maintained by the owner, a home owner's association, property owner's association or other appropriate authority.
+V.
+Sign standards.
+A.
+All signs required by this chapter shall be shown in the construction plans.
+B.
+Street name signs are required at all intersections in subdivisions. Such signs shall be approved by the public works director.
+C.
+All required street name signs, speed limit signs, stop signs and other traffic control devices shall be installed to the satisfaction of the public works director or planning engineer and paid for by the owner.
+D.
+Nonstandard signs or other traffic control devices installed within county right-of-way are subject to the control and approval of the public works director. Requests to install nonstandard signs or other devices must be submitted to the public works director along with data required to support the request.
+VI.
+Guardrail standards
+.
+A.
+Guardrails may be required when the roadside clear zone and cut and fill slopes warrant protection as determined by the public works director or planning engineer. The basic references for information on all types of barriers is the current AASHTO Roadside Design Guide. Guardrails shall be installed in accordance with the Colorado Department of Transportation M Standards.
+B.
+The public works director or planning engineer may require a guardrail in certain locations due to safety concerns related to grade, road alignment, speed or other site characteristics.
+VII.
+Snow storage standards.
+A.
+All public and private roads shall be designed and constructed to permit a minimum of three (3) feet of horizontal distance that is unobstructed space for snow storage adjacent to the travel way. This space may include shoulders and borrow ditches.
+B.
+Sight distance at intersections shall not be impaired by snow cleared from roadways.
+C.
+All developments above seven thousand five hundred (7,500) feet mean sea level shall provide adequate snow storage areas equivalent to twenty-five (25) percent of the paved or gravel surface adjacent to the traveled way, which may include shoulders and borrow ditches. Uphill grades of five (5) to ten (10) percent shall count at seventy-five (75) percent of the areas to satisfy this requirement. Uphill grades of eleven (11) to twenty (20) percent shall count at fifty (50) percent of the area to satisfy this requirement. Steep uphill grades greater than twenty (20) percent are not appropriate for snow stacking and shall not be counted to satisfy this requirement. More intense developments may incorporate snow melt systems or haul snow to suitable snow storage areas. Snow storage areas shall be analyzed to ensure that facilities are in place to protect wetlands, streams and rivers from runoff. Any additional areas needed outside the right-of-way must be included in a snow storage easement. Calculations prepared by a professional engineer shall be submitted and snow storage for areas shall be shown on the construction plans.
+VIII.
+Access road culverts
+.
+A.
+Installation of culverts along county roads. When the installation of a culvert is made necessary by the creation or expansion of access from private property to a county road, by any alteration of the natural flow of water across private property, or any other reason necessitated by the actions of an owner of property adjacent to a county road, the owner shall pay for materials and the cost of installation for the new culverts. A permit shall be obtained for any work in the right-of-way and approval by the public works director as to specifications, size and location in the county right-of-way is required prior to installation. The culvert size shall be determined in accordance with standard engineering practices. The minimum culvert size is fifteen (15) inches in diameter and acceptable materials include corrugated metal, concrete and polyethylene.
+B.
+Maintenance. After installation, the property owner shall maintain and repair the road access, culvert and associated borrow ditch to the extent necessary to accommodate proper drainage. If the county notifies the owner of the need for maintenance or repair of the culvert, the owner shall have fifteen (15) days to make such repair or perform the needed maintenance. If the owner fails to perform the maintenance or performs the repair or maintenance inadequately, the county may perform the repair or maintenance as necessary to protect the county road and related appurtenances within the right-of-way. The county may charge the owner for the costs incurred. In an emergency or hazardous situation, the owner shall be notified and requested to provide an immediate remedy to the situation. If the property owner fails to react promptly, the county may correct the hazardous situation and charge the property owner for all costs incurred by the county.
+IX.
+Revegetation and soil stabilization
+. All soil disturbed by construction activities shall be mulched and seeded according to the submitted erosion control plan. Slopes steeper than three (3) feet horizontal to one (1) foot vertical shall require additional erosion control measures to prevent erosion and promote vegetation.
+(
+Res. No.
+2020-30
+, § 74-4, 09/15/2020; Res. No.
+2023-19
+, § 74-4, 07/11/2023
+)
+Effective on: 7/11/2023
+Sec. 74-5 Additional road design and construction standards applicable to certain land use permits.
+In addition to the other standards set forth in this chapter, unless otherwise exempt, subdivisions with a lot less than thirty-five (35) acres and, depending upon the nature and layout of the project, some minor and major land use permits, as determined at the director’s discretion, shall comply with the following:
+I.
+Connectivity and circulation standards
+.
+A.
+All lots and parcels shall have access to a public right-of-way or, through a recorded perpetual easement or deed, a private right-of-way.
+B.
+A central, private road rather than a driveway, is required for all subdivisions with four (4) or more lots accessing directly from a county road. This requirement may be waived by the public works director based on practical or engineering considerations including, but not limited to, topography, parcel shape, grades, vegetative cover, aspect or density.
+C.
+The arrangement of streets shall, to the maximum extent feasible, provide for the future continuation of streets in nearby subdivisions and adjacent properties.
+D.
+An applicant may be required to convert a cul-de-sac which is dedicated as a public road to a through street to ensure through circulation for the proposed development.
+E.
+The decision-making body may require the rearrangement, deletion or addition of streets, lots and entrances if significant safety or other hazards exist in the proposed development.
+II.
+Sidewalks or pedestrian walkways.
+A.
+Sidewalks or pedestrian walkways shall be required to extend along property frontage for the entire distance of a lot or project where any of the following apply:
+1.
+Where improved sidewalks or walkways exist adjacent to a project, and along the right-of-way. In such instances, the project shall connect with and construct sidewalks or walkways of equal or greater quality;
+2.
+The proposed project is contiguous to a municipality that requires sidewalks for the type of project proposed;
+3.
+It is determined by the director that the proposed project will generate pedestrian use such as to a school or bus stop.
+B.
+Sidewalk and pedestrian walkway specifications. Sidewalk and walkways shall conform to the following:
+1.
+Sidewalks shall be constructed in conformance with CDOT M&S Standard Plan M-609-1. Minimum sidewalk thickness shall be four (4) inches;
+2.
+All sidewalks shall provide for curb ramps in accordance with state and federal law;
+3.
+Detectable warning patterns shall be cast iron and shall be on the CDOT Approved Products List.
+III.
+Phased development
+. Phased or serial development shall not be used to circumvent compliance with this chapter. For any initial phases or potential serial development, the director may recommend to the decision-making body conditions of approval that document baseline conditions and require applicants for subsequent phases or serial development to analyze and construct road improvements based on the projected cumulative impacts of all phases of the development. For subsequent phases or serial developments, the public works director may recommend to the decision-making body that the cumulative impacts of the entire phased project or serial development be analyzed to determine the appropriate road improvements and phasing of the same.
+(
+Res. No.
+2020-30
+, § 74-5, 09/15/2020
+)
+Effective on: 10/1/2020
+Sec. 74-6 Subdivisions where all lots are greater than thirty-five (35) acres
+I.
+Applicability.
+Subdivisions where all lots are greater than thirty-five (35) acres and platted after the effective date of this code are subject to the standards in this chapter except subsection 74-2.II for LOS standards on existing county roads, section 74-5 and subsection 74-3.III process outline, submittals and completion.
+II.
+Submittals and completion
+. The process, submittal requirements and requirements for completion for subdivisions where all lots are greater than thirty-five (35) acres is as follows:
+A.
+Process outline. The owner shall provide the required submittals to the CDD and the submittal shall be referred to the public works department for review and approval. The public works director or the planning engineer shall perform a preliminary and final review of the submittal materials. It may be necessary for the owner to revise and resubmit materials based upon the review.
+Prior to construction, the owner shall submit final submittal items with appropriate documents signed and sealed by a professional engineer for county approval.
+Any proposed revisions to the approved documents and supporting information shall be submitted to the CDD for approval prior to project completion. Revised construction plans shall show the clouded revisions and be signed and sealed by a professional engineer. If the public works director or planning engineer do not approve the changes, the applicant shall comply with the previously approved documents.
+B.
+Submittal requirements. The owner of the land shall submit the following:
+1.
+At project submittal, one (1) set of preliminary submittal items in an electronic format acceptable to the planning engineer.
+2.
+A preliminary plat prepared by a professional land surveyor, which shall comply with the following at a minimum:
+a.
+All information shall be presented accurately and legibly. If all the information cannot be contained accurately and legibly on a single sheet, additional sheets shall be drafted.
+b.
+Title block. The title block should be in the lower right-hand corner of the sheets. The title block shall contain the following:
+i.
+Name of the development;
+ii.
+Names of the owners, applicants, surveyors, architects, engineer and builders, when applicable;
+iii.
+Date of preparation;
+iv.
+Section, township and range of the project.
+c.
+Land use table. Subdivision plats shall have a table containing the following:
+i.
+Total number of lots;
+ii.
+Total acreage of the subdivision;
+iii.
+Range of lot sizes.
+d.
+Vicinity map of project location. Plats shall include a vicinity map with a minimum scale one (1) inch equals one thousand (1,000) feet depicting the following:
+i.
+Major roads, adjoining subdivisions, town boundaries;
+ii.
+Section, township and range;
+iii.
+Rivers and streams;
+iv.
+Location of project.
+e.
+Roads, access, as applicable, shall be indicated and shall include the following:
+i.
+The road right-of-way layout, right-of-way width, pedestrian and equestrian ways shall be indicated;
+ii.
+The access points to the subdivision, including connections to the adjoining subdivision, shall be shown as well as the county and state roads;
+iii.
+The proposed ownership of roads shall be clearly labeled and the method of maintenance of the roads shall be indicated.
+f.
+Include subdivision, municipal, school district, fire district and other jurisdictional boundaries.
+g.
+Location, and identification of all roads, railroads, utilities and other easements of any kind.
+h.
+Include the location of all critical lands required by subparagraph 67-15.VI.C.11.
+i.
+Include the survey data required by subsection 67-15.VI., as applicable.
+3.
+For all required improvements and facilities, construction plans meeting the minimum formatting and content requirements set forth in the construction plan guidance documents provided by the public works director or planning engineer and comporting with current industry standards. All construction plans shall be completed with enough detail to facilitate review and clearly describe the existing conditions and proposed construction of the development in its entirety and detail all existing and proposed equipment, infrastructure, and access. The required detail of construction plans, as determined by the planning engineer or public works director, shall depend upon the size, nature, and complexity of the use or development.
+4.
+If applicable, access permits demonstrating legal access from any municipal streets that are not county roads, including city streets and state highways.
+5.
+Technical reports evaluating drainage, geotechnical, hydrological, structural and pavement design and other pertinent engineering information deemed necessary by the public works director or planning engineer given the context.
+6.
+Traffic evaluation per paragraph 74-3.IV.B.
+C.
+Completion. For project completion, the owner shall complete improvements prior to issuance of a building permit. An inspection by the county shall be performed to verify all improvements have been constructed, revegetation measures have been installed, and conditions of approval have been met. The owner shall also submit the following:
+1.
+Certification by a professional engineer that the improvements have been constructed in accordance with the approved construction plans.
+2.
+Certification by the owner that all improvements have been constructed in accordance with the approved construction plans.
+(
+Res. No.
+2020-30
+, § 74-6, 09/15/2020
+)
+Effective on: 10/1/2020
+Sec. 74-7 Bridge standards
+I.
+Minimum bridge width and load
+. Minimum bridge width and load capacity shall be designed and constructed  in conformance with Table 74-7.
+Table 74-7: MINIMUM BRIDGE WIDTH AND LOAD CAPACITY
+Type
+Clear Surface Width (feet)
+Minimum Load Capacity (lbs.)
+Arterial
+32
+AASHTO HL-93
+Collector
+30
+AASHTO HL-93
+Major Local
+26
+AASHTO HL-93
+Minor Local
+24
+AASHTO HL-93
+Low ADT Roads
+16
+75,000
+Driveways
+14
+75,000
+Table 74-7: MINIMUM BRIDGE WIDTH AND LOAD CAPACITY
+Type
+Clear Surface Width (feet)
+Minimum Load Capacity (lbs.)
+Arterial
+32
+AASHTO HL-93
+Collector
+30
+AASHTO HL-93
+Major Local
+26
+AASHTO HL-93
+Minor Local
+24
+AASHTO HL-93
+Low ADT Roads
+16
+75,000
+Driveways
+14
+75,000
+Table 74-7: MINIMUM BRIDGE WIDTH AND LOAD CAPACITY
+Type
+Clear Surface Width (feet)
+Minimum Load Capacity (lbs.)
+Arterial
+32
+AASHTO HL-93
+Collector
+30
+AASHTO HL-93
+Major Local
+26
+AASHTO HL-93
+Minor Local
+24
+AASHTO HL-93
+Low ADT Roads
+16
+75,000
+Driveways
+14
+75,000
+Table 74-7: MINIMUM BRIDGE WIDTH AND LOAD CAPACITY
+Type
+Clear Surface Width (feet)
+Minimum Load Capacity (lbs.)
+Arterial
+32
+AASHTO HL-93
+Collector
+30
+AASHTO HL-93
+Major Local
+26
+AASHTO HL-93
+Minor Local
+24
+AASHTO HL-93
+Low ADT Roads
+16
+75,000
+Driveways
+14
+75,000
+*The minimum load capacity (working or live load) shall be seventy-five thousand (75,000) pounds, minimum front single axle = 24,000 pounds; minimum rear single axle = 60,000 pounds, to accommodate emergency response vehicles. The owner’s professional engineer shall ensure the bridge will safely accommodate the ultimate load anticipated throughout the life of the structure.
+A.
+HL-93 design shall be in accordance with the current version of the AASHTO LRFD Bridge Design Specification.
+B.
+All developments, uses and applicants for a driveway permit that includes a bridge shall submit plans certified by a professional engineer.
+C.
+Bridge structures shall be designed to convey no less than a twenty-five (25) year flood event with a minimum of two (2) foot of freeboard and should, to the maximum extent feasible, be designed for a one hundred (100) year flood. The public works director or planning engineer may require the bridge to convey a larger storm event if it provides access to a critical facility. If a bridge is to be constructed in the one hundred (100) year floodplain, all applicable floodplain regulations and codes apply, including the need to submit a Letter of Map Revision to FEMA for review and acceptance and the need to obtain a Floodplain Hazard Permit from the county.
+D.
+If a bridge is not designed for the AASHTO HL-93 load capacity, the load capacity shall be posted at both entrances to the bridge and shall be based on a certification by a professional engineer.
+E.
+Culverts over forty-eight (48) inches in diameter or equivalent shall be designed by a professional engineer to convey a twenty-five (25) year flood event or designated irrigation flow.
+F.
+Bridge structures and large culverts crossing irrigation ditches shall be consistent with the hydraulic requirements of the ditch company. The ditch company shall be consulted regarding all proposed designs and written consent of the ditch company and payment of applicable crossing fees may be required. The schedule for any proposed modifications that may disrupt the flow of water must be referred to the ditch owner for review and comment.
+II.
+Vehicular bridges
+. Vehicular bridges shall be constructed according to CDOT’s Standard Specifications for Road and Bridge Specifications.
+III.
+Railings
+. Bridge rails, pedestrian walkways, and railings shall meet CDOT M-standards for bridge rails and shall include adequate end anchorages for the applicable speed and traffic volumes. Alternate bridge rail designs, designed by a professional engineer, may be approved by the public works director or planning engineer.
+(
+Res. No.
+2020-30
+, § 74-7, 09/15/2020; Res. No.
+2023-19
+, § 74-7, 07/11/2023
+)
+Effective on: 7/11/2023
+Sec. 74-8 Driveway standards and permits
+I.
+Purpose
+. The intent of this section is to provide safe ingress and egress for driveways and adequate access for emergency responders to protect the health, safety and welfare of the community, while recognizing the need for flexibility in driveway development.
+II.
+Applicability
+. A driveway permit shall be obtained from the department of public works prior to issuance of a final building permit or certificate of occupancy for a residential use except:
+A.
+A driveway permit is not required for:
+1.
+Development of ADU’s classified as director determinations;
+2.
+Redevelopment or reconstruction of an existing dwelling unit;
+3.
+Development of a dwelling unit that is performed pursuant to the terms and conditions of a valid building permit issued prior to April 1, 2015;
+4.
+Development of a primary dwelling unit on a parcel that obtained a driveway permit from the county and constructed the driveway prior to April 1, 2015;
+5.
+Development of a dwelling unit that utilizes a driveway that is less than one hundred twenty-five (125) feet in length and intersects with a private road or public non-county road;
+6.
+Development of a primary dwelling unit on a parcel that intersects with County Road 124 at a point north of where the county's winter maintenance terminates shall not be required to obtain a driveway permit; however, such driveway shall be required to obtain a permit prior to commencing work within the right-of-way.
+B.
+The development of a public road that connects with a county road shall obtain a driveway permit to establish legal access but shall otherwise be exempt from the driveway standards of this section.
+C.
+If the use of an existing driveway changes or there is a change in use of the property which the driveway serves, a new driveway permit may be required. Such changes include, but are not limited to, changes in the use or type of business, expansion of an existing use, change in property division or the creation of new parcels.
+III.
+Maintenance
+. Where appropriate, a corporation, perpetual association or other suitable means must be established for maintenance of a private driveway.
+IV.
+Driveway standards
+. Driveways that require permits and nonresidential driveways shall meet the following standards:
+A.
+Surface width. For horizontal tangent (straight) sections of driveway, the surface width shall be twelve (12) feet, with two (2) foot clear zones on each side that are free from unmovable obstructions. For curved sections with a centerline radius of one hundred fifty (150) feet or less, the surface width shall be sixteen (16) feet with two (2) foot clear zones that are free from unmovable obstructions with appropriate tapering from tangent sections. Curved sections that are less than one hundred (100) feet in length, as measured along the centerline, and that do not exceed a ninety (90) degree change in direction, shall be permitted to maintain a surface width of twelve (12) feet.
+B.
+Surface. To ensure that a driveway can support a sixty thousand (60,000) pound vehicle, minimum front single axle = 24,000 pounds; minimum rear single axle = 32,000 pounds, the driveway surface, including turnouts and turnarounds, shall be constructed of a minimum four (4) inch of three-quarter (¾) inch minus aggregate surface placed on a compacted subgrade material, from the intersection of the roadway to the primary structure(s). The subgrade shall be scarified and compacted to a minimum depth of twelve (12) inches below finished grade and shall be free of roots, sod, weeds, wood, construction debris, ice, snow, other frozen materials and deleterious matter. The clear zones are not required to meet a surfacing requirement but shall not exceed a four (4) foot horizontal to one (1) foot vertical slope. The surfacing requirements are minimum standards and an applicant may choose to exceed these standards.
+C.
+Cut and fill slopes. Cut slopes shall not be greater (steeper) than one (1) foot horizontal to one (1) foot vertical and four (4) feet high. Fill slopes shall not be greater (steeper) than two (2) feet horizontal to one (1) foot vertical and four (4) feet high. A slope that exceeds these minimum cut or fill requirements shall either be certified as stable in its current finished state by a professional engineer or shall be designed by a professional engineer.
+D.
+Maximum grade. The maximum grade shall not exceed twelve (12) percent for horizontal tangent (straight) sections. For curved sections with a centerline radius of one hundred fifty (150) feet or less, the grade shall not exceed ten (10) percent. Curved sections that are less than one hundred (100) feet in length, as measured along the centerline, and that do not exceed a ninety (90) degree change in direction, shall be permitted to maintain a maximum grade of twelve (12) percent.
+E.
+Overhead clearance. The minimum overhead clearance shall be thirteen (13) feet, six (6) inches for the width of the entire surface and clear zone. All overhead impediments, including but not limited to wires, trees and gates, shall remain clear from the intersection of the access road to the termination of the driveway.
+F.
+Access to a legal property. No driveway shall be permitted or otherwise approved unless it provides access to a lot that was legally created and has obtained all required land use permits.
+G.
+Legal access. Evidence of legal access across other properties shall be provided through an express grant or a written description of the prescriptive use.
+H.
+Interior curves. Minimum thirty (30) foot radius inside curves shall be provided.
+I.
+Turnarounds. Driveways that are longer than four hundred (400) feet shall provide a turnaround within one hundred fifty (150) feet of the nearest point of the primary dwelling unit. The turnaround shall be designed and constructed to allow a thirty-five (35) foot long emergency vehicle, single rear axle commercial chassis pumper, to turn around. Where topography or the length of the driveway influences the location of the turnaround, the public works director is encouraged to contact the applicable fire district for comment on the proposed location. After receipt of comment from the applicable fire district, the public works director may waive or reduce the requirement for a turnaround.
+J.
+Turnouts. Driveways that are longer than eight hundred (800) feet shall provide a turnout every four hundred (400) feet as measured from the access road. Turnouts shall meet the surface requirements of this section, shall be sixty (60) feet in length and shall provide a total of twenty (20) feet in surface width (including driveway) with reasonable tapering and two (2) foot clear zones on each side. Driveways that are one thousand (1,000) feet or less in length and allow an unobstructed line of sight from the adjacent road to the structure shall not be required to construct turnouts. Where topography or the length of the driveway influences the location(s) of the turnout, the public works director is encouraged to contact the applicable fire district for comment on the proposed location(s). After receipt of comment from the applicable fire district, the public works director may reduce the number of required turnouts or vary the locations of the turnouts.
+K.
+Drainage. Driveway design and construction shall not adversely affect the drainage on a roadway or any adjacent properties.
+L.
+Flood prone areas. Driveways within flood prone areas shall comply with the requirements in chapter 78.
+M.
+Bridges. Driveways that utilize bridges shall comply with the standards for driveways as identified in subsection 74-8 and the flood hazard area requirements as identified in chapter 78.
+N.
+Costs. The cost of all driveway construction, reconstruction and maintenance, including any portion in a public or private right-of-way, including but not limited to culvert design, installation and replacement, shall be the responsibility of the owner, unless provided otherwise in a separate written agreement.
+O.
+Intersection of a driveway and roadway.
+1.
+Driveways that intersect with a county road shall slope away from the shoulder of the road surface at a minimum grade of at least two (2) percent for the first ten (10) feet. All driveways shall not exceed five (5) percent for the first fifteen (15) feet from the intersection with the shoulder of the road.
+2.
+The axis of the driveway at the intersection with the roadway shall be no less than a sixty (60) degree angle to the centerline.
+3.
+The intersection of the driveway and the roadway shall be at least fifty (50) feet from any other intersection of any roadways. The public works director may allow a driveway within fifty (50) feet of an intersection if the driveway is located on a local or low ADT road and there is a determination that the location would not adversely impact the safety of the traveling public.
+4.
+The public works director shall determine if a culvert is required at the intersection of a driveway or road and a county road. If a culvert is required, the minimum culvert size shall be fifteen (15) inches along a county road and twelve (12) inches along all other roads and the minimum culvert cover shall be eight (8) inches. Culverts along county roads shall be constructed of metal or concrete and shall maintain a slope consistent with the roadside drainage. The public works director may require that a larger culvert and culvert cover is required based on the location of the proposed driveway.
+5.
+Sight distance along a county or state access road at the intersection of the driveway shall meet the Colorado State Highway Access Code minimum standards. Sight distance along all other roads at the intersection of the driveway shall provide adequate sight distance in both directions along the roadway in order to maneuver safely and without interfering with roadway traffic. The public works director may require a professional engineer to certify that there is adequate sight distance in both directions along the roadway.
+6.
+House addressing signs shall be visible from the intersection of the roadway and driveway. Such signs shall be made of a non-combustible and reflective material that contrasts in color with the background. Numbers shall be a minimum of four (4) inches high and shall have a minimum stroke width of half (1/2) an inch.
+7.
+A maximum of one (1) driveway shall be permitted for a lot with less than one hundred (100) feet of frontage. The public works director may allow for more than one (1) driveway for lots with one hundred (100) or more feet of frontage after deciding that an additional driveway does not adversely impact the safety of the traveling public.
+P.
+If existing structures such as pavement, drainage structures and ditches are to be modified, such modifications shall be incorporated into the driveway design.
+V.
+Procedure and evaluation.
+A.
+Application and inspection. An application for a driveway permit shall be obtained from the public works department. After review of the driveway design and determination for compliance with section 74-8, the public works director may issue conditional approval of a driveway permit. A conditional approval shall be valid for one (1) year from the date of approval. Upon completion of driveway construction, the owner shall contact the public works department for a final inspection. The public works director shall issue a final approval of the driveway permit if the inspection demonstrates compliance with the applicable standards. A final building permit or certificate of occupancy may be issued prior to final approval of a driveway permit if the public works director determines that seasonal conditions prevent the immediate surfacing or completion of the driveway. In such case, a final approval shall be obtained when the seasonal conditions allow the surfacing to be completed, which shall not be more than six (6) months after the issuance of a final building permit or land use permit, whichever is issued first.
+B.
+Waivers.
+1.
+Request for waiver. If an applicant desires a waiver of any driveway standard, the applicant shall submit a written request to the public works director. Upon receipt, the public works director shall contact the applicable fire district for comment and the fire district shall have ten (10) business days from the date of receipt of the request to provide the public works director comments. The applicable fire district shall be the fire district that provides emergency response to the property served by the proposed driveway. Comments received from the fire district shall be reviewed and placed in the file. The public works director may grant a waiver from the standard no earlier than twenty-one (21) days after submittal of the request to the fire district. The public works director shall consider all timely comments received from the fire district prior to reaching a final decision. Any waiver granted by the public works director shall be made in writing and provided to the applicant and the fire district.
+2.
+Criteria for public works director determination. The public works director may grant a request for a waiver if the public works director determines each of the following have been satisfied:
+a.
+Topography challenges or other site-specific constraints make it extremely difficult to comply with the standards;
+b.
+The granting of a waiver will not be detrimental to the health, safety, and welfare of the public, including the occupants of the structure(s) served by the driveway.
+3.
+Mitigating factors to consider. If the fire district comments that granting the waiver request would present health, safety or welfare concerns, the public works director may consider, but is not limited to, the following factors when determining whether to grant the waiver request:
+a.
+Plans for and implementation of substantial defensible space measures, as identified in the State of Colorado Forest Service, Creating Wildfire-Defensible Zones Guide;
+b.
+Provision of adequate on-site water supply capable of supplying fire flow for fire protection, as set forth in chapter 34 of the La Plata County Code;
+c.
+Design and construction of internal automatic fire sprinkler systems designed and installed in compliance with chapter 34 of the La Plata County Code for all developments served;
+d.
+Paving of the driveway;
+e.
+Use of a substantial amount of fire-resistant building construction types and designs recognized for fire adapted communities for all developments served.
+4.
+Limitation of extent of waiver and conditions. The public works director may limit the extent of a waiver to the degree necessary to comply with 74-8.V.B. In addition, the public works director may condition the waiver on the implementation of measures that mitigate health, safety, or welfare concerns.
+(
+Res. No.
+2020-30
+, § 74-8, 09/15/2020
+)
+Effective on: 10/1/2020
+Sec. 74-9 Permitting within county right-of-way and road improvement agreements.
+The public works department issues permits that regulate activities in the right-of-way to ensure that the integrity of the right-of-way system is maintained and to protect the health, safety and welfare of the traveling public and citizens of the county. This includes permits for third parties to perform work in the county right-of-way, driveway access, or utility construction. Chapter 42 addresses special event permits.
+I.
+County right-of-way permit
+.
+A.
+Permit required. No person shall construct or improve any road, drainage, utility or other infrastructure or facilities within a county right-of-way without first obtaining a permit from the public works department. A permit shall pertain only to the work authorized and the permittee shall not enter onto private property or alter or disturb any private facilities or installations within the right-of-way.
+B.
+Term of permit. County right-of-way permits are valid for one (1) year but may be renewed for one additional one (1) year period, provided the renewal is obtained prior to the date of expiration. The failure to obtain a timely renewal shall result in an expiration of the existing permit and a new permit and application fee shall be required.
+C.
+Bonds.
+1.
+Bond required. A non-cancelable permit bond shall be required prior to the issuance of the permit. Such bond shall be payable to the county, in the name of the permittee, and issued by an approved corporate surety licensed to do business in the state in the amount of five thousand dollars ($5,000.00), or one hundred fifteen (115) percent of the amount necessary to restore the right-of-way, as determined by the public works director, whichever is greater. The bond shall ensure that the permittee complies with all county standards and specifications and recovery by the county of any expenses incurred within three-hundred and sixty-five (365) days following the expiration of the permit due to the permittee’s failure to comply with the provisions of this code or due to the permittee otherwise having caused expenses to the county as a result of the work performed.
+2.
+Exceptions. At the discretion of the public works director, municipalities, quasi-municipal agencies, ditch companies, electric, gas and communications utilities may provide a letter of responsibility in lieu of posting the required bond. The letter of responsibility, which shall be filed with the public works department, shall be in a form acceptable to the public works director.
+D.
+Specifications.
+1.
+Return to prior condition. An applicant receiving a county road right-of-way permit shall ensure, to the satisfaction of the public works director, that the county road is returned to a condition equal to or better than the original condition, within the limits of careful, diligent workmanship, good planning and quality materials. Such work shall be accomplished in the least possible time and with the least disturbance to the normal functioning of the county road or other property.
+2.
+Road cuts. Road cuts shall not be allowed unless the public works director determines that subsurface conditions preclude boring.
+3.
+Backfill. Unless otherwise specified in the permit, all backfill within the structural section of the roadway shall be flowable fill up to within six (6) inches of the roadway surface or, engineered backfill with compaction testing by a certified testing firm at intervals specified by the public works director.
+4.
+Underground utility installations. All underground utility lines installed within any county right-of-way shall be installed a minimum of two (2) feet below the ground surface, or the proposed roadway elevation, whichever is lower. This requirement is applicable through the right-of-way, including ditch lines and borrow pits. Exceptions may be granted by the public works director where warranted and upon prior written request and approval.
+5.
+Overhead utilities. All overhead utility lines shall have minimum ground clearance of eighteen (18) feet where overhead utility lines cross public streets. The clearance shall be measured at the lowest point where the line crosses the traveled portion of the street.
+6.
+The public works director may require additional specifications on the permit.
+E.
+Emergency repairs. A county road right-of-way permit shall be required for emergency repairs; however, applicants may delay application by forty-eight (48) hours, excluding weekends and holidays, following the beginning of such emergency repairs before a penalty under paragraph 74-9.I.I may be assessed. All traffic control conducted as part of an emergency repair shall follow the standards specified in the MUTCD.
+F.
+Road closing. Normally, only one (1) side of a road may be blocked at any given time. Should operating conditions require closing both sides of a road, advance approval of the closing must be obtained from the public works department. The applicant shall notify the appropriate fire protection district, the county sheriff's office, the state patrol and the appropriate school district of the exact location of street barricades and the dates traffic will be impeded. Barricades shall be maintained by the responsible applicant.
+G.
+Construction and inspection. At least fourteen (14) calendar days prior to the commencement of construction within a county road right-of-way, an applicant shall notify the public works director of the applicant’s intention to obtain a county road right-of-way permit and shall submit a proposed schedule of construction activities. The applicant shall notify the public works director of any subsequent scheduling changes. The public works director shall have the authority but not the obligation to inspect the work throughout the construction period to verify compliance with all applicable county standards and regulations. The inspection performed will be at the discretion of the public works director and will include, but not be limited to, densities, moisture content, resurfacing and cleanup activities. In instances where there is a question as to the acceptability of the materials to be used for backfilling, an advance request for an inspection in these instances shall be made. Inspection requests for road construction during snowy or freezing weather shall be postponed until acceptable weather conditions prevail.
+H.
+Project completion. Work performed within a county road right-of-way shall be approved for release of security by the public works director after receiving certification from the applicant that the following minimum requirements have been met:
+1.
+Roadways have been constructed according to applicable county regulations and standards;
+2.
+All drainage criteria as outlined in this article and applicable county regulations and standards have been satisfied;
+3.
+Adequate easements for drainage requirements and pedestrian movements, both off-site and on-site, have been identified and are shown on the plans;
+4.
+The included roads are properly connected to existing public and private roads;
+5.
+All necessary road rights-of-way have been conveyed as required;
+6.
+All combustible or objectionable material is cleared from the roadside, and all required signing is properly installed;
+7.
+All areas requiring seeding or foliage have been planted as prescribed by the plans.
+I.
+Penalty fee for working without written authorization. Any person commencing any work within a county road right-of-way without a valid county road right-of-way permit shall be required to pay a penalty fee as set forth in Appendix A of this code.
+J.
+Stop work orders. Any person, municipality, quasi-municipal agencies, electric, gas or communication utility corporation, to include cable TV, who, without first having obtained a county road right-of-way permit or who, having made a cut in any county road right-of-way which has settled, has failed, or which has not been repaired in conformance with established county standards, shall be subject to a stop work order issued by the public works department. Once a stop work order is issued, the person, municipality or utility shall, except for emergency repair work, discontinue all work within the county road right-of-way until such time as the required repair has been satisfactorily completed, and no further permits will be issued until the repair has been made or the county reimbursed for its expenses. The county may, on its own initiative, make required repairs and bill the responsible party. The minimum charge shall be an administrative charge listed in appendix A of this code, plus reasonable costs for labor, materials and equipment on a portal to portal basis.
+K.
+Priority of utilities
+1.
+.Due to the limited capacity of county owned right-of-way, the board has prioritized public utilities over private utilities when using county rights-of-way for parallel installation. The following are exempted from the general priority of this paragraph K:
+a.
+Crossings by a private utility, as opposed to requests for parallel installation;
+b.
+Maintenance, repair or replacement of pre-existing pipelines.
+2.
+Procedure and evaluation.
+a.
+In determining whether a permit shall be issued to a private utility, the public works director shall evaluate the maximum capacity of the right-of-way to accommodate the present and expected installation and operation of lines and facilities intended to distribute utilities and telecommunications products to end-users of such products and to also accommodate such other pipelines, wires, cable and any other facilities that any other private or public entity may install and operate in such right-of-way. Consideration shall also be given to future road improvement projects.
+b.
+If the public works director determines approving the permit will adversely affect future road improvement projects or would occupy such capacity in the right-of-way that it would likely prevent the expected reasonable and necessary future expansion of utility distribution lines and facilities in the right-of-way, the public works director may deny the permit application.
+c.
+A permit may be approved by the public works director where the applicant demonstrates there is no practical alternative route or that the alternative route(s) would not be in the best interest of the public, including without limitation consideration of environmental degradation, destruction of wetlands or adverse impacts to cultural resources.
+II.
+Road improvement agreements.
+Significant work, as determined by the public works director, performed in a county road right-of-way, as part of a land use permit or otherwise, shall require a road improvement agreement between the county and the party performing the improvements. The board has approved a standardized road improvement agreement. The public works director, with the assistance of the county attorney, may negotiate amendments to the standardized road improvement agreement; however, any amended road improvement agreement must be presented to the board for approval.
+III.
+Cattle guards permits.
+A.
+Permit required. No person shall install, construct or remove a cattle guard in a county right-of-way without first obtaining a permit from the public works department.
+B.
+Procedure and evaluation.
+1.
+Application and inspection. The public works director shall review all applications for installation of a cattle guard on a county road, inspect the site, and may, if necessary, request further relevant information from the applicant. Design of the cattle guard shall be based on CDOT’s specifications for cattle guards. The public works director may deny the application if the installation of the cattle guard would be detrimental to the health, safety, or welfare of the public, or would adversely affect the flow of traffic or maintenance of the county road.
+2.
+Construction. Construction of the cattle guard shall conform to the plans submitted to and approved by the public works director. All construction must comply with the terms and conditions of the revocable license to perform work in the county right-of-way. The permittee shall be responsible for providing temporary means of controlling cattle or other grazing animals during construction.
+3.
+Cleaning and repair.
+a.
+A permittee for installation of a cattle guard, the permittee’s successor or assign, or those
+person
+(s) who directly benefit from the cattle guard on a
+county road
+shall periodically clean the space within the cement box and below the grate of the cattle guard and make necessary repairs to the
+structure
+. Cleaning includes the removal of all
+sand
+, silt, dirt and other solid debris which may render the cattle guard ineffective. The
+public works director
+shall be notified prior to commencement of work and shall approve all plans for cleaning or repair. The
+person
+cleaning or repairing the cattle guard shall be responsible for placement of traffic control devices as prescribed by this section.
+b.
+The
+county
+may request in writing that a
+person
+, who directly benefits from the cattle guard on a
+county road
+, clean or repair the cattle guard. The benefitted party shall clean or repair the cattle guard within the time set forth in the notice and at such party’s expense.
+c.
+A
+person
+who directly benefits from a cattle guard on a
+county road
+may request that the
+county
+clean or repair the cattle guard. The
+public works director
+shall use discretion in whether to clean the debris or repair the cattle guard at the
+county
+'s expense or direct the permittee of the cattle guard to complete such cleaning or repair at such party’s expense.
+4.
+Removal.
+a.
+A permittee for installation of a cattle guard or a permittee’s successors or assigns generally responsible for cleaning and repair pursuant to subparagraph B.3 above, or a person benefitting from a cattle guard on a county road may request removal of the cattle guard. The person requesting removal shall provide notice of the proposed action in writing to all parties benefiting from the cattle guard. Such notice shall be sent by certified U.S. mail and shall state that comments may be provided to the public works director within fifteen (15) days of receipt. If the cattle guard no longer serves a public benefit, as determined in the sole discretion of the public works director, the public works director may grant removal. If the public works director authorizes the removal, the cattle guard shall be removed at the requesting party’s expense.
+b.
+A permit to construct a cattle guard shall not create a vested property right, and the county, in the public works director's sole discretion, may remove a cattle guard in a county road after mailing written notice of removal to the parties benefitting from the cattle guard. Such notice shall be mailed at least fifteen (15) days prior to commencement of the removal. If such cattle guard is removed by the county, the removal shall be at the county's expense.
+IV.
+Fees
+. The county may adopt application fees for any permit or penalties described in this section. Such fees are set forth in Appendix A of this code.
+(
+Res. No.
+2020-30
+, § 74-9, 09/15/2020
+)
+Effective on: 10/1/2020
+Sec. 74-10 Borrow ditches.
+I.
+Use of borrow ditches
+. Persons in the county who use borrow ditches along county right-of-way for irrigation runoff and other uses do so subject to a revocable license by the county and subject to the following conditions:
+A.
+The licensee shall prevent irrigation water or other uses from causing silt, other sediment or weeds to accumulate in the borrow ditches that inhibit proper drainage.
+B.
+The licensee shall prevent blockage of the borrow ditch and shall not alter the direction or rate of flow in the borrow ditch in any manner.
+C.
+The licensee shall prevent irrigation water and other uses from causing damage to county rights-of-way and shall be responsible for the costs of repair if such damage occurs.
+D.
+Tail water shall be controlled to prevent erosion and sedimentation of the borrow ditches.
+II.
+Violations
+. If the board determines a licensee has violated the terms of this section, the board may revoke permission to use the borrow ditch.
+(
+Res. No.
+2020-30
+, § 74-10, 09/15/2020
+)
+Effective on: 10/1/2020
+Sec. 74-11 Impact Fees – Reserved.
+(
+Res. No.
+2020-30
+, § 74-11, 09/15/2020
+)
+Effective on: 10/1/2020

@@ -1,0 +1,211 @@
+Chapter 20 procurement code
+ARTICLE IV - SPECIFICATIONS AND SCOPES OF WORK
+As discussed in article III, all
+simplified
+,
+standard
+, and
+sole source purchases
+begin with written
+specifications
+or a written
+scope of work
+(“SoW”). The importance of these documents to the quality of the
+procurement process
+, the eventual
+contract
+and, most important, the final result cannot be overstated.
+Contents:
+ARTICLE IV SPECIFICATIONS AND SCOPES OF WORK
+Sec. 20-41 General guidelines
+Sec. 20-42 Scope of work
+Sec. 20-43 Specifications
+Secs. 20-44—20-50. Reserved
+Sec. 20-41 General guidelines
+I.
+Importance of specifications and scopes of work.
+A.
+From a contractual standpoint, the
+specifications
+or
+SoW
+serves as one of if not the most important
+contract
+component. It establishes the expectations of the relationship. Further, in most instances, it is attached to and incorporated into the contract as an exhibit and, in such cases, is often the determining factor in resolving disputes over what work is or is not included in the project.
+B.
+From the county’s perspective, the specifications or SoW serves as the guideline for acquisition planning, selection of the appropriate
+solicitation
+method and identification of the correct contract terms. From a practical standpoint, the specifications or SoW is required to initiate the county’s internal acquisition planning process, which begins with a
+purchase requisition
+to which the specifications or SoW must be attached and concludes with the department’s or elected official’s ability to pay a
+vendor’s
+invoice.
+C.
+From a potential vendor’s perspective, the specifications or SoW serves as the basis upon which to plan and prepare a
+responsive bid
+or
+proposal
+. It communicates the nature and scope of the work to be done so that the responsive bid or proposal can be specifically and appropriately tailored.
+II.
+Differences between specifications and scopes of work.
+A.
+Scope of work.
+As addressed in 20-42, a SoW is a written description of the result that the county seeks to achieve upon contract completion. A SoW describes “what” needs to be accomplished by the successful vendor as opposed to “how” the successful vendor shall do the work. In very broad terms, a SoW is used in connection with an
+invitation for bid
+,
+request for proposals
+or
+request for qualifications
+.
+B.
+Specifications
+. As addressed in section 20-43, specifications emphasize the functional or performance criteria required to meet the county’s needs, such as specific quantities, qualities, materials, and the like. In very broad terms, specifications are used in connection with an invitation for bids, where contract
+award
+is determined based on the
+lowest responsive and responsible bid
+offer
+, as discussed in article V.
+III.
+Maximum practicable competition
+. Each specification or SoW shall be prepared and drafted in a manner to ensure maximum practicable competition in satisfying the county’s requirements, to promote overall economy for the purpose intended, and shall not be overly restrictive.
+IV.
+Preparation
+. The department head,
+elected official
+, or their authorized designee is responsible for preparing the specification or SoW. The procurement division will work with departments and elected official’s offices to ensure each specification or SoW is as thorough and accurate as possible.
+A.
+Capital projects
+. In the case of specifications or a SoW for capital projects, the
+contract manager
+will collaborate with the applicable department, the general services director and the county attorney to determine whether the specifications or SoW will be prepared internally or by contract with an architect or engineering consultant.
+B.
+Vendor assistance
+. Obtaining vendor assistance to write specifications or SoWs is not common practice and should be avoided when possible because it may inhibit competition. If a vendor is involved in writing one of these documents, the vendor should be paid for the service and is generally prohibited from submitting a bid or proposal in response to the solicitation; provided that the finance director may allow the vendor to submit a bid or proposal if it is in the best interest of the county and is not otherwise prohibited by other applicable state or federal law. If an exception is made and the vendor is allowed to bid, its role in preparing the specifications shall be disclosed to other vendors as part of the solicitation documents.
+C.
+Funding source requirements
+. Where purchases are funded from sources other than the county’s general fund, such as by state or federal
+grants
+, specific bidding or performance standards may be required of any sub-contractor or sub-recipient of such funds. As such, the department head or elected official shall provide any funding
+agreements
+, with the specifications or SoW, to the procurement division to ensure appropriate incorporation of such requirements into the procurement process.
+(
+Res. No. 2020-42, § 20-41, 12/17/2020
+)
+Effective on: 1/1/2021
+Sec. 20-42 Scope of work
+A S
+oW
+is a written description of the required
+goods
+or
+service
+s stated in terms of the result to be achieved.
+I.
+Purpose of a SoW
+. The purpose of a SoW is to provide potential
+vendors
+with a clear, accurate, and complete description of the work to be performed, including: inspections, testing and acceptance, quality requirements, support services, critical time line definitions, data and documentation desired, maintenance and other necessary requirements.
+II.
+Elements of a SoW
+. Every SoW should be expressly tailored for each specific purchase. There are, however, several common elements that should be addressed in every SoW whenever applicable:
+A.
+The work
+. Describe the work sought, including any work plan, required deliverables, milestones, performance standards and due dates.
+B.
+Period of performance
+. List the start and end date for the entire project as well as any other scheduling requirements.
+C.
+Physical location
+. Identify or describe where the work will be performed. If the place of performance is at a specific address, identify it.
+D.
+Supplies and equipment.
+List the
+supplies
+and equipment that will be required, used, or provided.
+E.
+Payment rate
+. Identify how the payment rate for the good or service will be determined; for example, by job, month, day or hour.
+F.
+Acceptance criteria
+. State the criteria the county representative(s) will use to determine if the product or service is acceptable.
+G.
+Special requirements
+. Identify any special requirements that are required to successfully perform or complete the work, including, for example, any anticipated or allowable price increase over the term of the contract, any special hardware or software, specific degrees or certifications, travel requirements, delivery expectations, or any other need not covered by the contract that are necessary to the success of the project.
+(
+Res. No. 2020-42, § 20-42, 12/17/2020
+)
+Effective on: 1/1/2021
+Sec. 20-43 Specifications
+Specifications
+emphasize functional or performance criteria while limiting design or other detailed physical descriptions to those necessary to meet the county’s needs.
+I.
+Purpose of specifications
+. The purpose of specifications is to serve as a basis for obtaining the
+good
+or
+service
+that is adequate and suitable to meet the county’s needs in a cost-effective manner considering, to the extent practicable, the costs of ownership and operation as well as initial acquisition costs.
+II.
+Form of specifications
+. Specifications shall contain enough detail to provide for suitable purchases, without being unduly restrictive, and shall include the following information, where applicable:
+A.
+Functions and standards characteristics;
+B.
+Materials and methods descriptions;
+C.
+Shipment and delivery point requirements;
+D.
+Quality assurance and acceptance tests;
+E.
+Warranties and service support requirements;
+F.
+Product, supply and service specifications; and
+G.
+Environmental considerations in accordance with county policy.
+III.
+Preference for commercially available products
+. To the extent practicable, preference shall be given to
+procurement
+of standard commercial products. In developing specifications, accepted commercial standards should be used and unique requirements should be avoided where possible.
+IV.
+Brand name or equal specifications – conditions for use
+. “
+Brand name
+or equal” specifications may be used when the item to be procured is best described using such a specification and when the finance director, through acquisition planning, determines that it is in the
+best interest of the county
+.
+A.
+“Brand name or equal” specifications shall seek to designate as many different brands or “equal” references as are practicable and shall further state any substantially equivalent products that will be considered for
+award
+.
+B.
+Where a “brand name or equal” specification is used in a solicitation, the solicitation shall contain explanatory language that the use of a brand name is for the purpose of describing the standard of quality, performance, and characteristics desired and is not intended to limit or restrict competition.
+V.
+Brand name only specifications – conditions for use
+. Since use of a
+brand name only specification
+is restrictive, it may be used only when the brand name or items will satisfy the department’s or elected official’s needs and the finance director determines in writing that one of the following criteria are satisfied.
+A.
+Criteria for brand name only specification:
+1.
+No other design or performance specification or qualified products list is available.
+2.
+Time does not permit the preparation of another form of product description that does not include a brand name specification.
+3.
+The nature of the product or the nature of the county’s requirements makes use of a brand name specification suitable for the procurement.
+4.
+Use of a brand name is in the county's best interest due to such concerns as standardization or compatibility with existing products used by other departments or elected officials.
+B.
+Brand name only specifications should not be confused with the situation that arises if only one source can supply the good or service. When only one source can supply the good or service, the procurement shall be made under the s
+ole source purchase
+policy set forth in section 20-36.
+C.
+Where a brand name only specification is used in a
+solicitation
+, the solicitation shall contain explanatory language that the use of a brand name is for the purpose of describing the standard of quality, performance, and characteristics desired and is not intended to limit or restrict competition.
+(
+Res. No. 2020-42, § 20-43, 12/17/2020
+)
+Effective on: 1/1/2021
+Secs. 20-44—20-50. Reserved
+Effective on: 1/1/2021

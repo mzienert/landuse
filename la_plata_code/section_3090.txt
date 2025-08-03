@@ -1,0 +1,592 @@
+Chapter 70: General Site Development Standards Applicable to All Development
+Sec. 70-5 Compatibility assessment
+a.
+Applicability.
+All applications for minor and major land use permits shall be assessed in terms of the proposed development’s ability to achieve and maintain compatibility with the natural environment and the existing and desired uses where the development is located as described in this section.
+b.
+Conformance with adopted plans.
+All applications shall be in general conformance with the county’s adopted plans including but not limited to the comprehensive plan and applicable district plan. In determining compatibility, the decision-making body shall weigh competing goals, policies, objectives, and strategies and may approve an application that provides public benefit even if the development is contrary to some of the goals, policies, objectives, or strategies of the adopted plans.
+c.
+Compatibility criteria.
+All applications for minor and major land use permits shall demonstrate compatibility through compliance with the standards set forth in this code and fulfilling the criteria in this section. The standards in this code are those considered to be the minimum necessary to achieve compatibility and shall not be lessened except where a variance is obtained. Fulfillment of the criteria may be achieved through the implementation of mitigation measures for all potential adverse impacts. A compatible development is one which will achieve each of the following:
+A.
+Appropriate densities and uses for the parcel. In determining appropriate densities and uses for the parcel, the decision-making body shall take into account, among other things, the parcel’s physical characteristics including natural topography and the location of the property relative to available infrastructure and community services.
+B.
+Avoidance of unmitigated nuisance conditions. The development shall not create nuisance conditions that negatively impact adjacent properties or the public. The following nuisances shall be contained within and beyond the development parcel’s property lines.
+1.
+Noise. Noise shall not exceed the established levels as set forth in section 70-21.
+2.
+Odor. Subject to any applicable federal or state law, no development shall produce adverse or noxious odors as perceived at the development’s property line. At a minimum, the development shall comply with CDPHE, Air Quality Control Commission, Regulation No. 2 Odor Emissions, 5 CCR 1001-4.
+3.
+Vibration. All equipment and structures associated with the development shall, when applicable, be anchored or constructed so transmission of vibrations is not detectable on surrounding properties through the ground or air.
+4.
+Dust. Dust generated on-site shall not impact surrounding properties. Where non-paved roads are created or used by the development, the development shall provide adequate dust suppression.
+5.
+Glare. Reflective materials utilized for new development shall not produce brightness to cause annoyance, discomfort, or loss in visual performance as seen from the public right of way or from surrounding properties.
+6.
+Hours of operation. The decision-making body shall establish hours of operation that best mitigate offsite impacts and based upon the hours in Ch. 73.
+C.
+Pollution control practices and permits. Development shall not impermissibly cause pollution of groundwater or surface waters, air and soil. Where applicable, the applicant shall identify any substances, contaminants or human-made or human-induced alteration of the chemical, physical, biological, or radiological integrity of air, ground, or water and provide a copy of the regulatory permit and permit conditions demonstrating conformance to the standards adopted by the applicable regulating agency.
+D.
+Maintenance of existing character. Development, whether through density, type of use or otherwise, should strive to maintain the existing characteristics and conditions of an area but, where not feasible, mitigation measures are required. If the development will change the existing characteristics or conditions of an area, the applicant shall demonstrate the surrounding area’s characteristics are already changing to such a degree that it is in the public interest to encourage a new use in the area. Consideration of the characteristics of the surrounding area shall encompass one-quarter (¼) mile from the subject parcel’s property line.
+Where conflicting land uses are proposed, the applicant shall identify mitigation for all potential adverse impacts sufficient to achieve each of the following:
+1.
+Orderly land use pattern. The proposed development generally shall not result in an illogical or otherwise unorderly land use pattern.
+2.
+Adequate buffering. The development’s lot size shall be large enough to allow for adequate buffering for the adjacent use, and to ensure adequate privacy for adjacent uses.
+3.
+Minimal increase in density. Density of new lots should be generally similar to the density of surrounding properties as measured from one-quarter (¼) mile of the subject parcel’s property line.
+4.
+Similarity of structures. Structures associated with new development shall be generally of the same scale, mass, height, and configuration of surrounding land uses.
+5.
+No increase in hazards. The proposed development shall not create or result in hazards, to an extent greater than other uses in the surrounding area to which it would be added.
+6.
+Application of development standards. Application of required development standards that result in infrastructure improvements that are not generally comparable with the characteristics of surrounding land uses.
+E.
+Adequate provision of services. The development shall not have a significant adverse effect on the ability of local governments and quasi-governmental agencies to provide the services necessary to accommodate the development or exceed the capacity of existing service delivery systems. The applicant shall submit an evaluation of the expected demands and effects of the development on service delivery systems, including but not limited to water: transportation, sanitation, electricity, fire protection, schools, police and flood protection.
+F.
+Natural environment and resources. The development shall not adversely impact the natural environment and/or resources within the surrounding area, which includes critical lands such as but not limited to: archeological or cultural sites, existing wildlife habitat and migration corridors, and wetlands and riparian areas. In considering gravel, sand, topsoil and mineral extraction which may inherently adversely impact the natural environment and resources, the decision-making body shall consider best management practices for the mitigation of environmental impacts under the circumstances and final reclamation of the subject property to a form beneficial to the natural environment.
+d.
+Mitigation measures.
+If the development parcel has physical constraints or lacks compatibility for one or more criteria, the applicant shall propose measures designed to mitigate the adverse impacts created by the development, including, but not limited to mitigation measures, as identified in Table 70-5.
+Table 70-5: Development Constraints and Possible Mitigation Measures
+TABLE 70-5: DEVELOPMENT CONSTRAINTS AND POSSIBLE MITIGATION MEASURES
+Type of Constraint
+Public Health and Safety Concerns
+Mitigation Measures
+Floodway
+Flood hazards to structures
+Public health, safety, welfare
+a.
+Compliance with county floodplain regulations (see chapter 78)
+Geologic Hazard Areas
+Avalanche paths
+Landslide areas
+Rock falls
+Debris flows
+Mudflows
+Unstable slopes or soils
+Seismic effects
+Ground subsidence
+Radioactivity
+a.
+Avoid placing any structures on areas subject to geologic hazards
+b.
+Submit geotechnical report identifying hazards and recommending methods of construction to alleviate hazards; designing structures in accordance with recommendations contained in geotechnical report (see section 70-8)
+c.
+Provide grading and foundation plans prepared by a registered, professional engineer (see section 70-9)
+d.
+Comply with recommendations of the State Geologic Survey (see section 70-8)
+e.
+Modify land uses so that structures are minimized or eliminated
+f.
+Cluster development to avoid hazard areas
+Slopes Exceeding 30%
+Amount of site disturbance
+Visual scarring
+Slope stability
+Soil erosion
+Wildfire potential
+a.
+Modify land uses so site disturbance is minimized
+b.
+Cluster development to avoid steep slopes
+c.
+Propose smaller scale rather than larger scale development in order to minimize the amount of site disturbance
+d.
+Design structures so they are stepped or otherwise fit with the terrain
+e.
+Minimizing the extent of roads
+Wetlands
+Degradation of natural environment
+Loss of wildlife habitat
+Loss of cleansing action of wetlands
+Disruption of natural corridors
+a.
+Propose land uses which are not disruptive to wetlands
+b.
+Cluster development to avoid wetlands areas
+c.
+Complying with 404 permit procedures
+d.
+Increased setbacks
+Wildlife Habitat
+Protection of habitat critical to survival of species
+Importance of wildlife to county economy
+a.
+Propose land uses or land use intensities which are not disruptive to wildlife
+b.
+Cluster development to avoid critical wildlife habitat
+c.
+Consult with the CPW prior to designing development and incorporate CPW's recommendations
+d.
+Minimize roads to reduce fragmentation of habitat
+Dust
+Increased air pollution
+Adverse health effects
+Decreased visibility
+a.
+Frequent watering
+b.
+Use of dust palliatives
+c.
+Paving
+d.
+Speed control
+e.
+Surface treatment with prevention chemicals
+Odor
+Adverse health effects
+a.
+Filtration
+b.
+Separation from surrounding uses
+Vibration
+Adverse health and safety effects
+a.
+Utilize best management practices
+Glare
+Safety effects
+a.
+Utilize best management practices
+Wildfire
+Potential loss of life and property
+a.
+Consult with experts in wildland-urban interface or wildfire prevention
+b.
+Avoid areas most prone to wildfire
+c.
+Create and maintain defensible space around all structures
+d.
+Remove potential vegetative fuel even beyond the defensible space
+e.
+Have on-site fire response equipment and plans
+f.
+For subdivisions, have multiple points of emergency access (ingress and egress)
+g.
+Choose designs that make structures more fire resistant
+h.
+Choose building materials that make structures more fire resistant
+i.
+Identify responsibility and expectations for maintaining mitigation efforts through the homeowner's association or similar organization, when applicable
+Noise
+Adverse health effects
+Hearing impairment
+Adverse impacts on wildlife
+a.
+Limit hours of operation
+b.
+Conduct activities inside
+c.
+Additional buffering
+d.
+Propose land uses with lesser noise impacts
+e.
+Propose smaller scale rather than larger scale development in order to minimize the amount of noise
+TABLE 70-5: DEVELOPMENT CONSTRAINTS AND POSSIBLE MITIGATION MEASURES
+Type of Constraint
+Public Health and Safety Concerns
+Mitigation Measures
+Floodway
+Flood hazards to structures
+Public health, safety, welfare
+a.
+Compliance with county floodplain regulations (see chapter 78)
+Geologic Hazard Areas
+Avalanche paths
+Landslide areas
+Rock falls
+Debris flows
+Mudflows
+Unstable slopes or soils
+Seismic effects
+Ground subsidence
+Radioactivity
+a.
+Avoid placing any structures on areas subject to geologic hazards
+b.
+Submit geotechnical report identifying hazards and recommending methods of construction to alleviate hazards; designing structures in accordance with recommendations contained in geotechnical report (see section 70-8)
+c.
+Provide grading and foundation plans prepared by a registered, professional engineer (see section 70-9)
+d.
+Comply with recommendations of the State Geologic Survey (see section 70-8)
+e.
+Modify land uses so that structures are minimized or eliminated
+f.
+Cluster development to avoid hazard areas
+Slopes Exceeding 30%
+Amount of site disturbance
+Visual scarring
+Slope stability
+Soil erosion
+Wildfire potential
+a.
+Modify land uses so site disturbance is minimized
+b.
+Cluster development to avoid steep slopes
+c.
+Propose smaller scale rather than larger scale development in order to minimize the amount of site disturbance
+d.
+Design structures so they are stepped or otherwise fit with the terrain
+e.
+Minimizing the extent of roads
+Wetlands
+Degradation of natural environment
+Loss of wildlife habitat
+Loss of cleansing action of wetlands
+Disruption of natural corridors
+a.
+Propose land uses which are not disruptive to wetlands
+b.
+Cluster development to avoid wetlands areas
+c.
+Complying with 404 permit procedures
+d.
+Increased setbacks
+Wildlife Habitat
+Protection of habitat critical to survival of species
+Importance of wildlife to county economy
+a.
+Propose land uses or land use intensities which are not disruptive to wildlife
+b.
+Cluster development to avoid critical wildlife habitat
+c.
+Consult with the CPW prior to designing development and incorporate CPW's recommendations
+d.
+Minimize roads to reduce fragmentation of habitat
+Dust
+Increased air pollution
+Adverse health effects
+Decreased visibility
+a.
+Frequent watering
+b.
+Use of dust palliatives
+c.
+Paving
+d.
+Speed control
+e.
+Surface treatment with prevention chemicals
+Odor
+Adverse health effects
+a.
+Filtration
+b.
+Separation from surrounding uses
+Vibration
+Adverse health and safety effects
+a.
+Utilize best management practices
+Glare
+Safety effects
+a.
+Utilize best management practices
+Wildfire
+Potential loss of life and property
+a.
+Consult with experts in wildland-urban interface or wildfire prevention
+b.
+Avoid areas most prone to wildfire
+c.
+Create and maintain defensible space around all structures
+d.
+Remove potential vegetative fuel even beyond the defensible space
+e.
+Have on-site fire response equipment and plans
+f.
+For subdivisions, have multiple points of emergency access (ingress and egress)
+g.
+Choose designs that make structures more fire resistant
+h.
+Choose building materials that make structures more fire resistant
+i.
+Identify responsibility and expectations for maintaining mitigation efforts through the homeowner's association or similar organization, when applicable
+Noise
+Adverse health effects
+Hearing impairment
+Adverse impacts on wildlife
+a.
+Limit hours of operation
+b.
+Conduct activities inside
+c.
+Additional buffering
+d.
+Propose land uses with lesser noise impacts
+e.
+Propose smaller scale rather than larger scale development in order to minimize the amount of noise
+TABLE 70-5: DEVELOPMENT CONSTRAINTS AND POSSIBLE MITIGATION MEASURES
+Type of Constraint
+Public Health and Safety Concerns
+Mitigation Measures
+Floodway
+Flood hazards to structures
+Public health, safety, welfare
+a.
+Compliance with county floodplain regulations (see chapter 78)
+Geologic Hazard Areas
+Avalanche paths
+Landslide areas
+Rock falls
+Debris flows
+Mudflows
+Unstable slopes or soils
+Seismic effects
+Ground subsidence
+Radioactivity
+a.
+Avoid placing any structures on areas subject to geologic hazards
+b.
+Submit geotechnical report identifying hazards and recommending methods of construction to alleviate hazards; designing structures in accordance with recommendations contained in geotechnical report (see section 70-8)
+c.
+Provide grading and foundation plans prepared by a registered, professional engineer (see section 70-9)
+d.
+Comply with recommendations of the State Geologic Survey (see section 70-8)
+e.
+Modify land uses so that structures are minimized or eliminated
+f.
+Cluster development to avoid hazard areas
+Slopes Exceeding 30%
+Amount of site disturbance
+Visual scarring
+Slope stability
+Soil erosion
+Wildfire potential
+a.
+Modify land uses so site disturbance is minimized
+b.
+Cluster development to avoid steep slopes
+c.
+Propose smaller scale rather than larger scale development in order to minimize the amount of site disturbance
+d.
+Design structures so they are stepped or otherwise fit with the terrain
+e.
+Minimizing the extent of roads
+Wetlands
+Degradation of natural environment
+Loss of wildlife habitat
+Loss of cleansing action of wetlands
+Disruption of natural corridors
+a.
+Propose land uses which are not disruptive to wetlands
+b.
+Cluster development to avoid wetlands areas
+c.
+Complying with 404 permit procedures
+d.
+Increased setbacks
+Wildlife Habitat
+Protection of habitat critical to survival of species
+Importance of wildlife to county economy
+a.
+Propose land uses or land use intensities which are not disruptive to wildlife
+b.
+Cluster development to avoid critical wildlife habitat
+c.
+Consult with the CPW prior to designing development and incorporate CPW's recommendations
+d.
+Minimize roads to reduce fragmentation of habitat
+Dust
+Increased air pollution
+Adverse health effects
+Decreased visibility
+a.
+Frequent watering
+b.
+Use of dust palliatives
+c.
+Paving
+d.
+Speed control
+e.
+Surface treatment with prevention chemicals
+Odor
+Adverse health effects
+a.
+Filtration
+b.
+Separation from surrounding uses
+Vibration
+Adverse health and safety effects
+a.
+Utilize best management practices
+Glare
+Safety effects
+a.
+Utilize best management practices
+Wildfire
+Potential loss of life and property
+a.
+Consult with experts in wildland-urban interface or wildfire prevention
+b.
+Avoid areas most prone to wildfire
+c.
+Create and maintain defensible space around all structures
+d.
+Remove potential vegetative fuel even beyond the defensible space
+e.
+Have on-site fire response equipment and plans
+f.
+For subdivisions, have multiple points of emergency access (ingress and egress)
+g.
+Choose designs that make structures more fire resistant
+h.
+Choose building materials that make structures more fire resistant
+i.
+Identify responsibility and expectations for maintaining mitigation efforts through the homeowner's association or similar organization, when applicable
+Noise
+Adverse health effects
+Hearing impairment
+Adverse impacts on wildlife
+a.
+Limit hours of operation
+b.
+Conduct activities inside
+c.
+Additional buffering
+d.
+Propose land uses with lesser noise impacts
+e.
+Propose smaller scale rather than larger scale development in order to minimize the amount of noise
+TABLE 70-5: DEVELOPMENT CONSTRAINTS AND POSSIBLE MITIGATION MEASURES
+Type of Constraint
+Public Health and Safety Concerns
+Mitigation Measures
+Floodway
+Flood hazards to structures
+Public health, safety, welfare
+a.
+Compliance with county floodplain regulations (see chapter 78)
+Geologic Hazard Areas
+Avalanche paths
+Landslide areas
+Rock falls
+Debris flows
+Mudflows
+Unstable slopes or soils
+Seismic effects
+Ground subsidence
+Radioactivity
+a.
+Avoid placing any structures on areas subject to geologic hazards
+b.
+Submit geotechnical report identifying hazards and recommending methods of construction to alleviate hazards; designing structures in accordance with recommendations contained in geotechnical report (see section 70-8)
+c.
+Provide grading and foundation plans prepared by a registered, professional engineer (see section 70-9)
+d.
+Comply with recommendations of the State Geologic Survey (see section 70-8)
+e.
+Modify land uses so that structures are minimized or eliminated
+f.
+Cluster development to avoid hazard areas
+Slopes Exceeding 30%
+Amount of site disturbance
+Visual scarring
+Slope stability
+Soil erosion
+Wildfire potential
+a.
+Modify land uses so site disturbance is minimized
+b.
+Cluster development to avoid steep slopes
+c.
+Propose smaller scale rather than larger scale development in order to minimize the amount of site disturbance
+d.
+Design structures so they are stepped or otherwise fit with the terrain
+e.
+Minimizing the extent of roads
+Wetlands
+Degradation of natural environment
+Loss of wildlife habitat
+Loss of cleansing action of wetlands
+Disruption of natural corridors
+a.
+Propose land uses which are not disruptive to wetlands
+b.
+Cluster development to avoid wetlands areas
+c.
+Complying with 404 permit procedures
+d.
+Increased setbacks
+Wildlife Habitat
+Protection of habitat critical to survival of species
+Importance of wildlife to county economy
+a.
+Propose land uses or land use intensities which are not disruptive to wildlife
+b.
+Cluster development to avoid critical wildlife habitat
+c.
+Consult with the CPW prior to designing development and incorporate CPW's recommendations
+d.
+Minimize roads to reduce fragmentation of habitat
+Dust
+Increased air pollution
+Adverse health effects
+Decreased visibility
+a.
+Frequent watering
+b.
+Use of dust palliatives
+c.
+Paving
+d.
+Speed control
+e.
+Surface treatment with prevention chemicals
+Odor
+Adverse health effects
+a.
+Filtration
+b.
+Separation from surrounding uses
+Vibration
+Adverse health and safety effects
+a.
+Utilize best management practices
+Glare
+Safety effects
+a.
+Utilize best management practices
+Wildfire
+Potential loss of life and property
+a.
+Consult with experts in wildland-urban interface or wildfire prevention
+b.
+Avoid areas most prone to wildfire
+c.
+Create and maintain defensible space around all structures
+d.
+Remove potential vegetative fuel even beyond the defensible space
+e.
+Have on-site fire response equipment and plans
+f.
+For subdivisions, have multiple points of emergency access (ingress and egress)
+g.
+Choose designs that make structures more fire resistant
+h.
+Choose building materials that make structures more fire resistant
+i.
+Identify responsibility and expectations for maintaining mitigation efforts through the homeowner's association or similar organization, when applicable
+Noise
+Adverse health effects
+Hearing impairment
+Adverse impacts on wildlife
+a.
+Limit hours of operation
+b.
+Conduct activities inside
+c.
+Additional buffering
+d.
+Propose land uses with lesser noise impacts
+e.
+Propose smaller scale rather than larger scale development in order to minimize the amount of noise
+e.
+Adverse health effects
+(
+Res. No.
+2020-30
+, § 70-5, 09/15/2020
+)
+Effective on: 1/4/2022

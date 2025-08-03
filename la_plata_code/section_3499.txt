@@ -1,0 +1,611 @@
+Chapter 90 OIL AND GAS DEVELOPMENT
+FOOTNOTE(S):
+Editor's note—
+Res. No. 2008-33, § 1(Exh. A), adopted November 17, 2008, amended chapter 90 in its entirety to read as herein set out. Formerly, chapter 90 pertained to similar subject matter, and derived from LPLUS, § 8.1.1—8.1.5.b, 8.1.6.a—f., 8.1.7—8.1.10, 8.1.12, 8.1.14.a—g., 8.2.1—8.2.6, 8.3; Res. No. 1998-34, § 1, adopted October 5, 1998; Res. No. 1999-9, § 2, adopted February 22, 1999; Res. No. 2001-33, adopted August 27, 2001; Res. No. 2004-20, § 1, 2, adopted June 28, 2004; Res. No. 2004-35, §§ 1—10, adopted December 20, 2004, and Res. No. 2008-30, §§ 1, 2, adopted November 12, 2008.
+Cross reference—
+Buildings
+and building regulations, chapter
+18
+; public places, ch
+apter
+38
+;
+development
+standards and specifications,
+chapter
+74
+;
+floods
+, ch
+apter
+78
+; land
+use
+regulations for public property,
+ch
+apter
+94
+;
+subdivisions
+,
+ch
+apter
+102; zoning,
+ch
+apter
+106.
+Sec. 90-10 Standards applicable to all oil and gas development
+I.
+Need for the project.
+The applicant shall demonstrate a need for the oil and gas operation, in the location proposed, to serve the applicant’s existing and projected oil and gas development, production and operational requirements.  The decision-making body may consider, among other things, other existing/proposed facilities that perform the same or related function, market trends that form the basis of demand for projections justifying the project, the degree to which the applicant’s projected oil and gas development justifying the current project are speculative or contingent on factors outside the applicant’s control, alternatives to the project that were considered but rejected by the applicant and whether the project is the best alternative based on need, technology, cost, cumulative impacts and these regulations.
+II.
+Protection of surface quality.
+A.
+Geologic and natural hazards.  No
+OGF
+or
+OGL
+shall be in a
+geologic hazard area
+or an area with slopes exceeding thirty percent (30%).  No OGF or OGL shall expose persons (including emergency personnel or neighboring properties) to significant and unmitigated dangers or risk, caused or intensified by adverse natural conditions in a known geologic hazard area, whether on-site or off-site or be designed in a manner that imposes a substantial burden on the resources of the county.  If an existing OGL or OGF seeking a change is in a geologic hazard area, if applicable, in addition to all other information submitted to the ECMC in the required geologic hazard plan, the director may require the submittal of relevant information or mitigation measures described in section 70-8.  The applicant shall also identify how it will avoid the creation or an increase in the severity of adverse impacts on adjacent properties, including roadways, because of the OGL.  If the OGL is in an area prone to flood hazards, the applicant shall comply with chapter 78.
+B.
+Minimization of surface disturbance. Use of existing infrastructure and rights-of-way.
+1.
+Spacing.  The total number of well pads in any single six hundred forty (640) acre government section of
+real property
+shall not exceed four (4) unless the county agrees to a number more than four (4) pursuant to a memorandum of understanding between the county and an operator.  Use of a memorandum of understanding may be appropriate where use of only four (4) well pads per governmental section is rendered impractical due to:
+a.
+Creation or existence of unavoidable direct, indirect, and cumulative adverse impacts to public health, safety, welfare, the environment or wildlife resources from oil and gas operations.
+b.
+The location of utilities or similar services.
+c.
+Demonstratively insurmountable technical issues related to the development or management of the mineral resource.
+d.
+Demonstrable safety concerns.
+2.
+Land disturbance.  To avoid the unreasonable loss of agricultural land, minimize land disturbances and facilitate future reclamation, OGLs, OGFs, other facilities and pipelines, and access roads shall be located, sized, constructed, and maintained to reasonably control dust and minimize weeds, erosion, alteration of natural features, removal of surface materials, and degradation due to contamination or pollution.
+3.
+Consolidation.  To the
+maximum extent practicable
+, operators shall consolidate OGLs, OGFs and pipeline rights-of-way to mitigate cumulative impacts to loss of agricultural land and wildlife resources, including fragmentation of agricultural land and wildlife habitat.
+4.
+Existing infrastructure.  Existing utility easements, roads and well pads shall be used to the maximum extent practicable to avoid erosion and minimize the land area devoted to oil and gas operations. Roadbeds shall be engineered to avoid or minimize impacts to riparian areas or wetlands to the maximum extent practicable. Road crossings of streams shall be designed and constructed to allow the passage of aquatic life, where practicable and appropriate. To the maximum extent feasible, operators shall share access roads and easements in developing a field and roads shall be routed to complement other land usage.  The county recognizes that in some instances an existing OGL or OGF which initially met the setback requirements of this code may not currently meet the requirements due to (a) the encroachment of other development into the setback area, (b) the OGL or OGF is a
+nonconforming use
+due to a failure to meet current setback requirements, or (c) because a waiver previously was obtained.  In those instances where the setback requirements of this code cannot be met currently, the use of the existing OGL or OGF may be considered for siting of a new OGF, provided that the placement of any new well, new or expanded working pad surface, or other new or expanded structure does not reduce any already nonconforming setback nor create any new nonconformity or violation of this code.
+C.
+Setbacks.  The county requires setbacks that, at a minimum, comply with the applicable setbacks set forth in ECMC rules, including without limitation Rule 604. Notwithstanding the foregoing, the county also establishes the following minimum requirements that are in addition to the setbacks established by ECMC rules:
+1.
+​​​​​
+Informed consent. For purposes of this code and ECMC Rule 604 which allows some owners and tenants to consent to a lesser distance if such consent is based upon informed consent, the term “informed consent” shall have the meaning set forth in this chapter.
+2.
+Setbacks between any working pad surface and a property line are as follows:
+a.
+The required minimum setback shall be three hundred (300) feet if the adjacent parcel that shares the property line exclusively contains any one or more of the following: a commercial building, industrial building, public or private playgrounds, parks, permanent recreational fields or similar places of public assembly or community spaces.
+b.
+The required minimum setback shall be four hundred (400) feet if the adjacent parcel that shares the property line contains any dwelling unit or high occupancy building unit.
+c.
+If all owners and tenants of the adjacent parcel agree through informed consent to the proposed OGL, the setback distance from the property line may be reduced to a minimum of one hundred fifty (150) feet.
+3.
+Setbacks between any working pad surface and a commercial building or industrial building shall be no less than five hundred (500) feet, but may be increased based on a site-specific analysis of the OGL or OGF review criteria in paragraph 90-10.II.F.  However, if all building owners and tenants of the subject commercial or industrial building(s) agree through informed consent to the proposed OGL, the setback may be reduced to a minimum of three hundred (300) feet.
+4.
+In determining whether a setback less than two thousand (2,000) feet from a residential building unit or high occupancy building unit is appropriate, the decision-making body shall conduct a site-specific analysis of the proposed OGL's or OGF's compliance with the standards of this code, including without limitation the siting criteria in paragraph 90-10.II.F. However, if all building owners and tenants of the subject residential building unit(s) and high occupancy building unit(s) agree through informed consent to the proposed OGL, the setback may be reduced to a minimum of four hundred (400) feet.
+5.
+Flowlines and pipelines.   All flowlines and pipelines shall be a minimum of fifty (50) feet from residential building units, high occupancy building units, and commercial and industrial buildings. The setback distance shall be measured from the nearest edge of the flowline or the pipeline. The director may require an applicant to provide a risk-based engineering study for all or part of its proposed flowline or pipeline right-of-way and may require the application of more stringent construction or operation standards or greater setbacks.  If required, a risk-based engineering study must, at a minimum, consider the risks posed by the flowline(s) and pipeline(s) in light of contents, size, and pressure.
+6.
+Reciprocal setbacks from existing well sites, flowlines and pipelines.  Regulations relating to reciprocal setbacks from existing well sites and from pipelines and flowlines are set forth in section 70-6.
+TABLE 90-10: SETBACKS
+Property line of an adjacent parcel containing a commercial building, industrial building, public or private playground, park, permanent recreational field, or similar place of public assembly or community space
+Property line of an adjacent parcel containing a dwelling unit or high occupancy building unit
+Commercial building or industrial building
+Residential building unit or high occupancy building unit
+Working pad surface
+300 ft. (150 ft. with informed consent)
+400 ft. (150 ft. with informed consent)
+500 ft. (300 ft. with informed consent)
+500 to 2,000 ft. (400 ft. with informed consent)
+Flowline or pipeline
+n/a
+n/a
+50 ft.
+50 ft.
+TABLE 90-10: SETBACKS
+Property line of an adjacent parcel containing a commercial building, industrial building, public or private playground, park, permanent recreational field, or similar place of public assembly or community space
+Property line of an adjacent parcel containing a dwelling unit or high occupancy building unit
+Commercial building or industrial building
+Residential building unit or high occupancy building unit
+Working pad surface
+300 ft. (150 ft. with informed consent)
+400 ft. (150 ft. with informed consent)
+500 ft. (300 ft. with informed consent)
+500 to 2,000 ft. (400 ft. with informed consent)
+Flowline or pipeline
+n/a
+n/a
+50 ft.
+50 ft.
+TABLE 90-10: SETBACKS
+Property line of an adjacent parcel containing a commercial building, industrial building, public or private playground, park, permanent recreational field, or similar place of public assembly or community space
+Property line of an adjacent parcel containing a dwelling unit or high occupancy building unit
+Commercial building or industrial building
+Residential building unit or high occupancy building unit
+Working pad surface
+300 ft. (150 ft. with informed consent)
+400 ft. (150 ft. with informed consent)
+500 ft. (300 ft. with informed consent)
+500 to 2,000 ft. (400 ft. with informed consent)
+Flowline or pipeline
+n/a
+n/a
+50 ft.
+50 ft.
+TABLE 90-10: SETBACKS
+Property line of an adjacent parcel containing a commercial building, industrial building, public or private playground, park, permanent recreational field, or similar place of public assembly or community space
+Property line of an adjacent parcel containing a dwelling unit or high occupancy building unit
+Commercial building or industrial building
+Residential building unit or high occupancy building unit
+Working pad surface
+300 ft. (150 ft. with informed consent)
+400 ft. (150 ft. with informed consent)
+500 ft. (300 ft. with informed consent)
+500 to 2,000 ft. (400 ft. with informed consent)
+Flowline or pipeline
+n/a
+n/a
+50 ft.
+50 ft.
+D.
+Wildlife, wetlands, and riparian area protection.  In addition to any requirements imposed by the
+ECMC
+,
+CPW
+, or other governmental agency with regulatory authority over the proposed site, the director may determine that the following additional mitigation measures or operating requirements are reasonable to protect wildlife resources:
+1.
+Use of CPW-recommended fencing, netting or other exclusion devices at any OGL or around any OGF, pipeline or pit.  Operators shall keep all such devices in proper care and condition to serve their intended purpose.
+2.
+Use of CPW-recommended seed mixes or revegetation with native grasses, forbs and shrubs.
+3.
+Prohibit placement of staging, storage or refueling areas within riparian or wetland areas.
+E.
+Paleontological, historical or archeological resource protection.  An OGL, OGF or oil and gas operations shall not significantly degrade paleontological, historical or known archeological resources or significantly interfere with the preservation of cultural resources.
+F.
+Siting criteria. Unless otherwise modified by a variance from the county or the ECMC, as applicable, compliance with paragraphs 90-10.II.A through E and other standards will affect the proposed siting of an OGL and OGF.  After taking such factors into consideration, the following siting criteria, in descending order of priority, shall be applied to differentially select alternative locations or methods for oil and gas operations based on site-specific circumstances:
+1.
+Demonstrable safety concerns.
+2.
+Minimization of adverse impacts to existing dwelling units, existing or future school facilities or childcare centers, residential building units, high occupancy building units, commercial or industrial buildings, public buildings, designated outside activity areas or county approved platted building envelopes.
+3.
+Minimization of adverse impacts to agricultural operations.
+4.
+Minimization of cut and fill needed to construct the OGL and OGF.
+5.
+Maximization of natural screening features.  Natural screening includes, but is not limited to, the use of existing vegetation to screen or background and the construction of the OGF in canyons or behind ridges or natural rock formations.
+6.
+Siting of an OGL or OGF at the base of slopes to provide a background of topography or natural cover.
+7.
+Avoidance of siting on or across hilltops and ridges or silhouetting.
+8.
+Minimization of siting near prominent natural features such as distinctive rock or landforms, vegetative patterns, river crossings and other landmarks.
+9.
+The provisions of any existing surface use agreement.
+The decision-making body, when considering an application for a major oil and gas permit or through an appeal of a decision relating to a minor oil and gas permit, may vary the priority and weight given to the factors set forth in this paragraph and, in so doing, require conditions of approval that are necessary and reasonable to protect and minimize adverse impacts to public health, safety, welfare, the environment and wildlife resources or to protect against adverse impacts on any air, water, soil or biological resources resulting from the oil and gas operation.
+G.
+Visual mitigation and landscaping.  To mitigate visual impacts, the applicant shall demonstrate:
+1.
+To the maximum extent feasible, use of minimally sized structures and surface equipment for present and future functional requirements.
+2.
+Feathering and thinning of vegetation edges when trees or vegetation are cleared.  Damage to existing trees and vegetation shall be minimized to the maximum extent feasible.
+3.
+Replacement of earth adjacent to water crossings at slopes less than the natural angle of repose for the soil type of the site.
+4.
+To the maximum extent practicable, alignment of access roads with existing grades and minimization of cuts and fills.
+5.
+Uniform or camouflaging, non-contrasting, non-reflective color tones, like BLM Standard Environmental and Supplemental Colors coding system.  Colors shall match and be slightly darker than the adjacent landscape rather than the sky.
+6.
+Minimization of the pad dimensions necessary to provide for a safe work environment.  The director may waive this requirement if the pad dimensions are modified for purposes of blending with the natural topography.
+7.
+As required by the director on a site-specific basis:
+a.
+Establishment of berms, ground covers, shrubs and trees.
+b.
+Shaping slopes (cuts and fills) to appear as
+natural forms
+.
+c.
+Cutting rock areas to create irregular forms.
+d.
+Utilization of natural screens.
+e.
+Construction of fences such as woven wood or rock for use with or instead of landscaping.
+8.
+Visual mitigation techniques described in the county’s visual mitigation guidelines for OGF, or equivalent guidance published by a state or federal agency.
+H.
+Lighting. All outdoor lighting fixtures with an initial output of more than two thousand (2,000) lumens (equivalent to a twenty-six (26) watt compact fluorescent or one hundred (100) watt standard incandescent type), including road, parking area, security, walkway and building lighting shall be a full cutoff fixture (also known as a fully shielded fixture). All lighting shall be downward directed and shall not spill across property lines.  An OGF need not comply when doing so would contradict required industry or occupational safety standards, including drilling and emergency operations.
+I.
+Noise.  Unless a variance is granted pursuant to section 66-27 of this code, the residential noise emissions set forth in section 70-21 shall apply to all oil and gas operations except during the construction, drilling, completion, recompletion and workover phases, but during those phases noise levels shall not exceed 60 db(A) in the hours between 7:00 p.m. to 7:00 a.m. and 65 db(A) in the hours between 7:00 a.m. to 7:00 p.m. In addition to the standards in section 70-21, the following shall apply:
+1.
+Electrification.  All OGFs which are not electrically operated shall be equipped with quiet design mufflers such as hospital grade, dual dissipative or the equivalent.
+2.
+Sound walls or similar mitigation.  If necessary to achieve the noise emission standards set forth in section 70-21, during the drilling, completion, recompletion or workover phases, the operator shall construct a sound wall or comparable measures to mitigate noise.
+3.
+Anchoring.   All mechanized equipment associated with an OGF shall be anchored to the extent necessary to resist collapse, lateral movement, subsidence or transmission of vibration through the ground.
+4.
+Mitigation measures.  The nature and proximity of the oil and gas operation to other development, prevailing wind or weather patterns, vegetative cover on or adjacent to the site or topography of the site may dictate the need for additional noise mitigation measures to ensure compliance with section 70-21.  All noise mitigation measures shall be paid for by the operator. Additional mitigation measures may include but shall not be limited to:
+a.
+Acoustically insulated housing or cover that fully encloses the source of the noise.
+b.
+A vegetative screen which may be placed within a fenced enclosure.
+c.
+A solid wall or fence of acoustically insulated material surrounding all or part of the oil and gas operations.
+d.
+A noise management plan identifying hours of maximum noise emissions, type, frequency, level of noise to be emitted and proposed mitigation measures.
+J.
+Use of flowlines and pipelines.  The use of pipelines to transport products and liquid production wastes is required to the maximum extent feasible.
+K.
+Trailers.  On a case-by-case basis as demonstrated and explained in the applicant’s project narrative, a maximum of four (4) construction trailers may be permitted during active drilling and well completion or workover operations. No permanent residential trailers are permitted at the OGL; provided, however that for six (6) months following the end of the completion phase at an OGL, one (1) temporary residential and/or security trailer may be allowed if reviewed and approved as part of the permit and only as needed for on-site operations.  The temporary residential and/or security trailer shall be for exclusive use by the operator’s personnel and the personnel of its subcontractors on a temporary basis.  It shall not be within twenty-five (25) feet of any tank or other structure containing flammable or
+combustible
+materials and the area shall be kept free of weeds and
+rubbish
+.  All temporary residential and/or security structures shall comply with subparagraph 79-6.V.B.4 through 8 of this code.
+L.
+Noxious weed
+control.   OGL and all land disturbed because of oil and gas operations shall be subject to the noxious weed control provisions of section 70-12.
+M.
+Removal of debris.  The OGL shall be maintained free of debris and excess materials during operation. Operator shall also not stockpile or store at the OGL any debris, materials, or equipment intended for use at a different OGL.
+N.
+Removal of equipment.  All equipment used for drilling, re-completion and maintenance of the facility shall be removed from the OGL within thirty (30) calendar days of completion of the work, weather conditions permitting.  Permanent storage of removable equipment on the OGL shall not be allowed unless the site is also permitted for outdoor storage pursuant to section 73-7 of this code, as the same may be amended or replaced.
+III.
+Protection of air quality.
+A.
+Minimization of emissions. The regulation of methane emissions is subject to the jurisdiction and control of the
+AQCC
+or, if the source of such emissions is within the exterior boundaries of the Southern Ute Indian Reservation, the
+SUIT/CEC
+.  In addition to compliance with such regulations, to minimize degradation to air quality, every operator shall mitigate potentially harmful or obnoxious emissions and odors, and mitigate dust associated with on-site activities and traffic on access roads.
+B.
+Fugitive dust suppression.
+1.
+Roads and parking.  Fugitive dust abatement and preventive measures for unpaved roads and unpaved parking is required and may include but shall not be limited to:
+a.
+Frequent watering.
+b.
+Addition of dust palliatives to the water.
+c.
+Paving.
+d.
+Speed control.
+e.
+Surface treatment with prevention chemicals.
+f.
+Other methods of equal or greater effectiveness in reducing the air pollution produced.
+2.
+Exploration, site preparation, construction, drilling, completion and production activities.  Fugitive dust abatement and preventive measures for fugitive dust at or above the surface of ground related to any phase of an oil and gas operation (including without limitation exploration, site preparation, construction phase, drilling phase, completion phase, production phase, reclamation phase or any other operational phases or activities) is required and may include but shall not be limited to:
+a.
+Wetting down, including pre-watering.
+b.
+Landscaping and replanting vegetation.
+c.
+Covering, shielding or enclosing the area.
+d.
+The use of dust palliatives and chemical stabilization.
+e.
+Preventing the deposit of dust and mud on improved roads.
+f.
+Disturbing less topsoil and reclaiming as soon as possible.
+g.
+Revegetation, delay of surface opening until demand, or surface compaction and sealing.
+C.
+Odor prevention.
+1.
+Compliance.  New and existing OGFs and OGLs shall comply with AQCC Regulation No. 2 Odor Emission, 5 CCR 1001-4, Regulation No. 3, 5 CCR 1001-5 and Regulation No. 7, 5 CCR 1001-9 Section VII and VIII, or, provisions of the SUIT/CEC Reservation Air Code, as applicable.
+2.
+Complaints.  The director may request the same information as that required of the operator in ECMC Rule 426.d and the operator shall determine whether the odor is caused by operator’s operations or other activities at the site. The operator shall report its conclusions, including the factual basis for the conclusions, to the county and the complainant within five (5) business days of the complaint. If the county determines that the odor is caused by the operator’s operations, the operator shall resolve the odor concern to the maximum extent practicable and within the timeframe prescribed by the director. In response to public complaints, the director may require the operator to take actions to reduce odors including, but not limited to:
+a.
+Conducting air sampling to measure volatile organic compounds or hazardous air pollutants known to cause potential health risks.
+b.
+Audio, visual and olfactory inspections or instrument-based leak inspections.
+c.
+Addition of odorants that are not masking agents.
+d.
+The use of filtration systems.
+e.
+Increase additive concentrations during peak hours.
+D.
+Utilities and electrification.  All OGF located within one thousand three hundred twenty (1,320) feet of distribution voltage shall be equipped with electric powered engines for motors, compressors, drilling, completion and production equipment, and pumping systems unless technically infeasible.  The use of no-bleed continuous and intermittent pneumatic devices that do not bleed natural gas to the atmosphere are required. Internal combustion engine powered artificial lift equipment may be used prior to electrification of the OGF.  If distribution voltage is not currently within one thousand three hundred twenty (1,320) feet of a proposed OGF, the applicant shall contact and provide the surface owner an opportunity, at surface owner’s expense, to extend distribution voltage to within one thousand three hundred twenty (1,320) feet of the proposed OGF.
+E.
+Venting and flaring.  Venting and flaring are prohibited except as allowed in ECMC and AQCC rules or, when applicable, by the SUIT/CEC.  For planned activities allowed by ECMC and AQCC rules or, when applicable, the SUIT/CEC, the operator shall provide forty-eight (48) hours advance written notice to the
+OEM
+and closest fire district of such proposed flaring, identifying the duration and nature of the flaring event and what steps will be taken to limit the duration of the event.
+F.
+Exhaust.  Exhaust from all engines, turbines, motors, coolers and all other equipment shall be vented up and away from nearby building units or designated outside activity areas.
+IV.
+Protection of water quality.
+A.
+General.  Oil and gas operations shall use
+BMPs
+to avoid and minimize adverse impacts to surface water quality, groundwater quality, and permitted water wells of public record.
+B.
+Surface water protection.  Routine field maintenance of vehicles or mobile machinery shall not be performed within five hundred (500) feet of any waters of the United States or state surface water. All fueling must occur over impermeable material.
+C.
+Water quantity.  To the maximum extent feasible, the water supply for the OGL or OGF shall be the least detrimental to the environment among available options.  To the maximum extent feasible, the proposed water source and uses shall minimize adverse impacts on surrounding groundwater users, agricultural lands and users, terrestrial and aquatic wildlife and recreation.
+D.
+Secondary containment. Secondary containment for tanks shall be constructed with a synthetic or engineered liner that contains all primary containment vessels and is mechanically connected to the steel ring to prevent leakage.  For locations within five hundred (500) feet and up-gradient of any surface water or floodplain, tertiary containment such as a lined earthen berm is required around production facilities.
+E.
+Drainage/stormwater.  Erosion and sedimentation control are required for each OGL.  All drainage and stormwater management practices shall comply with the applicable provisions of the technical appendix to chapter 70.  Final stabilization measures must be implemented as soon as construction activities cease.  All OGLs shall use BMPs to prevent stormwater discharges from impacting surface water quality. Results of stormwater inspections required by CDPHE shall be provided to the director or
+LGD
+within thirty (30) days of the operator’s receipt of the inspection.
+V.
+Protection of roads and infrastructure.
+A.
+Private access roads.  When an OGL is accessed through a private road or a county-approved subdivision road and a governing entity for the subdivision exists (e.g., a homeowner’s association) with legal authority to bind the entity and its members, and with the authority to grant access rights over such roads or negotiate agreements as to the road’s use, the applicant shall use reasonable efforts to negotiate a fair and reasonable road maintenance or road improvement agreement with such owner or entity for purposes of paying or making in-kind contributions for the OGL’s pro rata share of the cost of maintaining or improving the affected road.  Such agreement shall be recorded in the county clerk’s real property records.  An applicant that fails to reach an agreement shall document its actions to the county and the existence, or lack thereof, of such agreements shall be noted in the application.
+B.
+Chapter 74 standards.  Unless specifically exempted or otherwise addressed in this section, chapter 74 and the following shall apply to all oil and gas operations and OGL:
+1.
+Traction chains from heavy equipment shall be removed before entering a county road.
+2.
+The operator shall take all practical measures to ensure that vehicles do not track mud or debris onto a county road.  If more than a de minimus amount of mud or debris is deposited onto a county road, the road shall be cleaned as promptly as possible and restored to its original condition.
+3.
+All new access roads, unless waived by the director, shall at a minimum have gravel access and meet requirements of subsection 74-4.IX.  Unless waived by the director, all well pads and access roads classified as driveways shall be surfaced with a minimum of six (6) inches of either Class 6 or Class 2 Aggregate Base Course over a stabilized base as defined by the Colorado Department of Transportation Standard Specifications for Road and Bridge Construction. The road or access driveway shall be maintained to this standard throughout permanent operations of the facility.
+4.
+New access roads shall have a minimum rock diameter of three (3) inches and, during the construction period, a vehicle tracking pad sixty (60) feet in length unless the director approves an alternative BMP.
+5.
+Access roads shall be and remain sufficient to accomplish final reclamation (including appropriate access for any large equipment necessary for such final reclamation) considering the size and nature of the site, existing nearby development, and the county's reciprocal setbacks.
+6.
+Unless waived by the
+public works director
+, the applicant shall provide a traffic control plan to the public works director prior to working pad construction, drill rig movement, commencement of construction, commencement of final reclamation, mobilization, demobilization, or any other disruption of two-way traffic.
+C.
+Road maintenance fees.
+1.
+Road maintenance fees are required to recoup the incremental costs associated with road deterioration and safety related to oil and gas activity on county roads.  Pursuant to C.R.S. § 42-4-512, responsible parties shall be held liable for any damage to a county road that is more than the incremental costs estimated by the traffic analysis required by subsection 74.3.IV.
+2.
+Imposition and calculation of maintenance fees.  Applicants for an OGL or OGF shall be responsible for the payment of road maintenance fees based upon the traffic analysis required by subsection 74.3.IV.  As part of the traffic analysis, applicants for an OGL or OGF shall include a proposed road maintenance fee.  The fee shall be based upon the following methodology for calculation:
+a.
+Estimate
+average daily trips
+and vehicle types associated with construction, drilling, completion and post-completion activities.
+b.
+Equivalent single axle loading analysis to estimate impacts to associated roads based on
+ADTs
+.
+c.
+Estimate mitigation fees to offset increased road maintenance costs associated with project activities.
+d.
+Evaluate road capacity to ensure that traffic movements are safe, and if necessary, traffic control or offsite improvements may be required to insure safe travel from state highway to project site.
+If available, the county shall provide the applicant with the most recent ADTs and average road maintenance costs for the impacted roads.
+3.
+Payment of fee.  The applicant shall pay the applicable fee as a condition to final approval of the permit.  If a permit is not issued or if the applicant relinquishes in writing to the county its vested right associated with the permit prior to expiration or other termination of the vested right pursuant to subsection 66-13.III and subsection 90-4.I, then any unused portion of the maintenance fee (or portion not necessary to mitigate improvement and maintenance impacts already created by the actions of the applicant notwithstanding the subsequent relinquishment of the vested rights) attributable to such undeveloped OGL or OGF will be returned to the applicant or its successor in interest within a reasonable time after written request to the county for the same.
+VI.
+Other general development standards.
+A.
+Additional chapter 70 standards. Chapter 90 and chapter 74 (except as modified by this chapter 90) contain most of the site development standards that are applicable to oil and gas development in the unincorporated county.  In addition to any provisions of the land use code expressly referenced in this chapter 90, the following standards in chapter 70 also apply.
+Code Section
+Title/Subject
+Sec. 70-2
+Utility installation and easements
+Sec. 70-5.III.C
+Pollution control practices
+Sec. 70-5.III.E
+Adequate provision of services
+Sec. 70-6.I.D
+Development prohibited within right-of-way
+Sec. 70-6.III
+Verifying setbacks or structure height
+Sec. 70-8.XI
+Installation and construction of utilities, driveways and roads in steep slope areas
+Sec. 70-9
+Grading, drainage and erosion control
+Sec. 70-11
+Road access and driveway permits
+Sec. 70-12
+Noxious weed control plan and standards
+Sec. 70-14
+Irrigation facilities
+Sec. 70-15
+Consumer notifications
+Sec. 70-18
+Off-street parking and loading standards (provided, however, such standards shall not apply during the construction, drilling or completion phases)
+Code Section
+Title/Subject
+Sec. 70-2
+Utility installation and easements
+Sec. 70-5.III.C
+Pollution control practices
+Sec. 70-5.III.E
+Adequate provision of services
+Sec. 70-6.I.D
+Development prohibited within right-of-way
+Sec. 70-6.III
+Verifying setbacks or structure height
+Sec. 70-8.XI
+Installation and construction of utilities, driveways and roads in steep slope areas
+Sec. 70-9
+Grading, drainage and erosion control
+Sec. 70-11
+Road access and driveway permits
+Sec. 70-12
+Noxious weed control plan and standards
+Sec. 70-14
+Irrigation facilities
+Sec. 70-15
+Consumer notifications
+Sec. 70-18
+Off-street parking and loading standards (provided, however, such standards shall not apply during the construction, drilling or completion phases)
+Code Section
+Title/Subject
+Sec. 70-2
+Utility installation and easements
+Sec. 70-5.III.C
+Pollution control practices
+Sec. 70-5.III.E
+Adequate provision of services
+Sec. 70-6.I.D
+Development prohibited within right-of-way
+Sec. 70-6.III
+Verifying setbacks or structure height
+Sec. 70-8.XI
+Installation and construction of utilities, driveways and roads in steep slope areas
+Sec. 70-9
+Grading, drainage and erosion control
+Sec. 70-11
+Road access and driveway permits
+Sec. 70-12
+Noxious weed control plan and standards
+Sec. 70-14
+Irrigation facilities
+Sec. 70-15
+Consumer notifications
+Sec. 70-18
+Off-street parking and loading standards (provided, however, such standards shall not apply during the construction, drilling or completion phases)
+Code Section
+Title/Subject
+Sec. 70-2
+Utility installation and easements
+Sec. 70-5.III.C
+Pollution control practices
+Sec. 70-5.III.E
+Adequate provision of services
+Sec. 70-6.I.D
+Development prohibited within right-of-way
+Sec. 70-6.III
+Verifying setbacks or structure height
+Sec. 70-8.XI
+Installation and construction of utilities, driveways and roads in steep slope areas
+Sec. 70-9
+Grading, drainage and erosion control
+Sec. 70-11
+Road access and driveway permits
+Sec. 70-12
+Noxious weed control plan and standards
+Sec. 70-14
+Irrigation facilities
+Sec. 70-15
+Consumer notifications
+Sec. 70-18
+Off-street parking and loading standards (provided, however, such standards shall not apply during the construction, drilling or completion phases)
+If the operator proposes other types of land uses, the code shall apply as for any other type of applicant.
+B.
+Recordation.  Every permit shall require as a condition of approval that as-built and the final site plan required by paragraph 90-5.I.E. and the as-built and final site plan and detailed map required by subparagraph 90-8.II.A.2.a. and b. be recorded in the county clerk’s real property records and recorded copies provided to the director and surface owner(s) within sixty (60) days after construction is complete.
+VII.
+Security and safety.
+A.
+Fencing.
+1.
+Security fencing.  OGL and OGF within six hundred sixty (660) feet of the following existing uses shall have adequate fencing and a locked gate to restrict access by unauthorized users:
+a.
+Four (4) or more residential building units.
+b.
+A high occupancy building unit.
+c.
+A designated outside activity area.
+In all other instances, OGL and OGF shall be adequately fenced and gated to restrict access by unauthorized persons if determined necessary by the director.
+2.
+Discharge valves.  Open-ended discharge valves on all storage tanks, pipelines and other containers shall be secured where the OGL is unattended or accessible to the public.
+B.
+Emergency response plan.  Each operator is required to complete a detailed emergency response plan for all operations in the unincorporated areas of the county and a site-specific plan for each OGL, including flowlines and associated OGF.  The emergency response plan shall be reviewed and approved by the county’s office of emergency management and the local emergency response agency in whose jurisdiction the OGL is located before any field operations occur. The emergency response plan shall consist of at least the following information:
+1.
+Name, address and phone number, including twenty-four (24) hour emergency numbers of at least two (2) persons responsible for emergency field operations as well as the contact information for any subcontractor of an operator engaged for well-control or flowline emergencies.
+2.
+An as-built facilities map to be provided after the facilities are placed in service, in a format suitable for input into a GIS system (Google Earth file (.kmz), AutoCAD (.dwg) or GIS shapefile (.shp) file type), depicting the location of OGF, including flow lines and associated equipment for emergency response and management purposes.
+3.
+A detailed plan for responding to emergencies that may include, but are not limited to, any of the following: explosions; fires; gas, oil or water pipeline leaks or ruptures; spills; accidents; unexpected release of hazardous gases or chemicals and unexpected pressure events. The plan shall require that any spill outside of the containment area that has the potential to leave the OGL or to threaten a water source, or as required by the county approved emergency response plan, shall be reported to the
+CDD
+and OEM.
+4.
+Project specific emergency response plans are required for any OGF that involves drilling or penetrating through known zones of hydrogen sulfide gas.
+5.
+Detailed information identifying access or evacuation routes and healthcare facilities anticipated to be used.
+6.
+Emergency shutdown protocols and a requirement that any emergency shutdowns related to on site conditions that may have an impact on any area beyond the confines of the OGL shall be immediately reported to the CDD and OEM.
+7.
+A statement and detailed information indicating that the operator has adequate personnel, supplies and training to implement the emergency response plan immediately at all times.
+8.
+A statement and detailed information pertaining to current SDS for all chemicals and how such sheets will be immediately available upon the request of county officials, a public safety officer, or health professional.
+9.
+Verification that the operator shall reimburse the appropriate emergency agencies for their reasonable expenses directly resulting from operator’s operations.
+C.
+Annual update of emergency response plan.   The emergency response plan shall be filed with the OEM and updated on an annual basis or more frequently as conditions change such as a change in responsible field personnel or changes in ownership.  The emergency response plan shall also be reviewed and updated at intervals designated by the local emergency response agency.
+D.
+Access for emergency responders.  If applicable, Knox Hardware in the form of a Knox Box is required to allow fire service personnel access to the OGL.  The Knox Box shall be mounted on the gating system on the ingress side of the gate post.
+E.
+Flammable material.  All ground within twenty-five (25) feet of any tank or other structure containing flammable or combustible materials shall be kept free of weeds, grass, brush, trees, rubbish or landscaping that is flammable or combustible.
+F.
+General maintenance. Operators shall operate and maintain all equipment pursuant to manufacturer specifications consistent with technological limitations and reasonable and customary maintenance practices.
+G.
+Signs.  Each OGL shall post a legible sign in a conspicuous place, which is three (3) to six (6) square feet in area. The sign shall bear the current name of the operator, a current telephone number, the common name or number of the lease, the number of the well and the street address, if assigned by the county. The sign shall warn of safety hazards to the public and shall be maintained on the premises from the time materials are delivered for drilling purposes until the county has confirmed in writing that the OGL has been properly reclaimed and abandoned.
+H.
+Anchoring in floodplain.  All equipment at an OGL located within the
+100-year floodplain
+shall be anchored as necessary to prevent flotation and shall be surrounded by a berm with a top elevation at least one (1) foot above the level of the 100-year flood.
+VIII.
+Waste disposal.
+A.
+Except in emergency situations of which the director shall be provided notice, and except during drilling, completion and well servicing, flowback and produced water shall be recycled or reused when technically feasible.
+B.
+If not recycled or reused onsite, flowback and produced water shall be transported by pipeline to the maximum extent practicable.
+C.
+If not recycled, reused, or transported by pipeline pursuant to paragraph B above, waste, including without limitation exploration and production waste, may be temporarily stored in tanks in a location identified on a site plan approved by the county for up to one hundred twenty (120) days while awaiting transport to licensed disposal or recycling sites.
+D.
+The requirements of this subsection shall not prevent discharges or beneficial uses of water reviewed and permitted by CDPHE or another agency with jurisdiction.
+E.
+The operator shall take precautions to prevent adverse environmental impacts to air, water, soil or biological resources to the extent necessary to protect public health, safety and welfare, including the wildlife resources, to prevent the unauthorized discharge or disposal of oil, gas, wastes (including without limitation exploration and production waste), chemical substances, trash, discarded equipment or other field waste.
+F.
+Open burning of debris, trash or other flammable materials, except approved flaring, on site is not allowed.
+IX.
+Reclamation.
+Disturbed surfaces shall be restored to the maximum extent practicable to the condition which existed prior to commencement of the oil and gas operations, as required by the operator’s approved reclamation plan.  Interim and final reclamation shall be as set forth in the ECMC’s Rules 1003 and 1004, subject to the provisions of this subsection.
+A.
+Removal of debris.  All construction related debris shall be removed from the OGL within thirty (30) calendar days of completion of the work, weather conditions permitting. The site shall be maintained free of debris and excess materials during operation.
+B.
+Compliance with 1000-Series rules.  Notwithstanding a contrary determination by the ECMC or agreement with the surface owner regarding topsoil protection and reclamation, the county may require compliance with ECMC Rules 1002, 1003 or 1004 if the decision-making body determines compliance with such rules is reasonable to protect the public health, safety and welfare, including prevention of adverse impacts.
+C.
+Grant of extensions.  In any instance where consent of the ECMC director is required for an extension to complete reclamation, consent of the director shall also be required and notice of the request for extension shall be given by the operator to the director at the same time as that provided to the ECMC director.
+D.
+Working pad surface and road reclamation.  During interim reclamation, portions of the working pad surface no longer needed for permanent production operations and access roads not needed for vehicle travel shall be reclaimed.  To the maximum extent practicable, cut slopes, fills slopes and borrow ditches shall be covered with topsoil and revegetated to restore habitat, forage, scenic resources and to reduce soil erosion and maintenance costs.  At abandonment, the working pad surface and access roads must be reclaimed by the operator unless each of the following exists:
+1.
+The working pad surface or access is suitable for an existing post-reclamation use that is compliant with the code, including without limitation, maintaining compliance with any dust suppression requirements.
+2.
+If the access serves a residential use that is not otherwise exempt, the access has a valid county-issued driveway permit and, at the time of final reclamation, meets the applicable driveway standards set forth in section 74-8.
+3.
+If the working pad surface or access will be or is shared or used by more than one property owner, a legal mechanism exists for ongoing maintenance, (including without limitation maintaining compliance with any dust suppression requirements) after the operator has completed final reclamation and such mechanism is recorded in the county clerk’s real property records.
+4.
+The unreclaimed working pad surface or access road will not negatively contribute to sediment erosion or increase the potential for water contamination.
+5.
+The operator leaves all culverts and bridges in a condition that avoids plugging or collapse and erosion at inlets and outlets.
+6.
+The affected surface owner submits a written request to CDD that the working pad surface, access road, or certain parts thereof, be left unreclaimed and committing that the affected surface owner shall not engage in any excavation within the unreclaimed portions of any working pad surface that involves disturbing more than three (3) feet below the surface without first obtaining a county land use permit or building permit, as appropriate, for the same.
+7.
+The decision-making body finds that no net adverse impact to public health, safety, welfare, the environment, or wildlife resources will result from leaving the working pad surface or access road in place for the proposed post-reclamation use and approves or approves with conditions, a final reclamation plan detailing the unreclaimed working pad surface or access road.
+In general, all working pad surfaces and spur access roads for which the sole purpose is facility access shall be reclaimed to match pre-existing adjacent topography, all culverts removed, and drainage crossings reclaimed to reduce potential long-term erosion or degradation.  Final reclamation includes recontouring the working pad surface and any road back to the original contour, seeding, controlling
+noxious weeds
+and may also include other techniques to improve reclamation success such as ripping, scarifying, replacing topsoil, constructing waterbars, pitting, mulching, redistributing woody debris and barricading. Seeds of native, perennial species or other plant materials must be used. If waterbars were used, they must be removed and seeded following successful revegetation.
+E.
+Erosion control.  Erosion control is generally sufficient when adequate ground cover is reestablished, water naturally infiltrates into the soil and gullying, headcutting, slumping and deep or excessive rilling is not observed.
+F.
+Abandonment in place.
+1.
+Protective measures to be considered when an OGF is proposed to be abandoned in place are:
+a.
+Minimal disruption to ongoing or future land use activities.  Land uses that are better suited to abandonment in place decisions include, but are not limited to, parks and natural areas, water crossings, flood irrigated fields or road crossings.
+b.
+Topsoil conservation for all areas disturbed during the abandonment process.
+c.
+Reclamation of all site access roads.
+d.
+An abandonment plan that addresses the potential for contamination or pollution associated with the abandonment activities and for monitoring and repairing facilities that may later become exposed.
+2.
+Piping less than thirty inches (30”) below grade shall be removed as part of final reclamation.
+G.
+Agricultural irrigation.  In agricultural areas, irrigation infrastructure shall be reestablished to meet the surface owner’s reasonably anticipated future agricultural production.
+H.
+Inspections.  The operator shall provide the CDD all final reports of plugging and abandonment. The operator shall pay the established inspection fee for each county visit to the site to perform an inspection of operator’s compliance with interim reclamation and final reclamation.
+I.
+Updated recordation.  As part of final reclamation of an OGF, the operator shall record in the county clerk’s real property records an updated site plan identifying all fully or partially removed OGF and all “as built” location data for any OGF that has been abandoned in place.  Recorded copies shall be provided to the director and surface owner(s) within sixty (60) days after final reclamation is complete.
+J.
+Fin
+al reclamation shall not be judged successful and complete sooner than all of the following have occurred: two (2) years after compliance with this subsection;  the director or LGD completes the tasks and final reclamation inspection required of the ECMC director under ECMC Rule 1004; and a self-sustaining,  native (or otherwise approved) plant community is established at the OGL, with a density sufficient to control erosion and non-native plant invasion and to reestablish wildlife habitat or forage production.  The OGL must be free of state and county listed noxious weeds, oil field debris, contaminated soil and equipment.
+(
+Res. No.
+2023-11
+, §  04/26/2023
+)
+Effective on: 8/1/2023

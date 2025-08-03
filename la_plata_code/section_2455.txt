@@ -1,0 +1,97 @@
+Chapter 18 BUILDINGS AND BUILDING REGULATIONS
+Article II general provisions
+Sec. 18-35  Scope and Administration
+Chapter 1 of the 2015 International Residential Code and Chapter 1 of the 2015 International Building Code are deleted in their entirety and replaced with the following:
+(
+Res. No. 2004-15, § 1 (Exh. A), 05/24/2004; Res. No. 2017-33, § 18-35, 10/10/2017; Res. No. 2023-15, § 18-35, 06/06/2023
+)
+Section 110
+Required Inspections
+110.1 General.
+Construction
+or work for which a
+permit
+is required shall be subject to inspection by the
+building official
+, and such construction or work shall remain accessible and exposed for inspection purposes until approved. It shall be the duty of the
+owner
+,
+contractor
+, or subcontractor to confirm that the
+building
+or
+structure
+has a valid permit and to notify the Building
+Department
+when work is ready for inspection. It shall be the duty of the owner, contractor, or subcontractor requesting any inspections required by this
+Code
+to provide legal and adequate
+access
+and means for inspection of such work. The address of the building
+site
+must be posted in a conspicuous place readily visible from the
+public
+road
+.
+Approval following inspection shall not be construed to be an approval of a subsequently discovered
+violation
+of any provision of this Code, or any other provision of the La Plata
+County
+Code. Inspections presumed to authorize a violation of this Code or to render invalid any provision of this Code or the La Plata County Code shall not be valid. Neither the building official nor the County shall be liable for any expense incurred in the removal or replacement of any material required to allow inspection. Requests for inspection shall be made 24 hours in advance of the work being ready for inspection. Inspections will be provided on a first come, first served basis. Due to workload and schedules of department personnel, the owner, contractor, or subcontractor may not request a specific date or time for conduction of the inspection.
+If, due to excessive workload and staffing limitations, the building official is unable to perform a requested inspection within a reasonable time, special inspection reports may be accepted to address the required inspections noted herein.  When approved in advance by the building official, such special inspection reports may be prepared by a qualified architect or
+engineer
+, qualified inspector, or other inspection agency provided such agency satisfies the building official’s requirements as to qualifications and reliability.
+110.2 Required inspections. The building official, upon request as provided in section 110.1, shall perform any applicable inspection described below in sections 110.3.1 through 110.3.10. At the discretion of the building official, preconstruction consultations may be required on site to evaluate any conditions, concerns, or issues that may exist. These consultations may be conducted to assure compliance with applicable provisions of this Code or other chapters of the La Plata County Code.
+110.2.1 Footing inspections. Footings shall be placed on natural compacted soils or engineered compacted base materials designed to accommodate all building loads. Inspections will be made after trenches are excavated, forms erected, steel reinforcing in place, and prior to placement of concrete.  When
+adverse
+soil conditions exist on the site, footings shall be constructed in accordance with soils and geo-technical reports and/or engineered
+plans
+designed to address and/or
+mitigate
+the adverse soil conditions.
+110.2.1.1 Drilled pier inspections. Drilled pier inspections will be made after piers have been drilled, and reinforcing, if any, is in place, but prior to the placing of concrete in piers. In the event pier drilling and placement of concrete occurs in a continuous fashion, making a single inspection impractical, the engineer of record or his authorized representative shall inspect drilling, reinforcement and placement of concrete as required.
+110.2.1.2 Foundation wall inspections. Foundation wall inspections will be made after the footings or piers have been poured. The foundation walls shall be inspected when all forms are constructed, and reinforcing steel and void material is in place. For foundations in
+flood
+hazard
+zones, verification of
+base flood elevations
+in relation to foundation/future finished floor will be required. Where
+platted building envelopes
+exist, upon completion of the footing system and exterior supports for decks, the land surveyor will be required to verify the foundation system is positioned inside the
+building envelope
+.
+110.2.2 Concrete slab or under-floor inspection. Concrete slab and under-floor inspections shall be made after in-slab or under-floor reinforcing steel and anchoring devices, building service
+equipment
+, conduit, DWV plumbing, piping
+accessories
+, and other ancillary equipment items are in place, and prior to any concrete being poured. Where platted building envelopes exist, upon completion of the footing system and exterior supports for decks, the land surveyor will be required to verify that the foundation system is positioned inside the building envelope.
+110.2.3 Nailing inspection. A wall and roof nailing inspection shall be performed when the wall and roof sheathing is completed, prior to the installation of wall wrap, exterior insulation, felt, or ice and water shield. A wall sheathing nailing inspection will be made before the exterior walls are covered. It shall be the applicant’s duty to provide reasonable and safe access to all portions of the roof. The building inspector has the authority to determine whether roof access is reasonable and safe. Building Department personnel have discretion to require the installation of certain safety features or restraints to prevent falls during the inspection process.
+110.2.4 Frame inspection. Frame inspections shall be made after all interior and exterior framing is complete; all exterior decks and roof framing, and mechanical connections and components are attached to the main structure; fire blocking and bracing are in place; pipes, chimneys and vents to be concealed are complete; and the rough electrical, plumbing, heating, wires, pipes, and ducts are installed. Steel frame inspections will be conducted when the steel frame has been erected; all bolting, welding, and bracing has been completed; all ducts, rough plumbing, and electrical systems have been installed; and all exterior decks and roof coverings are installed.
+110.2.5 Energy Code inspections. Energy Code inspections shall ensure a project’s compliance with the IECC as adopted by this Code.  Inspections will be made as the building official determines, in the exercise of his or her discretion, they are required during the construction of the
+project
+.
+110.2.5.1 Insulation -  walls/ceilings/floors. Inspection of insulation installed within walls, ceilings, and floors will be made when the plumbing, mechanical, electric, and framing are complete, and all insulation is installed.  An inspection of the air sealing and roof spray foam may be required before wall and ceiling batt insulation is installed.
+110.2.5.2 Duct leakage testing.  Duct blaster testing, if required, shall be completed before insulation is installed to allow for inspection during the testing and to be able to repair issues that may arise.
+110.2.5.3 Building envelope leak inspection. The building envelope leak inspection shall be performed at any time after creation of all penetrations of the building thermal envelope. The building shall be tested in accordance with the IECC.
+110.2.6 Fire-resistant penetrations. Protection of joints and penetrations in fire-resistance-rated assemblies shall not be concealed from view until they are inspected and approved.
+110.2.7 Other inspections. In
+addition
+to the inspections specified above, the building official has the discretion to make or require any other inspection of any construction work to ascertain compliance with the provisions of this Code, the manufacturer’s installation requirements, and other laws or regulations enforced by the Building Department.
+110.2.8 Final inspection. Upon completion of the work for which the permit has been issued, the building official will complete a final inspection. The final inspection authorization will be based on the completion of all building components and completion of exterior grading and
+drainage
+. Final authorization for
+sewage
+disposal and water supply, and any required approval from other outside agencies, must be provided prior to the final inspection.
+110.3 Approval required. Work shall not be done beyond the point indicated in each successive inspection without first obtaining the approval of the building official. The building official, upon notification, shall make the requested inspections and shall either indicate the portion of the construction that is satisfactory as completed, or shall notify the permit holder or an
+agent
+of the permit holder wherein the same fails to comply with this Code. Any portions of the work that do not comply shall be corrected, and such portion shall not be covered or concealed, until re-inspected and approved by the building official.
+110.4 Fabrication, installation, and manufacturer. Preparation, construction, fabrication, and installation of members and their fastenings shall conform to accepted engineering practices and to the requirements of this Code. All components and members shall be aligned, anchored, tied, and braced to develop the strength and rigidity necessary for the purposes for which they are designed and used.
+110.5 Enforcement policies and Code interpretations. The building official, in the exercise of his or her discretion, may promulgate additional policies and/or interpretations, for the purpose of standardization of enforcement. These policies and/or interpretations may include references to
+standard
+tolerances used by the
+residential
+construction industry, or they may include specific tolerances for inspection items where necessary.
+(
+Res. No. 2004-15, § 1 (Exh. A), 05/24/2004; Res. No. 2017-33, § 18-35, 10/10/2017; Res. No. 2023-15, § 18-35, 06/06/2023
+)
+Effective on: 8/1/2023

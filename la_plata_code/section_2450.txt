@@ -1,0 +1,237 @@
+Chapter 18 BUILDINGS AND BUILDING REGULATIONS
+Article II general provisions
+Sec. 18-35  Scope and Administration
+Chapter 1 of the 2015 International Residential Code and Chapter 1 of the 2015 International Building Code are deleted in their entirety and replaced with the following:
+(
+Res. No. 2004-15, § 1 (Exh. A), 05/24/2004; Res. No. 2017-33, § 18-35, 10/10/2017; Res. No. 2023-15, § 18-35, 06/06/2023
+)
+Section 105
+Permits
+105.1 Permits required. Any
+owner
+or authorized
+agent
+who intends to construct, enlarge,
+alter
+, repair, move, demolish, or change the occupancy of a
+building
+or
+structure
+subject to this
+Code
+, or to erect, install, enlarge, alter, repair, remove, convert, or replace any gas, mechanical, or plumbing system, the installation of which is regulated by this Code, or to cause any such work to be done, shall first make application to the
+building official
+and obtain all required permits.  The issuance of a
+building permit
+does not affect or otherwise supersede the requirement to obtain additional permits for grading, temporary uses/structures,
+floodplain
+development
+, land
+use
+, and activities of interest pursuant to the La Plata
+County
+Code. Nothing in this Code shall preclude the building official from refusing to
+grant
+a building permit for an illegally sold or illegally subdivided
+lot
+or
+parcel
+at any time.  Building permits shall not be issued for work to be conducted on any parcel or lot which has been created or developed in a manner that does not fully comply with the La Plata County
+Land Use Code
+.
+105.2 Exempted work. A building permit is not required for the following:
+105.2.1 General.
+One-story, detached
+accessory
+buildings used solely as tool and storage sheds, well houses, and similar uses, not for human occupancy, provided the exterior wall dimensions do not exceed 200 square feet of floor area, the building height does not exceed 12 feet in height to the peak of the roof, and eave overhangs are no greater than 16 inches. These exempt accessory buildings are limited in number to four (4) per parcel of land.
+Utility
+connections will be limited to electrical connections for simple
+lighting
+.
+1.
+Fences
+not over 8 feet high.
+2. Retaining walls, except when acting as an integral part of the building or structure, or less than 4 feet above finish grade.
+3. Open platforms, walks, decks not over thirty (30) inches above
+finished grade
+at any point, which do not support any type of roof structure or cover.
+4. Oil-gas and water production derricks.
+5. Painting, papering, tiling, carpeting, cabinets, counter tops, and similar finish work.
+6.
+Residential
+swimming pools not within a structure or enclosure.
+Public
+swimming pools and
+mineral
+baths must comply with Colorado
+Department
+of Public Health and Environment regulations, 5 CCR 1003-5 et seq.
+7. Swings and other playground
+equipment
+accessory to single or two-family
+dwelling units
+.
+8. Window awnings supported by an exterior wall of Group R, Division 3, and Group U occupancies when projecting not more than 50 inches.
+9.
+Membrane structures
+used as accessories to residential or
+agricultural
+uses that are less than 200 square feet, not attached to the primary structure, and meet the requirements of the La Plata County Land Use Code. Utility connections will be limited to electrical connections for simple lighting.
+10. Agricultural exempt structures, which are buildings or structures used solely for agricultural uses. Pursuant to C.R.S. § 30-28-201, such agricultural buildings shall be used for the sole purpose of providing shelter for agricultural implements, farm products,
+livestock
+, or poultry, and shall not be used for any residential purpose including, but not limited to, storing household items, personal
+vehicles
+, or outdoor sports or
+recreational vehicles
+.  If structures are constructed as agricultural exempt structures then, at the time the agricultural use is discontinued, the building must be reconstructed to comply with all applicable provisions of this Code. Plumbing and electrical systems in an agricultural building are limited to electrical connections for simple lighting and plumbing connections for frost free water spigots. An agricultural exempt building permit with accompanying affidavit will be required prior to constructing an agricultural exempt building. The affidavit will be maintained among the Building Department’s records pursuant to section
+18-35
+(104.7). Agricultural buildings with residential occupancies must comply with all requirements of this Code.
+11.
+Animal
+loafing sheds not exceeding 200 square feet, which are open on at least one side.
+12. Shipping containers used for temporary storage at a permitted
+construction
+site
+.
+13. Shipping containers used solely for storage, less than 200 square feet in size, which are not used to store hazardous materials, and which are not modified or stacked on top of one another, which have no utility connections for heat or water, and which are not used for human occupancy.
+14. Window replacements requiring no structural modifications or alterations, but replacement windows must meet all currently adopted energy code requirements.
+105.2.2. Gas.
+1. Portable heating, cooking, or clothes drying appliances.
+2. Replacement of any minor part that does not alter any equipment subject to approval under this Code, or make such equipment unsafe.
+3. Portable fuel-cell appliances that are not connected to a fixed piping system and are not connected to a power grid.
+105.2.3. Mechanical.
+1. Portable heating appliances.
+2. Portable ventilation appliances.
+3. Portable cooling
+units
+.
+4. Steam piping, or hot or chilled water piping, within any heating or cooling equipment regulated by this Code.
+5. Replacement of any minor part that does not alter any equipment subject to approval under this Code, or make such equipment unsafe.
+6. Portable evaporative coolers.
+7. Self-contained refrigeration systems containing ten (10) pounds (4.54 kg) or less of refrigerant or that are actuated by motors of one (1) horsepower (746 W) or less.
+8. Portable-fuel-cell appliances that are not connected to a fixed piping system and are not connected to a power grid.
+105.2.4. Plumbing.
+1. The stopping of leaks in drains, or water, soil, waste, or vent pipes; provided, however, that if any concealed trap, drainpipe, or water, soil,  waste,  or  vent pipe becomes  defective  and   it  becomes  necessary  to remove and  replace  the  same with new  material, such  work  shall  be considered as  new  work  and  a permit shall be obtained and inspection made as provided in this Code.
+2. The clearing of stoppages or the repairing of leaks in pipes, valves, or fixtures, and the removal and reinstallation of water closets, provided such repairs do not involve or require the replacement or rearrangement of valves, pipes, or fixtures.
+105.2.5 Repairs. Application or notice to the building official is not required for repairs to structures, replacement of lamps, or the connection of approved portable electrical equipment to approved permanently installed receptacles.  Repairs   shall   not  include   the  cutting away of any wall, partition,  or portion  thereof;  the removal or cutting  of any structural beam  or load-bearing support; the removal  or change of any required  means of egress, or  rearrangement  of  parts   of  a  structure  affecting  the egress  requirements, nor shall repairs  include
+addition
+to, alteration of, replacement, or relocation of any water supply,   sewer,
+drainage
+, drain leader,  gas,  soil, waste, vent or similar piping, electric  wiring, mechanical, or other  work which affects the public health  or general  safety.
+105.2.6.
+Emergency repairs
+.  Where equipment replacements and repairs must be performed in an
+emergency
+situation, the permit application shall be submitted to the building official no later than the next business day following the commencement of such replacement or repair.
+105.2.7
+Public utilities
+. A permit shall not be required for the installation, alteration, or repair of generation, transmission, distribution, metering, or other related equipment that is under the ownership and
+control
+of a public utility by established right.
+The above exemptions from this Code’s requirements do not exempt buildings or structures from meeting other applicable provisions of the La Plata County Code, including
+setback
+requirements from
+property lines
+, height limitations in the Animas Valley, and Chapter 78 of the La Plata County Code and any subsequent enactments concerning
+flood
+plain
+management
+.
+105.3 Application for permit. To obtain a permit, the
+applicant
+shall file a written application with the Building Department, including:
+1. A completed application form (as provided by the Building Department) providing accurately all requested information.
+2. Electronic completed plot
+plans
+using aerial photographs of the property,
+sealed
+drawings, or surveyed
+plats
+that represent the building site, location of existing structures, and actual location of the proposed building.
+3. Proof of
+sewage
+disposal authorization, in the form of a copy of a permit from the entity, agency, district, or company (pursuant to the regulatory framework outlined in section
+18-42
+) for an onsite waste-water treatment system, or other system or equipment which will provide sewage disposal for the proposed building.
+4. Proof of adequate,
+potable water
+.  By descending order of preference, building permit applicants shall verify a legal source of potable water as follows:
+a. A written commitment to serve from a public or private water service
+provider
+, or a copy of receipt for payment of public water
+tap
+specific to the lot, parcel or tract of land that is the subject of the building permit application; or
+b. A copy of current valid well permit issued by the Colorado State Division of Water Resources specific to the lot, parcel or tract of land that is the subject of the building permit application; or
+c. If the parcel or tract of land that is the subject of the building permit application is legally and properly subdivided except that a public water supply system is not available or that the individual well water source is not viably potable, then demonstration of an alternative water supply, such as a cistern.
+5. Legal description of the land on which the proposed work is to be performed including the physical address assigned to the property and construction site, and the La Plata County Assessor parcel number.
+6. Identification and description of the work to be permitted and a description of the use and occupancy for which the proposed work is intended.
+7. Such other data and information as required by the building official in the exercise of his or her discretion, including but not limited to the valuation of the proposed work, with supporting documentation.
+8. Electronic plans and construction documents along with other information addressing the requirements set forth in Section 106.
+9. Identification of any
+geologic hazards
+associated with the construction site and any special engineering or other measures necessary to
+mitigate
+those geologic hazards. Such identification may trigger additional submittal or review requirements including those set forth below in subsections (a) through (c) and at section
+18-35
+(107.2).
+10. Expansive soils. When it is found that a building site is located in an area of the County where the soils are classified as being highly expansive, or technical evidence and soil characteristics indicate highly expansive soils, the foundation system for all residential structures must be designed by a
+professional engineer
+, licensed by the State of Colorado.  The design of the foundation system will address the expansion or
+adverse
+soil conditions at the site. The classification of soils will be based on the “soil survey of La Plata County area, Colorado” provided by U.S. Department of Agriculture – Soil Conservation 1981-82, and the maps on the La Plata County GIS Mapping System.
+11. Geologic hazards. When the building site is located in an area subject to geologic hazards, the building official may require an engineering geologist or other
+engineer
+working within their field of expertise to submit specific recommendations for site development to address site drainage and defensive techniques that will limit
+impacts
+of the geologic hazards.  This requirement applies only to residential and
+commercial
+buildings and structures.
+12. Flood plain development.  All development within the mapped flood
+hazard
+zones of La Plata County must comply with Res. No. 2014-30 (August 5, 2014) or subsequent flood plain management regulations adopted by La Plata County, including, but not limited to, Chapter 78 of the La Plata County Code of Resolutions and Ordinances. Where development or construction takes place in designated flood hazard zones as mapped and defined on La Plata County Flood Plain Mapping, a
+FEMA
+elevation certificate will be required along with other engineering requirements contained in the regulations.
+13. Computations and
+specifications
+verifying compliance with the energy efficiency requirements set forth in this Code at section
+18-45
+.
+An application shall be deemed complete if it is submitted in the required form and includes all required submittal information and is accompanied by the applicable fee.  In addition, an application will be considered complete only if the building official determines the information contained in the submittal is adequate to enable the building official to ultimately determine whether the proposed
+project
+will comply with this Code.
+105.4 Time limitation of application. A permit application on which no permit has issued shall be deemed to have been
+abandoned
+180 days after the date of the application’s filing, unless such application has been pursued in
+good faith
+. The building official is authorized, in the exercise of his or her discretion, to grant one extension of time, not exceeding 180 days, to allow the applicant to pursue his or her application.  The extension shall be requested in writing with a demonstration that circumstances beyond the applicant’s control previously have prevented the applicant from pursuing the application in good faith. If no extension is granted, no further processing of an abandoned application shall occur, and the application shall be considered automatically withdrawn.  Any plans submitted with the application shall be either returned to the applicant or destroyed by the building official. Any re-submittal of the application thereafter by the applicant will be treated as a new application for purposes of review, scheduling, and payment of application fees.
+105.5 Action on application. The building official shall examine or cause to be examined applications for permits and amendments thereto within a reasonable time after filing. If the application or any of its attachments do not conform to the requirements of this Code, pertinent laws, or County regulations, the building official shall reject such application in writing, stating the reasons therefor. If the building official is satisfied that the proposed work conforms to the requirements of this Code, and any laws and ordinances applicable thereto, the building official shall issue a permit as soon as practicable. When the building official issues a permit, all construction documents shall be stamped “approved.” Field inspections may warrant changes or corrections to meet Code requirements.
+105.6 Validity of permit. The issuance or granting of a permit shall not be construed to be a permit for, or an approval of, any
+violation
+of any provision of this Code or of any other applicable law or regulation. Any language in an issued permit contrary to or in conflict with the provisions of this Code shall be invalid. The issuance of a permit based on construction documents and other data shall not prevent the building official from later requiring the correction of errors in the construction documents and other data. The building official may prohibit occupancy or use of a building or structure determined to be in violation of this Code or of any other applicable law or regulation.
+105.7 Lapsed or Abandoned Permits.
+105.7.1 Lapse. Every permit issued shall lapse and be of no further force or effect unless the work on the site is commenced within 12 months after the permit’s issuance.  If the permit has lapsed, the applicant must reapply for and be granted a renewal (pursuant to subsection 105.8 below) or a new permit to proceed with the project.  Any activity occurring under a lapsed permit may be subject to an investigation fee as provided in section
+18-35
+(109.3) of this Code.
+105.7.2
+Abandonment
+. If the work authorized on the site by a permit is suspended or abandoned for a period of 12 months after the date on which work was commenced, the permit will be considered abandoned and be of no further force and effect.  If the permit is abandoned, the applicant must reapply for and be granted a renewal (pursuant to subsection 105.8 below) or a new permit to proceed with the project.  Any activity occurring under an abandoned permit may be subject to an investigation fee as provided in section
+18-35
+(109.3) of this Code.
+105.8 Permit renewal. A lapsed or abandoned permit may be renewed upon payment of a renewal permit fee of up to 25% of the original permit fee.  A permit may be renewed only if no changes have been made to the construction documents submitted with the original permit application. A renewed permit shall have the same permit number as the original permit. Permit renewal will be based upon the version of this Code, and any other applicable laws and regulations, in effect at the time of the original permit’s issuance. Renewal permits may lapse or become abandoned in the same manner as the original permit, pursuant to section
+18-35
+(105.7). Any changes to the original approved plans will be subject to additional fees and requirements based on valuation and the current fee schedule.
+105.9 Suspension or revocation. The building official may suspend or revoke a permit when he or she determines that:
+1. There is a material departure from the approved plans, specifications, or conditions of the permit; or
+2. There is a violation of any provision of this Code; or
+3. The permit was obtained based on the submittal of incorrect, inaccurate, or incomplete information; or
+4. The permit was issued in error.
+No suspension or revocation shall occur before the building official provides reasonable notice to the
+permittee
+that any of the conditions listed above in this section exist. Upon receiving such notice, the permittee shall be entitled to a
+hearing
+before the building official and a reasonable opportunity to correct the condition(s).
+If the building official suspends the permittee’s permit following such notice, hearing, and opportunity to correct the condition(s), then no further work, construction, or other activity shall proceed until a final determination is made. The building official shall place a red tag indicating that the building permit is suspended on every structure subject to that suspended permit.  A permit’s suspension shall remain in effect and the red tag shall remain in place until the building official determines that the condition(s) underlying the suspension has been remedied.
+(
+Res. No. 2004-15, § 1 (Exh. A), 05/24/2004; Res. No. 2017-33, § 18-35, 10/10/2017; Res. No. 2023-15, § 18-35, 06/06/2023
+)
+Effective on: 8/1/2023

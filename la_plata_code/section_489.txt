@@ -1,0 +1,3711 @@
+Chapter 20 procurement code
+Contents:
+ARTICLE I  INTRODUCTION AND GENERAL PROVISIONS
+Sec. 20-1 Purpose and authority
+Sec. 20-2 Applicability
+Sec. 20-3 Repeal and effective date
+Sec. 20-4 Introduction to public procurement
+Sec. 20.5 Definitions and acronyms
+Sec. 20-6 Good faith requirement
+Sec. 20-7 Code of ethics
+Sec. 20-8 Supplementary general principles of law
+Sec. 20-9 References to job titles and exercise of authority
+Sec. 20-10 Revisions to/or waivers of the code
+Sec. 20-11 Public Access
+Sec. 20-12 Severability
+Sec. 20-13 Contacts
+Secs.  20-14—20-20. Reserved
+ARTICLE II  PROCUREMENT ROLES AND RESPONSIBILITIES
+Sec. 20-21 The Board of County Commissioners
+Sec. 20-22 Finance director/contract manager
+Sec. 20-23 County manager
+Sec. 20-24 Elected officials and department directors
+Sec. 20-25 County employees
+Sec. 20-26 County attorney
+Sec. 20-27 Specific comments or approvals required
+Secs. 20-28—20-30. Reserved
+ARTICLE III THE PUBLIC PROCUREMENT PROCESS; ACQUISITION AND DISPOSAL OF GOODS AND SERVICES
+Sec. 20-31 Exemptions to competitive solicitation requirements based on type of good or service
+Sec. 20-32 Exceptions to competitive solicitation requirements based on source of good or service or emergency
+Sec. 20-33 Small purchases
+Sec. 20-34 Simplified purchases
+Sec. 20-35 Standard purchases
+Sec. 20-36 Bid preferences
+Sec. 20-37 Prequalification of vendors
+Sec. 20-38 Disposal of county property
+Secs.  20-39—20-40. Reserved
+ARTICLE IV SPECIFICATIONS AND SCOPES OF WORK
+Sec. 20-41 General guidelines
+Sec. 20-42 Scope of work
+Sec. 20-43 Specifications
+Secs. 20-44—20-50. Reserved
+ARTICLE V METHODS OF COMPETITIVE SOURCE SELECTION FOR STANDARD PURCHASES
+Sec. 20-51 Bid security
+Sec. 20-52 Invitation for bids
+Sec. 20-53 Request for proposals
+Sec. 20-54 Unsolicited proposals and vendor shows
+Sec. 20-55 Other methods of competitive source selection
+Sec. 20-56 Public records and confidential bids or proposals
+Secs. 20-57—20-60. Reserved
+ARTICLE VI CONTRACTS, AMENDMENTS AND CONTRACT ADMINISTRATION
+Sec. 20-61 Required contract forms/terms
+Sec. 20-62 Performance and payment bonds
+Sec. 20-63 Partial payments
+Sec. 20-64 Contract amendments and change orders
+Sec. 20-65 Contract administration
+Sec. 20-66 Debarment or suspension.
+Sec. 20-67—20-70. Reserved
+ARTICLE VII DETERMINATIONS, PROTESTS, AND CLAIMS
+Sec. 20-71 Consent
+Sec. 20-72 Procurement questions and interpretations
+Sec. 20-73 Waivers and exceptions
+Sec. 20-74 Determination of non-responsibility
+Sec. 20-75 Challenges to bid preferences
+Sec. 20-76 Bid protests
+Sec. 20-77 Contract claims
+Sec. 20-78 Authority to resolve bid protest and contract claims
+Sec. 20-79 Remedies for solicitations or awards in violation of law
+Sec. 20-80 Reserved
+ARTICLE VIII ETHICS IN PUBLIC CONTRACTING
+Sec. 20-81 General standards of ethical conduct
+Sec. 20-82 Conflict of interest
+Sec. 20-83 Disclosure requirements
+Sec. 20-84 Contemporaneous employment prohibited
+Sec. 20-85 Waiver of conflicts and prohibition on employment
+Sec. 20-86 Prohibition of use of confidential information or other sensitive information
+Sec. 20-87 Prohibition of gratuities and kickbacks
+Sec. 20-88 Prohibition of contingent fees
+Sec. 20-89 Remedies and consequences of breach
+Sec. 20-90 Reporting of anti-competitive practices
+Sec. 20-91 Criminal penalties
+ARTICLE I – INTRODUCTION AND GENERAL PROVISIONS
+Contents:
+ARTICLE I  INTRODUCTION AND GENERAL PROVISIONS
+Sec. 20-1 Purpose and authority
+Sec. 20-2 Applicability
+Sec. 20-3 Repeal and effective date
+Sec. 20-4 Introduction to public procurement
+Sec. 20.5 Definitions and acronyms
+Sec. 20-6 Good faith requirement
+Sec. 20-7 Code of ethics
+Sec. 20-8 Supplementary general principles of law
+Sec. 20-9 References to job titles and exercise of authority
+Sec. 20-10 Revisions to/or waivers of the code
+Sec. 20-11 Public Access
+Sec. 20-12 Severability
+Sec. 20-13 Contacts
+Secs.  20-14—20-20. Reserved
+Sec. 20-1 Purpose and authority
+I.
+Purpose
+. Stewardship of public funds is a fundamental responsibility of county government. The public must have confidence that public funds are spent prudently and transparently on its behalf, with proper planning and evaluation, in a manner that is open and fair to all.
+Under the direction of the Board of County Commissioners (“BOCC”), the La Plata County Procurement Code (this “code”) sets forth the policies and procedures that adhere to applicable laws and a commitment to promote competition, maximize purchasing power, and ensure fair opportunity and equitable treatment of all who seek to do business with the county.
+The purpose of this
+code
+is to guide county personnel in fulfilling their obligations to the public, grantors,
+vendors
+, and
+contractors
+in the expenditure of public funds. The code is a comprehensive reference manual for both county personnel and outside parties who have an interest in the county’s
+procurement
+and contracting processes. It is intended as a guide to good procurement practices and is to be used as a supplement to state law, sound business judgment in procurement and contracting.
+The policies set forth in this code are intended to:
+1.    Provide a procurement program encompassing nationally and regionally approved principles and practices.
+2.    Be reviewed, thoughtfully and regularly, to ensure the utility of the code and to make periodic modifications          and improvements that will enhance the efficiency and effectiveness of the procurement function.
+3.   Promote and encourage ethical management and efficiency in the county procurement procedures.
+4.   Support consistent procurement procedures within all county departments.
+5.   Bolster public confidence in public procurement procedures.
+6.    Ensure the fair and equitable treatment of all persons dealing with the county procurement system.
+7.    Provide increased economy in county procurement activities.
+8.    Maximize the procurement value of county funds.
+9.    Safeguard the high quality and integrity of the procurement system.
+10.  Ensure that the expenditure of public funds complies with the terms and conditions of the funding source.
+This code is presented in a manner that is intended to address each of these factors in a straightforward and       practical way.
+Article 1 explains why, when and how to use this code.
+Article 2 explains the roles and responsibilities of those involved in public procurement.
+Article 3 explains how to select vendors and conduct county purchases.
+Article 4 explains the key to every successful purchase: specifications and scopes of work.
+Article 5 explains the competitive solicitation processes and the requirements of each.
+Article 6 explains the contract options that apply to every purchase, regardless of amount.
+Article 7 explains the determination, protest, claims and dispute resolution processes.
+Article 8 explains the legal and ethical obligations of every public employee.
+II. Authority.
+This code is adopted pursuant to the power and authorities conferred by the laws of the State of Colorado, including but not limited to the following sections of the Colorado Revised Statutes: Article 11 of Title 30 (County Powers and Functions); Article 20 of Title 30 (Public Improvements); and Article 25 of Title 30 (Administration of County Finance).
+(
+Res. No. 2020-42, § 20.1, 12/17/2020
+)
+Effective on: 1/1/2021
+Sec. 20-2  Applicability
+Except as specifically exempted by statute or resolution of the
+BOCC
+, this
+code
+applies to all publicly funded expenditures entered by and on behalf of the county for the purchase or lease of
+goods
+or
+services
+and to the disposal of county personal property purchased with public funds. All county employees shall adhere to these policies as part of their essential job functions.
+In addition, while
+elected officials
+may adopt their own
+procurement
+procedures, to ensure compliance with federal procurement rules and regulations that are applicable to various federal grants and/or
+contracts
+, as well as support fair and consistent procurement procedures, elected officials and their offices are encouraged to adopt and abide by this code. Procurement assistance from county staff can only be provided to elected officials operating under this code.
+The policies in this code do not apply to the following types of agreements:
+1. Intergovernmental
+agreements
+or payments made pursuant to such agreements.
+2. Memoranda of understanding or agreement.
+3. The purchase, sale, or lease of real property.
+4. Contracts to license and use Fairgrounds or Senior Center property.
+5. Grant contracts.
+6. Grants
+awarded
+by the Board of County Commissioners.
+7. Permanent or temporary construction easements.
+8. Right-of-way acquisitions.
+9. Development agreements and development improvement agreements.
+10. Road improvement agreements.
+11.Fair share improvement agreements.
+12. Debt service payments.
+13. Settlement agreements or releases of claims.
+14. Matters under the purview of the county attorney or district attorney, as applicable, that could be or are subject to settlement negotiations, mediation, arbitration or litigation, including but not limited to:
+a. Contracts for litigation support or outside legal counsel retained by the county attorney or district                      attorney.
+b. Contracts for expert witnesses retained by the county attorney, the county attorney’s consultants or the                        district attorney to consult with or testify on behalf of the county in connection with any judicial matter                        involving the county or any matter in which litigation, administrative or regulatory proceedings are                                reasonably anticipated.
+c. Contracts for other litigation goods or services, including but not limited to consultants and experts,                             retained by the county attorney, the county attorney’s consultants or the district attorney in any matter                        in  which litigation is reasonably anticipated.
+d. Transcripts or other records required by the county attorney or district attorney.
+15. Any other purchase the BOCC formally determines to be exempt due to reasons not anticipated by this code.
+Nothing in this code shall prevent the county from complying with the terms and conditions of any grant, gift, bequest, contract, or cooperative agreement that is otherwise consistent with the law. If any provision of this code causes denial of state or federal monies that would otherwise be available to the county or is inconsistent with requirements of state or federal law, that provision shall be suspended to the extent necessary to prevent denial of the monies or to eliminate the inconsistency with state or federal law. Specifically, when procurement involves the expenditure of federal assistance or contract funds, procurement shall be conducted in accordance with any mandatory, applicable federal law and regulations.
+(
+Res. No. 2020-42, § 20-2, 12/17/2020
+)
+Effective on: 1/1/2021
+Sec. 20-3 Repeal and effective date
+Except to the extent necessary to enforce compliance with contracts entered into prior to the effective date of this code, the La Plata County Procurement Code adopted pursuant to Resolution No. 2003-33 on July 14, 2003 is repealed as of December 31, 2020. This
+code
+shall be effective on January 1, 2021. It does not retroactively affect any rights and remedies under existing
+contracts
+but, to the extent not inconsistent with the express terms of existing contracts, does apply to amendments and renewals of existing contracts.
+(
+Res. No. 2020-42, § 20-3, 12/17/2020
+)
+Effective on: 1/1/2021
+Sec. 20-4 Introduction to public procurement
+Procurement
+in the public sector is the process through which a government acquires
+goods
+and
+services
+. The terms “procurement” and “purchasing” are often used interchangeably. However, strictly speaking, “purchasing” is only one of three stages of the public procurement cycle.
+The three (3) stages of public procurement are:
+I.
+Planning and scheduling.
+This stage includes defining the need, developing the means and methods to meet the need, including the method of source selection, assessing risks, and ensuring proper allocation of resources.
+II.
+Purchasing and source selection.
+This stage represents the process through which qualified providers of goods and services are identified,
+solicited
+, evaluated, and ultimately selected. The method of source selection, dictated by the amount of the expenditure, is determined in the planning and scheduling stage.
+III.
+Contract formation and administration.
+This stage includes confirmation of expected performance measures, finalization of terms and conditions, and signature of authorized parties. This stage also includes post-
+award
+compliance with and enforcement of the terms of the resulting
+contract
+, including payment of invoices and adherence to insurance, amendment and renewal requirements through contract completion.
+The appropriate procurement process to be followed in any given circumstance is dependent upon a variety of factors. A conceptual framework for determining the appropriate process is summarized as follows:
+1
+. Nature of purchase.
+The nature of the purchase dictates: (a) whether public competition is required, and (b) whether additional approvals are required.
+2.
+Amount spent.
+The amount to be spent dictates: (a) who has the authority to make the purchase, (b) what kind of competitive solicitation, if any, is required, and (c) who has the authority to sign the contract.
+3.
+Memorialization
+. Every purchase and sale, regardless of type or amount, must be memorialized in a written document that identifies the rights and obligations of both the
+buyer
+and the seller.
+(
+Res. No. 2020-42, § 20-4, 12/17/2020
+)
+Effective on: 1/1/2021
+Sec. 20.5 Definitions and acronyms
+I.
+Definitions
+. The following words, terms and phrases shall have the meanings set forth in this section whenever they appear in this code unless otherwise specifically stated. Not all the words and phrases below, however, appear in the current version of the code. They are nevertheless included to ensure and develop a common understanding and usage of common public procurement terminology. Questions regarding terms that do not appear below should be directed to the contract manager.
+Contents:
+Advertise
+Agreement
+Appropriation
+Award
+Architectural and engineering services
+Best interests of the county
+Bid
+Bidder
+Bid opening
+Blind trust
+Brand name
+Brand name only specification
+Breach of contract
+Budget
+Budget year
+Buyer
+Change order
+Code
+Compete
+Competitive range
+Competitive reverse auction
+Competitive sealed bid
+Competitive sealed proposal
+Confidential information
+Consideration
+Construction
+Contract
+Contract amendment or modification
+Contract management
+Contract manager
+Contractor
+Cooperative purchases
+Cost analysis
+Cost or pricing data
+County representative
+Digital signature
+Documented quote
+Elected officials
+Electronic signature
+Emergency purchase
+Encumbrance
+Environmentally preferable product(s)
+Established catalogue price
+Expenditure
+Financial interest
+Fiscal year
+Good faith
+Goods
+Grant
+Gratuity(ies)
+Immediate family
+Indemnity or indemnification
+Invitation for bids (IFB)
+Liquidated damages
+Local business
+Local and regional business(es)
+Lowest responsive and responsible bidder
+Minor deviation or informality(ies)
+Non-responsive bid
+Offer
+On-call list
+Payment bond
+Performance bond
+Personal services
+Price analysis
+Price data or pricing data
+Procurement
+Procurement process
+Professional services
+Proposal
+Purchase order (PO)
+Purchase number or purchase order number
+Purchase requisition (PR)
+Purchased services
+Qualifications-based competitive procedures
+Qualified vendor
+Regional business
+Request for information (RFI)
+Request for proposals (RFP)
+Request for qualifications (RFQ)
+Responsible bidder or offeror
+Responsive bid
+Responsive bidder or offeror
+Scope of work (SoW)
+Sealed
+Services
+Simplified purchase
+Small purchase
+Sole source justification
+Sole source purchase
+Solicitation
+Specifications
+Standard purchase
+Supplies
+Surplus property
+Uniform commercial code (UCC)
+Unsolicited proposals
+Vendor
+II.
+Acronyms
+. The following acronyms are used in this code and by staff and are intended to have the following               meanings:
+BOCC
+The La Plata County Board of County Commissioners
+CORA
+The Colorado Open Records Act. C.R.S. § 24-72-200.1 et seq., as amended
+EOC
+Emergency operations center
+IFB
+Invitation for bids
+PO
+Purchase order
+PR
+Purchase requisition
+RFI
+Request for information
+RFP
+Request for proposals
+RFQ
+Request for qualifications
+SoW
+Scope of Work
+UCC
+Uniform Commercial Code
+(
+Res. No. 2020-42, § 20.5, 12/17/2020
+)
+Advertise
+To make a public announcement of the intention to purchase
+goods
+or
+services
+.
+Effective on: 1/1/2021
+Agreement
+See
+contract
+, defined below.
+Effective on: 1/1/2021
+Appropriation
+The authorization by ordinance or resolution of a spending limit for expenditures and obligations for specific purposes. There is an absolute prohibition against spending in excess of an appropriation.  A
+contract
+requiring the expenditure of funds that have not been appropriated is void and no county money will be paid on such a contract. Multiple-year contracts may be entered where allowed by law and if subject to annual appropriation.  See C.R.S. §§  29-1-102(1); 29-1-110.
+Effective on: 10/1/2020
+Award
+The acceptance of a
+bid
+or
+proposal
+pursuant to the process designated in the
+code
+, which results in the presentation of a
+contract
+to a
+vendor
+for execution.
+Effective on: 1/1/2021
+Architectural and engineering services
+Services that include program management,
+construction
+management, feasibility studies, preliminary engineering, design, architectural, engineering, surveying, mapping and related services.
+Effective on: 1/1/2021
+Best interests of the county
+A term used in granting the
+contract manager
+and finance director authority to use discretion to act based on what is believed to be the most advantageous to the county. The term is used when it is impossible to anticipate adequately the circumstances that may arise and, thus, impossible to delineate more specific directions.
+Effective on: 1/1/2021
+Bid
+An
+offer
+submitted by a prospective
+vendor
+in response to a bid invitation issued by a
+buyer
+. Bids are usually non-negotiable and become a
+contract
+upon acceptance by the buyer.
+Effective on: 1/1/2021
+Bidder.
+An individual or entity that submits a
+bid
+in response to a bid invitation or other
+solicitation
+document issued by a
+buyer
+. A bidder is not a contractor until there is a fully executed
+contract
+after the
+award
+of a contract.
+Effective on: 1/1/2021
+Bid opening.
+The process through which the contents of
+bids
+are revealed for the first time to the government, to other
+bidders
+, and usually to the public.
+Effective on: 1/1/2021
+Blind trust
+An independently managed trust in which the beneficiary has no management rights and in which the beneficiary is not given notice of alterations in, or other dispositions of the property subject to, the trust.
+Effective on: 1/1/2021
+Brand name
+A product name that serves to identify the product of a manufacturer or a trade name.
+Effective on: 1/1/2021
+Brand name only specification
+A
+specification
+that cites the
+brand names
+, model numbers or other identifications as representing the quality and performance called for and inviting
+bids
+on comparable items or products of any manufacturer.
+Effective on: 1/1/2021
+Breach of contract
+A failure, without legal excuse, to perform any obligation that forms all or part of a
+contract
+.
+Effective on: 1/1/2021
+Budget
+The complete estimated financial plan of the county. See C.R.S. § 29-1-102(3), as amended.
+Effective on: 1/1/2021
+Budget year
+A
+fiscal year
+.  See C.R.S. §  29-1-102(4), as amended.
+Effective on: 1/1/2021
+Buyer
+A purchaser. In context of the
+code
+, the term generally refers to the
+BOCC
+and those designees who are authorized to enter into
+contracts
+on the county’s behalf.
+Effective on: 1/1/2021
+Change order
+Work that is added to or deleted from the original
+scope of work
+of a
+contract
+and that alters the original contract amount or completion date. Approval for change orders is addressed in article VI of the
+code
+.
+Effective on: 1/1/2021
+Code
+This procurement code.
+Effective on: 1/1/2021
+Compete
+To obtain pricing and other applicable information from potential
+vendors
+prior to selecting a source through which to meet the county’s requirements.
+Effective on: 1/1/2021
+Competitive range
+Those
+proposals
+that, upon initial evaluation, are most responsive to the
+solicitation
+requirements and are from potential
+vendors
+who are reasonably qualified to be selected for
+award
+. Proposals not within the competitive range are given no further consideration, as more specifically discussed in article V of the
+code
+.
+Effective on: 1/1/2021
+Competitive reverse auction
+An auction in which the
+buyer
+puts up a request for a required
+goods
+or
+services
+and the seller then places
+bids
+for the amount they are willing to be paid for such goods or services, with the seller submitting the lowest amount within prescribed timeframes winning the auction.
+Effective on: 1/1/2021
+Competitive sealed bid
+The preferred method for acquiring
+goods
+,
+services
+, and
+construction
+for public use when an
+award
+is based solely on the response to the criteria set forth in an
+invitation for bids
+. Submitted
+bids
+must be
+sealed
+to prevent dissemination of the contents before the deadline for the submission of all bids. This procedure is generally required on county
+procurements
+expected to cost more than fifty thousand dollars ($50,000.00) to ensure fair
+competition
+among
+bidders
+when the lowest responsive and responsible bid will be the most important factor in winning the award.
+Effective on: 1/1/2021
+Competitive sealed proposal
+The method for acquiring
+goods
+,
+services
+and
+construction
+for public use when discussions or negotiations may be conducted with responsible offerors who submit
+proposals
+within the
+competitive range
+. Submitted proposals must be
+sealed
+to prevent dissemination of the contents before the deadline for the submission of all proposals.
+Effective on: 1/1/2021
+Confidential information
+This term includes, but is not limited to, trade secrets, privileged information, and confidential proprietary, commercial and financial information furnished by a
+bidder
+or
+vendor
+that must be withheld from inspection by the county pursuant to CORA.
+Effective on: 1/1/2021
+Consideration
+The reason parties enter a given
+contract
+. Consideration is an essential element of a contract; each party must give up something of value, such as payment, or refrain from doing something it is otherwise able to do.
+Effective on: 1/1/2021
+Construction
+The process of building, altering, repairing, improving, or demolishing any public structure, public building or other public improvements of any kind, to real property. It does not include the routine operation, routine repair, or routine maintenance of any existing public infrastructure facility, including structures, buildings or real property.
+Effective on: 1/1/2021
+Contract
+An
+agreement
+between two or more parties creating enforceable obligations. The term is used for all types of written agreements, regardless of what they may be called, for obtaining or disposing of
+goods
+,
+services
+,
+construction
+, or other performance obligations in return for specific terms, conditions or price. As explained in section 1.2, the
+code
+applies only to contracts entered for the purchase or lease of goods or services and to the disposal of county property purchased with public funds.
+Effective on: 1/1/2021
+Contract amendment or modification
+An agreed upon revision or correction to a
+contract
+that includes the addition or deletion of original contract terms.
+Effective on: 1/1/2021
+Contract management
+The process of supervising the application of terms of a
+contract
+from
+award
+through acquisition to successful completion.
+Effective on: 1/1/2021
+Contract manager
+The member of the procurement division responsible for managing the stages of the contracting process, which may include such activities as ensuring use of the correct
+contract
+type necessary to meet relevant legal and business requirements; ensuring inclusion of all necessary contract terms and conditions; approving contract revisions; managing, coordinating, and monitoring contracts and processes; and planning, negotiating, storing or analyzing contracts and contract issues.
+Effective on: 1/1/2021
+Contractor
+Any person or company having a
+contract
+with the
+BOCC
+; also, may be referred to as a seller.
+Effective on: 1/1/2021
+Cooperative purchases
+Those purchases made from a
+contract
+or
+agreement
+written by another federal, state, county, city, or other governmental agency, or government cooperative for identical
+goods
+or
+services
+that do not require additional competition by the county when the original agreement has been formally competed or renewed by the acquiring government within the last twelve (12) months, as discussed in article III. The state
+bid
+list qualifies as a source of appropriate
+vendors
+for cooperative purchases. See also C.R.S. §§ 24-101-301(12) and 24-110-201, as amended.
+Effective on: 1/1/2021
+Cost analysis
+An element-by-element evaluation of a
+vendor's
+detailed cost estimate.
+Effective on: 1/1/2021
+Cost or pricing data
+Factual information concerning the cost of labor, material, overhead, and other elements of cost that are expected to be incurred or that the
+contractor
+has incurred in performing the
+contract
+.
+Effective on: 1/1/2021
+County representative
+The agent of the county, usually an employee, responsible for ensuring that both the county and the
+contractor
+meet or exceed their performance requirements stated in any
+contract
+. In addition, this individual is responsible for monitoring delivery schedules, ensuring completeness and accuracy, maintaining the contract relationship, addressing related problems, identifying necessary changes, approving all contractor invoices, and actively interacting with the contractor to achieve the contract objectives.
+Effective on: 1/1/2021
+Digital signature
+An
+electronic signature
+that secures and transforms data through use of an asymmetric cryptosystem (i.e., public key cryptography).
+Effective on: 1/1/2021
+Documented quote
+A
+solicitation
+of
+qualified vendors
+requesting pricing and terms for
+simplified purchases
+. Documented quote solicitations are not advertised publicly and are used commonly for standard, off the shelf items, items built to known specifications, items required in small quantities, or services that can be performed within a calendar year and fall below the
+standard purchase
+level. Documented quotes are attached to a properly submitted
+purchase requisition
+, which requires written
+specifications
+or a
+scope of work
+, a list of no less than three (3) qualified vendors who were contacted, identification of the successful
+vendor
+, and the reason that vendor was selected. See article III.
+Effective on: 1/1/2021
+Elected officials
+Individuals elected to a position in La Plata County.
+Effective on: 1/1/2021
+Electronic signature
+Any electronic sound, symbol or process attached to or logically associated with an electronic record that is executed and adopted by a person with the intent to sign the record, having the same force and effect as a manual signature. Electronic signatures include
+digital signatures
+. An electronic signature must comply with the definitions and requirements set forth in the Uniform Electronic Transactions Act and its implementing rules. See C.R.S. § 24-71.3-101
+et seq.
+, as amended.
+Effective on: 1/1/2021
+Emergency purchase
+A purchase made in response to a condition that creates a threat to public health, welfare, or safety as discussed in article III of the
+code
+.
+Effective on: 1/1/2021
+Encumbrance
+A commitment related to unperformed
+contracts
+for
+goods
+or
+services
+. See C.R.S. § 29-1-102(7), as amended.
+Effective on: 1/1/2021
+Environmentally preferable product(s)
+Products that have a lesser or reduced effect on human health and the environment when compared to competing products that serve the same purpose. This applies to raw material acquisition, as well as product manufacturing, distribution, use, maintenance and disposal.
+Effective on: 1/1/2021
+Established catalogue price
+The price included in a catalogue, price list, schedule or other format that is regularly maintained by a manufacturer or
+vendor
+, is either published or otherwise available for inspection by customers, and states prices at which sales are currently or were last made to a significant number of any category of
+buyers
+or buyers constituting the general buying public for the
+supplies
+or
+services
+involved. See C.R.S. § 24-101-301(15), as amended.
+Effective on: 1/1/2021
+Expenditure
+Any use of financial resources of the county, consistent with its basis of accounting for
+budget
+purposes, for the provision or acquisition of
+goods
+and
+services
+for operations, debt service, capital outlay, transfers, or other financial uses. Expenditures may not exceed
+appropriations
+. Any
+contract
+involving expenditures that have not been appropriated shall be void and no money belonging to the county will be paid on such a contract. See C.R.S. §§ 29-1-102(8)(a); 29-1-110 (1), as amended.
+Effective on: 1/1/2021
+Financial interest
+Any monetary or financial interest held by an individual and includes an ownership interest, a creditor interest, employment or prospective employment for which negotiations have begun, a loan or any other debtor interest, or being an officer in a business.
+Effective on: 1/1/2021
+Fiscal year
+For La Plata County, the period commending January 1 and ending December 31 (i.e., a calendar year). The federal fiscal year refers to the period commencing October 1 and ending September 30.
+Effective on: 1/1/2021
+Good faith
+A state of mind consisting of honesty in belief or purpose; faithfulness to one’s duty or obligation; observance of reasonable commercial standards of fair dealing in a given trade or business; and absence of intent to defraud or to seek an unconscionable advantage.
+Effective on: 1/1/2021
+Goods
+This term includes, but is not limited to, equipment, materials,
+supplies
+, and printing and has the same meaning as supplies. Goods does not include real property or leases of the same.
+Effective on: 1/1/2021
+Grant
+The transferring of government funds to support or stimulate programs authorized by law to accomplish objectives that are locally defined and managed. It does not mean an
+award
+whose primary purpose is to procure an end product, whether in the form of
+supplies
+,
+services
+or
+construction
+, as a
+contract
+resulting from such an award is not a grant, but rather, is a procurement contract governed by the
+code
+.
+Effective on: 1/1/2021
+Gratuity(ies)
+A payment, loan subscription, advance, deposit of money, service or anything of more than nominal value, present or promised.
+Effective on: 1/1/2021
+Immediate family
+A spouse, parent, grandparent, child, grandchild, brother or sister, whether through blood, adoption or marriage, and includes in-law and step relationships.
+Effective on: 1/1/2021
+Indemnity or indemnification
+An
+agreement
+to compensate another upon the occurrence of an anticipated loss or damage they may suffer. Article XI of the Constitution of Colorado prohibits the county from becoming “responsible for any debt, contract or liability of any person, company or corporation, public or private, in or out of the state.” Colo. Const. art. XI, § 1. See also Colo. Const. art. X, § 20; C.R.S. § 29-1-110, as amended.
+Effective on: 1/1/2021
+Invitation for bids (IFB)
+The formal process used to
+solicit
+bids
+, or
+offers
+, from
+qualified vendors
+for
+goods
+or
+services
+when complete
+specifications
+or specific purchase descriptions are available, as discussed in article V of the
+code
+. Generally, the
+contract
+is
+awarded
+to the lowest responsive and
+responsible bidder.
+Effective on: 1/1/2021
+Liquidated damages
+A specific sum identified in a
+contract
+that the parties agree is a fair and reasonable estimate of actual damages that would be incurred in the event of a contractual breach. Liquidated damages replace actual damages and are appropriate only when it would be difficult to determine the amount of actual damages. A liquidated damage provision may apply to one or both parties.
+Effective on: 1/1/2021
+Local business
+A
+vendor
+that has maintained a business office in La Plata County for a minimum of six (6) months prior to the date an
+invitation for bids
+or
+request for proposals
+or qualifications is let; that will use La Plata County residents to deliver at least fifty (50) percent of the total
+goods
+or
+services
+contracted for; and that, if using vehicles for the project, will license no less than fifty (50) percent of such fleet of vehicles in La Plata County. For purposes of this provision, a La Plata County resident is defined as someone who maintains their primary residence in La Plata County.
+Effective on: 1/1/2021
+Local and regional business(es)
+Businesses that meet the qualifications set forth in this
+code
+and that may qualify for certain preferences when bidding on
+county
+contracts.
+Effective on: 1/1/2021
+Lowest responsive and responsible bidder
+The
+bidder
+who complies with all the
+bid
+requirements, whose past performance, reputation and financial capability is deemed acceptable, and who has offered the most advantageous pricing or cost benefit based on the criteria stipulated in the
+solicitation
+package. Quality and service are as important as price when considering
+goods
+for purchase; in some instances, the lowest price does not necessarily mean the lowest cost. A higher priced, higher quality product or service may save the county from excess expenses in the future, and this factor, as well as scheduling concerns, are taken into consideration when determining the lowest responsive and
+responsible bidder
+.
+Effective on: 1/1/2021
+Minor deviation or informality(ies)
+Deviations that are a matter of form and not of substance; they are deviations that pertain to some immaterial or inconsequential defect or variation from the exact requirement of the
+solicitation
+. Minor deviations or informality(ies) can be waived or corrected without prejudice to other vendors; that is, the effect on price, quantity, quality, delivery or contractual conditions is negligible.
+Effective on: 1/1/2021
+Non-responsive bid
+A
+bid
+that does not conform to the mandatory or essential requirements of the
+IFB.
+Effective on: 1/1/2021
+Offer
+A proposal from one party to another to do or to refrain from doing something resulting in a legally binding commitment. Acceptance of the offer by the other party creates a
+contract.
+Effective on: 1/1/2021
+On-call list
+A list of eligible,
+qualified vendors
+who have been selected through a previous formal
+solicitation
+process to provide
+personal services
+to the county for various projects on an as-needed basis.
+Effective on: 1/1/2021
+Payment bond
+A financial guarantee by a successful
+vendor
+for a
+construction
+project to assure payment to individuals performing work on that project.
+Effective on: 1/1/2021
+Performance bond
+A financial guarantee by a successful
+vendor
+to protect the county from loss due to the
+contractor’s
+inability to complete the
+contract
+as agreed.
+Effective on: 1/1/2021
+Personal services
+Acts performed by individuals or entities that provide
+services
+involving intellectual or manual effort as opposed to only providing
+goods
+or labor. See also
+professional services
+.
+Effective on: 1/1/2021
+Price analysis
+The evaluation of
+price data
+, which may assist in arriving at the price a
+buyer
+might expect to pay. This is done by looking at individual components of the cost.
+Effective on: 1/1/2021
+Price data or pricing data
+Factual information concerning prices for items substantially similar to those being procured. Prices in this definition refer to offered or proposed selling prices, as well as current and historical selling prices. The definition refers to data relevant to both prime and subcontract prices.
+Effective on: 1/1/2021
+Procurement
+The acquisition or disposal of
+goods
+,
+services
+or
+construction
+for the use or benefit of the county, whether through purchase or lease. It also includes all functions of the
+procurement process
+.
+Effective on: 1/1/2021
+Procurement process
+The series of acts of defining requirements,
+solicitation
+of sources, issuing
+bid
+or
+proposal
+documents, source selection, preparation and
+award
+of
+contract
+, and all phases of contract administration.
+Effective on: 1/1/2021
+Professional services
+A type of
+personal services
+rendered by members of a recognized profession or persons possessing a special skill. Professional services are essentially intellectual in character and include: analysis, evaluation, exercise of discretion, independent judgment, prediction, planning, or recommendation in their performance, and an advanced or specialized type of knowledge, expertise or training customarily acquired either by a prolonged course of study or equivalent experience in the field. Professional services are generally acquired to obtain information, advice, training or direct assistance and include, but are not limited to: services performed by a licensed accountant, auditor, analyst, consultant, lawyer, physician, planner, artist, engineer or architect when the exact scope and content of the services cannot be specified readily with certainty. See also C.R.S. §§ 24-30-1401, et seq.; 24-101-301(31), as amended.
+Effective on: 1/1/2021
+Proposal
+The documents submitted by
+vendors
+in response to an
+RFP
+that then become the basis for negotiations. Proposals are
+solicited
+when vendor selection is to be made based on performance rather than price alone. See
+request for proposals
+.
+Effective on: 1/1/2021
+Purchase order (PO)
+A written order formalizing all the terms and conditions of a proposed transaction. Once signed, a PO becomes a
+contract
+. A PO may be included among the approved contract forms authorized for use by the county attorney when used in connection with
+small purchases
+.
+Effective on: 1/1/2021
+Purchase number or purchase order number
+The number that will be assigned to a properly completed
+purchase requisition
+signifying that funds have been encumbered and are available to pay invoices submitted against the relevant
+contract
+for the current
+fiscal year
+. The purchase number must appear on all vouchers requesting payment to a
+contractor
+so that the appropriated funds will be applied. Vouchers for payment in excess of ten thousand dollars ($10,000.00) cannot be processed without a purchase order number.
+Effective on: 1/1/2021
+Purchase requisition (PR)
+A request from or on behalf of a department or
+elected official
+to the procurement division that
+goods
+or
+services
+be
+procured
+for a specific purpose or to meet a specific need. A PR is required for all
+simplified purchases
+and
+standard purchases
+and must include all the information required for the purchase, such as
+specifications
+or
+SoW
+or a
+documented quote
+. Other information, as specified in the
+code
+, may be necessary in order to finalize a PR. The procurement division cannot process an incomplete PR.
+Effective on: 1/1/2021
+Purchased services
+Services
+that are purchased from public or private entities that directly benefit discrete groups or individuals in the general public and that are usually funded by a law-defined state
+grant
+. Examples of purchased services include foster care, refugee services, mental health and the like.
+Effective on: 1/1/2021
+Qualifications-based competitive procedures
+These procedures require that an offeror’s qualifications, exclusive of price, be evaluated and that
+contract
+negotiations will be conducted only with the offeror deemed most qualified. If agreement as to price cannot be reached, negotiations with the next most qualified offeror will be conducted until a contract
+award
+can be made to the most qualified offeror whose price is fair and reasonable to the county.
+Effective on: 1/1/2021
+Qualified vendor
+A provider of
+goods
+or
+services
+with the experience, qualifications, and ability to perform a
+contract
+if
+awarded
+.
+Effective on: 1/1/2021
+Regional business
+A
+vendor
+that has maintained a business office in the following Colorado counties for a minimum of six (6) months prior to the date an
+invitation for bids
+or
+request for proposals
+or
+qualifications
+is let: La Plata, Archuleta, Montezuma, Dolores or San Juan; that will use regional residents to deliver at least fifty (50) percent of the total
+goods
+or
+services
+contracted for; and that will use a fleet of vehicles on the project, no less than fifty (50) percent of which are licensed in any of the five (5) counties listed above. For purposes of this provision, a regional resident is defined as someone who maintains their primary residence in one of the five (5) counties identified above.
+Effective on: 1/1/2021
+Request for information (RFI)
+A published request asking potential
+vendors
+to identify information regarding the availability, features or measures for the purchase of
+goods
+or
+services
+that will assist the county during the
+procurement process
+.
+Effective on: 1/1/2021
+Request for proposals (RFP)
+The formal process used to
+solicit
+proposals
+from potential
+vendors
+when a desired outcome is known and recommendations about how to achieve that outcome are requested, as discussed in article V of the
+code
+.
+Contract
+award
+is based upon factors in addition to or other than price.
+Effective on: 1/1/2021
+Request for qualifications (RFQ)
+Solicitation
+documents requesting submittal of qualifications or specialized expertise in response to the scope of services required. Pricing is not solicited with RFQs. RFQs are generally the first in a two-part solicitation process and are followed by an
+RFP
+or
+IFB
+. They are used most often in
+construction
+projects.
+Effective on: 1/1/2021
+Responsible bidder or offeror
+Those potential
+vendors
+who have submitted responsive
+bids
+or
+proposals
+and who have the capability to fully perform all
+contract
+requirements as well as the experience, integrity, reliability, capacity, facilities, equipment and credit assuring
+good faith
+performance. Past performance, financial capabilities, and business management may be included as criteria for determination of a
+bidder’s
+ability to satisfy contract requirements.
+Effective on: 1/1/2021
+Responsive bid
+A
+bid
+that substantially conforms to the requirements outlined in a
+solicitation
+.  Any deviation from the requirements of the solicitation may be considered non-responsive.  The procurement division may, in its discretion, waive
+minor deviations
+or informalities.
+Effective on: 1/1/2021
+Responsive bidder or offeror
+A potential
+vendor
+who has submitted
+bid
+or
+proposal
+that conforms in all material respects to the requirements set forth in the
+solicitation
+.
+Effective on: 1/1/2021
+Scope of work (SoW)
+The written description of the required
+goods
+or
+services
+stated in terms of the result to be achieved upon
+contract
+completion as discussed in article IV of the
+code
+.
+Effective on: 1/1/2021
+Sealed
+A
+bid
+or
+proposal
+or other response to a
+solicitation
+must be submitted in a manner that ensures that: (1) the contents of the bid, proposal or other response cannot be opened and viewed before the formal opening without leaving evidence that the document has been opened or viewed; (2) the documents cannot be changed once received by the county without leaving evidence that the documents have been changed; and (3) bears a physical or
+electronic signature
+evidencing the intent by the
+bidder
+or offeror to be bound.
+Effective on: 1/1/2021
+Services
+The furnishing of labor, time, or effort by a
+contractor
+, not involving the delivery of a specific
+good
+. There are many types of services, including by way of example only:
+professional services
+,
+personal services
+and
+purchased services
+, each of which may require different
+contract
+terms. Services as used here do not include employment
+agreements
+or collective bargaining agreements.
+Effective on: 1/1/2021
+Simplified purchase
+Any purchase with a
+contract
+requirement between ten thousand one dollars ($10,001.00) and fifty thousand dollars ($50,000.00), as discussed in article III.
+Effective on: 1/1/2021
+Small purchase
+Any purchase with a
+contract
+requirement of ten thousand dollars ($10,000.00) or less, as discussed in article III.
+Effective on: 1/1/2021
+Sole source justification
+The form that demonstrates that the criteria of a
+sole source purchase
+, described in article III, are met and that is completed and signed by the requesting department or
+elected official
+and approved by the finance director prior to entering into a
+contract
+with a
+vendor
+.
+Effective on: 1/1/2021
+Sole source purchase
+A purchase of a
+good
+or
+service
+with a
+contract
+requirement of more than ten thousand dollars ($10,000.00) that does not meet the competitive
+solicitation
+standards of either a
+simplified purchase
+or a
+standard purchase
+and that satisfies the sole source standards described in article III. A contract amendment or extension that is outside the terms of the original solicitation and contract is technically a sole source purchase.
+Effective on: 1/1/2021
+Solicitation
+The telephone call, email or document, such as an
+RFP
+,
+IFB
+or
+documented quote
+, requesting submittal of
+bids
+or
+proposals
+in accordance with the required
+specifications
+. Unlike an
+offer
+, a solicitation is not an unequivocal proposal to enter into a binding
+agreement
+.
+Effective on: 1/1/2021
+Specifications
+The written description of the physical or functional performance criteria necessary to meet the county’s needs as discussed in article IV.
+Effective on: 1/1/2021
+Standard purchase
+Any purchase with a
+contract
+requirement of more than fifty thousand dollars ($50,000.00), as discussed in article III.
+Effective on: 1/1/2021
+Supplies
+This term includes, but is not limited to, equipment, materials and printing, and has the same meaning as
+goods
+.
+Effective on: 1/1/2021
+Surplus property
+Any county-owned personal property acquired by expenditure of county funds pursuant to this code or prior procurement codes that is no longer functional (and is beyond repair), has been utilized for a period greater than or equal to its useful life, or is no longer of any use to any county department.
+Effective on: 1/1/2021
+Uniform commercial code (UCC)
+Statutes, adopted in the State of Colorado in Title 4, that define the rights and duties of parties in commercial situations, such as the sale of
+goods
+, secured transactions, and negotiable instruments, and that conform to the rules of modern commercial disputes.
+Effective on: 1/1/2021
+Unsolicited proposals
+Any
+offer
+made by a third-party to sell
+goods
+or provide
+services
+to the county that have not been solicited or published by the county.
+Effective on: 1/1/2021
+Vendor
+The individual or entity proposing to provide the
+service
+or product that is the subject of the
+procurement
+.
+Effective on: 1/1/2021
+Sec. 20-6 Good faith requirement
+All parties involved in the
+solicitation
+, negotiation, performance or administration of county
+procurement
+actions shall act in
+good faith
+.
+(
+Res. No. 2020-42, § 20-6, 12/17/2020
+)
+Effective on: 1/1/2021
+Sec. 20-7 Code of ethics
+As a political subdivision of the State of Colorado, anyone who makes purchases for the county is an agent of the county and is subject to Article XXIX of the Colorado Constitution concerning ethics in government. Compliance with this provision is also required by the County’s Code of Ethics and Conduct Policy, Policy Number I.A.1.
+(
+Res. No. 2020-42, § 20-7, 12/17/2020
+)
+Effective on: 1/1/2021
+Sec. 20-8 Supplementary general principles of law
+This
+code
+reflects applicable state and local laws and regulations and provides a process that ensures
+competitive
+procurement
+and procedures that conform to applicable laws. Unless otherwise stated, the principles of law and equity, including the UCC and applicable legal authorities, shall supplement the provisions of this code.
+Where there exists a conflict or overlap between any provisions in this code or between this code and any other regulation adopted by the county, the provision that is the more restrictive or particular shall prevail over that which is less restrictive.
+(
+Res. No. 2020-42, § 20-8, 12/17/2020
+)
+Effective on: 1/1/2021
+Sec. 20-9 References to job titles and exercise of authority
+Job title references throughout this
+code
+are provided for convenience only and are based upon titles as they exist on January 1, 2021. The roles and responsibilities set forth in this code correspond to the job function rather than job title and do not change when a job title changes. Every effort shall be made to ensure compliance with this code, regardless of job title, by substituting the new title or titles applicable to the job responsibilities at issue.
+Whenever a provision appears requiring an elected official, department head, contract manager, contract procurement specialist or other county representative to perform an act of duty, it shall be construed to authorize that individual to designate, delegate or authorize subordinates to perform any duty or act, unless otherwise expressly prohibited by the BOCC in this code or in any policy.
+(
+Res. No. 2020-42, § 20-9, 12/17/2020
+)
+Effective on: 1/1/2021
+Sec. 20-10 Revisions to/or waivers of the code
+Only the
+BOCC
+may authorize revisions to the policies reflected in this
+code
+. Revisions will be made by BOCC resolution and waivers shall occur by formal action taken by the BOCC, unless otherwise permitted by this code. The
+contract manager
+, with the approval of the finance director, is authorized to define and implement the procedures required to ensure consistent application and effective compliance with this code, including updates to the definitions.
+(
+Res. No. 2020-42, § 20-10, 12/17/2020
+)
+Effective on: 1/1/2021
+Sec. 20-11 Public access
+Procurement
+information shall be a public record to the extent provided in the Colorado Open Records Act found at C.R.S. § 24-72-200.1
+et seq
+., as amended (“CORA”) and shall be made available to the public in accordance with CORA and with the County’s Open Record Policy. Trade secrets, proprietary or other
+confidential information
+furnished will not be disclosed to the extent protected by CORA or other applicable law.
+(
+Res. No. 2020-42, § 20-11, 12/17/2020
+)
+Effective on: 1/1/2021
+Sec. 20-12 Severability
+If any section, subsection, paragraph, clause, phrase or provision of this code shall be adjudged to be invalid or unconstitutional by a court of competent jurisdiction, it shall not affect the validity of this code, as a whole or any part of provision hereof, other than the part so adjudged to be invalid or unconstitutional. It is the declared legislative intent that the remaining provisions of this code shall continue in full force and effect.
+(
+Res. No. 2020-42, § 20-12, 12/17/2020
+)
+Effective on: 1/1/2021
+Sec. 20-13 Contacts
+Questions and comments about the application and implementation of this
+code
+shall be directed to:
+Finance Director
+1101 E. 2nd Avenue
+Durango, Colorado 81301
+Questions about a specific contract should be directed to:
+Contract Manager
+1101 E. 2nd Avenue
+Durango, Colorado 81301
+(
+Res. No. 2020-42, § 2013, 12/17/2020
+)
+Effective on: 1/1/2021
+Secs. 20-14—20-20. Reserved
+Effective on: 1/1/2021
+ARTICLE II PROCUREMENT ROLES AND RESPONSIBILITIES
+County
+procurements
+must be authorized and supported by available and
+budgeted
+funds. To ensure that these and other procurement criteria are delegated and satisfied, responsibilities of various individuals are defined in this article II.
+Contents:
+ARTICLE II  PROCUREMENT ROLES AND RESPONSIBILITIES
+Sec. 20-21 The Board of County Commissioners
+Sec. 20-22 Finance director/contract manager
+Sec. 20-23 County manager
+Sec. 20-24 Elected officials and department directors
+Sec. 20-25 County employees
+Sec. 20-26 County attorney
+Sec. 20-27 Specific comments or approvals required
+Secs. 20-28—20-30. Reserved
+Sec. 20-21 The Board of County Commissioners
+I.
+Authority to procure goods and services
+. The Board of County Commissioners (the “BOCC”) is authorized to make all
+contracts
+necessary to exercise the county’s corporate and administrative powers and to establish policies and procedures regarding entering into such contracts. C.R.S. §§ 30-11-101 and 30-11-103. Through its policies and procedures, the
+BOCC
+may, as it does in this code, set forth standards by which to delegate its power to bind the county. C.R.S. § 30-11-107(1)(aa). Generally, the BOCC authorizes the following:
+A.
+The BOCC retains sole authority to execute and enter into contracts on behalf of the county when the contract is for an amount over two million dollars ($2,000,000.00) and to make
+awards
+to a
+vendor
+other than the lowest price quote when the
+procurement
+is in an amount of more than one hundred thousand dollars ($100,000.00).
+B.
+Each
+elected official
+and department head is authorized to procure
+goods
+or
+services
+with a
+contract
+requirement of ten thousand dollars ($10,000.00) or less when the expenditure is authorized in an approved
+budget
+and
+small purchase
+standards set forth in article III are followed.
+C.
+The procurement division is authorized to procure (that is,
+solicit
+and enter into contracts for) goods or services with a contract requirement of fifty thousand dollars ($50,000.00) or less when the expenditure is authorized in an approved budget and the small purchase or
+simplified purchase
+standards set forth in article III are followed.
+D.
+The procurement division, together with the individual(s) delegated signature authority in accordance with the county’s Fiscal Management Policy No. III.4, as amended, are authorized to procure goods and services with a contract requirement of fifty thousand one dollars ($50,001.00) up to two million dollars ($2,000,000.00) when the expenditure is authorized in an approved budget and the
+standard purchase
+procedures outlined in article III are followed.
+Specific authority for other procurement functions and
+contract amendments
+and
+change orders
+are set forth throughout this code.
+II.
+Contract approval.
+Notwithstanding the foregoing, BOCC approval is required prior to:
+A.
+Award of any
+contract amendment
+or
+change order
+that exceeds the delegated signature authority in accordance with the county’s Fiscal Management Policy No. III 4, as amended.
+B.
+Award of any contract for the purchase of goods or services not funded in the budget.
+III.
+Quarterly report.
+In addition to the standard purchase approvals that shall be brought to the BOCC for consideration and approval prior to award, the finance director shall provide a quarterly report to the county manager of relevant procurement activities. The contents of this report will be determined by the county manager but may include such categories as: all open solicitations, a list of all
+vendors
+with more than one open contract with the county, all open sole source contracts, all open emergency contracts, and all simplified purchases made within the preceding quarter.
+(
+Res. No. 2020-42, § 20-21, 12/17/2020
+)
+Effective on: 1/1/2021
+Sec. 20-22 Finance director/contract manager
+I.
+Authority
+. The procurement division operates as a division of finance under the direct management of the finance director and is staffed with the
+contract manager
+and contract procurement specialist(s).
+A.
+The procurement division shall have the authority required to meet all the
+procurement
+and
+contract management
+duties and responsibilities identified and implied in this
+code
+. Specifically, procurement will:
+1.
+Manage and facilitate the appropriate use of the contract forms and required clauses approved by the county attorney; and
+2.
+Manage all
+standard
+and
+simplified purchase
+contracts from notices to proceed to
+contract
+closure, including the timely receipt of appropriate certificates of insurance.
+B.
+All authority and discretion assigned to the contract manager in this code shall be exercised in collaboration with and subject to the review and approval of the finance director and, where appropriate, the county attorney.
+II.
+Duties and responsibilities
+. In addition to specific duties identified in this code, the finance director shall:
+A.
+Determine, with
+BOCC
+approval, the county’s procurement policies and define and enforce the processes and practices required to implement those policies;
+B.
+Ensure that the county manager and county attorney are timely notified of all procurement-related matters requiring their approval, knowledge, input, or handling as defined throughout this code;
+C.
+Ensure that an adequate number of
+qualified vendors
+are solicited to compete for both
+standard
+and
+simplified purchases
+;
+D.
+Maintain an open and competitive environment to ensure that all potential
+buyers
+and sellers have access to county business and that all procurement actions are conducted fairly and impartially in the
+best interest of the county
+;
+E.
+Conduct all standard purchase competitive solicitations on behalf of the county through contract
+award
+and issuance of a notice to proceed;
+F.
+Assign
+purchase order numbers
+to all standard and simplified purchases properly submitted as
+purchase requisitions
+by departments or
+elected officials
+;
+G.
+Administer the disposal of all surplus county property in accordance with article III;
+H.
+Receive and ensure proper handling of all requests for waivers of these code provisions, all
+solicitation
+protests, and all contract claims, and make any requisite determinations about adherence to this code;
+I.
+Provide quarterly procurement activity reports to the County Manager in accordance with section 20-21(III);
+J.
+Ensure that all county procurements remain in compliance with applicable law;
+K.
+Provide reasonable assistance to any department, elected official, employee or
+vendor
+on any procurement-related matter;
+L.
+Review and approve
+sole source justifications
+prior to award;
+M.
+Promptly notify the county manager and county attorney of any bid protest that is filed and prepare for and appear on behalf of the procurement division in any hearings;
+N.
+Promptly notify the county manager and county attorney of any contract claim that is filed; and
+O.
+Comply with the duties and responsibilities that apply to all county employees, as set forth in section 20-25(II).
+(
+Res. No. 2020-24, § 20-22, 12/17/2020
+)
+Effective on: 1/1/2021
+Sec. 20-23 County manager
+I.
+Authority.
+The county manager shall have the authority required to meet all the
+procurement
+duties and responsibilities identified and implied in this code and to exercise the contract signature authority delegated to any department when the department head is unavailable to do so.
+II.
+Duties and responsibilities
+. In addition to any specific duties identified elsewhere in this code, the county manager shall:
+A.
+Remain familiar with the requirements of this code and not allow any exceptions to be made to it without proper approvals and documentation;
+B.
+Serve as or designate an appropriate individual to serve as the principal
+county representative
+on all
+contracts
+entered without a specific department or
+elected official
+designation; and
+C.
+Comply with the duties and responsibilities that apply to all county employees, as set forth in section 20-25(II).
+(
+Res. No. 2020-24, § 20-23, 12/17/2020
+)
+Effective on: 1/1/2021
+Sec. 20-24 Elected officials and department directors
+I.
+Authority
+. Each
+elected official
+and department head are authorized to:
+A.
+Procure
+goods or services with a
+contract
+requirement of ten thousand dollars ($10,000.00) or less when the expenditure is authorized in an approved budget and
+small purchase
+standards set forth in article III are followed; and
+B.
+Initiate the procurement of all
+simplified purchases
+and
+standard purchases
+as set forth in article III.
+II.
+Duties and responsibilities
+. In addition to any specific duties identified elsewhere in this code, each department head shall:
+A.
+Remain familiar with the requirements of this code and not knowingly allow any exceptions to be made to it without proper approvals and documentation;
+B.
+Ensure that all county employees under department head supervision involved in making purchases on behalf of the department are familiar with and follow the requirements of this code;
+C.
+Include in the department’s annual
+budget
+preparation process all existing, renewing, and anticipated contracts to be required or requested in the applicable
+budget year
+;
+D.
+Define the technical
+specifications
+and
+scopes of work
+necessary to meet the department’s requirements for all purchases in excess of ten thousand dollars ($10,000.00);
+E.
+Adhere to the payment processing standards established in this code and under the finance department’s policies and procedures;
+F.
+Identify the appropriate standard by which the department will demonstrate objective fairness, cost reasonableness and best use of public funds for small purchases;
+G.
+Serve as the principal
+county representative
+, or designate an appropriate county representative, to be identified in each contract entered through the department;
+H.
+Manage all contracts entered into on behalf or at the request of such department. Contract management includes but is not limited to: oversight and verification of goods delivered or services provided; review and approval of invoices; providing notice to the county attorney and contract manager of any breach of contract by the contractor or county; and
+I.
+Comply with the duties and responsibilities that apply to all county employees, as set forth in section 20-25(II).
+(
+Res. No. 2020-42, § 20-24, 12/17/2020
+)
+Effective on: 1/1/2021
+Sec. 20-25 County employees
+I.
+Authority
+. Each county employee is authorized to exercise the spending authority delegated to them by their department head or
+elected official
+.
+II.
+Duties and responsibilities
+. Public employment is a reflection of public trust. All county employees, including all department head and, elected officials shall comply with all legal and ethical standards applicable to public
+procurement
+, as defined in greater detail in article VIII, to ensure public trust and shall:
+A.
+Perform their responsibilities impartially to ensure fair, competitive access to county procurement by all potential
+buyers
+and sellers;
+B.
+Conduct themselves in a manner that fosters public confidence in the integrity of the county’s procurement practices;
+C.
+Avoid or disclose all conflicts of interest that would arise if an employee participated, directly or indirectly, in a procurement in which the employee, an immediate family member, or business in which the employee or a family member has a current or potential financial interest is involved; and
+D.
+Refuse any
+gratuity
+, kick-back or offer of employment in connection with, or having the opportunity to influence the outcome of, any decision, approval, disapproval, recommendation or preparation of any procurement or
+contract
+award
+.
+(
+Res. No. 2020-42, § 20-25, 12/17/2020
+)
+Effective on: 1/1/2021
+Sec. 20-26 County attorney
+In addition to the authority and duties and responsibilities of a department head, the county attorney is responsible for the following tasks:
+1.
+Preparing standard
+contract
+forms and required terms and conditions in accordance with applicable law. Consultation with and approval from the county attorney shall be required before any provisions in a standard contract form may be substantively amended, modified or deleted;
+2.
+Preparing or reviewing and approving all contracts for software purchases or licenses and for any irregular or non-
+standard purchases
+;
+3.
+Reviewing and approving any contract in excess of twenty-five thousand dollars ($25,000.00) that is prepared by a vendor;
+4.
+Preparing or reviewing and approving all contracts in excess of two hundred fifty thousand dollars ($250,000.00), regardless of the form of contract;
+5.
+Assisting the procurement division on all legal issues; and
+6.
+Providing legal representation in all
+procurement
+protests and claims as described in article VII.
+(
+Res. No. 2020-42, § 20-26, 12/17/2020
+)
+Effective on: 1/1/2021
+Sec. 20-27 Specific comments or approvals required
+Certain purchases are of such a nature that the county’s need and ability to properly use the item or
+service
+purchased should be evaluated by the appropriate department head prior to purchase. In such instances, regardless of the
+procurement
+method followed, including a
+small purchase
+, comments from or signature approval of the appropriate department head, as set forth below, shall be obtained prior to
+solicitation
+. This approval indicates that the purchase is compatible with but not duplicative of existing county resources. Additional department head purchase approval is required in the following instances:
+I.
+Technology purchases
+including computer hardware, copy machines and software, regardless of price, must be reviewed by the director of the county’s information technology (“IT”) department, or the director’s designee, prior to solicitation or purchase, in the case of a small purchase. The IT director will review each request to determine all systems issues, including compatibility, support, architectural standards, and implementation and integration capabilities. When no systemic issues are presented, the IT director’s approval should be reflected in the
+purchase requisition
+or other documentation. When the IT director expresses concerns over a proposed solicitation or purchase, the county manager may either approve or deny a department’s or elected official’s proposed technology purchase.
+II.
+Professional services involving county facilities
+such as utilities, remote communications, custodial services, repairs and maintenance, and remodeling and changes to offices and work areas, including design and construction, must be approved by the director of general services, regardless of price.
+III.
+Purchases of insurance coverage
+must be approved by the county manager or manager’s designee, regardless of price. Such coverage is not subject to competitive procurement, per section 20-31.
+IV.
+Retention of outside legal services
+must be approved by the county attorney or district attorney, as appropriate. Such services are not subject to this procurement code.
+(
+Res. No. 2020-42, § 20-27, 12/17/2020
+)
+Effective on: 1/1/2021
+Secs. 20-28—20-30. Reserved
+Effective on: 1/1/2021
+ARTICLE III – THE PUBLIC PROCUREMENT PROCESS; ACQUISITION AND DISPOSAL OF GOODS AND SERVICES
+This article III sets forth how
+vendors
+are to be identified and solicited and how personal property will be disposed of by the county.  Generally, all county purchases and
+contracts
+shall be procured competitively, unless otherwise set forth in this
+code
+.
+Both applicable law and the
+BOCC
+recognize, however, that it is not always in the
+county’s best interest
+to expend the time and resources required to make a
+standard purchase
+. As a result, certain exceptions based upon the nature and amount of the purchase are recognized. Whenever an exception is used to identify and select a
+vendor
+, the appropriate contract file should reflect the exception utilized and how it applied to the specific circumstance.
+Regardless of the way the vendor is selected and regardless of the amount of the purchase, a contract with that vendor is required (see article VI).
+Contents:
+ARTICLE III THE PUBLIC PROCUREMENT PROCESS; ACQUISITION AND DISPOSAL OF GOODS AND SERVICES
+Sec. 20-31 Exemptions to competitive solicitation requirements based on type of good or service
+Sec. 20-32 Exceptions to competitive solicitation requirements based on source of good or service or emergency
+Sec. 20-33 Small purchases
+Sec. 20-34 Simplified purchases
+Sec. 20-35 Standard purchases
+Sec. 20-36 Bid preferences
+Sec. 20-37 Prequalification of vendors
+Sec. 20-38 Disposal of county property
+Secs.  20-39—20-40. Reserved
+Sec. 20-31 Exemptions to competitive solicitation requirements based on type of good or service
+By their very nature, as well as by statute, some purchases of
+goods
+and
+services
+do not require public competition and publication requirements of public procurement in order to select an appropriate provider. In such instances, the public competition principles of openness, fairness and reasonableness of cost are achieved through other objectively reasonable methods.
+I.
+General requirements.
+Unless otherwise noted, the purchase or acquisition of the items and services listed in this section are not exempt from the requirement that the terms of the purchase must be documented in an appropriate contract and executed by the BOCC or appropriate authorized delegate, as set forth in Fiscal Management Policy II4, as amended. Further, review of any proposed contract for goods or services identified in this section must be reviewed by the county attorney’s office prior to execution, in accordance with the general parameters set forth in section 20-26, when:
+A.
+Any provisions in a standard contract form prepared by the County Attorney’s Office is proposed to be substantively amended, modified or deleted.
+B.
+Any irregular or non-standard purchases are proposed.
+C.
+Any contract in excess of twenty-five thousand dollars ($25,000.00) is prepared by a vendor.
+D.
+Any contract is in excess of two hundred fifty thousand dollars ($250,000.00), regardless of the form of contract.
+II.
+No competition required
+. In addition to the exceptions listed in section 20-2, expenditures to acquire or to pay for the following goods or services may be made without competition or comparison among vendors:
+A.
+Advertising
+space to publish or promote county business and events in geographically appropriate or legal newspapers, publications, television or radio spots, social media or other media outlet.
+B.
+Auto mileage and personal reimbursements
+, which will be reimbursed to county employees in the manner determined by the county’s policies and procedures or other applicable guidelines.
+C.
+Cooperative purchases
+, defined as purchases made from another
+contract
+or
+agreement
+written by another federal, state, county, city, government agency, or government cooperative for identical goods or services, do not require additional competition when the agreement has been formally competed or renewed by the acquiring government within the last eighteen (18) months. The finance director may approve a single purchase from a cooperative purchasing agreement or may approve ongoing participation in a cooperative purchasing agreement if it is found to be in the best interests of the county after considering the competitiveness of pricing under the contract and the efficiencies and cost savings of using the contract.
+D.
+Department of Human Services (“DHS”)
+contracts for client services that are paid directly to or on behalf of DHS clients for such items as: transportation, medications, medical examinations, psychological examinations, physical abuse examinations, birth certificates, drug testing, DNA testing, or other expenditures related to case services.
+E.
+Education and training expenses
+for training of county employees may be paid to organizations with public funds without requiring competition among providers.
+F.
+Goods or services (other than
+professional services
+) of a similar nature
+to those that have been
+bid
+by the county within the last twelve (12) months calculated from the later of the date the solicitation was let out or date the contract or the
+purchase order
+was executed.
+G.
+Goods or services from a specified vendor
+when necessary to comply with the terms and conditions of a sponsored grant or contract, or as part of required participation in a state program or pilot project.
+H.
+Insurance
+, including but not limited to all types of the risk management policies or self-insured pools for the county.
+I.
+Membership dues, meeting registration fees, and miscellaneous travel expenses and meals
+incurred to pay for or attend authorized functions will be paid on behalf of or reimbursed to county employees in the manner determined by the county’s personnel policies and procedures or other applicable guidelines.
+J.
+Non-capital computer equipment
+purchases made by the director of information technology (IT), which are valued at fifteen thousand dollars ($15,000.00) or less; provided, however, that, IT must coordinate purchases with the procurement division and, when practical, three (3) quotes should be solicited or cooperative purchases should be pursued.
+K.
+Personnel
+, including benefits as approved by the
+BOCC
+as compensation (contact human resources department).
+L.
+Pre-owned equipment or vehicles
+provided that the
+contract manager
+has determined that competition is not practical or would not be advantageous to the county.
+M.
+Professional services
+for contracts that meet one of the following criteria:
+1.
+Contracts procuring the services of the county manager or county attorney.
+2.
+Contracts procuring new services from the existing contractor, which services are a continuation of work previously contracted for under competitive procurement practices in the last five (5) years, when the success of the project or
+best interests of the county
+is predicated upon the previous contractor using data or other materials it developed during the earlier phase of the project.
+3.
+Contracts for services of a similar nature to those that have been bid by the county within the last three (3) years calculated from the later of the original date an
+award
+recommendation was made or the date a contract was executed.
+N.
+Purchases directly from government units
+, including federal, state, county, or other local governmental entities may be made without additional competition.
+O.
+Rent payments
+made pursuant to a properly negotiated and authorized lease agreement for equipment, buildings, vehicles, or other items.
+P.
+Renewal of software license and/or maintenance agreements
+when such services are only provided by the current
+vendor
+.
+Q.
+Software
+purchases made by the director of information technology (IT), which are valued at twenty-five thousand dollars ($25,000.00) or less; provided, however, that, IT must coordinate purchases with the procurement division and, when practical, three (3) quotes should be solicited or cooperative purchases should be pursued. This includes, but is not limited to, software license renewals and maintenance agreements or upgrades to existing software.
+R.
+Telephone service
+, including both land lines and cell phones.
+S.
+Utility services
+, including by way of example, electrical, water, natural gas, sewer, cable, internet, trash, recycling, or similar services.
+T.
+Weed and rodent
+control cost-share agreements.
+(
+Res. No. 2020-42, § 20-31, 12/17/2020
+)
+Effective on: 1/1/2021
+Sec. 20-32 Exceptions to competitive solicitation requirements based on source of good or service or emergency
+I.
+Sole source purchase
+. A
+sole source purchase
+is any purchase of a
+good
+or
+service
+with a
+contract
+requirement of more than ten thousand dollars ($10,000.00) that does not meet the competitive solicitation standards of either a
+simplified purchase
+or a
+standard purchase
+. The term also includes any
+contract amendment
+or extension outside the terms of the original
+solicitation
+and contract.
+A.
+General rule and application
+. A sole source purchase is permissible when: (1) the
+contract manager
+determines that there is only one source for the required goods or services; or (2) when the contract manager determines, after investigating the prevailing market for the relevant goods or services, that re-bidding a contract would result in higher costs and lower returns to the county than those enjoyed under an existing contract. In either case, the finance director must approve the
+sole source justification
+.
+1.
+Application of rule
+. Sole source refers to the supplier, not the product or service. Justification for a sole source purchase depends upon a needed item or service being available from only a single supplier under the prevailing conditions.
+a.
+Examples of circumstances that could necessitate a sole source procurement include:
+i.
+The purchase of technical equipment for which there is no competitive product, and which is available only from one supplier;
+ii.
+The purchase of
+professional services
+from a vendor, who is uniquely qualified to provide such services;
+iii.
+The purchase of a component or replacement part for which there is no commercially available product, and which can be obtained only from the manufacturer;
+iv.
+The purchase of an item where compatibility is the overriding consideration;
+v.
+The purchase of a used item which becomes immediately available and is subject to prior sale;
+vi.
+The purchase of a product for a trial or testing;
+vii.
+The use of other than original equipment manufacturer parts would void a still valid warranty; or
+viii.
+The purchase of a product or service from a vendor that has been awarded a contract by another governmental entity and that allows its product or service to be purchased by other governmental agencies from that contract.
+b.
+Examples of circumstances that do not necessitate or warrant use of a sole source procurement include:
+i.
+Whenever the item or service may be obtained from more than one source;
+ii.
+The vendor has provided excellent service or products in the past;
+iii.
+The vendor is familiar with the county’s preferred practices;
+iv.
+No other vendor can do the job as well; or
+v.
+There is insufficient time to vet the credentials of any other vendor, unless an emergency exists.
+B.
+Budget
+. Only those purchases that are authorized in an approved
+budget
+will be procured.
+C.
+Authorization
+. Department heads and
+elected officials
+are authorized to initiate sole source purchases when the amount to be spent is within an approved budget, a written sole source justification is prepared, and the sole source justification is approved by the finance director.
+D.
+Scope of work or specifications
+. A written
+scope of work
+or specifications is required to complete the mandatory sole source justification form.
+E.
+Solicitation standard – sole source justification
+. The standard by which the fairness and cost efficiency of a sole source purchase is determined shall be set forth in a written sole source justification form, signed by the department head or elected official, that includes:
+1.
+A description of the scope of work or specifications sought;
+2.
+An explanation of why no other supplier will be suitable or acceptable to meet the need;
+3.
+An explanation of how cost reasonableness was determined; and
+4.
+The finance director’s signature.
+F.
+Documentation and contract
+. The contract manager is responsible for maintaining documentation of any sole source purchase.
+G.
+Contract
+award
+. The appropriate approved contract form, determined by the contract type and amount, shall be used to document all sole source purchases. The contract manager and requesting department or elected official will negotiate a final contract document, obtain all requisite attachments and
+vendor
+signatures, and present the proposed contract to the
+BOCC
+or authorized delegate for approval.
+1.
+All contract forms will be written or approved by the county attorney’s office.
+2.
+Unless otherwise approved by the finance director, no contract will be submitted for approval by the BOCC or its delegate until it is ready for signature.
+3.
+Any work performed in accordance with the contract prior to approval is undertaken at the vendor’s sole risk and will not be paid for if the contract is not approved.
+H.
+Payment processing
+. Payment of invoices submitted for sole source purchases are processed in the same manner as payments for standard purchases when the sole source contract is more than fifty thousand dollars ($50,000.00), and as payments for simplified purchases when the sole source contract is fifty thousand dollars ($50,000.00) or less. Instead of a
+documented quote
+, however, and for both standard and simplified purchases, the sole source justification must be attached to the
+purchase requisition
+.
+II.
+Emergency purchases
+. An
+emergency purchase
+is a purchase made in response to a condition that creates a threat to public health, welfare, or safety such as may arise by: reason of fire, flood, avalanche, epidemic, pandemic, riot, equipment failure, motor vehicle, airplane or rail accidents, hazardous spills or other occurrence or imminent threat of widespread or severe damage, injury or loss of life or property resulting from any nature or human cause that creates an immediate and serious need for
+supplies
+or services.
+A.
+General rules
+. Emergency procurement shall be made with such competition as is practicable under the circumstances. Persons authorized to make emergency purchases shall request assistance of the procurement division, as much as practicable, especially in prolonged emergency situations. The basis for the emergency and for the selection of the particular contractor shall be maintained as a public record with payment records. The county's standard form agreements shall be used whenever possible.
+B.
+Limitations on purchase
+. An emergency purchase shall be limited only to a quantity of those
+supplies
+, equipment, materials, or services necessary to meet the emergency.
+C.
+Review of emergency.
+If the follow-up review of an emergency purchase indicates that the purchase was not necessary to respond to an emergency, the purchase will be referred to the county manager for appropriate resolution.
+D.
+Emergencies without an emergency operations center (“EOC”)
+. When an emergency arises or occurs for which no EOC is established, such as is the case of equipment failure in a county facility, and the functions and operations of a county department or elected official’s office would be seriously hampered or delayed through use of the otherwise applicable procurement process, emergency purchases may be made by the same individuals as otherwise set forth in this code so long as funds budgeted in the then-current year in the county’s general fund are available to the person making the purchase. Further, the county manager may authorize and execute emergency purchases of up to fifty thousand dollars ($50,000.00) for any single emergency event without additional approval from the BOCC so long as sufficient budgeted and appropriated funds are available in the county’s contingency fund.
+E.
+Emergencies with an established EOC
+. When an emergency arises or occurs for which an EOC is established, including but not limited to those emergencies as determined or proclaimed by the President of the United States, Governor of Colorado, BOCC, La Plata County Sheriff, or county manager, the following individuals have authority to make emergency purchases under this code:
+1.
+La Plata County Sheriff or Undersheriff
+.
+Contracts
+and a
+greements
+totaling fifty thousand dollars or less ($50,000.00) for any single emergency event, the purpose of which is to provide emergency response to both natural and manmade emergencies may be authorized and executed by the La Plata County Sheriff or Undersheriff without other approval so long as sufficient budgeted and appropriated funds are available in the Sheriff’s budget.
+2.
+Director of the office of emergency management, department heads and other elected officials
+. The director of the office of emergency management, department heads and other
+elected officials
+, or their designees, may request approval to make emergency purchases of goods or services, with budgeted and appropriated funds available to such department head or elected official in the county’s general fund, when a threat to public health, welfare, or safety exists and the need cannot be met through normal
+procurement
+methods Requests shall be made to, and written approval obtained from, the county EOC’s logistics section and finance section chiefs prior to making any emergency purchase. Further, the county manager may authorize and execute emergency purchases of up to fifty thousand dollars ($50,000.00) for any single emergency event without additional approval from the BOCC so long as sufficient budgeted and appropriated funds are available in the county’s contingency fund.
+The individual authorizing the emergency purchase shall inform the county manager and the finance director of the emergency purchase no later than the first working day following the purchase.
+(
+Res. No. 2020-42, § 20-32, 12/17/2020
+)
+Effective on: 1/1/2021
+Sec. 20-33 Small purchases
+A
+small purchase
+is any purchase with a
+contract
+requirement of ten thousand dollars ($10,000.00) or less, including software and non-capital computer equipment. The amount of a purchase cannot be divided to qualify as a small purchase.
+I.
+General rule
+. Small purchases may be made on the open market without public notice or competitive quotes when the price paid is objectively consistent with the price that would be paid by a member of the general public. All small purchases must meet the following criteria:
+A.
+Budget
+. Only those purchases that are authorized in an approved
+budget
+will be procured.
+B.
+Authorization
+. Subject to any approvals required by section 20-27, department heads and
+elected officials
+are authorized to make small purchases when the amount to be spent is within an approved budget.
+C.
+Scope of work or specifications
+. No written
+scope of work
+is required.
+D.
+Solicitation standard
+. Each department head or elected official is responsible for defining the standard by which the department or elected official will demonstrate that the method by which the
+vendor
+selected for a small purchase follows the principles of objective fairness, cost reasonableness and best use of public funds.
+1.
+Appropriate s
+olicitation
+standards could include evidence that price comparisons were conducted or evidence of what a member of the general public would pay when purchasing a like good or service, such as an internet price sheet, a catalog price list, or newspaper advertisement.
+2.
+Each department head or elected official is responsible for ensuring that all purchases are properly documented and signed. Examples of acceptable contract forms for small purchases include: a contractor invoice,
+purchase order,
+proof of purchase, P-Card statement, inventory list, or vendor contract form.
+E.
+Payment processing
+. No
+purchase requisition
+or
+purchase order number
+is required for payment of small purchase contracts of ten thousand dollars ($10,000.00) or less. Invoices for payment should be submitted to accounts payable in the finance department.
+1.
+The procurement division is not involved in processing payments of small purchases; it may, however, monitor such payments and will notify the department or elected official if a payment history suggests that the small purchase criteria no longer apply.
+F.
+Decentralized documentation and contract management
+. The department or elected official is responsible for retaining documentation enough to establish that the price paid was fair and reasonable.
+II.
+Procurement assistance
+. Any department, elected official, or county employee who desires assistance for any county purchase, regardless of type or cost, is encouraged to contact the procurement division.
+(
+Res. No. 2020-42, § 20-33, 12/17/2020
+)
+Effective on: 1/1/2021
+Sec. 20-34 Simplified purchases
+A
+simplified purchase
+is any purchase with a
+contract
+requirement of between ten thousand one dollars ($10,001.00) and fifty thousand dollars ($50,000.00). The amount of a purchase cannot be divided to avoid being classified as a simplified purchase or a
+standard purchase
+.
+I.
+General rule
+. Unless otherwise exempt from competitive
+solicitation
+pursuant to section 20-36, all simplified purchases must be
+procured
+either: (1) competitively through the
+documented quote
+process, or (2) by choosing a
+qualified vendor
+from the county’s current
+on-call list
+, as applicable. All simplified purchases must meet the following criteria:
+A.
+Budget.
+Only those purchases that are authorized in an approved
+budget
+will be procured.
+B.
+Authorization
+. Department heads and elected officials are authorized to request simplified purchases when the amount to be spent is within an approved budget, the provisions of this section are followed and any approvals required by section 20-27 have been obtained.
+C.
+Initiation of simplified purchase - scope of work or specifications.
+A simplified purchase is initiated when a department or
+elected official
+prepares written
+specifications
+or a written
+scope of work
+or
+service
+(defined in article IV).
+D.
+Solicitation standard
+. All simplified purchases are made directly by the procurement division either by: (1) notifying at least three (3) qualified vendors of the work or service specifications and essential contract terms; reviewing the responses received within the time specified; and selecting the
+vendor
+who best meets the selection criteria, or (2) selecting a qualified vendor from the county’s current on-call list who best meets the selection criteria.
+E.
+Documented quote
+. When the documented quote process is used, vendors may be notified of the specifications and terms and conditions by letter, email, telephone or in person; however, the method of contact must be documented, and steps must be taken to ensure that each vendor received the same information so that all responses are based upon equivalent information.
+A documented quote is a written description of the actions undertaken to meet the
+solicitation
+standard and will be completed by procurement for each simplified purchase in which the process is used. Invoices will not be approved for payment in the absence of a documented quote or justification for use of the on-call list that includes the following:
+1.
+A copy of the scope of work;
+2.
+The names and addresses of each vendor to whom information was provided when the documented quote process is used;
+3.
+A copy (or summary if communicated verbally) of each
+vendor
+response received when the documented quote process is used; and
+4.
+The reason(s) the successful bidder was selected.
+F.
+Contract award
+. The procurement division shall negotiate the final contract with the selected vendor in consultation with the county attorney’s office, as required under section 20-26, and shall obtain all required attachments. Contracts may be executed by the individual(s) delegated signature authority in accordance with the county’s Fiscal Management Policy No. III.4, as amended.
+G.
+Commencement of work
+. No work shall be performed until the contract, and all appropriate attachments, are signed by all parties.
+H.
+Payment processing
+. Upon receipt of a completed
+purchase requisition
+, the procurement division will assign a
+purchase order number
+to encumber the contract funds from the appropriate budget line item. Invoices thereafter received will be paid when submitted to the finance department in accordance with the county’s adopted fiscal management policies and procedures.
+No invoice can be paid without a purchase order number; no purchase order number can be assigned without a completed purchase requisition.
+I.
+Centralized documentation and contract
+. The contract manager is responsible for maintaining a complete contract file and all required documentation on all simplified purchases.
+(
+Res. No. 2020-42, § 20-34, 12/17/2020
+)
+Effective on: 1/1/2021
+Sec. 20-35 Standard purchases
+A
+standard purchase
+is any purchase with a
+contract
+requirement of more than fifty thousand dollars ($50,000.00). The amount of a purchase cannot be divided to avoid being classified as a standard purchase.
+I.
+General rule.
+All standard purchases must be procured competitively through the appropriate
+solicitation
+process, unless otherwise exempt from competitive solicitation pursuant to section 20-36. Standard purchases require:
+A.
+Budget.
+Only those purchases that are authorized in an approved
+budget
+will be procured. If the expenditure is not reflected in the current budget, procurement planning should incorporate the additional time required to obtain a budget supplement.
+B.
+Authorization.
+Department heads and
+elected officials
+are authorized to initiate standard purchases when the amount to be spent is within an approved budget and any approvals required by section 20-27 have been obtained.
+C.
+Initiation of a standard purchase - specifications or scope of work.
+A standard purchase is initiated when a department or elected official prepares written specifications or a written
+scope of work
+and attaches it to a
+purchase requisition
+, along with all the other information required to complete a purchase requisition.
+D.
+Solicitation standard.
+Based upon the information contained in the purchase requisition, and in collaboration with the department or elected official, the contract manager will identify the appropriate competitive solicitation method and contract terms and will plan, schedule, and execute the solicitation.
+E.
+Contract award.
+Once a
+qualified vendor
+has been selected, the contract manager and requesting department or elected official will negotiate a final contract document in consultation with the county attorney’s office, as required under section 20-26. All requisite attachments and
+vendor
+signatures will be obtained and the proposed contract will be presented to the
+BOCC
+or authorized delegate for approval and execution in accordance with the county’s Fiscal Management Policy No. III.4, as amended.
+F.
+Payment processing.
+Upon approval of a standard purchase contract, the contract manager will attach the contract documents to the existing purchase requisition and assign a
+purchase order number
+to encumber the contract funds from the appropriate budget line item. Invoices thereafter received by the department or elected official will be submitted to the finance department in accordance with the county’s adopted fiscal management policies and procedures.
+G.
+Centralized documentation and
+contract management
+.
+The contract manager is responsible for maintaining a complete contract file and all required documentation on all standard purchases.
+(
+Res. No. 2020-42, § 20-35, 12/17/2020
+)
+Effective on: 1/1/2021
+Sec. 20-36 Bid preferences
+I.
+BOCC intent.
+The
+BOCC
+intends to utilize the
+goods
+and
+services
+provided by
+local and regional businesses
+whenever possible, so long as selection does not result in a significant increase in cost to the county, and is not otherwise determined to be inapplicable in accordance with the provisions of this section.
+II.
+Preference authorized
+. Whenever a
+contract
+is
+awarded
+for goods or services procured under the
+simplified purchase
+or
+standard purchase
+procedures outlined in this article III, a local and regional business preference shall be allowed unless specifically waived by the finance director at the time an
+IFB
+,
+RFP
+or
+RFQ
+is let.
+III.
+Local and regional preference.
+The
+local business
+preference will be the lesser of: (1) five (5) percent or one hundred thousand dollars ($100,000.00) of the purchase price; or (2) five (5) percent of the final score for a
+bidder
+, based on the award/evaluation criteria used to select a
+qualified vendor
+. The regional business preference will be the lesser of: (1) two (2) percent or forty thousand dollars ($40,000.00) of the purchase price; or (2) two (2) percent of the final score for a vendor based on the award/evaluation criteria used to select a qualified
+vendor
+. Any bidder or offeror who seeks to claim a local or regional business designation must include a written request to the county for the same, with specific information evidencing the right to seek such designation, as part of its bid or
+proposal.
+IV.
+Green purchasing.
+Pursuant to the county’s Environmental Policy, Policy No. V.11, as amended, where desirable, the procurement division may establish a price-preference of five (5) percent for
+environmentally preferable products
+by including a preference statement and standard by which to achieve preference in a specific IFB, RFP or other solicitation.
+V.
+State mandated processes and preferences.
+Colorado law dictates solicitation and purchasing requirements and preferences in the following specific instances, which shall control over any contrary provisions of this
+code
+.
+A.
+Stationery and office supplies.
+In-state stationery supplies, as defined in C.R.S. § 30-11-110, shall be preferred over out-of-state purchases when the net cost does not exceed the cost of procurement and delivery from bidders outside the state.
+B.
+Work on county highways.
+Contracts for work on county highways for more than fifty thousand dollars ($50,000.00), as such amount may be modified pursuant to C.R.S. § 43-2-209, as amended, must be awarded to the lowest responsible bidder; provided, that the county reserves the right to reject any bids proffered.
+C.
+Public improvements.
+Contract for public projects, as defined by C.R.S. § 30-20-1103, will comply with the requirements of Part 11 of Article 20 of Title 30. No cost-plus a percentage of cost contracts will be permitted.
+D.
+Auditors.
+The auditor conducting the annual audit of the financial statements of the county for each fiscal year must be a certified public accountant licensed to practice in Colorado as an individual, partnership or professional corporation, pursuant to article 2 of title 12 of the Colorado Revised Statutes. All vendors submitting a bid or proposal for such services must provide evidence that employees meeting the definition of an auditor in C.R.S. § 29-1-602 will conduct such audits during the applicable term of a proposed contract.
+VI.
+No preference given in certain circumstances.
+No preference shall be given under this section if the finance director determines, in the finance director’s sole discretion, that awarding a contract in compliance with the preference provisions of this rule: (1) may cause a denial of state or federal money that would otherwise be available; (2) may otherwise be inconsistent with any requirement(s) applicable law or the purposes of this code; (3) may cause delay(s) in a procurement action that would compromise the public health, safety, or welfare of the county’s residents; (4) is redundant, as it would be in the case of a
+sole source purchase
+or
+cooperative purchase
+; or (5) is in direct conflict with federal
+grant
+or
+procurement
+procedures.
+(
+Res. No. 2020-42, § 20-36, 12/17/2020
+)
+Effective on: 1/1/2021
+Sec. 20-37 Prequalification of vendors
+The county reserves the right to prequalify any bidder, vendor, supplier, contractor or proposer as in its sole discretion shall be deemed to be in the best interests of the county. Vendors may be prequalified on an annual basis or on a project by project basis. If prequalification is required for a project, such requirement shall be published in the invitation to bid.
+I.
+Continuing requirements; termination of prequalification
+.
+A.
+Continuing requirements
+. Prequalified bidders, vendors suppliers, contractors or proposers shall notify the county immediately of any significant change in their fiscal or workmanship qualifications, or of any action taken in any jurisdiction against the contractor or an affiliate of the contractor precluding its ability to bid on, perform work for, or otherwise in any manner participate in projects.
+B.
+Termination of prequalification
+. The county may revoke or summarily suspend prequalification pursuant to this section if the procurement division, finance director or county manager determines that a bidder, vendor, supplier, contractor, proposer or affiliate of the same:
+1.
+Is declared by the county to be in default on any contract.
+2.
+Has made false, deceptive or fraudulent statements on its application for prequalification, in any documents connected with a bid or proposal including its performance capability statement, in any other information submitted to the county, or in the course of any determination associated with prequalification.
+3.
+Has failed to report any significant decreases in capabilities or limitations on bidding or performing work since applying for prequalification.
+4.
+Commits any action or inaction which evidences a lack of integrity in contract-related matters.
+5.
+No longer meets the criteria stated in the RFQ or RFI for which is submitted an application for prequalification.
+(
+Res. No. 2020-43, § 20-37, 12/17/2020
+)
+Effective on: 1/1/2021
+Sec. 20-38 Disposal of county property
+This procedure shall be used for disposing of all county-owned personal property acquired with county funds pursuant to this code or prior procurement codes, including but not limited to goods.
+I.
+Authority
+. Department heads and elected officials have the authority to deem personal property to be surplus, except for: (1) computer and computer-related equipment, which can be declared as surplus only by the IT department; and (2) vehicles and other motorized equipment, which shall be declared surplus only by the general services department.
+Storage, recycling, disposition or disposal of surplus personal property with a replacement cost of less than five hundred dollars ($500.00) shall be at the discretion of the appropriate department head or elected official; provided that donation of items to county employees is strictly prohibited, except as set forth in subsections (III) and (IV) below. The procurement division shall have the authority to determine the disposition of all
+surplus property
+which has a replacement cost of five hundred dollars ($500.00) or more.
+II.
+Approved dispositions
+. When surplus property cannot be sold to a bona-fide third party for value, approved dispositions, in the order of priority, include:
+A.
+The exchange or trade-in of supplies as part or full payment for the
+procurement
+of new supplies.
+B.
+The transfer of property no longer needed by one county department or
+elected official
+to another department or elected official. Surplus county property shall first be offered to other county departments via email. The property will be distributed on a first come, first served basis.
+C.
+Transfer to another governmental agency.
+D.
+Transfer of property to a registered 501(c) non-profit entity serving local needs, including any recipients of DHS
+contract
+awards
+or other non-profit agencies.
+E.
+Sale of supplies that cannot be used by any department or elected official, by public auction or other public
+advertisement
+, as deemed appropriate by the finance director, in accordance with subsection (IV) below.
+F.
+Sale at salvage or scrap.
+G.
+Disposal of surplus personal property that is deemed unfit for disposition in any other manner.
+III.
+Prohibited dispositions
+. County employees and their
+immediate family
+members are prohibited from purchasing surplus property, unless such purchases are made at a public auction or other advertised sale. Notwithstanding the foregoing, obsolete computers and computer-related equipment that is deemed by the IT director, or the director’s designee, to net less than twenty-five dollars ($25.00) in any public sale may be offered to county employees, free of charge.
+IV.
+Manner of sale.
+A.
+Sales under $2,000. A total sale (representing a single transaction of one or more items) estimated to be under two thousand dollars ($2,000.00) should be made by informal procedures calculated to achieve the maximum financial benefit to La Plata County.
+B.
+Sales of $2,000 or more
+. A total sale (representing a single transaction of one or more items) of surplus property in estimated amounts of two thousand dollars ($2,000.00) or more shall be formally advertised,
+sealed
+bids
+shall be taken, and the bids received shall be submitted to the
+contract manager
+for award. Sale by public auction may be used in lieu of sealed bids.
+1.
+La Plata County employees may submit sealed bids and may bid on surplus property at public auction.
+2.
+If no monetary offers are received in the form of sealed bids or bids at public auction, the finance director may negotiate a sale. County employees may not procure any surplus county property through a negotiated sale of any type.
+V.
+Returns
+. Nothing contained in this
+code
+shall be construed to prohibit the return of unused
+goods
+, which are surplus to the requirements of the county. Unused goods, supplies or equipment may be returned to the original contractor with or without a restocking fee if this method of disposal will result in higher benefit to the county.
+VI.
+Refunds
+. Funds received from the sale of surplus property will be credited back to the same fund from which its original purchase originated.
+(
+Res. No. 2020-42, § 20-38, 12/17/2020
+)
+Effective on: 1/1/2021
+Secs. 20-39—20-40. Reserved
+Effective on: 1/1/2021
+ARTICLE IV - SPECIFICATIONS AND SCOPES OF WORK
+As discussed in article III, all
+simplified
+,
+standard
+, and
+sole source purchases
+begin with written
+specifications
+or a written
+scope of work
+(“SoW”). The importance of these documents to the quality of the
+procurement process
+, the eventual
+contract
+and, most important, the final result cannot be overstated.
+Contents:
+ARTICLE IV SPECIFICATIONS AND SCOPES OF WORK
+Sec. 20-41 General guidelines
+Sec. 20-42 Scope of work
+Sec. 20-43 Specifications
+Secs. 20-44—20-50. Reserved
+Sec. 20-41 General guidelines
+I.
+Importance of specifications and scopes of work.
+A.
+From a contractual standpoint, the
+specifications
+or
+SoW
+serves as one of if not the most important
+contract
+component. It establishes the expectations of the relationship. Further, in most instances, it is attached to and incorporated into the contract as an exhibit and, in such cases, is often the determining factor in resolving disputes over what work is or is not included in the project.
+B.
+From the county’s perspective, the specifications or SoW serves as the guideline for acquisition planning, selection of the appropriate
+solicitation
+method and identification of the correct contract terms. From a practical standpoint, the specifications or SoW is required to initiate the county’s internal acquisition planning process, which begins with a
+purchase requisition
+to which the specifications or SoW must be attached and concludes with the department’s or elected official’s ability to pay a
+vendor’s
+invoice.
+C.
+From a potential vendor’s perspective, the specifications or SoW serves as the basis upon which to plan and prepare a
+responsive bid
+or
+proposal
+. It communicates the nature and scope of the work to be done so that the responsive bid or proposal can be specifically and appropriately tailored.
+II.
+Differences between specifications and scopes of work.
+A.
+Scope of work.
+As addressed in 20-42, a SoW is a written description of the result that the county seeks to achieve upon contract completion. A SoW describes “what” needs to be accomplished by the successful vendor as opposed to “how” the successful vendor shall do the work. In very broad terms, a SoW is used in connection with an
+invitation for bid
+,
+request for proposals
+or
+request for qualifications
+.
+B.
+Specifications
+. As addressed in section 20-43, specifications emphasize the functional or performance criteria required to meet the county’s needs, such as specific quantities, qualities, materials, and the like. In very broad terms, specifications are used in connection with an invitation for bids, where contract
+award
+is determined based on the
+lowest responsive and responsible bid
+offer
+, as discussed in article V.
+III.
+Maximum practicable competition
+. Each specification or SoW shall be prepared and drafted in a manner to ensure maximum practicable competition in satisfying the county’s requirements, to promote overall economy for the purpose intended, and shall not be overly restrictive.
+IV.
+Preparation
+. The department head,
+elected official
+, or their authorized designee is responsible for preparing the specification or SoW. The procurement division will work with departments and elected official’s offices to ensure each specification or SoW is as thorough and accurate as possible.
+A.
+Capital projects
+. In the case of specifications or a SoW for capital projects, the
+contract manager
+will collaborate with the applicable department, the general services director and the county attorney to determine whether the specifications or SoW will be prepared internally or by contract with an architect or engineering consultant.
+B.
+Vendor assistance
+. Obtaining vendor assistance to write specifications or SoWs is not common practice and should be avoided when possible because it may inhibit competition. If a vendor is involved in writing one of these documents, the vendor should be paid for the service and is generally prohibited from submitting a bid or proposal in response to the solicitation; provided that the finance director may allow the vendor to submit a bid or proposal if it is in the best interest of the county and is not otherwise prohibited by other applicable state or federal law. If an exception is made and the vendor is allowed to bid, its role in preparing the specifications shall be disclosed to other vendors as part of the solicitation documents.
+C.
+Funding source requirements
+. Where purchases are funded from sources other than the county’s general fund, such as by state or federal
+grants
+, specific bidding or performance standards may be required of any sub-contractor or sub-recipient of such funds. As such, the department head or elected official shall provide any funding
+agreements
+, with the specifications or SoW, to the procurement division to ensure appropriate incorporation of such requirements into the procurement process.
+(
+Res. No. 2020-42, § 20-41, 12/17/2020
+)
+Effective on: 1/1/2021
+Sec. 20-42 Scope of work
+A S
+oW
+is a written description of the required
+goods
+or
+service
+s stated in terms of the result to be achieved.
+I.
+Purpose of a SoW
+. The purpose of a SoW is to provide potential
+vendors
+with a clear, accurate, and complete description of the work to be performed, including: inspections, testing and acceptance, quality requirements, support services, critical time line definitions, data and documentation desired, maintenance and other necessary requirements.
+II.
+Elements of a SoW
+. Every SoW should be expressly tailored for each specific purchase. There are, however, several common elements that should be addressed in every SoW whenever applicable:
+A.
+The work
+. Describe the work sought, including any work plan, required deliverables, milestones, performance standards and due dates.
+B.
+Period of performance
+. List the start and end date for the entire project as well as any other scheduling requirements.
+C.
+Physical location
+. Identify or describe where the work will be performed. If the place of performance is at a specific address, identify it.
+D.
+Supplies and equipment.
+List the
+supplies
+and equipment that will be required, used, or provided.
+E.
+Payment rate
+. Identify how the payment rate for the good or service will be determined; for example, by job, month, day or hour.
+F.
+Acceptance criteria
+. State the criteria the county representative(s) will use to determine if the product or service is acceptable.
+G.
+Special requirements
+. Identify any special requirements that are required to successfully perform or complete the work, including, for example, any anticipated or allowable price increase over the term of the contract, any special hardware or software, specific degrees or certifications, travel requirements, delivery expectations, or any other need not covered by the contract that are necessary to the success of the project.
+(
+Res. No. 2020-42, § 20-42, 12/17/2020
+)
+Effective on: 1/1/2021
+Sec. 20-43 Specifications
+Specifications
+emphasize functional or performance criteria while limiting design or other detailed physical descriptions to those necessary to meet the county’s needs.
+I.
+Purpose of specifications
+. The purpose of specifications is to serve as a basis for obtaining the
+good
+or
+service
+that is adequate and suitable to meet the county’s needs in a cost-effective manner considering, to the extent practicable, the costs of ownership and operation as well as initial acquisition costs.
+II.
+Form of specifications
+. Specifications shall contain enough detail to provide for suitable purchases, without being unduly restrictive, and shall include the following information, where applicable:
+A.
+Functions and standards characteristics;
+B.
+Materials and methods descriptions;
+C.
+Shipment and delivery point requirements;
+D.
+Quality assurance and acceptance tests;
+E.
+Warranties and service support requirements;
+F.
+Product, supply and service specifications; and
+G.
+Environmental considerations in accordance with county policy.
+III.
+Preference for commercially available products
+. To the extent practicable, preference shall be given to
+procurement
+of standard commercial products. In developing specifications, accepted commercial standards should be used and unique requirements should be avoided where possible.
+IV.
+Brand name or equal specifications – conditions for use
+. “
+Brand name
+or equal” specifications may be used when the item to be procured is best described using such a specification and when the finance director, through acquisition planning, determines that it is in the
+best interest of the county
+.
+A.
+“Brand name or equal” specifications shall seek to designate as many different brands or “equal” references as are practicable and shall further state any substantially equivalent products that will be considered for
+award
+.
+B.
+Where a “brand name or equal” specification is used in a solicitation, the solicitation shall contain explanatory language that the use of a brand name is for the purpose of describing the standard of quality, performance, and characteristics desired and is not intended to limit or restrict competition.
+V.
+Brand name only specifications – conditions for use
+. Since use of a
+brand name only specification
+is restrictive, it may be used only when the brand name or items will satisfy the department’s or elected official’s needs and the finance director determines in writing that one of the following criteria are satisfied.
+A.
+Criteria for brand name only specification:
+1.
+No other design or performance specification or qualified products list is available.
+2.
+Time does not permit the preparation of another form of product description that does not include a brand name specification.
+3.
+The nature of the product or the nature of the county’s requirements makes use of a brand name specification suitable for the procurement.
+4.
+Use of a brand name is in the county's best interest due to such concerns as standardization or compatibility with existing products used by other departments or elected officials.
+B.
+Brand name only specifications should not be confused with the situation that arises if only one source can supply the good or service. When only one source can supply the good or service, the procurement shall be made under the s
+ole source purchase
+policy set forth in section 20-36.
+C.
+Where a brand name only specification is used in a
+solicitation
+, the solicitation shall contain explanatory language that the use of a brand name is for the purpose of describing the standard of quality, performance, and characteristics desired and is not intended to limit or restrict competition.
+(
+Res. No. 2020-42, § 20-43, 12/17/2020
+)
+Effective on: 1/1/2021
+Secs. 20-44—20-50. Reserved
+Effective on: 1/1/2021
+ARTICLE V METHODS OF COMPETITIVE SOURCE SELECTION FOR STANDARD PURCHASES
+This article describes the appropriate methods of competitive source selection for
+standard purchases
+(i.e., purchases with a contract requirement of more than fifty thousand dollars ($50,000.00). Generally, while
+IFBs
+or
+RFPs
+will be used, the
+contract manager
+in consultation with the finance director, may also determine that an
+RFI
+,
+RFQ
+or other tools should also be utilized. When such tools are used, the procurement division will outline the process to be used, in writing, prior to letting a
+solicitation
+. The provisions of this article do not apply to the source selection methods applicable to
+small purchases
+or
+simplified purchases
+.
+Sec. 20-51 Bid security
+Bid security is submitted as a guaranty that a
+bid
+or an
+offer
+will be maintained in full force and effect for a period of not less than sixty (60) days after opening of the bids or offers, or such other timeframe as specified in the
+solicitation
+.
+I.
+Requirement for bid security is discretionary.
+Bid security may be required for any standard purchase at the discretion of the finance director in an amount not to exceed five (5) percent of the
+contract
+amount.
+II.
+Rejection of proposals for noncompliance
+. If a
+bidder
+or offeror fails to accompany its bid or
+proposal
+with the required bid security, the bid or offer shall be rejected as non-responsive.
+III.
+Withdrawal of bids or proposals that require bid security
+. After bids and proposals requiring security are opened, they shall be irrevocable for the period specified in the
+IFB
+,
+RFP
+or other solicitation package, unless withdrawal is specifically permitted by the finance director in writing. If a bidder or offeror is permitted to withdraw its bid or proposal before
+award
+, no action shall be taken against the bid security.
+IV.
+Acceptable bid security
+. Acceptable bid security shall be limited to:
+A.
+A one-time bid bond underwritten by a company licensed to issue bonds in the State of Colorado;
+B.
+A bank cashier’s check made payable to La Plata County;
+C.
+A bank certified check or cashier’s check made payable to La Plata County; or
+D.
+An irrevocable letter of credit in a form acceptable to the county.
+V.
+Return of bid security
+. Upon award of a contract and execution of the same to the successful bidder or offeror, bid security will be returned to all unsuccessful bidders who have not forfeited such bid security, as set forth below, within fifteen (15) business days of the county’s receipt of the executed contract with the successful bidder. Bid security will also be returned to the bidder or offeror awarded the contract within fifteen (15) business days of the county’s receipt of the executed contract; provided that this in no way will relieve the successful bidder or offeror from providing any additional required
+performance bond
+.
+VI.
+Forfeit of bid security
+. A bidder or offeror will forfeit the bid security to the county if they withdraw their bid/proposal after bids/proposals are opened; unless expressly permitted in writing by the
+contract manager
+; fail to execute a contract after the notice of award is issued; fail to provide proof of necessary insurance and other assurances required by the award or contract; or fail to provide any performance and
+payment bonds
+that may be required.
+(
+Res. No. 2020-42, § 20-51, 12/17/2020
+)
+Effective on: 1/1/2021
+Sec. 20-52 Invitation for bids
+An
+invitation for bids
+(“IFB”) is the formal process used to
+solicit
+bids
+from qualified
+vendors
+for
+goods
+and, in some cases for
+services
+, when complete
+specifications
+or specific purchase descriptions are available, and a measurable task or item is desired. The
+contract
+is awarded to the lowest responsive and responsible bidder, after considering any bid preferences as described in article III.
+I.
+General rule
+. An IFB shall be used to solicit bids for all purchases of more than fifty thousand dollars ($50,000.00) when complete specifications or purchase descriptions are available. The specifications for the items to be procured are not subject to negotiation.
+II.
+Requirements of an IFB
+. In consultation with the responsible department or
+elected official
+, the
+contract manager
+will prepare and publish an IFB solicitation package that shall include, at a minimum:
+A.
+Instructions and information to
+bidders
+concerning the bid submission requirements, including the time and closing date and the address of the office to which bids are to be delivered;
+B.
+The project description (furnished by the department or office), including the specifications or
+SoW
+and all drawings;
+C.
+The basis of
+award
+, including the award and evaluation criteria to be used;
+D.
+Inspection and acceptance requirements;
+E.
+Required warranty and bonding or security requirements and insurance requirements; and
+F.
+A list of all applicable deadlines, including any applicable delivery or performance schedule.
+III.
+Public notice -
+advertisement
+. Public notice of the opportunity to bid is required for any procurement utilizing the IFB process. The opportunity to bid must be published in a newspaper(s) of relevant geographic circulation or other publication(s) directed to the target vendor market on at least two (2) occasions no less than ten (10) days prior to the date set for
+bid opening
+. Public notice shall be adequate if it contains:
+A.
+The project name;
+B.
+A brief description of the goods or services desired;
+C.
+The closing date and time for receiving bids;
+D.
+The place where bid packets may be obtained;
+E.
+The name of the person to contact for information;
+F.
+Date, time and location of any pre-bid conferences;
+G.
+Any special instructions to bidders (such as information about whether prequalification is required or the cost of bid packets) or information about where the same may be obtained;
+H.
+A statement regarding the bidder’s responsibility for determining the date of the award of bid and being heard on the award, if so desired;
+I.
+A statement regarding the county’s right to waive
+minor deviations
+or informalities, amend or cancel any bid solicitation, reject all bids and accept the lowest responsive and responsible bid; and
+J.
+A reference to this
+code
+and any standardized contracts, incorporating them into the bid process, unless otherwise stated.
+IV.
+Communication with bidders
+. Once an IFB is made public, and through the time of contract award, all communication regarding the invitation shall be documented and directed to the contract manager. Unless otherwise set forth in the notice of the bid opportunity, the bid opportunity shall not be discussed with a potential bidder by any other county employee.
+V.
+Receipt of bids
+. The time and date for receipt of bids shall be included in the IFB and must state a specific time on a certain date. Bids received after the specified time on such date will be considered late and not accepted. All submitted bids must be
+sealed
+and shall be received without alteration or correction, except as specifically authorized elsewhere in this code. Bids shall not be opened upon receipt.
+VI.
+Withdrawal of bids
+. Withdrawal or modification of bids may be made by any bidder prior to the established due date and time for such bids upon written request from the bidder. Withdrawal of bids after the due date and time by prior to the time of award may be permitted, provided:
+A.
+The bidder provides evidentiary proof that clearly and convincingly demonstrates that a mistake was made in the costs or other material matter provided;
+B.
+The mistake is clear in the bid; or
+C.
+It is found by the finance director to be unconscionable not to allow the bid to be withdrawn.
+Any decisions to permit or deny a request to withdraw a bid after the due date and time but before the time of award shall be supported by written documentation prepared by the finance director.
+VII.
+Amendment to or cancellation of an IFB; rejection of bid
+. The contract manager may amend or cancel an IFB or reject a bid response by a
+vendor
+, in whole or in part, when it is in the
+best interest of the county
+. Each solicitation issued by the county shall state that the solicitation may be amended or cancelled and that any bid response to a solicitation issued by the county may be rejected, in whole or in part, when in the best interest of the county. If an amendment is made after the IFP is let, it shall be distributed to all bidders who submit bids and posted on the Rocky Mountain ePurchasing system, if applicable. If the solicitation is cancelled, notice of cancellation shall be sent to all offerors and posted on the Rocky Mountain ePurchasing system, along with the reasons cancellation was determined to be in the county’s best interest.
+VIII.
+Bid opening
+. Bids shall be publicly opened in the presence of one or more witnesses at the time and place designated in the IFB. Public participation may be by remote means only, as determined by the county and designated in the IFB. The name of the bidder and amount of each bid, and any other information deemed relevant by the contract manager or designee, shall be read aloud and recorded. This bid record will become subject to public records requests upon contract award. Since each bid is subject to analysis, legal review, and appropriate approvals prior to contract award, no acceptance of any bid offer will take place at the bid opening and no bids will be publicly released prior to award.
+IX.
+Bid evaluation
+. Bids shall be evaluated based on the requirements set forth in the solicitation package. Prior to confirmation of an award, the contract manager may contact potential vendors responding to the bid request for the purpose of obtaining clarification to assure a full understanding of, and conformance to, the solicitation requirements. Any questions or concerns regarding cost reasonableness may be addressed by the contract manager or finance director in the manner deemed to be in the best interest of the county. The county reserves the right to waive minor deviations or informalities in reviewing bids.
+X.
+Budget
+. If all bids received from responsible bidders exceed the funds
+budgeted
+for the acquisition, the county is not required to award a contract. If, however, time or economic considerations preclude the re-solicitation of bids, the finance director is authorized to negotiate an adjustment of the bid price with the lowest responsive and responsible bidder.
+XI.
+Determination of non-responsibility
+. If a bidder who otherwise would have been awarded a contract is found not responsible, the finance director shall prepare a written determination of non-responsibility, setting forth the basis of the finding. A copy of the determination shall be sent promptly to the non-responsible bidder. The final determination shall be made part of the contract file.
+XII.
+Award
+. A recommendation that the county award a contract determined to be in the best interest of the county shall be made by the contract manager and department head or elected official, as applicable, with reasonable promptness and presented to appropriate county personnel, in accordance with the county’s Fiscal Management Policy No. III.4, as amended, for consideration and execution. Upon approval, notice of award is sent to the successful bidder, along with all documents required to finalize the contract terms.
+(
+Res. No. 2020-42, § 20-52, 12/17/2020
+)
+Effective on: 1/1/2021
+Sec. 20-53   Request for proposals
+A
+request for proposals
+(“RFP”) is the formal process used to solicit
+proposals
+from
+qualified vendors
+for
+services
+, and in some cases for
+goods
+, when the
+specification
+is a desired outcome rather than a measurable task or item.
+I.
+General rule
+. An RFP is used to solicit proposals from potential
+vendors
+when a desired outcome is known and recommendations about how to achieve that outcome are requested.
+Award
+of the
+contract
+is based upon criteria other than or in addition to price, including what is in the
+best interest of the county
+. The terms of the proposals upon submission are open to negotiation. The response to an RFP is referred to as both “a proposal” and “an
+offer
+”.
+II.
+Requirements of an RFP
+. The
+contract manager
+will prepare and publish an RFP
+solicitation
+package in consultation with the responsible department head or
+elected official
+, and the package shall include, at a minimum:
+A.
+Instructions and information to the proposer concerning proposal submission requirements, including the time and closing date and the address of the office to which proposals are to be delivered;
+B.
+Accurate and thorough description (prepared by the department or elected official’s office) of the project specifications or
+SoW
+and all drawings;
+C.
+The basis of the award, including the award and evaluation factors to be used;
+D.
+Required warranty and bonding or security requirements and insurance requirements;
+E.
+Inspection and acceptance requirements; and
+F.
+A schedule of all deadlines and key dates, including any applicable delivery or performance schedule.
+III.
+When an RFP is practical
+. The RFP process is a time consuming and costly method of
+procurement
+that should be used only when
+invitation for bids
+is not appropriate.
+Factors that may be helpful in deciding whether the RFP method is practical include, but are not limited to:
+A.
+The estimated contract value is more than fifty thousand dollars ($50,000.00);
+B.
+The requirement is highly technical, unusual, is not a standard “off the shelf” item or there are little or no clear standards or specifications available to use in the solicitation;
+C.
+The terms of the contract require that payment be other than a fixed price;
+D.
+It is desired or necessary to conduct oral or written discussions with the offerors concerning technical and price aspects of their proposals;
+E.
+It may be necessary to afford offerors the opportunity to revise their proposals;
+F.
+It may be necessary to base an award on a comparative evaluation of price, quality and contractual factors in order to determine the most advantageous offering to the county;
+G.
+The primary considerations for award are factors other than price.
+IV.
+When an RFP is advantageous
+. Factors that may be helpful in determining whether the RFP method is advantageous include, but are not limited to:
+A.
+If prior procurements indicate that
+competitive sealed proposals
+result in more beneficial contracts for the county;
+B.
+If the requirement is highly technical or complex in nature and it would be more advantageous to the county to use the RFP method of source selection.
+V.
+Public notice –
+advertisement
+.
+Public notice of the opportunity to submit proposals is required for any procurement utilizing the RFP process. The opportunity to submit proposals must be published in a newspaper(s) of relevant geographic circulation or other publication(s) directed to the target vendor market on at least two (2) occasions no less than ten (10) days prior to the date proposals are due. Public notice shall be considered adequate if it contains:
+A.
+The project name;
+B.
+A brief description of the goods or services desired;
+C.
+The closing date and time for receiving proposals;
+D.
+The place where proposal packets may be obtained;
+E.
+The name of the person to contact for information;
+F.
+Date, time and location of any pre-proposal conferences;
+G.
+Any special instructions to vendors (such as information about whether prequalification is required or the cost of solicitation packets) or information about where the same may be obtained;
+H.
+A statement regarding the vendor’s responsibility for determining the date of the award (and being heard on the award, if so desired);
+I.
+A statement regarding the county’s right to waive
+minor deviations or informalities
+, amend or cancel any solicitation, reject all proposals and accept the proposal deemed most advantageous to the county; and
+J.
+A reference to this
+code
+and any standardized contracts, incorporating them into the bid process, unless otherwise stated.
+VI.
+Communication with vendors
+. Once an RFP is made public, all communication regarding the solicited request shall be documented and directed to the contract manager. Unless otherwise set forth in this code or the notice of the opportunity to submit proposals, the RFP shall not be discussed with a potential vendor by any other county employee.
+VII.
+Receipt of proposals
+. The time and date for receipt of proposals shall be included in the RFP and must state a specific time on a certain date. Proposals received after the specified time on such date will be considered late and not accepted. All submitted proposals must be
+sealed
+and shall be stored in a secure place until opening time. Proposals shall not be opened upon receipt.
+Proposals will
+not
+be opened publicly
+.
+VIII.
+Modification or withdrawal of proposals
+. Proposals may be modified or withdrawn by any offeror prior to the established due date and time for such proposal. Withdrawal of proposals after the due date and time by prior to the time of award may be permitted, provided:
+A.
+The offeror provides evidentiary proof that clearly and convincingly demonstrates that a mistake was made in the costs or other material matter provided; or
+B.
+The mistake is clear in the proposal; or
+C.
+It is found by the finance director to be unconscionable not to allow the proposal to be withdrawn.
+Any decisions to permit or deny a request to withdraw a proposal after the due date and time but before the time of award shall be supported by written documentation prepared by the finance director.
+IX.
+Amendment or cancellation of an RFP; rejection of proposals
+. The contract manager may amend or cancel an RFP or reject a proposal submitted by a vendor, in whole or in part, when it is in the best interest of the county. Each solicitation issued by the county shall state that the solicitation may be amended or cancelled and that any vendor response to a solicitation may be rejected, in whole or in part, when in the best interest of the county. If an amendment to the RFP after the solicitation is let, it shall be distributed to all offerors who submit proposals and posted on the Rocky Mountain ePurchasing system, if applicable. If the solicitation is cancelled, notice of cancellation shall be sent to all offerors and posted on the Rocky Mountain ePurchasing system, along with the reasons cancellation was determined to be in the county’s best interest.
+X.
+Evaluation factors
+. The RFP shall clearly define all evaluation criteria, including price. Numerical rating systems or weights may be used but are not mandatory; however, if they are used, the points or weights must be assigned prior to evaluating the proposals.
+XI.
+Competitive range determination
+. Competitive range refers to those proposals, as determined during the initial evaluation process for competitive negotiation, that includes only those offers with a reasonable chance of being selected for award and that may be considered for further discussion via interviews or written clarification. The competitive range shall be determined based on criteria stated in the RFP. The determination shall include all proposals that have a reasonable chance of being selected for award. When there is doubt as to whether a proposal is in fact within the competitive range, the proposal shall be included.
+A.
+Bid preferences only apply to the scoring of each proposal to determine whether they fall within the competitive range. Once the competitive range is identified, no additional bid preference applies.
+XII.
+Evaluation process
+. The RFP evaluation process shall be conducted as a fair and objective process that requires evaluation of all proposals on the specific criteria stated in the RFP and not on any other criteria.
+A.
+Confidentiality is vital to fair and equitable evaluation. During the entire RFP process, the procurement division serves as the sole contact for vendors and provides all RFP procedures and communication. Vendor information, number of proposals received, results and other evaluation proceedings should always be kept confidential during the award process. Following contract award, this information may become a public record available for inspection in accordance with state statute and the county’s Open Records Policy.
+B.
+Single proposal received. If only one proposal is received in response to an RFP, the contract manager may:
+1.
+Determine if there was enough time allotted for offerors to submit a proposal. If not, the solicitation may be amended to extend the receipt of proposal date and the only proposal received shall be returned unopened to the only offeror;
+2.
+Proceed with the evaluation of the proposal from the single offeror. If the offer meets the requirements stated in the RFP and the cost is determined to be fair and reasonable through negotiations, an award may be made; or
+3.
+If the evaluation determines that the only offeror does not meet the county’s needs, or negotiations of the cost does not result in a fair and reasonable price, then the solicitation may be cancelled and re-solicited later.
+XIII.
+Selection committee/project manager.
+Generally, a selection committee of three (3) or five (5) county employees will be appointed by the department head or elected official to evaluate all submitted proposals. However, with approval of the contract manager in certain circumstances, the department head or elected official may decide that the person(s) who will act as the project manager will have the sole responsibility for evaluating the submitted proposals. When the project manager evaluates proposals, the project manager will follow all standards set for the selection committee in this section.
+A.
+Purpose. The purpose of the selection committee is to ensure that proposals are reviewed based on the evaluation criteria alone in a consistent and fair manner with a maximum degree of professionalism.
+B.
+Eligibility. With the exception of staff members of the procurement division, any full-time county employee who is willing and who agrees to maintain the confidentiality of the selection process is eligible to serve on a selection committee; provided, however, that employees of the county attorney’s office may only serve on a selection committee with the permission of the county attorney and only for solicitations where the county attorney deems there to be a particular need for legal counsel on the selection committee.
+1.
+Selection committees should consist of at least one (1) member who is not part of the department that requested the RFP.
+2.
+Procurement division staff facilitates the evaluation process and may not be members of the selection committee.
+3.
+If any
+BOCC
+member serves on a selection committee, they shall recuse themselves from the final approval of a contract selected by the selection committee.
+C.
+Responsibilities.
+1.
+Each member of the selection committee will be assigned a number and will receive a copy of the solicitation package, a correspondingly numbered copy of each proposal, and a score card on which to score each proposal based on the stated criteria.
+a.
+The scoring must be based solely on information contained in the proposal and not upon additional information, including any personal knowledge or relationship, unless such information is included as a scoring criterion.
+2.
+Once each member has scored each proposal, the score sheets will be tallied by and accounted for by the contract manager. The selection committee may complete the scoring of each proposal in a collaborative means facilitated by the contract manager.
+3.
+Based upon the combined scores of the members, a selection committee representative will complete a decision form that lists the names of the selection committee members, states the results of the scoring, is signed by the selection committee representative, and is returned to the contract manager.
+4.
+The results of the scoring by the selection committee shall be totaled and any bid preference, as set forth in article III, will be applied to determine the overall highest scored/rated proposal.
+XIV.
+Written clarifications or interviews
+.
+The purpose of interviews and written clarifications is to allow the selection committee to differentiate between offerors otherwise similarly situated, as for example, those offerors who fall within the
+competitive range
+. Interviews may or may not be a part of the source selection process.
+A.
+Planned interviews. If interviews are intended to be a part of the evaluation criteria, the RFP must contain language that allows for them. The selection committee, prior to entering into discussions with any offerors, will make competitive range determinations. All offerors determined to be within the competitive range may be given an opportunity to interview.
+B.
+Potential interviews. If interviews were not originally intended but the selection committee determines that a contract award cannot be made on the initial proposals as submitted, the selection committee may request written clarifications or interviews with all responsible offerors within the competitive range. The following are examples of topics that may be appropriate for such follow-up:
+1.
+Attempt to resolve or clarify any uncertainties in the offerors’ proposals;
+2.
+Resolve any suspected mistakes. When it appears from a review of the proposal that a mistake has been made, an offeror should be asked to confirm the proposal. Situations in which confirmation should be requested include apparent errors or a price unreasonably lower than other submitted proposals. Upon acknowledgment that an error was made, the vendor may have its proposal considered as-is or may request to withdraw its response if the conditions set forth in subsection (VIII) of this section are met.
+3.
+Provide each offeror a reasonable opportunity to discuss past performance information obtained from references. Names of individuals providing reference information shall not be disclosed; or
+4.
+Provide each offeror a reasonable opportunity to submit revisions to both their technical proposals and price proposals by requiring submission of best and final offers by each offeror within the competitive range at the conclusion of the discussions.
+C.
+All offerors determined to be within the competitive range will be accorded fair and equal treatment with respect to any opportunity for discussion and revision of proposals prior to award and for the purpose of obtaining best and final offers.
+D.
+Interviews and written clarifications should not be used to:
+1.
+Help one proposal rise to the level of other proposals;
+2.
+Use “auction techniques” such as indicating a cost or price an offeror must meet to be considered;
+3.
+Advise an offeror of its price standing relative to other offerors; or
+4.
+Provide any information about other offerors’ prices.
+XV.
+Best and final offers
+. Upon completion of any interviews, the selection committee may issue to all offerors within the competitive range a request for best and final offers. Oral requests for best and final offers shall be confirmed in writing.
+A.
+The request shall include:
+1.
+Notice that discussions are concluded;
+2.
+Notice of the opportunity to submit a best and final offer; provided that it is made clear to offerors that submittal of a revised best and final offer is not mandatory. If no revision is submitted, the offeror’s original proposal will be considered; and
+3.
+Notice of the due date and time for submission of best and final offer.
+B.
+After receipt of best and final offers, the selection committee shall evaluate them accordingly and recommend that an award be made to the offeror whose final proposal is most advantageous to the county, considering price and the other factors included in the RFP.
+XVI.
+Award
+. Selection for award will be based on scoring criteria specified in the RFP and evaluation of submitted proposals, as set forth above. The county reserves the right to enter contractual negotiations with the highest ranked firm selected by the selection committee. If a mutually agreeable contract cannot be negotiated to meet the county’s needs, the county reserves the right to enter negotiations with the second highest ranked firm, and so on. Award shall be made to the responsible offeror whose proposal is determined to be most advantageous to, and in the best interest of, the county, based on the evaluation factors set forth in the RFP and ability to contract with the offeror. An award recommendation shall be made by the contract manager and department head or elected official, as applicable, with reasonable promptness and presented to appropriate county personnel for consideration and execution, in accordance with the county’s Fiscal Management Policy No. III.4, as amended. Upon approval, notice of award is sent to the successful bidder, along with all documents required to finalize the contract terms.
+XVII.
+Post award de-brief
+. Offerors submitting an unsuccessful proposal may, within five (5) business days of the date notification of award is published via the Rocky Mountain ePurchasing system, request a meeting for debriefing and discussion of their proposals. The request must be submitted in writing and addressed to the contract manager.
+(
+Res. No. 2020-42, § 20-53, 12/17/2020
+)
+Effective on: 1/1/2021
+Sec. 20-54   Unsolicited proposals and vendor shows
+An
+unsolicited proposal
+is an
+offer
+made by a third party to sell
+goods
+or
+services
+to the county that has not been solicited or published by the county.
+I.
+General rule
+. An offer to sell a good or service to the county in the absence of a county defined need,
+SoW,
+public notice or appropriate source selection must be properly evaluated before further action. Proper evaluation includes the following:
+A.
+All unsolicited proposal to sell goods or services to the county, regardless of who they are initially directed to, including the
+BOCC
+, shall be forwarded to the procurement division.
+B.
+The procurement division will make an initial evaluation of the offer and will either reject the offer or will forward the offer to an appropriate department head or
+elected official
+to determine: (1) if the offer meets a county need or provides a benefit that serves the
+best interest of the county
+; and (2) whether there are sufficient resources, including an appropriate
+budget
+, to make and manage the purchase.
+C.
+If the procurement division and department head or elected official decide to pursue the offer, they must then determine if the offer qualifies for a
+sole source justification
+, defined in article III above.
+1.
+If so, the unsolicited proposal may be accepted by complying with the
+sole source purchase
+process and standards.
+2.
+If the offer does not qualify for a sole source justification but the opportunity is deemed to be worth exploring, then article III will dictate the way the opportunity is to be sourced and
+awarded
+. Before solicitation, the original
+proposal
+should be rejected and the pending opportunity to submit a new proposal explained. In this instance, the party who submitted the unsolicited proposal would be required to submit a new responsive proposal and would be evaluated in the same manner as any other
+bidder
+or offeror.
+II.
+Vendor shows
+.
+Vendor
+shows, which include open houses, product exhibits or product demonstrations, must be approved in advance by Procurement in order to protect the integrity of the
+procurement process
+, viability of current
+agreements
+, and ensure fairness to all potential vendors. A product demonstration of a good already contracted for is not a vendor show. The finance director will have final authority to determine what constitutes a vendor show.
+(
+Res. No. 2020-42, § 20-54, 12/17/2020
+)
+Effective on: 1/1/2021
+Sec. 20-55   Other methods of competitive source selection
+The
+contract manager
+may recommend and utilize, upon approval of the finance director, any other form of competitive source
+solicitation
+, such as by way of example only, a
+competitive reverse auction
+, a
+request for information
+or a
+request for qualifications,
+when such an alternative may be better suited to meet a specific need or ensure the best value to the county. If an alternative solicitation method is followed, a written explanation of the reasons and the process followed shall be included in the
+contract
+file.
+(
+Res. No. 2020-42, § 20-55, 12/17/2020
+)
+Effective on: 1/1/2021
+Sec. 20-56   Public records and confidential bids or proposals
+I.
+Timing
+. Upon
+contract
+award
+, information contained in
+bids
+and
+proposals
+that is retained by the county becomes subject to requests for inspection in accordance with the CORA.
+II.
+Documents labeled as confidential
+. If the county receives an open records request that covers information included in a bid or proposal that has been designated as a trade-secret, proprietary or otherwise “confidential,” by a
+bidder
+, offeror,
+vendor
+or
+contractor
+, the contract manager will examine the designated documents to determine if they should be protected from disclosure.
+A.
+If some or all of the information reviewed contains information, identified and marked as
+confidential information
+by the bidder, offeror, vendor or contractor in writing, the procurement division will not disclose the information; provided that the bidder, offeror, vendor or contractor agrees to indemnify, save and hold the county harmless from any claims, costs, expenses, damages or liabilities, including but not limited to attorneys’ fees and court costs, incurred based on withholding such information and data.
+1.
+No bid, proposal or contract may be considered confidential in its entirety. Any attempt to mark any entire document as such may result in rejection of a bid, proposal or other offer.
+2.
+Overall bid, proposal or contract prices will not be considered confidential.
+B.
+If the county and the offeror do not agree about whether information or documents should be made available based on the data provided by the bidder, offeror, vendor or contractor, the county will disclose what it deems appropriate unless the bidder, offeror, vendor or contractor agrees, in writing, to defend and indemnify the county for withholding such information.
+(
+Res. No. 2020-42, § 20-56, 12/17/2020
+)
+Effective on: 1/1/2021
+Secs. 20-57—20-60. Reserved
+Effective on: 1/1/2021
+ARTICLE VI CONTRACTS, AMENDMENTS AND CONTRACT ADMINISTRATION
+Every
+procurement
+action results in a legal
+contract
+between the county and the supplier, regardless of purchase type or amount. This article VI discusses the appropriate contracts and terms to be used.
+Contents:
+ARTICLE VI CONTRACTS, AMENDMENTS AND CONTRACT ADMINISTRATION
+Sec. 20-61 Required contract forms/terms
+Sec. 20-62 Performance and payment bonds
+Sec. 20-63 Partial payments
+Sec. 20-64 Contract amendments and change orders
+Sec. 20-65 Contract administration
+Sec. 20-66 Debarment or suspension.
+Sec. 20-67—20-70. Reserved
+Sec. 20-61   Required contract forms/terms
+All county purchases in amounts greater than ten thousand ($10,000.00) dollars shall utilize contract forms written or approved by the county attorney’s office. Revisions or additions to any standard pre-approved forms, including the incorporation of competing forms or terms requested by a potential
+vendor
+, must be submitted to the
+contract manager
+for review and handling in accordance with the directives of the county attorney. The county attorney shall determine all required contract terms and conditions in accordance with applicable law and in furtherance of the
+best interests of the county
+. In addition, the county attorney shall define the authority given to the contract manager to alter or waive specific contract terms.
+(
+Res. No. 2020-42, § 20-61, 12/17/2020
+)
+Effective on: 1/1/2021
+Sec. 20-62   Performance and payment bonds
+A separate
+performance bond
+and a labor and materials
+payment bond
+, or other legally acceptable surety shall be required for all
+construction
+, labor and public improvement
+contracts
+in excess of fifty thousand dollars ($50,000.00). Each bond shall be in an amount equal to one hundred (100) percent of the contract price. Bonds may be required on contracts of fifty thousand dollars ($50,000.00) or less if the finance director determines it to be in the
+best interest of the county
+.
+I.
+Delivery and satisfaction
+. A contractor shall deliver these bonds to the
+contract manager
+within ten (10) days after receipt of the notice of award, or at the same time the contract is executed, whichever is earlier. If the contractor fails to deliver the required bonds, the contractor’s
+bid
+or contract may be rejected or terminated for default.
+II.
+Bond form
+. The bonds must be submitted on bond forms executed by a surety company authorized to do business in the State of Colorado.
+III.
+Waiver
+. Bonds may be waived, and cashier’s checks accepted and deposited into an escrow account with the county for a designated period, if the terms of the surety alternative are acceptable to both parties of the contract. A percentage of the total amount of the contract designed to cover all costs associated with a performance breach may be an acceptable condition of an alternate surety.
+IV.
+Changes to contract
+. If the price of any construction, labor, or public improvement contract initially valued at fifty thousand dollars ($50,000.00) or less should reach a value of more than fifty thousand dollars ($50,000.00), through change orders or otherwise, then the contractor shall be required to provide performance and bonds in the amount of one hundred (100) percent of the new contract price, together with any additional insurance, as determined by the contract manager or finance director.
+V.
+Additional bonding
+. If, at any time during the term of a contract, a surety on the contractor’s bond or bonds becomes irresponsible, the county shall have the right to require additional and sufficient sureties, which the contractor shall furnish within ten (10) calendar days after written notice to do so. Such surety bond shall cover the entire contract amount regardless of changes in the total contract amount.
+VI.
+Copies of bonds
+. Any person may request and obtain from the county a copy of a bond upon payment of the cost of reproduction of the bond and postage, if any, in accordance with the county’s Open Records Policy.
+(
+Res. No. 2020-42, § 20-62, 12/17/2020
+)
+Effective on: 1/1/2021
+Sec. 20-63   Partial payments
+Any
+contract
+awarded
+for the
+construction
+, alteration or repair of any highway, public building, public work or public improvement, structure or system that exceeds one hundred fifty thousand dollars ($150,000.00) shall be subject to withholdings as follows: Partial payments for work done shall be paid in accordance with C.R.S. § 24-91-103, as amended; provided that five (5) percent of the contract price for such contracted work, improvement or construction shall be retained until the contract is completed satisfactorily and finally accepted by the county and final settlement is made in accordance with C.R.S. § 38-26-107, as amended.
+(
+Res. No. 2020-42, § 20-63, 12/17/2020
+)
+Effective on: 1/1/2021
+Sec. 20-64   Contract amendments and change orders
+County officials shall not authorize any work outside of the contract. Any change or modification to a procurement
+contract
+shall be processed through the procurement division, executed by authorized county personnel as set forth in Fiscal Management Policy III.4, and shall include all requisite documentation and authorizations.
+Change orders
+shall not be used to circumvent the contracting authority delegated in article II or the purchase standards defined in article III. Change orders will not be issued for work that materially changes the nature or intent of the contract.
+(
+Res. No. 2020-42, § 20-64, 12/17/2020
+)
+Effective on: 1/1/2021
+Sec. 20-65   Contract administration
+A
+county representative
+shall be identified on all purchase
+contracts
+. The county representative is responsible for ensuring that all performance standards are met, for approving all invoices, and for coordinating any
+change orders
+or
+contract amendments
+with the
+contract manager
+.
+I.
+Inspecting a project
+. The county representative is responsible for inspecting the
+goods
+or
+services
+received, including work performed, and keeping written records of project evaluation data. For public works and
+construction
+projects, departments should keep inspections logs, as appropriate. Departments must be aware that good written evaluation records are necessary to support suspension, debarment or potential future litigation.
+II.
+Causes for issuing a stop work order and cancelling a contract
+. The county may stop project work if the contractor commits any of the following acts or omissions, which acts or omissions will constitute a substantial breach of the contract:
+A.
+Failure to deliver goods or begin work within the time specified in the contract;
+B.
+Failure to perform services or work with sufficient workers and equipment or with sufficient materials to ensure the prompt completion of said work;
+C.
+Failure to perform work in a safe and acceptable manner or the occurrence of a significant worksite injury;
+D.
+Citation by any state or federal agency for a violation of the law;
+E.
+Failure to perform services or work in accordance with contract requirements or refusal to remove and replace rejected supplies, equipment or materials or unacceptable work;
+F.
+Discontinues the prosecution of the work;
+G.
+Failure to resume services or work that has been discontinued within a reasonable time after notice to do so;
+H.
+Failure to procure or maintain the insurance policies and minimum coverage limits in accordance with contract requirements, or failure to provide 30 days’ advance notice regarding changes to or the cancellation of any insurance policies required by the contract;
+I.
+Becoming insolvent or declared bankrupt or committing any act of bankruptcy or insolvency;
+J.
+Allowing any final judgment against it to remain unsatisfied for a period of ten (10) days;
+K.
+Making an assignment for the benefit of creditors;
+L.
+Failure to comply with contract requirements;
+M.
+Is a party to fraud; or
+N.
+For any other cause whatsoever, fails to deliver goods or carry out services and work in an acceptable manner.
+In addition to stopping the work, if the contractor commits any one of the above-described acts or omissions, the county may file a claim with the surety companies that provided any required bonds and may immediately terminate the contract upon written notice to the contractor.
+III.
+Stopping the work and cancelling a contract
+. If the county discovers that the contractor has committed any of the above-described acts or omissions, the procurement division, after consultation with the county attorney, may order the work stopped as follows:
+A.
+If applicable, verbally inform the jobsite supervisor and company project supervisor (if different than the jobsite supervisor) that the work must be stopped immediately.
+B.
+Prepare a written stop work order explaining the deficiencies.
+C.
+Deliver the written stop work order (and copies thereof) to the contractor, the county manager, the original contract file, and finance department.
+Goods shall not be accepted and work shall not progress until the deficiencies have been corrected to the satisfaction of the county. If the contractor fails to cure the deficiencies or, if after conferral between the procurement division, the county manager and county attorney, the deficiencies are of such a nature that it is in the
+county's best interest
+to cancel the contract, the county may immediately cancel the contract and file a claim with any surety company that issued a required bond.
+IV.
+Final inspection report
+. Final inspection reports are recommended for all projects and are required for all contracts that require bonds or require retainage of part of the contract price unless a project is fully accepted and finally settled. The project manager and county representative must complete a final inspection report to document the completion of the project; the department's level of satisfaction with the contractor; and any recommendations to disbar, suspend or disqualify the contractor. Upon completion, the county representative must forward the final inspection report to the procurement division.
+(
+Res. No. 2020-42, § 20-65, 12/17/2020
+)
+Effective on: 1/1/2021
+Sec. 20-66 Debarment or suspension.
+I.
+Authority to debar or suspend vendor
+. The
+contract manager
+may suspend any
+vendor
+from consideration for
+award
+of
+contracts
+if there is probable cause to believe that the person has engaged in any activity that might lead to debarment. The suspension shall be for a period not to exceed twelve (12) months. Further, after notice by hand-delivery or by certified mail, return receipt requested, to a vendor and reasonable opportunity for that vendor to be heard, the contract manager with the concurrence of the finance director is authorized to debar a person from consideration for award of contracts. The debarment shall be for a period of not more than three (3) years. The causes for suspension or debarment of a vendor or subcontractor include the following acts by the vendor or its subcontractors:
+A.
+Conviction(s) under state or federal antitrust statutes arising out of the submission of
+bids
+or
+proposals
+, or conviction(s) for commission of a criminal offense as an incident to obtaining or attempting to obtain a public or private contract or subcontract, or in the performance of such contract or subcontract;
+B.
+Conviction(s) under state or federal statutes for embezzlement, theft, forgery, bribery, falsification or destruction of records, receiving stolen property, unlawful price fixing between competitors, any other violation of federal or state anti-trust laws, or any other offense indicating a lack of business integrity or business honesty that currently, seriously and directly affects responsibility as a county vendor or contractor;
+C.
+Violation of contract provisions of a character regarded by the contract manager to be so serious as to justify debarment action, including but not limited to the following:
+1.
+Failure, without good cause, to perform in accordance with the
+specifications
+or
+SoW
+or within the time limits provided in the contract; or
+2.
+A recent record of failure to satisfactorily perform in accordance with the terms of one or more contracts; provided that failure to perform due to acts beyond the control of the vendor or contractor shall not be a basis for debarment. The term "recent" for purposes of this subsection shall mean within the prior year or the last contract with the county, whichever is greater in time.
+D.
+Any other cause that the contract manager determines to be so serious and compelling as to affect responsibility as a county vendor, including debarment by another governmental entity for any cause;
+E.
+Violation of the ethical standards set forth in article VIII; or
+F.
+Willful and material violation of a statutory or regulatory provision or other requirement applicable to a contract on a public project.
+II.
+Decision to debar or suspend
+. If the decision is made to debar or suspend, the contract manager shall issue a written decision to debar or suspend. The decision shall state the reasons for the action taken and inform the debarred or suspended vendor involved of its rights concerning review. A copy of the decision shall be mailed, return receipt requested, or otherwise furnished immediately to the debarred or suspended vendor.
+III.
+Finality of decision
+. A decision under this section shall be final and conclusive, unless the debarred or suspended vendor takes an appeal to the
+BOCC
+, pursuant to article VII, within ten (10) days after delivery of the decision. A timely appeal to the BOCC is required prior to commencement of any Colorado Rules of Civil Procedure Rule 106 action.
+(
+Res. No. 2020-42, § 20-66, 12/17/2020
+)
+Effective on: 1/1/2021
+Sec. 20-67—20-70. Reserved
+Effective on: 1/1/2021
+ARTICLE VII  - DETERMINATIONS, PROTESTS, AND CLAIMS
+Contents:
+ARTICLE VII DETERMINATIONS, PROTESTS, AND CLAIMS
+Sec. 20-71 Consent
+Sec. 20-72 Procurement questions and interpretations
+Sec. 20-73 Waivers and exceptions
+Sec. 20-74 Determination of non-responsibility
+Sec. 20-75 Challenges to bid preferences
+Sec. 20-76 Bid protests
+Sec. 20-77 Contract claims
+Sec. 20-78 Authority to resolve bid protest and contract claims
+Sec. 20-79 Remedies for solicitations or awards in violation of law
+Sec. 20-80 Reserved
+Sec. 20-71 Consent
+All parties who respond to an
+invitation for bid
+, a
+request for proposals
+or other opportunity for
+solicitation
+agree to be bound by the La Plata County Procurement Code, which governs all challenges,
+bid
+protests and
+contract
+claims.
+(
+Res. No. 2020-42, § 20-71, 12/17/2020
+)
+Effective on: 1/1/2021
+Sec. 20-72 Procurement questions and interpretations
+The
+contract manager
+and finance director are authorized to answer all
+procurement
+related questions and the finance director is authorized to interpret the provisions of this
+code
+, in consultation with the county attorney.
+(
+Res. No. 2020-42, § 20-72, 12/17/2020
+)
+Effective on: 1/1/2021
+Sec. 20-73 Waivers and exceptions
+All requests for waivers or exceptions to this
+code
+shall be directed to the finance director, who, in collaboration with the county manager and county attorney, will determine whether to submit such requests to the
+BOCC
+for consideration. The basis for any waiver or exception to this code shall be documented and shall be reflected in the appropriate
+contract
+file.
+(
+Res. No. 2020-42, § 20-73, 12/17/2020
+)
+Effective on: 1/1/2021
+Sec. 20-74 Determination of non-responsibility
+The
+contract manager
+and finance director shall not allow any
+contract
+to be
+awarded
+to a
+bidder
+or offeror who is found to be non-responsible. If a bidder or offeror who otherwise would have been awarded a contract is found to be non-responsible, the finance director shall prepare a written determination of non-responsibility setting forth the basis of the finding. A copy of the determination shall be sent promptly to the non-responsible bidder. The final determination shall be made part of the contract file.
+(
+Res. No. 2020-42, § 20-74, 12/17/2020
+)
+Effective on: 1/1/2021
+Sec. 20-75 Challenges to bid preferences
+I.
+Person adversely affected
+. Any person who has been adversely affected in a competitive
+solicitation
+process by the application of a
+local or regional business
+bid
+preference may file a written protest with the procurement division within two (2) calendar days of the date that person knew or should have known of the adverse effect, but in no case later than the date of
+award
+of a
+contract
+. The written protest must set forth with specificity facts supporting the allegation that the successful
+bidder
+or offeror should not receive a local or regional business preference. The procurement division shall investigate the allegations and make a recommendation to the finance director for a determination within seven (7) business days of receipt of the protest.
+II.
+Person denied local or regional business preference
+. Any person who claims to have been wrongfully denied a local or regional business bid preference may file a written protest with the procurement division within two (2) calendar days of the receipt of notice of the denial of its request for designation. The written protest must set forth with specificity facts supporting the allegation that the business should receive a local or regional business designation. The procurement division shall investigate the allegations and make a recommendation to the finance director for a determination within seven (7) business days of receipt of the protest.
+(
+Res. No. 2020-42, § 20-75, 12/17/2020
+)
+Effective on: 1/1/2021
+Sec. 20-76 Bid protests
+A protest is a grievance that is filed with the finance director prior to issuance of a notice to proceed to a
+contractor
+and consists of written objections by an interested party to a
+solicitation
+, or a cancellation of a solicitation, for
+bids
+or
+proposals
+or award of the same. Reasons for protest may include, by way of example only, the preparation of
+specifications
+, insufficient time to respond, restrictive bonding requirements, excessive or restrictive qualification requirements, and evaluation criteria.
+I.
+Resolution
+. It is the policy of the procurement division to resolve all controversies by mutual
+agreement
+at the earliest opportunity. Before a protest is filed, therefore, it is recommended that the aggrieved party contact the
+contract manager
+.
+II.
+Right to protest
+. Any
+bidder
+, offeror,
+vendor
+, or
+contractor
+who is aggrieved in connection with the solicitation or award of a contract may protest to the finance director.
+III.
+Effect of protest
+. The filing of a protest will not be allowed to unnecessarily delay the
+procurement process
+. The finance director, with the approval of the county attorney, shall determine whether the protest requires postponement or cancellation of award.
+IV.
+Filing.
+All protests shall be submitted in writing to the finance director and must be received within two (2) business days from the day the aggrieved party knew or should have known of the facts giving rise to the protest, but in no case will a protest be accepted after a notice to proceed is issued. Protests received after the such deadline will not be formally addressed.
+V.
+Written protest
+. All protests shall be in writing and shall:
+A.
+Identify the
+IFB
+,
+RFP
+or other solicitation number and title;
+B.
+State the date of the protest;
+C.
+State the basis of the protest and the specific facts supporting the aggrieved party’s position; and
+D.
+Contain the signature of the aggrieved party.
+VI.
+Response
+. The finance director will review the protest with the affected department head or
+elected official
+and other appropriate staff, including the county attorney, and respond in writing to the aggrieved party within seven (7) business days of receipt of the protest. The finance director or county attorney are the only persons authorized to respond to the protest. The response shall state the reasons for any decision reached.
+VII.
+Reconsideration
+. When an aggrieved party does not agree with the final decision of the finance director, the party may, within two (2) business days of delivery of the decision, submit a written request for reconsideration stating the reasons, with specificity, for disagreement with the finance director’s decision. An original and one (1) copy of the request for reconsideration shall be sent to the
+BOCC
+in care
+of the county attorney. The county attorney will promptly present the protest or claim to the BOCC for reconsideration. The request for reconsideration shall be heard by the BOCC within fifteen (15) days of receipt of the request, at the next regular or special business meeting. The procedural manner of the hearing before the BOCC shall be prescribed by the county attorney with sufficient notice to the protestant.
+VIII.
+Exhaustion of remedies
+. Exhaustion of the administrative remedies as provided in this section shall be a mandatory condition precedent to the filing of a timely Colorado Rules of Civil Procedure Rule 106 action.
+(
+Res. No. 2020-42, § 20-76, 12/17/2020
+)
+Effective on: 1/1/2021
+Sec. 20-77 Contract claims
+A claim is a grievance filed by a
+contractor
+relating to its
+contract
+and consists of a written objection from the contractor. Claims include, without limitation, disputes arising under a contract, and those based upon
+breach of contract
+, mistake, misrepresentation, or other cause for contract modification or rescission.
+I.
+Resolution
+. It is the policy of the procurement division to resolve all controversies by mutual agreement at the earliest opportunity. Before a claim is filed, therefore, it is recommended that the aggrieved party contact the finance director.
+II.
+Filing a claim
+. All claims shall be submitted in writing to the finance director.
+III.
+Written statement of claim
+. The claim shall be in writing and shall:
+A.
+Identify the contract;
+B.
+State the date of the claim;
+C.
+State the basis of the claim and the facts supporting the aggrieved party’s position; and
+D.
+Contain the signature of the aggrieved party.
+IV.
+Response
+. The finance director will deliver the claim to the county attorney who will respond to the claim in writing within fifteen (15) business days of its receipt. The county attorney is the only person authorized to respond to the claim. The decision of the county attorney is final.
+V.
+Exhaustion of remedies
+. Exhaustion of the administrative remedies as provided in this section shall be a mandatory condition precedent to the filing of a timely Colorado Rules of Civil Procedure Rule 106 action or other civil action.
+(
+Res. No. 2020-42, § 20-77, 12/17/2020
+)
+Effective on: 1/1/2021
+Sec. 20-78 Authority to resolve bid protest and contract claims
+I.
+Resolution of protests or claims
+. In collaboration with or at the direction of the county manager, county attorney or
+BOCC
+, as appropriate, the finance director is authorized to negotiate the resolution of any protest or claim brought by an aggrieved party.
+II.
+Legal action
+. Under no circumstance may legal action to enforce a
+contract
+be threatened or initiated on behalf of the county without consultation with the county attorney and approval of the BOCC, as necessary.
+(
+Res. No. 2020-42, § 20-78, 12/17/2020
+)
+Effective on: 1/1/2021
+Sec. 20-79 Remedies for solicitations or awards in violation of law
+I.
+Prior to bid opening or closing date for receipt of proposals
+. If, prior to the
+bid opening
+or the closing date for receipt of
+proposals
+, the
+contract manager
+or finance director determine that a
+solicitation
+is in violation of state or federal law, then the solicitation or proposed
+award
+shall be cancelled or revised to comply with applicable law.
+II.
+Prior to award. If, after a bid opening or the closing date for receipt of proposals, the contract manager or finance director determine that a solicitation or a proposed award of a
+contract
+is in violation of federal or state law, then the solicitation or proposed award of a contract shall be cancelled.
+III.
+A
+fter award
+. If, after an award, the contract manager or finance director determine that a solicitation or award of a contract was in violation of applicable law, then the award shall be voidable by the county.
+IV.
+After contract executed
+. If, after a contract is executed, either prior to or after a notice to proceed is issued, the contract manager or finance director determine that a solicitation or award of a contract was in violation of applicable law, then the contract shall be voidable by the county.
+(
+Res. No. 2020-42, § 20-79, 12/17/2020
+)
+Effective on: 1/1/2021
+Sec. 20-80 Reserved
+Effective on: 1/1/2021
+ARTICLE VIII - ETHICS IN PUBLIC CONTRACTING
+Contents:
+ARTICLE VIII ETHICS IN PUBLIC CONTRACTING
+Sec. 20-81 General standards of ethical conduct
+Sec. 20-82 Conflict of interest
+Sec. 20-83 Disclosure requirements
+Sec. 20-84 Contemporaneous employment prohibited
+Sec. 20-85 Waiver of conflicts and prohibition on employment
+Sec. 20-86 Prohibition of use of confidential information or other sensitive information
+Sec. 20-87 Prohibition of gratuities and kickbacks
+Sec. 20-88 Prohibition of contingent fees
+Sec. 20-89 Remedies and consequences of breach
+Sec. 20-90 Reporting of anti-competitive practices
+Sec. 20-91 Criminal penalties
+Sec. 20-81 General standards of ethical conduct
+In addition to the provisions of this section, the employees and
+elected officials
+of the county, as well as non-county individuals and companies who deal with the county through the
+procurement process
+, shall comply with the provisions of Article XXIX of the Colorado Constitution, Ethics in Government. Any conduct inconsistent with the proper discharge of a county employee's duties is a breach of a public trust. Further, any effort to influence any public employee to breach the standards of ethical conduct is also a breach of ethical standards.
+(
+Res. No. 2020-42, § 20-81, 12/17/2020
+)
+Effective on: 1/1/2021
+Sec. 20-82 Conflict of interest
+Unless a waiver is granted by the county manager, as discussed in section 20-85 below, it is a conflict of interest for any county employee or
+elected official
+to participate directly or indirectly in the
+procurement process
+when the employee or elected official knows that:
+I.
+Financial interest in procurement
+. They or any member of their
+immediate family
+have a
+financial interest
+pertaining to the
+procurement
+.
+II.
+Financial interest in business organization
+. They or a member of their immediate family have a financial interest in a business or organization involved in the procurement.
+A.
+If they or any member of their immediate family owns a minority ownership interest in a publicly traded company, they shall not be deemed to have a conflict of interest regarding matters pertaining to that financial interest, unless the combined ownership interests in the publicly traded company represent a majority interest in such publicly traded company.
+B.
+If they or any member of their immediate family holds a financial interest in a
+blind trust
+, they will not be deemed to have a conflict of interest regarding matters pertaining to that financial interest, if disclosure of the existence of the blind trust has been made to the county attorney.
+III.
+Prospective employment
+. They or a member of their immediate family are negotiating or have an arrangement concerning prospective employment with any other person, business, or organization involved in the procurement.
+Upon discovery of an actual or potential conflict of interest, an employee or
+elected official
+shall promptly file a written statement of disqualification with the procurement division and shall withdraw from further participation in the transaction involved.
+(
+Res. No. 2020-42, § 20-82, 12/17/2020
+)
+Effective on: 1/1/2021
+Sec. 20-83 Disclosure requirements
+I.
+Reporting requirement
+. Any employee or
+elected official
+who has or obtains any benefit from any county
+contract
+with a business in which they or any member of their
+immediate family
+have a
+financial interest
+shall report such benefit to the county attorney and
+contract manager
+.
+II.
+Breach of ethical standards
+. Any employee or elected official who knows or should have known of such benefit, and who fails to report such benefit to the county attorney and contract manager, is in breach of the ethical standards of this section.
+(
+Res. No. 2020-42, § 20-83, 12/17/2020
+)
+Effective on: 1/1/2021
+Sec. 20-84 Contemporaneous employment prohibited
+Unless a waiver is granted by the county manager, as discussed in section 20-85 below, no person or entity may seek to
+contract
+with La Plata County if they contemporaneously employ any county employee or
+elected official
+who participates directly or indirectly in the procurement process.
+(
+Res. No. 2020-42, § 20-84, 12/17/2020
+)
+Effective on: 1/1/2021
+Sec. 20-85 Waiver of conflicts and prohibition on employment
+The county manager, in consultation with the county attorney, may waive application of the conflict of interest provisions (section 20-82) or the prohibition of contemporaneous employment provisions (section 20-84) upon determining that:
+1.
+The employee or
+elected official
+timely disclosed the
+financial interest
+or contemporaneous employment and the matter has been publicly disclosed;
+2.
+The employee or elected official will be able to perform his or her regular duties and
+procurement
+functions without actual or apparent bias or favoritism;
+3.
+Waiver is in the
+best interests of the county
+; and
+4.
+The subject contract is awarded in accordance with this code.
+(
+Res. No. 2020-42, § 20-85, 12/17/2020
+)
+Effective on: 1/1/2021
+Sec. 20-86 Prohibition of use of confidential information or other sensitive information
+It is unethical for any current or former county employee or
+elected official
+to knowingly use
+confidential information
+or other sensitive information obtained as part of their duties for actual or anticipated personal gain, or for the actual or anticipated gain of any other person.
+(
+Res. No. 2020-42, § 20-86, 12/17/2020
+)
+Effective on: 1/1/2021
+Sec. 20-87 Prohibition of gratuities and kickbacks
+I.
+Gratuities
+.
+A.
+It is unethical for any person to offer, give, or agree to give, any county employee or
+elected officia
+l a gift or
+gratuity
+of any pecuniary benefit, a substantial economic benefit, or an offer of employment in connection with any decision, approval, disapproval, recommendation, or preparation of any part of a program requirement or a
+procurement
+request.
+B.
+It is similarly unethical for any county employee or elected official to solicit, demand, accept, or agree to accept from another person, a gift or gratuity of any pecuniary benefit, a substantial economic benefit, or an offer of employment in connection with any decision, approval, disapproval, recommendation, or preparation of any part of a program requirement or a procurement request.
+II.
+Kickbacks.
+A.
+It is unethical for any payment, gratuity, or offer of employment to be made by or on behalf of a subcontractor under a
+contract
+to the prime
+contractor
+or higher tier subcontractor or any person associated therewith, as an inducement for the
+award
+of a subcontract or order.
+III.
+Contract clause
+. The prohibition against
+gratuities
+and kickbacks shall be set forth in every
+standard
+and
+simplified purchase
+contract
+and
+solicitation
+package.
+(
+Res. No. 2020-42, § 20-87, 12/17/2020
+)
+Effective on: 1/1/2021
+Sec. 20-88 Prohibition of contingent fees
+It is a breach of ethical standards for a person to solicit or secure a
+contract
+with the county upon
+agreement
+for a commission, percentage, brokerage or contingent fee, except for contracts related to
+services
+in helping the county recruit and retain new employees.
+(
+Res. No. 2020-42, § 20-88, 12/17/2020
+)
+Effective on: 1/1/2021
+Sec. 20-89 Remedies and consequences of breach
+All procedures under this section shall be exercised in accordance with due process requirements and existing law. Notice and an opportunity for a hearing shall be provided prior to imposition of any employment consequence.
+I.
+Recovery of value transferred or received.
+A.
+The value of anything transferred or received in breach of the ethical standards of this article VIII by a county employee,
+elected official
+or a non-employee may be recovered from such parties. Recovery from one offending party shall not preclude recovery from other offending parties.
+B.
+Upon a showing that a kickback occurred, it shall be conclusively presumed that kickback was included in the price of the subcontract and ultimately borne by the county; the amount will, therefore, be recoverable by the county from the recipient. In addition, the amount may also be recovered from the subcontractor paying the kickback. Recovery from one offending party shall not preclude recovery from other offending parties.
+C.
+The provisions of the preceding two paragraphs shall be set forth in every
+standard
+and
+simplified purchase
+contract
+and
+solicitation
+package.
+II.
+Supplemental remedies - employees
+. In addition to any other remedies available under the law for breach of the standards of this code, the county may impose any one or more of the following employment consequences on county employees who violate the standards set forth in this:
+A.
+Oral or written warnings or reprimands;
+B.
+Suspension with or without pay for a specified period; and
+C.
+Termination of employment.
+III.
+Supplemental remedies – non-employees
+. In addition to existing remedies for breach of the standards of this
+code
+, the county may impose any one or more of the following consequences on non-employees:
+A.
+Written warnings or reprimands;
+B.
+Termination of transactions; or
+C.
+Debarment or suspension from being a
+contractor
+or subcontractor under a county
+contract
+for a specified period.
+(
+Res. No. 2020-42, § 20-89, 12/17/2020
+)
+Effective on: 1/1/2021
+Sec. 20-90 Reporting of anti-competitive practices
+When, for any reason, collusion or other anti-competitive practices are suspected among
+bidders
+, offerors,
+vendors
+or
+contractors
+, a notice of the relevant facts shall be transmitted to the district attorney of the Sixth Judicial District and the county attorney.
+(
+Res. No. 2020-42, § 20-90, 12/17/2020
+)
+Effective on: 1/1/2021
+Sec. 20-91 Criminal penalties
+To the extent violations of ethical standards of conduct constitute violations of the Colorado Criminal Code, they shall be punishable as provided therein. Such penalties shall be in addition to other sanctions set forth in this code or available in law or equity. Criminal, civil, and administrative sanctions against employees and nonemployees, which are in existence on the effective date of this
+code
+, shall not be impaired.
+(
+Res. No. 2020-42, § 20-91, 12/17/2020
+)
+Effective on: 1/1/2021

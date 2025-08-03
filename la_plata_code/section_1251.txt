@@ -1,0 +1,151 @@
+Chapter 78 FLOODS
+FOOTNOTE(S):
+Editor's note—
+Res. No. 2010-37, § 1(Exh. A), adopted July 20, 2010, repealed and reenacted chapter 78 in its entirety to read as herein set out. Formerly, chapter 78 pertained to similar subject matter, and derived from LPLUS, §§ 9.1.1—9.1.4, 9.2, 9.3.1—9.3.9, 9.4.1—9.4.3, 9.5.1—9.5.4, 9.6.1, 9.6.2; Res. No. 2001-14, Exh. A, adopted April 16, 2001; Res. No. 2002-43, § 1, adopted October 7, 2002; Res. No. 2004-20, § 1, adopted June 28, 2004, and Res. No. 2008-30, § 1, adopted November 12, 2008.
+Cross reference—
+Buildings
+and building regulations, ch. 18;
+development
+standards and specifications, ch. 74; land
+use
+and development
+permits
+, ch. 82;
+manufactured home
+, and
+recreational vehicle parks
+, ch. 86; natural resources, ch. 90;
+subdivisions
+, ch. 102; zoning, ch. 106.
+State Law reference—
+Authority to adopt
+flood
+control
+regulations, C.R.S. §§ 29-20-101 et seq., 30-15-401.
+ARTICLE II. FLOODPLAIN MANAGEMENT REGULATIONS
+FOOTNOTE(S):
+Editor's note—
+Res. No. 2014-30, § 1(Exh. A), adopted August 5, 2014, amended article II in its entirety to read as herein set out. Formerly, article II pertained to similar subject matter, and derived from Res. No. 2010-37, § 1(Exh. A), adopted July 20, 2010.
+DIVISION 3. FLOOD HAZARD REDUCTION
+Sec. 78-73. Specific standards.
+In all
+special flood hazard areas
+, except those areas governed by section 78-75 below, the following provisions are required. In determining compliance with this section, available
+base flood elevation
+data
+shall
+be utilized.
+I.
+Residential
+construction
+.
+New construction
+and
+substantial improvement
+of any residential
+structure
+shall have the
+lowest floor
+, including the
+basement
+, electrical, heating, ventilation, plumbing, and air conditioning
+equipment
+and other service
+facilities
+(including ductwork), elevated to one foot above the base flood elevation. Upon completion of the structure, the elevation of the lowest floor, including basement, shall be certified by a registered Colorado
+Professional Engineer
+, architect, or land surveyor. Such certification shall be submitted to the
+floodplain administrator
+.
+II.
+Nonresidential construction. With the exception of
+critical facilities
+, outlined in section 78-79, new construction and substantial improvement of any commercial, industrial or other nonresidential structure shall either have the lowest floor, including the basement, electrical, heating, ventilation, plumbing, and air conditioning equipment and other service facilities (including ductwork), elevated to at least one foot above the level of the base flood elevation; or, together with attendant
+utility
+and sanitary facilities, shall:
+A.
+Be
+flood
+proofed so that below the
+base flood
+level, the structure is watertight with walls substantially impermeable to the passage of water to at least one foot above the base flood elevation;
+B.
+Have structural components capable of resisting hydrostatic and hydrodynamic loads and effects of buoyancy; and
+C.
+A Colorado registered professional engineer or architect shall develop and/or review structural design, specifications, and plans for the construction, and shall certify that the design and methods of construction are in accordance with accepted standards of practice as outlined in this subsection. Such certification shall be maintained by the floodplain administrator.
+III.
+Openings in enclosures below the lowest floor. For all new construction and substantial improvements, fully enclosed areas below the lowest floor that are usable solely for parking of
+vehicles
+,
+building
+access, or storage in an area other than a basement and that are subject to flooding shall be designed to automatically equalize hydrostatic flood forces on exterior walls by allowing for the entry and exit of floodwaters. Designs for meeting this requirement must either be certified by a Colorado registered professional engineer or architect, or must meet or exceed the following minimum criteria:
+A.
+A minimum of two openings having a total net area of not less than one square inch for every square foot of enclosed area subject to flooding shall be provided;
+B.
+The bottom of all openings shall be no higher than one foot above grade; and
+C.
+Openings
+may
+be equipped with screens, louvers, or other coverings or devices provided that they
+permit
+the automatic entry and exit of floodwaters.
+IV.
+Manufactured homes.
+A.
+Manufactured homes shall be anchored in accordance with the standards of subsection 78-72(I).
+B.
+Manufactured homes that are placed or substantially improved within Zones A1-30, AH and AE on
+sites
+outside of a
+manufactured home park
+or
+subdivision
+, in a
+new manufactured home park
+or subdivision, in an
+expansion to an existing manufactured home park
+or subdivision on which a
+manufactured home
+has incurred
+substantial damage
+as the result of a flood, are required to be elevated on a permanent foundation such that the lowest floor of the manufactured home, electrical, heating, ventilation, plumbing, and air conditioning equipment and other service facilities (including ductwork), are elevated to at least one foot above the base flood elevation and be securely anchored to an adequately anchored foundation system to resist flotation, collapse and lateral movement.
+C.
+Manufactured homes to be placed or substantially improved on sites in
+existing manufactured home parks
+or subdivisions within Zones A1-30, AH, and AE that are not subject to the provisions of subsection (III) (B) of this section are required to be elevated so that either the lowest floor of the manufactured home, electrical, heating, ventilation, plumbing, and air conditioning equipment and other service facilities (including ductwork), are at least one foot above the base flood elevation, or the manufactured home chassis is supported by reinforced piers or other foundation elements that are no less than 36 inches in height above grade and are securely anchored to an adequately anchored foundation system to resist flotation, collapse and lateral movement.
+V.
+Recreational vehicles
+. All recreational vehicles placed on sites within Zones A1-30, AH, and AE must either (i) be on the site for fewer than 90 consecutive days, (ii) be fully licensed and ready for highway
+use
+, or (iii) meet the permit requirements of this chapter as well as the elevation and anchoring requirements for manufactured homes.
+VI.
+Below-grade residential crawlspace construction. New construction and substantial improvement of any below-grade crawlspace shall:
+A.
+Have the interior grade elevation that is below base flood elevation no lower than two feet below the lowest adjacent grade;
+B.
+Have the height of the below-grade crawlspace measured from the interior grade of the crawlspace to the top of the foundation wall, not exceed four feet at any point;
+C.
+Have an adequate drainage system that allows floodwaters to drain from the interior area of the crawlspace following a flood;
+D.
+Be anchored to prevent flotation, collapse, or lateral movement of the structure and be capable of resisting the hydrostatic and hydrodynamic loads;
+E.
+Be constructed with materials and utility equipment resistant to flood damage;
+F.
+Be constructed using methods and practices that minimize flood damage;
+G.
+Be constructed with electrical, heating, ventilation, plumbing, and air conditioning equipment and other service facilities that are designed and/or located so as to prevent water from entering or accumulating within the components during conditions of flooding;
+H.
+Be designed to automatically equalize hydrostatic flood forces on exterior walls by allowing for the entry and exit of floodwaters. Designs for meeting this requirement must either be certified by a registered professional engineer or architect or must meet or exceed the following minimum criteria:
+1.
+A minimum of two openings having a total net area of not less than one square inch for every square foot of enclosed area subject to flooding shall be provided;
+2.
+The bottom of all openings shall be no higher than one foot above grade; and
+3.
+Openings may be equipped with screens, louvers, or other coverings or devices provided that they permit the automatic entry and exit of floodwaters.
+Res. No.
+2014-30
+, § 1, 08/05/2014
+Ord. No.
+2024-02
+, §  03/12/2024
+Effective on: 4/25/2024

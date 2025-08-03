@@ -1,0 +1,1199 @@
+Chapter 20 procurement code
+ARTICLE I – INTRODUCTION AND GENERAL PROVISIONS
+Contents:
+ARTICLE I  INTRODUCTION AND GENERAL PROVISIONS
+Sec. 20-1 Purpose and authority
+Sec. 20-2 Applicability
+Sec. 20-3 Repeal and effective date
+Sec. 20-4 Introduction to public procurement
+Sec. 20.5 Definitions and acronyms
+Sec. 20-6 Good faith requirement
+Sec. 20-7 Code of ethics
+Sec. 20-8 Supplementary general principles of law
+Sec. 20-9 References to job titles and exercise of authority
+Sec. 20-10 Revisions to/or waivers of the code
+Sec. 20-11 Public Access
+Sec. 20-12 Severability
+Sec. 20-13 Contacts
+Secs.  20-14—20-20. Reserved
+Sec. 20-1 Purpose and authority
+I.
+Purpose
+. Stewardship of public funds is a fundamental responsibility of county government. The public must have confidence that public funds are spent prudently and transparently on its behalf, with proper planning and evaluation, in a manner that is open and fair to all.
+Under the direction of the Board of County Commissioners (“BOCC”), the La Plata County Procurement Code (this “code”) sets forth the policies and procedures that adhere to applicable laws and a commitment to promote competition, maximize purchasing power, and ensure fair opportunity and equitable treatment of all who seek to do business with the county.
+The purpose of this
+code
+is to guide county personnel in fulfilling their obligations to the public, grantors,
+vendors
+, and
+contractors
+in the expenditure of public funds. The code is a comprehensive reference manual for both county personnel and outside parties who have an interest in the county’s
+procurement
+and contracting processes. It is intended as a guide to good procurement practices and is to be used as a supplement to state law, sound business judgment in procurement and contracting.
+The policies set forth in this code are intended to:
+1.    Provide a procurement program encompassing nationally and regionally approved principles and practices.
+2.    Be reviewed, thoughtfully and regularly, to ensure the utility of the code and to make periodic modifications          and improvements that will enhance the efficiency and effectiveness of the procurement function.
+3.   Promote and encourage ethical management and efficiency in the county procurement procedures.
+4.   Support consistent procurement procedures within all county departments.
+5.   Bolster public confidence in public procurement procedures.
+6.    Ensure the fair and equitable treatment of all persons dealing with the county procurement system.
+7.    Provide increased economy in county procurement activities.
+8.    Maximize the procurement value of county funds.
+9.    Safeguard the high quality and integrity of the procurement system.
+10.  Ensure that the expenditure of public funds complies with the terms and conditions of the funding source.
+This code is presented in a manner that is intended to address each of these factors in a straightforward and       practical way.
+Article 1 explains why, when and how to use this code.
+Article 2 explains the roles and responsibilities of those involved in public procurement.
+Article 3 explains how to select vendors and conduct county purchases.
+Article 4 explains the key to every successful purchase: specifications and scopes of work.
+Article 5 explains the competitive solicitation processes and the requirements of each.
+Article 6 explains the contract options that apply to every purchase, regardless of amount.
+Article 7 explains the determination, protest, claims and dispute resolution processes.
+Article 8 explains the legal and ethical obligations of every public employee.
+II. Authority.
+This code is adopted pursuant to the power and authorities conferred by the laws of the State of Colorado, including but not limited to the following sections of the Colorado Revised Statutes: Article 11 of Title 30 (County Powers and Functions); Article 20 of Title 30 (Public Improvements); and Article 25 of Title 30 (Administration of County Finance).
+(
+Res. No. 2020-42, § 20.1, 12/17/2020
+)
+Effective on: 1/1/2021
+Sec. 20-2  Applicability
+Except as specifically exempted by statute or resolution of the
+BOCC
+, this
+code
+applies to all publicly funded expenditures entered by and on behalf of the county for the purchase or lease of
+goods
+or
+services
+and to the disposal of county personal property purchased with public funds. All county employees shall adhere to these policies as part of their essential job functions.
+In addition, while
+elected officials
+may adopt their own
+procurement
+procedures, to ensure compliance with federal procurement rules and regulations that are applicable to various federal grants and/or
+contracts
+, as well as support fair and consistent procurement procedures, elected officials and their offices are encouraged to adopt and abide by this code. Procurement assistance from county staff can only be provided to elected officials operating under this code.
+The policies in this code do not apply to the following types of agreements:
+1. Intergovernmental
+agreements
+or payments made pursuant to such agreements.
+2. Memoranda of understanding or agreement.
+3. The purchase, sale, or lease of real property.
+4. Contracts to license and use Fairgrounds or Senior Center property.
+5. Grant contracts.
+6. Grants
+awarded
+by the Board of County Commissioners.
+7. Permanent or temporary construction easements.
+8. Right-of-way acquisitions.
+9. Development agreements and development improvement agreements.
+10. Road improvement agreements.
+11.Fair share improvement agreements.
+12. Debt service payments.
+13. Settlement agreements or releases of claims.
+14. Matters under the purview of the county attorney or district attorney, as applicable, that could be or are subject to settlement negotiations, mediation, arbitration or litigation, including but not limited to:
+a. Contracts for litigation support or outside legal counsel retained by the county attorney or district                      attorney.
+b. Contracts for expert witnesses retained by the county attorney, the county attorney’s consultants or the                        district attorney to consult with or testify on behalf of the county in connection with any judicial matter                        involving the county or any matter in which litigation, administrative or regulatory proceedings are                                reasonably anticipated.
+c. Contracts for other litigation goods or services, including but not limited to consultants and experts,                             retained by the county attorney, the county attorney’s consultants or the district attorney in any matter                        in  which litigation is reasonably anticipated.
+d. Transcripts or other records required by the county attorney or district attorney.
+15. Any other purchase the BOCC formally determines to be exempt due to reasons not anticipated by this code.
+Nothing in this code shall prevent the county from complying with the terms and conditions of any grant, gift, bequest, contract, or cooperative agreement that is otherwise consistent with the law. If any provision of this code causes denial of state or federal monies that would otherwise be available to the county or is inconsistent with requirements of state or federal law, that provision shall be suspended to the extent necessary to prevent denial of the monies or to eliminate the inconsistency with state or federal law. Specifically, when procurement involves the expenditure of federal assistance or contract funds, procurement shall be conducted in accordance with any mandatory, applicable federal law and regulations.
+(
+Res. No. 2020-42, § 20-2, 12/17/2020
+)
+Effective on: 1/1/2021
+Sec. 20-3 Repeal and effective date
+Except to the extent necessary to enforce compliance with contracts entered into prior to the effective date of this code, the La Plata County Procurement Code adopted pursuant to Resolution No. 2003-33 on July 14, 2003 is repealed as of December 31, 2020. This
+code
+shall be effective on January 1, 2021. It does not retroactively affect any rights and remedies under existing
+contracts
+but, to the extent not inconsistent with the express terms of existing contracts, does apply to amendments and renewals of existing contracts.
+(
+Res. No. 2020-42, § 20-3, 12/17/2020
+)
+Effective on: 1/1/2021
+Sec. 20-4 Introduction to public procurement
+Procurement
+in the public sector is the process through which a government acquires
+goods
+and
+services
+. The terms “procurement” and “purchasing” are often used interchangeably. However, strictly speaking, “purchasing” is only one of three stages of the public procurement cycle.
+The three (3) stages of public procurement are:
+I.
+Planning and scheduling.
+This stage includes defining the need, developing the means and methods to meet the need, including the method of source selection, assessing risks, and ensuring proper allocation of resources.
+II.
+Purchasing and source selection.
+This stage represents the process through which qualified providers of goods and services are identified,
+solicited
+, evaluated, and ultimately selected. The method of source selection, dictated by the amount of the expenditure, is determined in the planning and scheduling stage.
+III.
+Contract formation and administration.
+This stage includes confirmation of expected performance measures, finalization of terms and conditions, and signature of authorized parties. This stage also includes post-
+award
+compliance with and enforcement of the terms of the resulting
+contract
+, including payment of invoices and adherence to insurance, amendment and renewal requirements through contract completion.
+The appropriate procurement process to be followed in any given circumstance is dependent upon a variety of factors. A conceptual framework for determining the appropriate process is summarized as follows:
+1
+. Nature of purchase.
+The nature of the purchase dictates: (a) whether public competition is required, and (b) whether additional approvals are required.
+2.
+Amount spent.
+The amount to be spent dictates: (a) who has the authority to make the purchase, (b) what kind of competitive solicitation, if any, is required, and (c) who has the authority to sign the contract.
+3.
+Memorialization
+. Every purchase and sale, regardless of type or amount, must be memorialized in a written document that identifies the rights and obligations of both the
+buyer
+and the seller.
+(
+Res. No. 2020-42, § 20-4, 12/17/2020
+)
+Effective on: 1/1/2021
+Sec. 20.5 Definitions and acronyms
+I.
+Definitions
+. The following words, terms and phrases shall have the meanings set forth in this section whenever they appear in this code unless otherwise specifically stated. Not all the words and phrases below, however, appear in the current version of the code. They are nevertheless included to ensure and develop a common understanding and usage of common public procurement terminology. Questions regarding terms that do not appear below should be directed to the contract manager.
+Contents:
+Advertise
+Agreement
+Appropriation
+Award
+Architectural and engineering services
+Best interests of the county
+Bid
+Bidder
+Bid opening
+Blind trust
+Brand name
+Brand name only specification
+Breach of contract
+Budget
+Budget year
+Buyer
+Change order
+Code
+Compete
+Competitive range
+Competitive reverse auction
+Competitive sealed bid
+Competitive sealed proposal
+Confidential information
+Consideration
+Construction
+Contract
+Contract amendment or modification
+Contract management
+Contract manager
+Contractor
+Cooperative purchases
+Cost analysis
+Cost or pricing data
+County representative
+Digital signature
+Documented quote
+Elected officials
+Electronic signature
+Emergency purchase
+Encumbrance
+Environmentally preferable product(s)
+Established catalogue price
+Expenditure
+Financial interest
+Fiscal year
+Good faith
+Goods
+Grant
+Gratuity(ies)
+Immediate family
+Indemnity or indemnification
+Invitation for bids (IFB)
+Liquidated damages
+Local business
+Local and regional business(es)
+Lowest responsive and responsible bidder
+Minor deviation or informality(ies)
+Non-responsive bid
+Offer
+On-call list
+Payment bond
+Performance bond
+Personal services
+Price analysis
+Price data or pricing data
+Procurement
+Procurement process
+Professional services
+Proposal
+Purchase order (PO)
+Purchase number or purchase order number
+Purchase requisition (PR)
+Purchased services
+Qualifications-based competitive procedures
+Qualified vendor
+Regional business
+Request for information (RFI)
+Request for proposals (RFP)
+Request for qualifications (RFQ)
+Responsible bidder or offeror
+Responsive bid
+Responsive bidder or offeror
+Scope of work (SoW)
+Sealed
+Services
+Simplified purchase
+Small purchase
+Sole source justification
+Sole source purchase
+Solicitation
+Specifications
+Standard purchase
+Supplies
+Surplus property
+Uniform commercial code (UCC)
+Unsolicited proposals
+Vendor
+II.
+Acronyms
+. The following acronyms are used in this code and by staff and are intended to have the following               meanings:
+BOCC
+The La Plata County Board of County Commissioners
+CORA
+The Colorado Open Records Act. C.R.S. § 24-72-200.1 et seq., as amended
+EOC
+Emergency operations center
+IFB
+Invitation for bids
+PO
+Purchase order
+PR
+Purchase requisition
+RFI
+Request for information
+RFP
+Request for proposals
+RFQ
+Request for qualifications
+SoW
+Scope of Work
+UCC
+Uniform Commercial Code
+(
+Res. No. 2020-42, § 20.5, 12/17/2020
+)
+Advertise
+To make a public announcement of the intention to purchase
+goods
+or
+services
+.
+Effective on: 1/1/2021
+Agreement
+See
+contract
+, defined below.
+Effective on: 1/1/2021
+Appropriation
+The authorization by ordinance or resolution of a spending limit for expenditures and obligations for specific purposes. There is an absolute prohibition against spending in excess of an appropriation.  A
+contract
+requiring the expenditure of funds that have not been appropriated is void and no county money will be paid on such a contract. Multiple-year contracts may be entered where allowed by law and if subject to annual appropriation.  See C.R.S. §§  29-1-102(1); 29-1-110.
+Effective on: 10/1/2020
+Award
+The acceptance of a
+bid
+or
+proposal
+pursuant to the process designated in the
+code
+, which results in the presentation of a
+contract
+to a
+vendor
+for execution.
+Effective on: 1/1/2021
+Architectural and engineering services
+Services that include program management,
+construction
+management, feasibility studies, preliminary engineering, design, architectural, engineering, surveying, mapping and related services.
+Effective on: 1/1/2021
+Best interests of the county
+A term used in granting the
+contract manager
+and finance director authority to use discretion to act based on what is believed to be the most advantageous to the county. The term is used when it is impossible to anticipate adequately the circumstances that may arise and, thus, impossible to delineate more specific directions.
+Effective on: 1/1/2021
+Bid
+An
+offer
+submitted by a prospective
+vendor
+in response to a bid invitation issued by a
+buyer
+. Bids are usually non-negotiable and become a
+contract
+upon acceptance by the buyer.
+Effective on: 1/1/2021
+Bidder.
+An individual or entity that submits a
+bid
+in response to a bid invitation or other
+solicitation
+document issued by a
+buyer
+. A bidder is not a contractor until there is a fully executed
+contract
+after the
+award
+of a contract.
+Effective on: 1/1/2021
+Bid opening.
+The process through which the contents of
+bids
+are revealed for the first time to the government, to other
+bidders
+, and usually to the public.
+Effective on: 1/1/2021
+Blind trust
+An independently managed trust in which the beneficiary has no management rights and in which the beneficiary is not given notice of alterations in, or other dispositions of the property subject to, the trust.
+Effective on: 1/1/2021
+Brand name
+A product name that serves to identify the product of a manufacturer or a trade name.
+Effective on: 1/1/2021
+Brand name only specification
+A
+specification
+that cites the
+brand names
+, model numbers or other identifications as representing the quality and performance called for and inviting
+bids
+on comparable items or products of any manufacturer.
+Effective on: 1/1/2021
+Breach of contract
+A failure, without legal excuse, to perform any obligation that forms all or part of a
+contract
+.
+Effective on: 1/1/2021
+Budget
+The complete estimated financial plan of the county. See C.R.S. § 29-1-102(3), as amended.
+Effective on: 1/1/2021
+Budget year
+A
+fiscal year
+.  See C.R.S. §  29-1-102(4), as amended.
+Effective on: 1/1/2021
+Buyer
+A purchaser. In context of the
+code
+, the term generally refers to the
+BOCC
+and those designees who are authorized to enter into
+contracts
+on the county’s behalf.
+Effective on: 1/1/2021
+Change order
+Work that is added to or deleted from the original
+scope of work
+of a
+contract
+and that alters the original contract amount or completion date. Approval for change orders is addressed in article VI of the
+code
+.
+Effective on: 1/1/2021
+Code
+This procurement code.
+Effective on: 1/1/2021
+Compete
+To obtain pricing and other applicable information from potential
+vendors
+prior to selecting a source through which to meet the county’s requirements.
+Effective on: 1/1/2021
+Competitive range
+Those
+proposals
+that, upon initial evaluation, are most responsive to the
+solicitation
+requirements and are from potential
+vendors
+who are reasonably qualified to be selected for
+award
+. Proposals not within the competitive range are given no further consideration, as more specifically discussed in article V of the
+code
+.
+Effective on: 1/1/2021
+Competitive reverse auction
+An auction in which the
+buyer
+puts up a request for a required
+goods
+or
+services
+and the seller then places
+bids
+for the amount they are willing to be paid for such goods or services, with the seller submitting the lowest amount within prescribed timeframes winning the auction.
+Effective on: 1/1/2021
+Competitive sealed bid
+The preferred method for acquiring
+goods
+,
+services
+, and
+construction
+for public use when an
+award
+is based solely on the response to the criteria set forth in an
+invitation for bids
+. Submitted
+bids
+must be
+sealed
+to prevent dissemination of the contents before the deadline for the submission of all bids. This procedure is generally required on county
+procurements
+expected to cost more than fifty thousand dollars ($50,000.00) to ensure fair
+competition
+among
+bidders
+when the lowest responsive and responsible bid will be the most important factor in winning the award.
+Effective on: 1/1/2021
+Competitive sealed proposal
+The method for acquiring
+goods
+,
+services
+and
+construction
+for public use when discussions or negotiations may be conducted with responsible offerors who submit
+proposals
+within the
+competitive range
+. Submitted proposals must be
+sealed
+to prevent dissemination of the contents before the deadline for the submission of all proposals.
+Effective on: 1/1/2021
+Confidential information
+This term includes, but is not limited to, trade secrets, privileged information, and confidential proprietary, commercial and financial information furnished by a
+bidder
+or
+vendor
+that must be withheld from inspection by the county pursuant to CORA.
+Effective on: 1/1/2021
+Consideration
+The reason parties enter a given
+contract
+. Consideration is an essential element of a contract; each party must give up something of value, such as payment, or refrain from doing something it is otherwise able to do.
+Effective on: 1/1/2021
+Construction
+The process of building, altering, repairing, improving, or demolishing any public structure, public building or other public improvements of any kind, to real property. It does not include the routine operation, routine repair, or routine maintenance of any existing public infrastructure facility, including structures, buildings or real property.
+Effective on: 1/1/2021
+Contract
+An
+agreement
+between two or more parties creating enforceable obligations. The term is used for all types of written agreements, regardless of what they may be called, for obtaining or disposing of
+goods
+,
+services
+,
+construction
+, or other performance obligations in return for specific terms, conditions or price. As explained in section 1.2, the
+code
+applies only to contracts entered for the purchase or lease of goods or services and to the disposal of county property purchased with public funds.
+Effective on: 1/1/2021
+Contract amendment or modification
+An agreed upon revision or correction to a
+contract
+that includes the addition or deletion of original contract terms.
+Effective on: 1/1/2021
+Contract management
+The process of supervising the application of terms of a
+contract
+from
+award
+through acquisition to successful completion.
+Effective on: 1/1/2021
+Contract manager
+The member of the procurement division responsible for managing the stages of the contracting process, which may include such activities as ensuring use of the correct
+contract
+type necessary to meet relevant legal and business requirements; ensuring inclusion of all necessary contract terms and conditions; approving contract revisions; managing, coordinating, and monitoring contracts and processes; and planning, negotiating, storing or analyzing contracts and contract issues.
+Effective on: 1/1/2021
+Contractor
+Any person or company having a
+contract
+with the
+BOCC
+; also, may be referred to as a seller.
+Effective on: 1/1/2021
+Cooperative purchases
+Those purchases made from a
+contract
+or
+agreement
+written by another federal, state, county, city, or other governmental agency, or government cooperative for identical
+goods
+or
+services
+that do not require additional competition by the county when the original agreement has been formally competed or renewed by the acquiring government within the last twelve (12) months, as discussed in article III. The state
+bid
+list qualifies as a source of appropriate
+vendors
+for cooperative purchases. See also C.R.S. §§ 24-101-301(12) and 24-110-201, as amended.
+Effective on: 1/1/2021
+Cost analysis
+An element-by-element evaluation of a
+vendor's
+detailed cost estimate.
+Effective on: 1/1/2021
+Cost or pricing data
+Factual information concerning the cost of labor, material, overhead, and other elements of cost that are expected to be incurred or that the
+contractor
+has incurred in performing the
+contract
+.
+Effective on: 1/1/2021
+County representative
+The agent of the county, usually an employee, responsible for ensuring that both the county and the
+contractor
+meet or exceed their performance requirements stated in any
+contract
+. In addition, this individual is responsible for monitoring delivery schedules, ensuring completeness and accuracy, maintaining the contract relationship, addressing related problems, identifying necessary changes, approving all contractor invoices, and actively interacting with the contractor to achieve the contract objectives.
+Effective on: 1/1/2021
+Digital signature
+An
+electronic signature
+that secures and transforms data through use of an asymmetric cryptosystem (i.e., public key cryptography).
+Effective on: 1/1/2021
+Documented quote
+A
+solicitation
+of
+qualified vendors
+requesting pricing and terms for
+simplified purchases
+. Documented quote solicitations are not advertised publicly and are used commonly for standard, off the shelf items, items built to known specifications, items required in small quantities, or services that can be performed within a calendar year and fall below the
+standard purchase
+level. Documented quotes are attached to a properly submitted
+purchase requisition
+, which requires written
+specifications
+or a
+scope of work
+, a list of no less than three (3) qualified vendors who were contacted, identification of the successful
+vendor
+, and the reason that vendor was selected. See article III.
+Effective on: 1/1/2021
+Elected officials
+Individuals elected to a position in La Plata County.
+Effective on: 1/1/2021
+Electronic signature
+Any electronic sound, symbol or process attached to or logically associated with an electronic record that is executed and adopted by a person with the intent to sign the record, having the same force and effect as a manual signature. Electronic signatures include
+digital signatures
+. An electronic signature must comply with the definitions and requirements set forth in the Uniform Electronic Transactions Act and its implementing rules. See C.R.S. § 24-71.3-101
+et seq.
+, as amended.
+Effective on: 1/1/2021
+Emergency purchase
+A purchase made in response to a condition that creates a threat to public health, welfare, or safety as discussed in article III of the
+code
+.
+Effective on: 1/1/2021
+Encumbrance
+A commitment related to unperformed
+contracts
+for
+goods
+or
+services
+. See C.R.S. § 29-1-102(7), as amended.
+Effective on: 1/1/2021
+Environmentally preferable product(s)
+Products that have a lesser or reduced effect on human health and the environment when compared to competing products that serve the same purpose. This applies to raw material acquisition, as well as product manufacturing, distribution, use, maintenance and disposal.
+Effective on: 1/1/2021
+Established catalogue price
+The price included in a catalogue, price list, schedule or other format that is regularly maintained by a manufacturer or
+vendor
+, is either published or otherwise available for inspection by customers, and states prices at which sales are currently or were last made to a significant number of any category of
+buyers
+or buyers constituting the general buying public for the
+supplies
+or
+services
+involved. See C.R.S. § 24-101-301(15), as amended.
+Effective on: 1/1/2021
+Expenditure
+Any use of financial resources of the county, consistent with its basis of accounting for
+budget
+purposes, for the provision or acquisition of
+goods
+and
+services
+for operations, debt service, capital outlay, transfers, or other financial uses. Expenditures may not exceed
+appropriations
+. Any
+contract
+involving expenditures that have not been appropriated shall be void and no money belonging to the county will be paid on such a contract. See C.R.S. §§ 29-1-102(8)(a); 29-1-110 (1), as amended.
+Effective on: 1/1/2021
+Financial interest
+Any monetary or financial interest held by an individual and includes an ownership interest, a creditor interest, employment or prospective employment for which negotiations have begun, a loan or any other debtor interest, or being an officer in a business.
+Effective on: 1/1/2021
+Fiscal year
+For La Plata County, the period commending January 1 and ending December 31 (i.e., a calendar year). The federal fiscal year refers to the period commencing October 1 and ending September 30.
+Effective on: 1/1/2021
+Good faith
+A state of mind consisting of honesty in belief or purpose; faithfulness to one’s duty or obligation; observance of reasonable commercial standards of fair dealing in a given trade or business; and absence of intent to defraud or to seek an unconscionable advantage.
+Effective on: 1/1/2021
+Goods
+This term includes, but is not limited to, equipment, materials,
+supplies
+, and printing and has the same meaning as supplies. Goods does not include real property or leases of the same.
+Effective on: 1/1/2021
+Grant
+The transferring of government funds to support or stimulate programs authorized by law to accomplish objectives that are locally defined and managed. It does not mean an
+award
+whose primary purpose is to procure an end product, whether in the form of
+supplies
+,
+services
+or
+construction
+, as a
+contract
+resulting from such an award is not a grant, but rather, is a procurement contract governed by the
+code
+.
+Effective on: 1/1/2021
+Gratuity(ies)
+A payment, loan subscription, advance, deposit of money, service or anything of more than nominal value, present or promised.
+Effective on: 1/1/2021
+Immediate family
+A spouse, parent, grandparent, child, grandchild, brother or sister, whether through blood, adoption or marriage, and includes in-law and step relationships.
+Effective on: 1/1/2021
+Indemnity or indemnification
+An
+agreement
+to compensate another upon the occurrence of an anticipated loss or damage they may suffer. Article XI of the Constitution of Colorado prohibits the county from becoming “responsible for any debt, contract or liability of any person, company or corporation, public or private, in or out of the state.” Colo. Const. art. XI, § 1. See also Colo. Const. art. X, § 20; C.R.S. § 29-1-110, as amended.
+Effective on: 1/1/2021
+Invitation for bids (IFB)
+The formal process used to
+solicit
+bids
+, or
+offers
+, from
+qualified vendors
+for
+goods
+or
+services
+when complete
+specifications
+or specific purchase descriptions are available, as discussed in article V of the
+code
+. Generally, the
+contract
+is
+awarded
+to the lowest responsive and
+responsible bidder.
+Effective on: 1/1/2021
+Liquidated damages
+A specific sum identified in a
+contract
+that the parties agree is a fair and reasonable estimate of actual damages that would be incurred in the event of a contractual breach. Liquidated damages replace actual damages and are appropriate only when it would be difficult to determine the amount of actual damages. A liquidated damage provision may apply to one or both parties.
+Effective on: 1/1/2021
+Local business
+A
+vendor
+that has maintained a business office in La Plata County for a minimum of six (6) months prior to the date an
+invitation for bids
+or
+request for proposals
+or qualifications is let; that will use La Plata County residents to deliver at least fifty (50) percent of the total
+goods
+or
+services
+contracted for; and that, if using vehicles for the project, will license no less than fifty (50) percent of such fleet of vehicles in La Plata County. For purposes of this provision, a La Plata County resident is defined as someone who maintains their primary residence in La Plata County.
+Effective on: 1/1/2021
+Local and regional business(es)
+Businesses that meet the qualifications set forth in this
+code
+and that may qualify for certain preferences when bidding on
+county
+contracts.
+Effective on: 1/1/2021
+Lowest responsive and responsible bidder
+The
+bidder
+who complies with all the
+bid
+requirements, whose past performance, reputation and financial capability is deemed acceptable, and who has offered the most advantageous pricing or cost benefit based on the criteria stipulated in the
+solicitation
+package. Quality and service are as important as price when considering
+goods
+for purchase; in some instances, the lowest price does not necessarily mean the lowest cost. A higher priced, higher quality product or service may save the county from excess expenses in the future, and this factor, as well as scheduling concerns, are taken into consideration when determining the lowest responsive and
+responsible bidder
+.
+Effective on: 1/1/2021
+Minor deviation or informality(ies)
+Deviations that are a matter of form and not of substance; they are deviations that pertain to some immaterial or inconsequential defect or variation from the exact requirement of the
+solicitation
+. Minor deviations or informality(ies) can be waived or corrected without prejudice to other vendors; that is, the effect on price, quantity, quality, delivery or contractual conditions is negligible.
+Effective on: 1/1/2021
+Non-responsive bid
+A
+bid
+that does not conform to the mandatory or essential requirements of the
+IFB.
+Effective on: 1/1/2021
+Offer
+A proposal from one party to another to do or to refrain from doing something resulting in a legally binding commitment. Acceptance of the offer by the other party creates a
+contract.
+Effective on: 1/1/2021
+On-call list
+A list of eligible,
+qualified vendors
+who have been selected through a previous formal
+solicitation
+process to provide
+personal services
+to the county for various projects on an as-needed basis.
+Effective on: 1/1/2021
+Payment bond
+A financial guarantee by a successful
+vendor
+for a
+construction
+project to assure payment to individuals performing work on that project.
+Effective on: 1/1/2021
+Performance bond
+A financial guarantee by a successful
+vendor
+to protect the county from loss due to the
+contractor’s
+inability to complete the
+contract
+as agreed.
+Effective on: 1/1/2021
+Personal services
+Acts performed by individuals or entities that provide
+services
+involving intellectual or manual effort as opposed to only providing
+goods
+or labor. See also
+professional services
+.
+Effective on: 1/1/2021
+Price analysis
+The evaluation of
+price data
+, which may assist in arriving at the price a
+buyer
+might expect to pay. This is done by looking at individual components of the cost.
+Effective on: 1/1/2021
+Price data or pricing data
+Factual information concerning prices for items substantially similar to those being procured. Prices in this definition refer to offered or proposed selling prices, as well as current and historical selling prices. The definition refers to data relevant to both prime and subcontract prices.
+Effective on: 1/1/2021
+Procurement
+The acquisition or disposal of
+goods
+,
+services
+or
+construction
+for the use or benefit of the county, whether through purchase or lease. It also includes all functions of the
+procurement process
+.
+Effective on: 1/1/2021
+Procurement process
+The series of acts of defining requirements,
+solicitation
+of sources, issuing
+bid
+or
+proposal
+documents, source selection, preparation and
+award
+of
+contract
+, and all phases of contract administration.
+Effective on: 1/1/2021
+Professional services
+A type of
+personal services
+rendered by members of a recognized profession or persons possessing a special skill. Professional services are essentially intellectual in character and include: analysis, evaluation, exercise of discretion, independent judgment, prediction, planning, or recommendation in their performance, and an advanced or specialized type of knowledge, expertise or training customarily acquired either by a prolonged course of study or equivalent experience in the field. Professional services are generally acquired to obtain information, advice, training or direct assistance and include, but are not limited to: services performed by a licensed accountant, auditor, analyst, consultant, lawyer, physician, planner, artist, engineer or architect when the exact scope and content of the services cannot be specified readily with certainty. See also C.R.S. §§ 24-30-1401, et seq.; 24-101-301(31), as amended.
+Effective on: 1/1/2021
+Proposal
+The documents submitted by
+vendors
+in response to an
+RFP
+that then become the basis for negotiations. Proposals are
+solicited
+when vendor selection is to be made based on performance rather than price alone. See
+request for proposals
+.
+Effective on: 1/1/2021
+Purchase order (PO)
+A written order formalizing all the terms and conditions of a proposed transaction. Once signed, a PO becomes a
+contract
+. A PO may be included among the approved contract forms authorized for use by the county attorney when used in connection with
+small purchases
+.
+Effective on: 1/1/2021
+Purchase number or purchase order number
+The number that will be assigned to a properly completed
+purchase requisition
+signifying that funds have been encumbered and are available to pay invoices submitted against the relevant
+contract
+for the current
+fiscal year
+. The purchase number must appear on all vouchers requesting payment to a
+contractor
+so that the appropriated funds will be applied. Vouchers for payment in excess of ten thousand dollars ($10,000.00) cannot be processed without a purchase order number.
+Effective on: 1/1/2021
+Purchase requisition (PR)
+A request from or on behalf of a department or
+elected official
+to the procurement division that
+goods
+or
+services
+be
+procured
+for a specific purpose or to meet a specific need. A PR is required for all
+simplified purchases
+and
+standard purchases
+and must include all the information required for the purchase, such as
+specifications
+or
+SoW
+or a
+documented quote
+. Other information, as specified in the
+code
+, may be necessary in order to finalize a PR. The procurement division cannot process an incomplete PR.
+Effective on: 1/1/2021
+Purchased services
+Services
+that are purchased from public or private entities that directly benefit discrete groups or individuals in the general public and that are usually funded by a law-defined state
+grant
+. Examples of purchased services include foster care, refugee services, mental health and the like.
+Effective on: 1/1/2021
+Qualifications-based competitive procedures
+These procedures require that an offeror’s qualifications, exclusive of price, be evaluated and that
+contract
+negotiations will be conducted only with the offeror deemed most qualified. If agreement as to price cannot be reached, negotiations with the next most qualified offeror will be conducted until a contract
+award
+can be made to the most qualified offeror whose price is fair and reasonable to the county.
+Effective on: 1/1/2021
+Qualified vendor
+A provider of
+goods
+or
+services
+with the experience, qualifications, and ability to perform a
+contract
+if
+awarded
+.
+Effective on: 1/1/2021
+Regional business
+A
+vendor
+that has maintained a business office in the following Colorado counties for a minimum of six (6) months prior to the date an
+invitation for bids
+or
+request for proposals
+or
+qualifications
+is let: La Plata, Archuleta, Montezuma, Dolores or San Juan; that will use regional residents to deliver at least fifty (50) percent of the total
+goods
+or
+services
+contracted for; and that will use a fleet of vehicles on the project, no less than fifty (50) percent of which are licensed in any of the five (5) counties listed above. For purposes of this provision, a regional resident is defined as someone who maintains their primary residence in one of the five (5) counties identified above.
+Effective on: 1/1/2021
+Request for information (RFI)
+A published request asking potential
+vendors
+to identify information regarding the availability, features or measures for the purchase of
+goods
+or
+services
+that will assist the county during the
+procurement process
+.
+Effective on: 1/1/2021
+Request for proposals (RFP)
+The formal process used to
+solicit
+proposals
+from potential
+vendors
+when a desired outcome is known and recommendations about how to achieve that outcome are requested, as discussed in article V of the
+code
+.
+Contract
+award
+is based upon factors in addition to or other than price.
+Effective on: 1/1/2021
+Request for qualifications (RFQ)
+Solicitation
+documents requesting submittal of qualifications or specialized expertise in response to the scope of services required. Pricing is not solicited with RFQs. RFQs are generally the first in a two-part solicitation process and are followed by an
+RFP
+or
+IFB
+. They are used most often in
+construction
+projects.
+Effective on: 1/1/2021
+Responsible bidder or offeror
+Those potential
+vendors
+who have submitted responsive
+bids
+or
+proposals
+and who have the capability to fully perform all
+contract
+requirements as well as the experience, integrity, reliability, capacity, facilities, equipment and credit assuring
+good faith
+performance. Past performance, financial capabilities, and business management may be included as criteria for determination of a
+bidder’s
+ability to satisfy contract requirements.
+Effective on: 1/1/2021
+Responsive bid
+A
+bid
+that substantially conforms to the requirements outlined in a
+solicitation
+.  Any deviation from the requirements of the solicitation may be considered non-responsive.  The procurement division may, in its discretion, waive
+minor deviations
+or informalities.
+Effective on: 1/1/2021
+Responsive bidder or offeror
+A potential
+vendor
+who has submitted
+bid
+or
+proposal
+that conforms in all material respects to the requirements set forth in the
+solicitation
+.
+Effective on: 1/1/2021
+Scope of work (SoW)
+The written description of the required
+goods
+or
+services
+stated in terms of the result to be achieved upon
+contract
+completion as discussed in article IV of the
+code
+.
+Effective on: 1/1/2021
+Sealed
+A
+bid
+or
+proposal
+or other response to a
+solicitation
+must be submitted in a manner that ensures that: (1) the contents of the bid, proposal or other response cannot be opened and viewed before the formal opening without leaving evidence that the document has been opened or viewed; (2) the documents cannot be changed once received by the county without leaving evidence that the documents have been changed; and (3) bears a physical or
+electronic signature
+evidencing the intent by the
+bidder
+or offeror to be bound.
+Effective on: 1/1/2021
+Services
+The furnishing of labor, time, or effort by a
+contractor
+, not involving the delivery of a specific
+good
+. There are many types of services, including by way of example only:
+professional services
+,
+personal services
+and
+purchased services
+, each of which may require different
+contract
+terms. Services as used here do not include employment
+agreements
+or collective bargaining agreements.
+Effective on: 1/1/2021
+Simplified purchase
+Any purchase with a
+contract
+requirement between ten thousand one dollars ($10,001.00) and fifty thousand dollars ($50,000.00), as discussed in article III.
+Effective on: 1/1/2021
+Small purchase
+Any purchase with a
+contract
+requirement of ten thousand dollars ($10,000.00) or less, as discussed in article III.
+Effective on: 1/1/2021
+Sole source justification
+The form that demonstrates that the criteria of a
+sole source purchase
+, described in article III, are met and that is completed and signed by the requesting department or
+elected official
+and approved by the finance director prior to entering into a
+contract
+with a
+vendor
+.
+Effective on: 1/1/2021
+Sole source purchase
+A purchase of a
+good
+or
+service
+with a
+contract
+requirement of more than ten thousand dollars ($10,000.00) that does not meet the competitive
+solicitation
+standards of either a
+simplified purchase
+or a
+standard purchase
+and that satisfies the sole source standards described in article III. A contract amendment or extension that is outside the terms of the original solicitation and contract is technically a sole source purchase.
+Effective on: 1/1/2021
+Solicitation
+The telephone call, email or document, such as an
+RFP
+,
+IFB
+or
+documented quote
+, requesting submittal of
+bids
+or
+proposals
+in accordance with the required
+specifications
+. Unlike an
+offer
+, a solicitation is not an unequivocal proposal to enter into a binding
+agreement
+.
+Effective on: 1/1/2021
+Specifications
+The written description of the physical or functional performance criteria necessary to meet the county’s needs as discussed in article IV.
+Effective on: 1/1/2021
+Standard purchase
+Any purchase with a
+contract
+requirement of more than fifty thousand dollars ($50,000.00), as discussed in article III.
+Effective on: 1/1/2021
+Supplies
+This term includes, but is not limited to, equipment, materials and printing, and has the same meaning as
+goods
+.
+Effective on: 1/1/2021
+Surplus property
+Any county-owned personal property acquired by expenditure of county funds pursuant to this code or prior procurement codes that is no longer functional (and is beyond repair), has been utilized for a period greater than or equal to its useful life, or is no longer of any use to any county department.
+Effective on: 1/1/2021
+Uniform commercial code (UCC)
+Statutes, adopted in the State of Colorado in Title 4, that define the rights and duties of parties in commercial situations, such as the sale of
+goods
+, secured transactions, and negotiable instruments, and that conform to the rules of modern commercial disputes.
+Effective on: 1/1/2021
+Unsolicited proposals
+Any
+offer
+made by a third-party to sell
+goods
+or provide
+services
+to the county that have not been solicited or published by the county.
+Effective on: 1/1/2021
+Vendor
+The individual or entity proposing to provide the
+service
+or product that is the subject of the
+procurement
+.
+Effective on: 1/1/2021
+Sec. 20-6 Good faith requirement
+All parties involved in the
+solicitation
+, negotiation, performance or administration of county
+procurement
+actions shall act in
+good faith
+.
+(
+Res. No. 2020-42, § 20-6, 12/17/2020
+)
+Effective on: 1/1/2021
+Sec. 20-7 Code of ethics
+As a political subdivision of the State of Colorado, anyone who makes purchases for the county is an agent of the county and is subject to Article XXIX of the Colorado Constitution concerning ethics in government. Compliance with this provision is also required by the County’s Code of Ethics and Conduct Policy, Policy Number I.A.1.
+(
+Res. No. 2020-42, § 20-7, 12/17/2020
+)
+Effective on: 1/1/2021
+Sec. 20-8 Supplementary general principles of law
+This
+code
+reflects applicable state and local laws and regulations and provides a process that ensures
+competitive
+procurement
+and procedures that conform to applicable laws. Unless otherwise stated, the principles of law and equity, including the UCC and applicable legal authorities, shall supplement the provisions of this code.
+Where there exists a conflict or overlap between any provisions in this code or between this code and any other regulation adopted by the county, the provision that is the more restrictive or particular shall prevail over that which is less restrictive.
+(
+Res. No. 2020-42, § 20-8, 12/17/2020
+)
+Effective on: 1/1/2021
+Sec. 20-9 References to job titles and exercise of authority
+Job title references throughout this
+code
+are provided for convenience only and are based upon titles as they exist on January 1, 2021. The roles and responsibilities set forth in this code correspond to the job function rather than job title and do not change when a job title changes. Every effort shall be made to ensure compliance with this code, regardless of job title, by substituting the new title or titles applicable to the job responsibilities at issue.
+Whenever a provision appears requiring an elected official, department head, contract manager, contract procurement specialist or other county representative to perform an act of duty, it shall be construed to authorize that individual to designate, delegate or authorize subordinates to perform any duty or act, unless otherwise expressly prohibited by the BOCC in this code or in any policy.
+(
+Res. No. 2020-42, § 20-9, 12/17/2020
+)
+Effective on: 1/1/2021
+Sec. 20-10 Revisions to/or waivers of the code
+Only the
+BOCC
+may authorize revisions to the policies reflected in this
+code
+. Revisions will be made by BOCC resolution and waivers shall occur by formal action taken by the BOCC, unless otherwise permitted by this code. The
+contract manager
+, with the approval of the finance director, is authorized to define and implement the procedures required to ensure consistent application and effective compliance with this code, including updates to the definitions.
+(
+Res. No. 2020-42, § 20-10, 12/17/2020
+)
+Effective on: 1/1/2021
+Sec. 20-11 Public access
+Procurement
+information shall be a public record to the extent provided in the Colorado Open Records Act found at C.R.S. § 24-72-200.1
+et seq
+., as amended (“CORA”) and shall be made available to the public in accordance with CORA and with the County’s Open Record Policy. Trade secrets, proprietary or other
+confidential information
+furnished will not be disclosed to the extent protected by CORA or other applicable law.
+(
+Res. No. 2020-42, § 20-11, 12/17/2020
+)
+Effective on: 1/1/2021
+Sec. 20-12 Severability
+If any section, subsection, paragraph, clause, phrase or provision of this code shall be adjudged to be invalid or unconstitutional by a court of competent jurisdiction, it shall not affect the validity of this code, as a whole or any part of provision hereof, other than the part so adjudged to be invalid or unconstitutional. It is the declared legislative intent that the remaining provisions of this code shall continue in full force and effect.
+(
+Res. No. 2020-42, § 20-12, 12/17/2020
+)
+Effective on: 1/1/2021
+Sec. 20-13 Contacts
+Questions and comments about the application and implementation of this
+code
+shall be directed to:
+Finance Director
+1101 E. 2nd Avenue
+Durango, Colorado 81301
+Questions about a specific contract should be directed to:
+Contract Manager
+1101 E. 2nd Avenue
+Durango, Colorado 81301
+(
+Res. No. 2020-42, § 2013, 12/17/2020
+)
+Effective on: 1/1/2021
+Secs. 20-14—20-20. Reserved
+Effective on: 1/1/2021

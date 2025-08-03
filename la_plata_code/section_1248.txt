@@ -1,0 +1,588 @@
+Chapter 78 FLOODS
+FOOTNOTE(S):
+Editor's note—
+Res. No. 2010-37, § 1(Exh. A), adopted July 20, 2010, repealed and reenacted chapter 78 in its entirety to read as herein set out. Formerly, chapter 78 pertained to similar subject matter, and derived from LPLUS, §§ 9.1.1—9.1.4, 9.2, 9.3.1—9.3.9, 9.4.1—9.4.3, 9.5.1—9.5.4, 9.6.1, 9.6.2; Res. No. 2001-14, Exh. A, adopted April 16, 2001; Res. No. 2002-43, § 1, adopted October 7, 2002; Res. No. 2004-20, § 1, adopted June 28, 2004, and Res. No. 2008-30, § 1, adopted November 12, 2008.
+Cross reference—
+Buildings
+and building regulations, ch. 18;
+development
+standards and specifications, ch. 74; land
+use
+and development
+permits
+, ch. 82;
+manufactured home
+, and
+recreational vehicle parks
+, ch. 86; natural resources, ch. 90;
+subdivisions
+, ch. 102; zoning, ch. 106.
+State Law reference—
+Authority to adopt
+flood
+control
+regulations, C.R.S. §§ 29-20-101 et seq., 30-15-401.
+ARTICLE II. FLOODPLAIN MANAGEMENT REGULATIONS
+FOOTNOTE(S):
+Editor's note—
+Res. No. 2014-30, § 1(Exh. A), adopted August 5, 2014, amended article II in its entirety to read as herein set out. Formerly, article II pertained to similar subject matter, and derived from Res. No. 2010-37, § 1(Exh. A), adopted July 20, 2010.
+DIVISION 3. FLOOD HAZARD REDUCTION
+Contents:
+Sec. 78-71. Compliance.
+Sec. 78-72. General standards.
+Sec. 78-73. Specific standards.
+Sec. 78-74. Encroachment absent regulatory floodway designation.
+Sec. 78-75. Areas of shallow flooding (AO/AH zones).
+Sec. 78-76. Floodways.
+Sec. 78-77. Alteration of a watercourse.
+Sec. 78-78. Properties removed from the floodplain by fill.
+Sec. 78-79. Standards for critical facilities.
+Sec. 78-71. Compliance.
+I.
+No
+floodplain development permit
+shall be issued for any
+building
+or
+structure
+, including a
+manufactured home
+, which is proposed to be located within an
+area of special flood hazard
+without the full compliance with the terms of this chapter.
+Exception: The building and planning officials may accept certification from a
+professional engineer
+or surveyor, registered in the state, that a building
+site
+in a designated
+floodplain
+is above the
+base flood
+level. However, the
+applicant
+shall obtain a letter of map amendment (LOMA) from the Federal
+Emergency
+Management
+Agency prior to receiving a certificate of occupancy.
+II.
+No
+subdivision
+which contains at least five acres or 50
+lots
+, or other
+development
+proposed for any designated floodplain area shall be granted final approval without base flood elevation data.
+Res. No.
+2014-30
+, § 1, 08/05/2014
+Ord. No.
+2024-02
+, §  03/12/2024
+Effective on: 4/25/2024
+Sec. 78-72. General standards.
+In all
+special flood hazard areas
+, the following provisions are required for all
+new construction
+and
+substantial improvements
+. In determining compliance with this section, available
+base flood elevation
+data
+shall
+be utilized.
+I.
+Anchoring.
+A.
+All new construction and substantial improvements shall be designed (or modified) and adequately anchored to prevent flotation, collapse or lateral movement of the
+structure
+resulting from hydrodynamic and hydrostatic loads, including the effects of buoyancy.
+B.
+All manufactured homes must be elevated and anchored to resist flotation, collapse or lateral movement. Methods of anchoring
+may
+include, but are not limited to,
+use
+of over-the-top and frame ties to ground anchors. This requirement is in
+addition
+to applicable state and local anchoring requirements for resisting wind forces. Specific requirements shall be that:
+1.
+Over-the-top ties are provided at each of the four corners of the
+manufactured home
+with two additional ties per side at intermediate locations, with manufactured homes less than 50 feet long requiring one additional tie per side;
+2.
+Frame ties are provided at each corner of the home with five additional ties per side at intermediate points, with manufactured homes less than 50 feet long requiring four additional ties per side;
+3.
+All components of the anchoring system shall be capable of carrying a force of 4,800 pounds; and
+4.
+Any additions to the manufactured home shall be similarly anchored.
+II.
+Construction
+materials and methods.
+A.
+All new construction and/or substantial improvements shall be constructed with materials and
+utility
+equipment
+resistant to
+flood
+damage.
+B.
+All new construction and substantial improvements, including manufactured homes, shall be constructed using methods and practices that minimize flood damage.
+C.
+All new construction and substantial improvements shall be constructed with electrical, heating, ventilation, plumbing and air conditioning equipment and other service
+facilities
+that are designed and/or located so as to prevent water from entering or accumulating within the components during conditions of flooding.
+III.
+Utilities.
+A.
+All new and replacement water supply systems shall be designed to minimize or eliminate infiltration of floodwaters into the system.
+B.
+New and replacement sanitary sewage systems shall be designed to minimize or eliminate infiltration of floodwaters into systems and discharge from the systems into floodwaters.
+C.
+Onsite waste disposal systems shall be located to avoid impairment to them or contamination from them during flooding.
+D.
+Plumbing opening into areas required to be flood proofed shall be equipped with backwater valves, as provided in the plumbing
+code
+.
+E.
+Electrical wiring shall be entirely within the flood proofed space. The electrical service and meter shall be above the
+base flood
+level in a location approved by the serving utility.
+IV.
+Subdivision
+and other
+development
+proposals.
+A.
+All subdivision proposals, including the placement of
+manufactured home parks
+and subdivisions, shall be reasonably safe from flooding. If a subdivision or other development proposal is in a flood-prone area, the proposal shall minimize flood damage.
+B.
+All subdivision proposals, including the placement of manufactured home parks and subdivisions, shall have public utilities and facilities such as sewer, gas, electrical and water systems located and constructed to minimize or eliminate flood damage.
+C.
+All subdivision proposals, including the placement of manufactured home parks and subdivisions, shall have adequate drainage provided to reduce exposure to flood hazards.
+D.
+Base flood elevation data shall be generated and provided for all subdivision proposals or other development proposals, including the placement of manufactured home parks and subdivisions, which contain at least 50
+lots
+or five acres, whichever is less, if not otherwise provided pursuant to section 78-23 or 78-51 of this chapter.
+E.
+All proposals for the development of subdivisions, including the placement of manufactured home parks and subdivisions, must obtain a
+floodplain development permit
+in accordance with section 78-33 by submitting an application pursuant to the requirements of section 78-52, and satisfy the applicable provisions of division 3 of this chapter. No
+building
+sites
+shall be approved in any determined floodway area.
+F.
+Any contemplated floodway encroachment or channeling shall be thoroughly analyzed and its effect on stream flow determined before it is undertaken. No encroachment of a floodway area shall be allowed that would result in any increase in flood levels during the occurrence of a base flood.
+Res. No.
+2014-30
+, § 1, 08/05/2014
+Ord. No.
+2024-02
+, § 78-20, 03/12/2024
+Effective on: 4/25/2024
+Sec. 78-73. Specific standards.
+In all
+special flood hazard areas
+, except those areas governed by section 78-75 below, the following provisions are required. In determining compliance with this section, available
+base flood elevation
+data
+shall
+be utilized.
+I.
+Residential
+construction
+.
+New construction
+and
+substantial improvement
+of any residential
+structure
+shall have the
+lowest floor
+, including the
+basement
+, electrical, heating, ventilation, plumbing, and air conditioning
+equipment
+and other service
+facilities
+(including ductwork), elevated to one foot above the base flood elevation. Upon completion of the structure, the elevation of the lowest floor, including basement, shall be certified by a registered Colorado
+Professional Engineer
+, architect, or land surveyor. Such certification shall be submitted to the
+floodplain administrator
+.
+II.
+Nonresidential construction. With the exception of
+critical facilities
+, outlined in section 78-79, new construction and substantial improvement of any commercial, industrial or other nonresidential structure shall either have the lowest floor, including the basement, electrical, heating, ventilation, plumbing, and air conditioning equipment and other service facilities (including ductwork), elevated to at least one foot above the level of the base flood elevation; or, together with attendant
+utility
+and sanitary facilities, shall:
+A.
+Be
+flood
+proofed so that below the
+base flood
+level, the structure is watertight with walls substantially impermeable to the passage of water to at least one foot above the base flood elevation;
+B.
+Have structural components capable of resisting hydrostatic and hydrodynamic loads and effects of buoyancy; and
+C.
+A Colorado registered professional engineer or architect shall develop and/or review structural design, specifications, and plans for the construction, and shall certify that the design and methods of construction are in accordance with accepted standards of practice as outlined in this subsection. Such certification shall be maintained by the floodplain administrator.
+III.
+Openings in enclosures below the lowest floor. For all new construction and substantial improvements, fully enclosed areas below the lowest floor that are usable solely for parking of
+vehicles
+,
+building
+access, or storage in an area other than a basement and that are subject to flooding shall be designed to automatically equalize hydrostatic flood forces on exterior walls by allowing for the entry and exit of floodwaters. Designs for meeting this requirement must either be certified by a Colorado registered professional engineer or architect, or must meet or exceed the following minimum criteria:
+A.
+A minimum of two openings having a total net area of not less than one square inch for every square foot of enclosed area subject to flooding shall be provided;
+B.
+The bottom of all openings shall be no higher than one foot above grade; and
+C.
+Openings
+may
+be equipped with screens, louvers, or other coverings or devices provided that they
+permit
+the automatic entry and exit of floodwaters.
+IV.
+Manufactured homes.
+A.
+Manufactured homes shall be anchored in accordance with the standards of subsection 78-72(I).
+B.
+Manufactured homes that are placed or substantially improved within Zones A1-30, AH and AE on
+sites
+outside of a
+manufactured home park
+or
+subdivision
+, in a
+new manufactured home park
+or subdivision, in an
+expansion to an existing manufactured home park
+or subdivision on which a
+manufactured home
+has incurred
+substantial damage
+as the result of a flood, are required to be elevated on a permanent foundation such that the lowest floor of the manufactured home, electrical, heating, ventilation, plumbing, and air conditioning equipment and other service facilities (including ductwork), are elevated to at least one foot above the base flood elevation and be securely anchored to an adequately anchored foundation system to resist flotation, collapse and lateral movement.
+C.
+Manufactured homes to be placed or substantially improved on sites in
+existing manufactured home parks
+or subdivisions within Zones A1-30, AH, and AE that are not subject to the provisions of subsection (III) (B) of this section are required to be elevated so that either the lowest floor of the manufactured home, electrical, heating, ventilation, plumbing, and air conditioning equipment and other service facilities (including ductwork), are at least one foot above the base flood elevation, or the manufactured home chassis is supported by reinforced piers or other foundation elements that are no less than 36 inches in height above grade and are securely anchored to an adequately anchored foundation system to resist flotation, collapse and lateral movement.
+V.
+Recreational vehicles
+. All recreational vehicles placed on sites within Zones A1-30, AH, and AE must either (i) be on the site for fewer than 90 consecutive days, (ii) be fully licensed and ready for highway
+use
+, or (iii) meet the permit requirements of this chapter as well as the elevation and anchoring requirements for manufactured homes.
+VI.
+Below-grade residential crawlspace construction. New construction and substantial improvement of any below-grade crawlspace shall:
+A.
+Have the interior grade elevation that is below base flood elevation no lower than two feet below the lowest adjacent grade;
+B.
+Have the height of the below-grade crawlspace measured from the interior grade of the crawlspace to the top of the foundation wall, not exceed four feet at any point;
+C.
+Have an adequate drainage system that allows floodwaters to drain from the interior area of the crawlspace following a flood;
+D.
+Be anchored to prevent flotation, collapse, or lateral movement of the structure and be capable of resisting the hydrostatic and hydrodynamic loads;
+E.
+Be constructed with materials and utility equipment resistant to flood damage;
+F.
+Be constructed using methods and practices that minimize flood damage;
+G.
+Be constructed with electrical, heating, ventilation, plumbing, and air conditioning equipment and other service facilities that are designed and/or located so as to prevent water from entering or accumulating within the components during conditions of flooding;
+H.
+Be designed to automatically equalize hydrostatic flood forces on exterior walls by allowing for the entry and exit of floodwaters. Designs for meeting this requirement must either be certified by a registered professional engineer or architect or must meet or exceed the following minimum criteria:
+1.
+A minimum of two openings having a total net area of not less than one square inch for every square foot of enclosed area subject to flooding shall be provided;
+2.
+The bottom of all openings shall be no higher than one foot above grade; and
+3.
+Openings may be equipped with screens, louvers, or other coverings or devices provided that they permit the automatic entry and exit of floodwaters.
+Res. No.
+2014-30
+, § 1, 08/05/2014
+Ord. No.
+2024-02
+, §  03/12/2024
+Effective on: 4/25/2024
+Sec. 78-74. Encroachment absent regulatory floodway designation.
+Until a regulatory floodway is designated, no
+development
+may
+increase the
+water surface elevation
+of the
+base flood
+level more than one-half foot.
+(Res. No. 2014-30, § 1(Exh. A), 8-5-2014)
+Effective on: 8/5/2014
+Sec. 78-75. Areas of shallow flooding (AO/AH zones).
+Located within the
+special flood hazard areas
+established in this chapter are areas designated as shallow flooding. These areas have special
+flood
+hazards associated with
+base flood
+depths of one to three feet where a clearly defined
+channel
+does not exist and where the path of flooding is unpredictable and where velocity flow
+may
+be evident. Such flooding is characterized by ponding or sheet flow; therefore, the following provisions apply:
+All
+new construction
+and
+substantial improvements
+of
+residential
+structures
+have the
+lowest floor
+(including
+basement
+), electrical, heating, ventilation, plumbing, and air conditioning
+equipment
+and other service
+facilities
+(including ductwork), elevated above the
+highest adjacent grade
+at least one foot above the depth number specified in feet on the applicable FIRM (at least three feet if no depth number is specified). Upon completion of the structure, the elevation of the lowest floor, including basement,
+shall
+be certified by a registered Colorado
+Professional Engineer
+, architect, or land surveyor. Such certification shall be submitted to the
+floodplain administrator
+.
+All new construction and substantial improvements of non-residential structures (with the exception of
+critical facilities
+as outlined in section 78-79);
+Have the lowest floor (including basement), electrical, heating, ventilation, plumbing, and air conditioning equipment and other service facilities (including ductwork), elevated above the highest adjacent grade at least one foot above the depth number specified in feet on the applicable FIRM (at least three feet if no depth number is specified); or
+Together with attendant
+utility
+and sanitary facilities be designed so that the structure is watertight to at least one foot above the base flood level with walls substantially impermeable to the passage of water and with structural components having the capability of resisting hydrostatic and hydrodynamic loads of effects of buoyancy.
+A Colorado registered professional engineer or architect shall submit a certification to the floodplain administrator that the standards of this chapter are satisfied.
+Require within Zones AH or AO adequate drainage paths around structures on slopes to guide flood waters around and away from proposed structures.
+(Res. No. 2014-30, § 1(Exh. A), 8-5-2014)
+Effective on: 8/5/2014
+Sec. 78-76. Floodways.
+Located within areas of special
+flood
+hazard are areas designated as "floodways." Since the floodway is an extremely hazardous area due to the velocity of floodwaters which carry debris, potential projectiles and erosion potential, the following provisions apply:
+All encroachments within floodways including fill,
+new construction
+,
+substantial improvements
+and other
+development
+are prohibited, unless it has been demonstrated through hydrologic and hydraulic analyses performed by a licensed Colorado
+Professional Engineer
+and in accordance with standard engineering practice that the proposed encroachment would not result in any increase (requires a
+no-rise certification
+) in flood levels within the
+community
+during the occurrence of the
+base flood
+discharge.
+If the general standards of section 78-72 are satisfied, all new construction and substantial improvements
+shall
+comply with all applicable flood hazard reduction provisions of this division.
+(Res. No. 2014-30, § 1(Exh. A), 8-5-2014)
+Effective on: 8/5/2014
+Sec. 78-77. Alteration of a watercourse.
+For all proposed
+developments
+that alter a watercourse within a
+special flood hazard area
+, the following standards
+shall
+apply:
+Channelization
+and flow diversion
+projects
+shall appropriately consider issues of sediment transport, erosion, deposition, and
+channel
+migration and properly mitigate potential problems through the project as well as upstream and downstream of any
+improvement
+activity. A detailed analysis of sediment transport and overall channel stability should be considered, when appropriate, to assist in determining the most appropriate design.
+Channelization and flow diversion projects shall evaluate the residual
+100-year floodplain
+.
+Any channelization or other stream alteration activity proposed by a project proponent must be evaluated for its impact on the regulatory
+floodplain
+and be in compliance with all applicable Federal, State and local floodplain rules, regulations and ordinances.
+Any stream alteration activity shall be designed and sealed by a registered Colorado
+professional engineer
+or certified professional hydrologist.
+All activities within the regulatory floodplain shall meet all applicable federal, state and
+county
+floodplain requirements and regulations.
+Within the regulatory floodway, stream alteration activities shall not be constructed unless the project proponent demonstrates through a floodway analysis and report, sealed by a registered Colorado professional engineer, that there is not more than a 0.00-foot rise in the proposed conditions compared to existing conditions floodway resulting from the project, otherwise known as a
+no-rise certification
+, unless the project proponent first obtains a CLOMR and floodway revision in accordance with section 78-76 of this article.
+Maintenance shall be required for any altered or relocated portions of watercourses so that the flood-carrying capacity is not diminished.
+(Res. No. 2014-30, § 1(Exh. A), 8-5-2014)
+Effective on: 8/5/2014
+Sec. 78-78. Properties removed from the floodplain by fill.
+A
+floodplain development permit
+shall
+not be issued for the
+construction
+of a new
+structure
+or
+addition
+to an existing structure on a property removed from the
+floodplain
+by the issuance of a
+FEMA
+letter of map revision based on fill (LOMR-F)
+, unless such new structure or addition complies with the following:
+For all
+new construction
+and
+substantial improvements
+of
+residential
+structures, the
+lowest floor
+(including
+basement
+), electrical, heating, ventilation, plumbing, and air conditioning
+equipment
+and other service
+facilities
+(including ductwork), must be elevated to at least one foot above the
+base flood elevation
+that existed prior to the placement of fill.
+For all new construction and substantial improvements of nonresidential structures, the lowest floor (including basement), electrical, heating, ventilation, plumbing, and air conditioning equipment and other service facilities (including ductwork), must be elevated to at least one foot above the base flood elevation that existed prior to the placement of fill, or together with attendant
+utility
+and sanitary facilities be designed so that the structure or addition is watertight to at least one foot above the
+base flood
+level that existed prior to the placement of fill with walls substantially impermeable to the passage of water and with structural components having the capability of resisting hydrostatic and hydrodynamic loads of the effects of buoyancy.
+(Res. No. 2014-30, § 1(Exh. A), 8-5-2014)
+Effective on: 8/5/2014
+Sec. 78-79. Standards for critical facilities.
+I.
+Classification of critical facilities. It is the responsibility of the
+board of county commissioners
+to identify and confirm that specific structures in their community meet the following criteria:
+Critical facilities are classified under the following categories: (i) essential services; (ii) hazardous materials; (iii) at-risk populations; and (iv) vital to restoring normal services.
+A.
+Essential services
+facilities
+include public safety,
+emergency
+response, emergency medical, designated emergency shelters, communications, public
+utility
+plant facilities, and transportation lifelines. These facilities consist of:
+1.
+Public safety (police stations, fire and rescue stations, emergency
+vehicle
+and
+equipment
+storage, and, emergency operation centers);
+2.
+Emergency medical (hospitals, ambulance service centers, urgent care centers having emergency treatment functions, and non-ambulatory surgical structures but excluding clinics, doctors offices, and non-urgent care medical structures that do not provide these functions);
+3.
+Designated emergency shelters;
+4.
+Communications (main hubs for telephone, broadcasting equipment for cable systems, satellite dish systems, cellular systems, television, radio, and other emergency warning systems, but excluding towers, poles, lines, cables, and conduits);
+5.
+Public utility plant facilities for generation and distribution (hubs, treatment plants, substations and pumping stations for water, power and gas, but not including towers, poles, power lines, buried pipelines,
+transmission lines
+,
+distribution lines
+, and
+service lines
+); and
+6.
+Air transportation lifelines (airports (municipal and larger), helicopter pads and structures serving emergency functions, and associated infrastructure (aviation
+control
+towers, air traffic control centers, and emergency equipment aircraft hangars)).
+Specific exemptions to this category include wastewater treatment plants (WWTP), non-potable water treatment and distribution systems, and hydroelectric power generating plants and related appurtenances.
+Public utility plant facilities may be exempted if it can be demonstrated to the satisfaction of the board of county commissioners that the facility is an element of a redundant system for which service will not be interrupted during a flood. At a minimum, it
+shall
+be demonstrated that redundant facilities are available (either owned by the same utility or available through an intergovernmental agreement or other contract) and connected, the alternative facilities are either located outside of the
+100-year floodplain
+or are compliant with the provisions of this article, and an operations plan is in effect that states how redundant systems will provide service to the affected area in the event of a flood. Evidence of ongoing redundancy shall be provided to the board of county commissioners on an as-needed basis upon request.
+B.
+Hazardous materials facilities include facilities that produce or store highly volatile, flammable, explosive, toxic and/or water-reactive materials. These facilities may include:
+1.
+Chemical and pharmaceutical plants (chemical plant, pharmaceutical manufacturing);
+2.
+Laboratories containing highly volatile, flammable, explosive, toxic and/or water-reactive materials;
+3.
+Refineries;
+4.
+Hazardous waste storage and disposal
+sites
+; and
+5.
+Above ground gasoline or propane storage or sales centers.
+Facilities shall be determined to be critical facilities if they produce or store materials in excess of threshold limits. If the
+owner
+of a facility is required by the Occupational Safety and Health Administration (OSHA) to keep a
+material safety data sheet (MSDS)
+on file for any chemicals stored or used in the work place, and the
+chemical(s)
+is stored in quantities equal to or greater than the
+threshold planning quantity (TPQ)
+for that chemical, then that facility shall be considered to be a critical facility. The TPQ for these chemicals is: either 500 pounds or the TPQ listed (whichever is lower) for the  chemicals listed under 40 C.F.R. § 302, also known as extremely hazardous substances (EHS); or 10,000 pounds for any other chemical. This threshold is consistent with the requirements for reportable chemicals established by the Colorado
+Department
+of Public Health and Environment. OSHA requirements for MSDS can be found in 29 C.F.R. § 1910.1200. The Environmental Protection Agency (EPA) regulation "Designation, Reportable Quantities, and Notification," 40 C.F.R. § 30 and OSHA regulation "Occupational Safety and Health Standards," 29 C.F.R. § 1910.1200 are incorporated herein by reference and include the regulations in existence at the time of the promulgation of this article, but exclude later amendments to or editions of the regulations.
+Specific exemptions to this category include:
+1.
+Finished consumer products within retail centers and households containing hazardous materials intended for household
+use
+, and
+agricultural
+products intended for agricultural use.
+2.
+Buildings
+and other structures containing hazardous materials for which it can be demonstrated to the satisfaction of the local authority having
+jurisdiction
+by hazard assessment and certification by a qualified professional (as determined by the local jurisdiction having land use authority) that a release of the subject hazardous material does not pose a major threat to the public.
+3.
+Pharmaceutical sales, use, storage, and distribution centers that do not manufacture pharmaceutical products.
+These exemptions shall not apply to buildings or other structures that also function as critical facilities under another category outlined in this chapter.
+C.
+At-risk population facilities include medical care, congregate care, and schools. These facilities consist of:
+1.
+Elder care (nursing homes);
+2.
+Congregate care serving 12 or more individuals (
+day care
+and assisted living); and
+3.
+Public and private schools (pre-schools, K-12 schools), before-school and after-school care serving 12 or more children).
+D.
+Facilities vital to restoring normal services including government operations. These facilities consist of:
+1.
+Essential government operations (public records, courts, jails, building permitting and inspection services, community administration and
+management
+, maintenance and equipment centers); and,
+2.
+Essential structures for public colleges and universities (dormitories, offices, and classrooms only).
+These facilities may be exempted if it is demonstrated to the board of county commissioners that the facility is an element of a redundant system for which service will not be interrupted during a flood. At a minimum, it shall be demonstrated that redundant facilities are available (either owned by the same entity or available through an intergovernmental agreement or other contract), the alternative facilities are either located outside of the 100-year floodplain or are compliant with this article, and an operations plan is in effect that states how redundant facilities will provide service to the affected area in the event of a flood. Evidence of ongoing redundancy shall be provided to the board of county commissioners on an as-needed basis upon request.
+II.
+Protection for critical facilities. All new and substantially improved critical facilities and new
+additions
+to critical facilities located within the
+special flood hazard area
+shall be regulated to a higher standard than structures not determined to be critical facilities. For the purposes of this article, protection shall include one of the following:
+A.
+Location outside the special flood hazard area; or
+B.
+Elevation of the
+lowest floor
+or
+flood proofing
+of the structure, together with attendant utility and sanitary facilities, to at least two feet above the
+base flood elevation
+.
+III.
+Ingress and egress for new critical facilities. New critical facilities shall, when practicable as determined by the board of county commissioners, have continuous non-inundated access (ingress and egress for evacuation and emergency services) during a100-year flood event.
+Res. No.
+2014-30
+, § 1, 08/05/2014
+Ord. No.
+2024-02
+, §  03/12/2024
+Effective on: 4/25/2024

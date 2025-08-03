@@ -1,0 +1,522 @@
+Chapter 72: Overlay Areas and Supplemental Overlay Standards
+Sec. 72-2 Joint planning area overlay standards
+I.
+Purpose
+. The purpose of cooperative planning areas is to protect the health, safety or welfare of the community by coordinating with other jurisdictions through the application of mutually agreed-upon and appropriate design and development standards within areas in the county, which are either transitioning or likely to transition from a rural character to a more urbanized character. The standards are intended to better address the higher intensity uses in these transition areas.
+II.
+Applicability
+. The board adopted an intergovernmental agreement between La Plata County and the City of Durango regarding joint land use planning on April 1, 2014. The joint planning area is designated in the IGA. For the purposes of the IGA between the county and city, new development that was previously defined as a “Class II Land Use Permit” shall include any development within the joint planning area that is now defined as a minor or major land use permit under this code, and minor exempt subdivisions are now defined as agricultural exemption subdivisions in this code. The standards identified in this section shall apply in addition to all other applicable standards in this code. If the standards identified in this section conflict with any other standards and cannot be read harmoniously with such standards, the standards in this section shall control and apply.
+III.
+Streets, drainage, access, surface material, and dedications.
+A.
+Street classification and design criteria.
+1.
+Street classification and cross-sections shall comply with the standards outlined in Table 72-2 A.
+Table 72-2 A: Street Cross-Section Design Criteria
+TABLE 72-2 A: STREET CROSS-SECTION DESIGN CRITERIA
+Classification
+Maximum ADTS
+Travel Lanes (2)
+Left-Turn Lane (1)
+Paved Shoulders (2)
+Curb and Gutter Required
+Surface Width
+Sidewalk Required
+Landscape Buffer (2)
+Minimum ROW
+Maximum Grade
+Arterial
+n/a
+12'
+11'
+5'
+Yes
+45'
+Yes
+5'
+80'
+8%
+Collector
+2,499
+12'
+11'
+4'
+Yes
+43'
+Yes
+5'
+70'
+8%
+Major local
+999
+11'
+n/a
+4'
+No
+30'
+No
+n/a
+60'
+8%
+Minor local
+399
+11'
+n/a
+2'
+No
+26'
+No
+n/a
+60'
+10%
+Low ADT
+48
+10'
+n/a
+n/a
+No
+20'
+No
+n/a
+60'
+10%
+Alleys, emergency access
+n/a
+n/a
+n/a
+n/a
+No
+20'
+No
+n/a
+20'
+10%
+TABLE 72-2 A: STREET CROSS-SECTION DESIGN CRITERIA
+Classification
+Maximum ADTS
+Travel Lanes (2)
+Left-Turn Lane (1)
+Paved Shoulders (2)
+Curb and Gutter Required
+Surface Width
+Sidewalk Required
+Landscape Buffer (2)
+Minimum ROW
+Maximum Grade
+Arterial
+n/a
+12'
+11'
+5'
+Yes
+45'
+Yes
+5'
+80'
+8%
+Collector
+2,499
+12'
+11'
+4'
+Yes
+43'
+Yes
+5'
+70'
+8%
+Major local
+999
+11'
+n/a
+4'
+No
+30'
+No
+n/a
+60'
+8%
+Minor local
+399
+11'
+n/a
+2'
+No
+26'
+No
+n/a
+60'
+10%
+Low ADT
+48
+10'
+n/a
+n/a
+No
+20'
+No
+n/a
+60'
+10%
+Alleys, emergency access
+n/a
+n/a
+n/a
+n/a
+No
+20'
+No
+n/a
+20'
+10%
+TABLE 72-2 A: STREET CROSS-SECTION DESIGN CRITERIA
+Classification
+Maximum ADTS
+Travel Lanes (2)
+Left-Turn Lane (1)
+Paved Shoulders (2)
+Curb and Gutter Required
+Surface Width
+Sidewalk Required
+Landscape Buffer (2)
+Minimum ROW
+Maximum Grade
+Arterial
+n/a
+12'
+11'
+5'
+Yes
+45'
+Yes
+5'
+80'
+8%
+Collector
+2,499
+12'
+11'
+4'
+Yes
+43'
+Yes
+5'
+70'
+8%
+Major local
+999
+11'
+n/a
+4'
+No
+30'
+No
+n/a
+60'
+8%
+Minor local
+399
+11'
+n/a
+2'
+No
+26'
+No
+n/a
+60'
+10%
+Low ADT
+48
+10'
+n/a
+n/a
+No
+20'
+No
+n/a
+60'
+10%
+Alleys, emergency access
+n/a
+n/a
+n/a
+n/a
+No
+20'
+No
+n/a
+20'
+10%
+TABLE 72-2 A: STREET CROSS-SECTION DESIGN CRITERIA
+Classification
+Maximum ADTS
+Travel Lanes (2)
+Left-Turn Lane (1)
+Paved Shoulders (2)
+Curb and Gutter Required
+Surface Width
+Sidewalk Required
+Landscape Buffer (2)
+Minimum ROW
+Maximum Grade
+Arterial
+n/a
+12'
+11'
+5'
+Yes
+45'
+Yes
+5'
+80'
+8%
+Collector
+2,499
+12'
+11'
+4'
+Yes
+43'
+Yes
+5'
+70'
+8%
+Major local
+999
+11'
+n/a
+4'
+No
+30'
+No
+n/a
+60'
+8%
+Minor local
+399
+11'
+n/a
+2'
+No
+26'
+No
+n/a
+60'
+10%
+Low ADT
+48
+10'
+n/a
+n/a
+No
+20'
+No
+n/a
+60'
+10%
+Alleys, emergency access
+n/a
+n/a
+n/a
+n/a
+No
+20'
+No
+n/a
+20'
+10%
+2.
+The public works director may issue a director determination letter granting a waiver to the standards identified in Table 72-2 A for streets within the La Posta Road Area District boundaries, so long as the proposed design is consistent with the street design criteria identified in the La Posta Road Area District Plan and does not present potential health, safety, or welfare risks to the public.
+3.
+Grass swales shall have a maximum 4:1 side slope.
+4.
+Curbs shall have intermittent cuts to relieve drainage to the grass swales.
+5.
+Horizontal and vertical alignment shall substantially conform to the latest addition of AASHTO’s A Policy on Geometric Design of Highways and Streets.
+6.
+Streets shall be designed with a cross slope of two (2) percent from the crown to the edge of the surface with a maximum superelevation of two (2) percent.
+7.
+Turnouts shall be required at fire hydrants for all streets with a surface width of less than twenty-six (26) feet. Turnouts shall be required every eight hundred (800) feet for all streets with a surface width of less than twenty-six (26) feet; however, after receipt of comment from the applicable fire district, the public works director may reduce the number of required turnouts. Required turnouts shall have a surface designed to support sixty thousand (60,000) pound vehicles, be sixty (60) feet in length, and provide twenty-six (26) feet in surface width with reasonable tapering.
+8.
+Major local, minor local, and low ADT streets may include grades of up to two (2) percent greater than those noted in Table 72-2 A if warranted based on alignment, length of segment, terrain or sun exposure and approved in writing by the public works director. The public works director shall seek comment from the applicable fire district prior to allowing a greater grade and such grade shall not exceed the maximum standard identified in Table 72-2 A for a consecutive length of greater than two hundred (200) feet.
+9.
+Streets and alleys shall be constructed and surfaced with an all-weather material, paved surface, such as concrete, asphalt, or other similar surface as outlined in the design and construction standards adopted by the City of Durango.
+10.
+Alleys shall have a minimum paved width of twenty (20) feet and be graded to drain.
+11.
+Streets, alleys, non-vehicular traffic improvements, required drainage facilities, and traffic signs shall be maintained by the property owner, or other legal entity responsible for such facilities and improvements, in good condition, free of weeds, trash, and debris.
+12.
+The gradient within one hundred (100) feet of any street intersection shall not exceed five (5) percent. Every effort shall be made to keep grades at street intersections as flat as possible. The required sight distances as outlined by this code shall be provided in all cases.
+13.
+The public works director may require more stringent widths and grades upon a determination that such grades or widths are warranted considering safety, topography, cross-section, drainage, snow storage, maintenance, or other site-specific conditions.
+14.
+An appropriate transitional roadway plan shall be provided where a street is proposed to connect to a facility under the jurisdiction of an adjoining municipality and there is variation between the municipality's cross-section and the cross-section outlined herein. The proposed transitional roadway plan shall be reviewed by the adjoining municipality and a determination on the adequacy of the transitional plan shall be made by the public works director. The transitional plan shall be deemed adequate if the transitional cross-section meets the minimum standards provided for herein and allows for a safe and appropriate transition to the municipal facility.
+15.
+Dead-end streets shall contain a turnaround that complies with the following design standards depicted in this Figure 72-2:
+Figure 72-2: Design Standards for Turnarounds with Dead-End Streets
+The public works director may approve an alternative design if it accommodates the safe turnaround of a vehicle that is thirty (30) feet in length. A professional engineer shall certify the design and construction of the turnaround area. The applicable fire district and adjacent municipality, if applicable, shall provide comment on the adequacy of the design of the turnaround prior to the public works director's approval.
+B.
+Drainage.
+1.
+Drainage for arterials, collectors and major local streets shall be designed with curb and gutter and intermittent curb cuts to spill street flow into grass swales. Drainage for minor local streets, low ADT, and cul-de-sac, alley, and emergency streets may be designed solely utilizing grass swales.
+2.
+Grass swales shall be designed based on the current version of Urban Drainage and Flood Control District Criteria Manual Volume 3 for design of grass swales.
+3.
+The drainage system (curb and gutter and grass swales, or grass swales alone) shall be designed such that the ten-year storm design event is contained below the top of the curb with all travel lanes remaining open.
+4.
+The drainage system (curb and gutter and grass swales, or grass swales alone) shall be designed such that the one hundred (100) year storm design event can pass with a minimum of one (1) travel lane remaining open.
+5.
+Grass swales shall be designed with a surface that will remain stable in the one hundred (100) year storm event.
+6.
+When the combined flow from intersecting streets causes the allowable cross-street flows to be exceeded, flows shall be intercepted upstream of the intersection and routed appropriately.
+7.
+Streets and grass swales shall be designed with continual fall and nominal ponding.
+8.
+A storm drain system may be developed in lieu of swales. In such cases, an adjoining municipality or special district must provide written comment that the storm drain plans comply with their respective standards. Connection to the storm drain system shall occur prior to plat recording or permit issuance.
+C.
+Street connectivity and access.
+1.
+New streets or street alignments, including street stubs/stub outs, shall connect to adjacent public roadways or public rights-of-way, when such public streets or public rights-of-way exist, or are included in an approved plan.
+2.
+New development shall have a secondary access or an emergency access from a public street as outlined in the Table 72-2 B: Emergency Access. The emergency access shall meet the minimum standards in subsection 74-4.XIII.B.
+TABLE 72-2 B: EMERGENCY ACCESS
+Number of ADT
+Access Required
+Less than 200
+None
+200-800
+20' wide emergency access road
+Greater than 800
+Secondary access road
+TABLE 72-2 B: EMERGENCY ACCESS
+Number of ADT
+Access Required
+Less than 200
+None
+200-800
+20' wide emergency access road
+Greater than 800
+Secondary access road
+TABLE 72-2 B: EMERGENCY ACCESS
+Number of ADT
+Access Required
+Less than 200
+None
+200-800
+20' wide emergency access road
+Greater than 800
+Secondary access road
+TABLE 72-2 B: EMERGENCY ACCESS
+Number of ADT
+Access Required
+Less than 200
+None
+200-800
+20' wide emergency access road
+Greater than 800
+Secondary access road
+3.
+Upon consideration of written recommendations from the public works director and applicable fire district, the director may issue a director determination letter with respect to the applicable requirements in Table 72-2 B. A waiver may be granted upon a finding that: (i) topography challenges or other site-specific constraints prevent compliance with the requirements; (ii) adequate fire mitigation measures exist, such as defensible space, on-site water supply for fire-fighting purposes, internal sprinklers, additional street width, or fire resistant construction materials; and (iii) the granting of the waiver would not be detrimental to the health, safety or welfare of the public. The director may limit the extent of the waiver to the degree necessary to ensure protection of the public health, safety and welfare.
+4.
+Maximum length of dead-end streets shall not exceed five hundred (500) feet when serving one hundred sixty (160) or more ADT or one thousand (1,000) feet when serving fewer than one hundred sixty (160) ADT.
+5.
+Gated subdivision roadways and accesses may be considered within a project when both the applicable fire district and public works director approve their design, specifically considering public safety for pull-outs along travel lanes and effective accessibility for emergency vehicles (via use of Knox Box or other commonly accepted industry standard).
+6.
+The primary access to a development shall meet the applicable county road standards, including any off-site portions of the road until it intersects the nearest county road or state highway.
+D.
+Parking, roadway, and driveway surface material.
+1.
+Except as provided in subparagraph 72-III.D.2, all driving surfaces shall be graded for adequate drainage and surfaced with a paved surface, such as concrete, asphalt, or other similar surface approved by the public works director. Permeable pavement is allowed on internal surfaces, subject to written approval by the public works director.
+2.
+Gravel or alternative surfaces, including surfaces treated with dust retardants, are not permitted unless (i) used as an acceptable alternative for emergency access streets and a waiver is obtained from the public works director; or (ii) the proposed land use includes, but is not limited to: gravel excavation and sales, soil and rock excavation and sales, or similar industrial uses with minimal structures and a waiver of the paving requirement is obtained from the director. Waivers under sub-subparagraph 72-2.III.D.2(ii) may be allowed as to any required paved surface, in whole or in part, but only to the extent reasonably necessary to avoid conflict with the proposed land use or economic waste of a paved surface. A waiver shall not create unmitigated adverse impacts upon neighboring properties.
+3.
+Paving requirements also may be waived by the public works director for emergency access, when the emergency access street is constructed with an all-weather material designed to support sixty thousand (60,000) pound vehicles, have a minimum surface width of twenty (20) feet, and include reasonable edge tapering.
+E.
+Dedications.
+1.
+Public street dedication. All streets and rights-of-way shall be dedicated for public use and shall authorize the use of the rights-of-way for all public uses, including but not limited to vehicular, pedestrian, bicycle, and utility use.
+2.
+Right-of-way width dedication. When required, the applicant shall dedicate rights-of-way for the entire length of the existing rights-of-way frontage or future rights-of-way within the property lines of the parcel(s) subject to the development. The minimum rights-of-way are identified in Table 72-2 A but the amount of right-of-way dedication shall be adequate to address the impacts attributable to the subject development. The determination of the amount of required dedication shall take into consideration existing topography constraints and street design and may not unequally burden adjacent parcels due to such factors. If a governmental entity is responsible for maintenance of the rights-of-way, such rights-of-way shall be deeded in fee to the governmental entity at the time of the project approval or at such time the governmental entity assumes maintenance responsibility.
+IV.
+Outside storage
+.
+A.
+Movable storage structures, including but not limited to portable storage containers and trailers, shall be allowed if deemed compatible through an approved land use permit. Temporary movable storage structures that are not included in an approved land use permit shall be allowed on a site for up to thirty (30) days without county approval.
+B.
+Outside storage of items such as merchandise, building materials, tools of trade, or inoperable items (e.g., household appliances, vehicles, refuse) shall be allowed for a period of no more than thirty (30) days without county approval. The storage of building materials for on-site construction that is in compliance with the county building code shall be allowed for more than thirty (30) days without county approval.
+V.
+Outdoor lighting
+.
+A.
+Exceptions. Lighting otherwise required by law is exempt from the outdoor lighting regulations in this section.
+B.
+Light trespass. Exterior lighting shall not be the cause of light trespass, as provided below:
+1.
+Light that trespasses onto public rights-of-way shall not exceed one and one-half (1.5) foot-candles as measured from the property line;
+2.
+Light that trespasses onto an adjacent property shall not exceed eight-tenths (0.8) foot-candles as measured from the property line;
+3.
+Light trespass is measured by vertical readings in foot-candles at the brightest point on the property line.
+C.
+Shield against uplight. Unless otherwise stated in this section, uplighting from all lights (including street lighting) shall be avoided by using shields. Full cutoff shields may be used unless a particular shield is specified for a particular use as stated within this section.
+D.
+​​​​​​​Glare. To reduce glare, the point source of light shall not be visible beyond any property line on which the light is located.
+E.
+​​​​​​​Reduced lighting with reduced commercial activity. Outdoor lighting, except security lighting and lights illuminating commercial signs, shall be extinguished at the close of business operations, or by 9:00 p.m., whichever is later and shall remain extinguished until two (2) hours prior to resuming business operations.
+F.
+​​​​​​​​​​​​​​Replacement of fixtures. If an existing light fixture is removed, it shall be replaced with a conforming light fixture.
+G.
+​​​​​​​​​​​​​​Maintenance of fixtures. Lighting shall be maintained by the property owner or other legal entity responsible for such facilities and improvements in functioning condition, as initially approved and intended.
+VI.
+Landscaping.
+A scaled landscape plan shall be submitted, and shall include the following minimum requirements:
+A.
+A five (5) percent minimum area of the total subject parcel(s) associated with a project shall be landscaped. The director may issue a waiver allowing indigenous vegetation in undisturbed areas to contribute to the five (5) percent minimum area for proposed land uses including, but not limited to: gravel excavation and sales, soil and rock excavation and sales, or similar industrial uses with minimal structures. Adjacent, unimproved portions of public rights-of-way may not contribute to this minimum area.
+B.
+When located adjacent to an arterial, collector, major local or minor local street, trees must be planted along all frontages a minimum of two (2) feet from any street curb or pavement edge.
+C.
+Planning of any landscaping shall be designed with consideration toward existing or proposed underground utilities.
+D.
+No fence, wall, entrance fixture, landscaping, tree or other sight obstruction to motorists or pedestrians shall be allowed to encroach upon the required sight distance at intersections.
+E.
+All unimproved, open areas not already populated with indigenous vegetation shall either be planted, or otherwise protected from erosion and dust.
+F.
+Plant materials required for landscaping shall meet the following standards:
+1.
+Plant quality. Plants shall be nursery-grown and adapted to the regional climate, preferably native and drought-tolerant. Grass seed, sod, and other ground cover material must be clean and reasonably free of weeds and noxious pests and insects. Artificial plants or vegetation are prohibited and may not be used to meet any standards of this section.
+2.
+Tree size. Trees planted to satisfy the standards of this paragraph must contain a two (2) inch minimum caliper, measured twelve (12) inches from the base of trunk or top of planting root ball.
+3.
+Shrub size. When used for screening purposes, shrubs must have a minimum container size of five (5) gallons.
+4.
+Individual groundcover plants. Groundcover plants intended to satisfy the standards of this paragraph must have a minimum container size of one (1) gallon. Ground cover plants used in lieu of grasses, in whole and in part, shall be planted in such a manner as to present a finished appearance and reasonably provide coverage of the entire planted area within one (1) year from initial planting.
+5.
+Xeriscape. As an alternative to the plant material standards required in this paragraph, xeriscaping may be used to fulfill those requirements. When xeriscaping seventy-five (75) percent or more of the landscaped area of a project, landscape irrigation requirements may be reduced. Plant materials, as identified by the Colorado State University Extension Office Xeriscaping Fact Sheet, in conjunction with best practices of xeriscape principles, shall be accepted for purposes of this paragraph.
+G.
+Ongoing maintenance shall occur for all required landscaping, including the replacement of dead or unhealthy plants. Landscaping shall be maintained by the property owner or other legal entity responsible for such plant materials as required or approved.
+VII.
+Water supply
+. All water facilities shall be installed in accordance with the standard drawings and construction specifications on file with the service provider.
+VIII.
+Sanitary sewer.
+All wastewater facilities shall be installed in accordance with the standard drawings and construction specifications on file with the service provider.
+IX.
+Cooperative planning area waiver.
+A.
+Director determination. For developments within a cooperative planning area, the director may waive any standards within this code pursuant to a director determination if the submittal requirements in subparagraph 72-2.IX.B.2. below are satisfied and the director finds that the standard(s) are in conflict or are not harmonious with the standard(s) of the adjacent municipality.
+B.
+Submittal requirements. To obtain a waiver, an applicant must submit a written request to the director that includes the following:
+1.
+Identification of the standards(s) for which a waiver is sought and the standard(s) of the adjacent municipality that are in conflict or are not harmonious; and
+2.
+A letter executed by the adjacent municipality that signifies:
+a.
+Its intent to negotiate an implied consent agreement or other form of agreement with the applicant;
+b.
+Its willingness and capacity to provide municipal services or facilities to the applicant.
+(
+Res. No.
+2020-30
+, §  09/15/2020
+)
+Effective on: 10/1/2020

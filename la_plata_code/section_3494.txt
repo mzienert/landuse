@@ -1,0 +1,247 @@
+Chapter 90 OIL AND GAS DEVELOPMENT
+FOOTNOTE(S):
+Editor's note—
+Res. No. 2008-33, § 1(Exh. A), adopted November 17, 2008, amended chapter 90 in its entirety to read as herein set out. Formerly, chapter 90 pertained to similar subject matter, and derived from LPLUS, § 8.1.1—8.1.5.b, 8.1.6.a—f., 8.1.7—8.1.10, 8.1.12, 8.1.14.a—g., 8.2.1—8.2.6, 8.3; Res. No. 1998-34, § 1, adopted October 5, 1998; Res. No. 1999-9, § 2, adopted February 22, 1999; Res. No. 2001-33, adopted August 27, 2001; Res. No. 2004-20, § 1, 2, adopted June 28, 2004; Res. No. 2004-35, §§ 1—10, adopted December 20, 2004, and Res. No. 2008-30, §§ 1, 2, adopted November 12, 2008.
+Cross reference—
+Buildings
+and building regulations, chapter
+18
+; public places, ch
+apter
+38
+;
+development
+standards and specifications,
+chapter
+74
+;
+floods
+, ch
+apter
+78
+; land
+use
+regulations for public property,
+ch
+apter
+94
+;
+subdivisions
+,
+ch
+apter
+102; zoning,
+ch
+apter
+106.
+Sec. 90-5 Submittal requirements applicable to all oil and gas development except final reclamation reviews
+I.
+General submittals.
+The submittal requirements set forth in this chapter 90 are in addition to all other applicable submittal requirements set forth in this code. However, the director may waive one or more submittal requirements elsewhere in this code when they conflict with or are duplicated by submittal requirements in this chapter 90 or may waive any submittal requirement when the information would not be relevant to determining whether the
+OGL
+meets the standards set forth in this code. An applicant may submit substantially equivalent plans developed for a state or federal application process in lieu of the submittals required in this chapter unless the director or decision-making body determines that the information or plan developed through the state or federal permitting process does not provide the specific information required by this code necessary for the decision-making body to evaluate the project under the specific standards of this code:
+A.
+Application, including any specific forms provided at the pre-application meeting, a completed submittal checklist form, and applicable fee(s) such as application fee and consultant fee(s) as required by subparagraphs 66-11.I.E and F.
+B.
+Demonstration of the operator’s right to develop the oil and gas mineral estate proposed to be accessed by the development that is the subject of the application.  The operator shall obtain a surface use agreement from the surface owner, or otherwise demonstrate a legal right to occupy the surface for purposes of accessing the mineral estate.
+C.
+Statement of need for the project.  A description of the need for the oil and gas operation, in the location proposed, to serve the applicant’s existing and projected oil and gas development, production and operational requirements.
+D.
+Estimated schedule of development over life of the development. This estimated schedule of development shall include a general description of all phases to the development at the site that are anticipated by the applicant. The applicant shall identify which portions of the scheduled development are being currently proposed for review and approval by the county.
+E.
+Site plan. At a minimum, the site plan shall include all the following:
+1.
+North arrow, appropriate scale, overlain on aerial photography.
+2.
+Existing improvements within map area, which shall include at least a two hundred (200) foot radius around the parcel that is the subject of the proposed development. At a minimum, existing improvements include any residential building unit or platted subdivision lot, high occupancy building unit, public school or school facility, community facility, day care facility, quasi-public facility, water wells, oil and gas wells, water and gas lines, roads, mines, railroads, buildings, utility lines, and other infrastructure within the mapped area.
+3.
+Utility easements and other rights-of-way.
+4.
+Irrigation ditches or streams crossing or within two hundred (200) feet of site.
+5.
+Areas within the
+FEMA
+100-year floodplain
+boundary.
+6.
+Wetlands.
+7.
+Location and use of proposed temporary and permanent facilities, including without limitation,
+temporary use areas
+, permanent well site, pipelines, flowlines, pits, accessory equipment.
+8.
+Current surface ownership of facility site.
+9.
+Cross sections showing the location, depths, and other relevant defining characteristics of any known aquifers, any part of which lies beneath the parcel.
+10.
+Other site-specific information identified and requested at a pre-application meeting.
+F.
+Vicinity map. At a minimum, the vicinity map shall include all the following:
+1.
+Section, township, range.
+2.
+Site boundaries.
+3.
+North arrow and scale.
+4.
+Major geographic features, to include bodies of water (including irrigation ditches), roads, utility corridors within a one-half (1/2) mile radius around the parcel that is the subject of the proposed development.
+5.
+Mapped or defined geologic hazards or natural hazards within a one (1) mile radius of the proposed working pad surface, to include geologic phenomenon, wildfire hazards or debris flows.
+6.
+To the extent known or could be known through reasonable diligence and search of publicly and other readily available information, high priority habitat.
+7.
+To the extent known or could be known through reasonable diligence and search of publicly and other readily available information, areas of paleontological, historical or archeological interest, unless determined to be confidential by the county attorney.
+8.
+Current surface ownership, as reflected in the county assessor’s records, of all parcels adjacent to proposed site, within one-quarter mile of the site or subject to any applicable setback provision.  The map shall include names of platted subdivisions and the approximate location of dwelling units or any facility or feature subject to a setback provision in this code or
+ECMC
+rules.
+9.
+Existing and proposed access.
+10.
+To the extent known or could be known through reasonable diligence and search of publicly and other readily available information, existing, approved and proposed OGLs, including without limitation, pipeline routes and gas gathering systems (
+gathering lines
+,
+transmission lines
+), within two thousand (2,000) feet of the proposed site.
+11.
+As separate attachments, four (4) color photos taken from the center of the site facing north, south, east and west, respectively, properly focused and exposed, with no significant gaps between fields of view. Each photo shall be labeled with date taken and direction of view. If any gap between the fields of view exists that is not shown in an attached photograph, applicant shall certify that the gap does not contain any topographical features, improvements, or other details relevant to analysis of the site.
+12.
+Other site-specific information identified and requested at a pre-application meeting.
+G.
+Site
+BMPs
+plan map. A map visually depicting any mitigation techniques specifically identified and relied upon in preparing the applicant’s various mitigation plans, whether required as submittal items in this subsection 90-5.II or otherwise required by this chapter 90.
+H.
+Geologic hazard plan if required by ECMC Rule 304.b.(7).I.
+I.
+If required by ECMC Rule 303, ECMC Form 2B,
+Cumulative Impacts Data Identification
+that provides quantitative and qualitative data to evaluate incremental adverse and beneficial contributions to cumulative impacts caused by oil and gas operations associated with the proposed oil and gas development plan and the cumulative impacts plan documenting how the operator will address cumulative impacts to resources identified pursuant to ECMC Rule 303.a.(5).
+J.
+If the OGL is in an area identified as high wildfire burn probability based upon the Colorado State Forest Service – Colorado Wildfire Risk Assessment, an explanation of wildfire mitigation efforts that will be undertaken during the construction, drilling, completion, operational and reclamation phases.
+K.
+Visual mitigation plan.  At a minimum, the visual mitigation plan shall include the following:
+1.
+Title block:
+a.
+Project name.
+b.
+Name of applicant.
+c.
+Project number.
+d.
+Date of preparation.
+e.
+Section, township and range.
+2.
+Scaled drawing.
+3.
+Site boundary dimensions and descriptions.
+4.
+Existing and proposed contours and pad elevations.
+5.
+Existing conditions and site features that incorporate and surround the OGL.
+6.
+Existing and proposed access.
+7.
+A description or depiction of the visual mitigation techniques to be employed.
+8.
+Orientation and dimensions of facilities and accessory equipment that will be used once the facility is operational.
+9.
+General type, character, and density of present vegetation on the parcel.
+10.
+Location, height and extent of perimeter
+berms
+, if applicable.
+11.
+Type, location and amount of mulch materials, if applicable.
+12.
+Type, location and height of fencing, if applicable.
+13.
+Delineation of drainage and runoff patterns and associated mitigation.
+14.
+Direction and type of lighting, if applicable.
+15.
+Written maintenance plan (and irrigation plan, if necessary to achieve revegetation and reclamation standards) for at least two (2) years after revegetation of interim reclamation and final reclamation.
+16.
+Demonstration of compliance with paragraph 90-10.II.G, visual mitigation and landscaping.
+L.
+Operating plan. Oil and gas permit applicants shall submit an operating plan which, at a minimum, shall include the following:
+1.
+An estimated timetable and explanation of the proposed stages of the development (construction, completion, production, reclamation, etc.), including a breakdown of approximate number of temporary and permanent employees, contractors, consultants, or other agents anticipated to be on site during each of the stages of development.
+2.
+Estimated
+ADT
+at the site, including an explanation of assumptions, expectations, types of vehicles, and other analysis used to calculate the estimated ADT.
+3.
+Description of all heavy equipment anticipated to be used at the site, including the construction phase.
+4.
+Estimated number of cubic yards of fill material needed to be brought to or removed from the site during the construction and drilling process. Note that use of any removed excess material may require a land use permit if transported offsite by either the surface owner or other party obtaining rights to the excess material.
+5.
+Engine manufacturer’s verification of the site rated horsepower. Within ten (10) days of the installation of an engine, the operator will provide the serial number to the department.
+6.
+Specification of the accessory equipment to be kept on site, temporarily or permanently, for each stage of the development and any required storage facilities for the same.
+7.
+Specification of any materials, including without limitation the intended extraction material as well as any extracted waste or processing waste, to be kept on site, temporarily or permanently, for each stage of the development and any required storage facilities for the same.
+8.
+A description of the ECMC Rule 1202.b wildlife operating requirements and BMPs applicable to the OGL and a description of the ECMC Rule 1203 mitigation commitments to offset unavoidable adverse impacts to wildlife resources.
+9.
+Other site-specific information, identified and requested at a pre-application conference.
+M.
+Wildlife protection plan and wildlife mitigation plan required by ECMC Rule 1201.
+N.
+Initial emergency response plan meeting those elements in paragraph 90-10.VII.B that are capable of being known prior to the construction phase.
+O.
+Waste disposal plan. A description of the techniques and methods the
+OGF
+will use to manage wastes generated at the site and how compliance with subsection 90-10.VIII will be implemented and achieved.
+P.
+Water Use Plan.  The operator shall propose and implement a water use plan identifying the proposed water source for all phases of the oil and gas operations. The plan shall estimate the amount of water required for each phase of the oil and gas operation and the amount of water expected to be disposed. The plan shall address the impact, if any, of water consumption on existing uses’ fresh or potable water supply and be the least detrimental to the environment among available options. The director may, when use of an on-site water well is proposed, require a site-specific water demand study as described in paragraph 70-4.II.E.  The water supply shall be legally and physically available as described in sections 70-4.III and IV.  Notwithstanding the county’s general policy against hauled water in subsection 70-4.VI, operators may rely upon hauled water.
+Q.
+Water Quality Mitigation Plan. The operator shall propose and implement a water quality mitigation plan to achieve all applicable standards as set forth in subsection 90-10.IV.
+R.
+Reclamation plan. A description of both interim and final reclamation. The plan shall describe how reclamation complies with ECMC Rules 1003 and 1004, the county’s reclamation standards in subsection 90-10.IX, and include the following information:
+1.
+A description and depiction of the size and location of the working pad surface which shall be limited to those areas necessary for production.
+2.
+A description of the OGL, as well as all production facilities and other facilities (compressor, well pad, pipeline right-of-way, access road, water injection well or water transfer site), acreage of disturbance for reclamation and legal description of the parcel(s) on which the reclamation will occur.
+3.
+An analysis of the ability to accomplish final reclamation (including appropriate access for any large equipment necessary for such final reclamation) considering the size and nature of the site, access road(s), existing nearby development, and county's reciprocal setbacks. The analysis should include any assumptions made by the applicant about the size of the necessary equipment, the minimum width of access roads and clear space around the working pad surface, or future development of any kind on the subject parcel or nearby parcels that may affect the reclamation plan.
+4.
+A written description of existing vegetation in the area.
+5.
+A plan for revegetation and any landscaping outside of the working pad surface, and for reclaiming the OGL in compliance with applicable standards.
+6.
+​​​​​​​A plan for how the vegetation will be watered, if applicable, and maintained long-term and noxious and invasive weeds mitigated throughout life of the project and final reclamation.
+7.
+​​​​​​​A plan for removal of all equipment and debris from the OGL, including a list of all equipment, tanks, and other infrastructure to be removed during final reclamation.
+8.
+​​​​​​​A minimum of four (4) color photographs taken during the growing season facing each cardinal direction which document the vegetation cover and diversity at the OGL.  Each photograph will depict the date taken, the location name and direction of view.  The photographs may be submitted up to twelve (12) months after submission of the reclamation plan to accurately depict vegetation during the growing season.  The photographs shall be of sufficiently high resolution so that current surrounding land uses may be readily discerned.
+9.
+​​​​​​​Any agreements with the surface owner relating to reclamation. If there is no signed agreement with the surface owner relating to reclamation expectations, verification in writing that the operator has consulted in
+good faith
+with the current surface owner about interim and final reclamation and has sought input from and considered the reasonable desires of the current surface owner.
+10.
+​​​​​​​If facilities are proposed to be abandoned in place, a description of the facilities, the rationale for abandonment in place, efforts that will be undertaken to ensure there will be no structural deterioration, erosion or subsidence over time and how the “as built” location of such facilities will be marked or documented, and acknowledgement that such “as built” locations of facilities will be recorded in the county clerk’s real property records with copies of the recorded document(s) provided to the
+CDD
+and surface owner(s) within sixty (60) days after construction is complete.
+11.
+​​​​​​​A detailed worksheet with an estimate of the costs to fully comply with the final reclamation plan.  The worksheet shall contain a breakdown of the costs for reclamation, utilizing either actual costs incurred by the operator on similar reclamation performed within the immediately previous twelve (12) months or unit prices set forth in standard industry resources such as RS Means Heavy Construction, or similar construction or oil and gas industry cost estimators. The worksheet shall also explain whether it is relying exclusively on current market prices or whether assumptions about inflation are also included in the estimate.
+S.
+​​​​​​​Financial assurance plan. A description of how the operator proposes to satisfy the county’s financial assurance requirements in section 90-14, including without limitation:
+1.
+A detailed explanation of which categories of financial assurance in subsection 90-14.III apply to the proposed oil and gas development and an explanation for why any categories do not apply.
+2.
+A detailed explanation of the operator’s proposed financial assurance amounts, broken down into each subcategory of financial assurance applicable to the oil and gas development, including evidence of cost estimates used as a basis for the same and identification of the standard industry resource cost estimator used to arrive at such amounts.
+3.
+A detailed explanation of the form of financial assurance proposed by the operator as satisfying the standards in section 90-14.
+4.
+A draft form of financial assurance proposed by the operator.
+5.
+A detailed explanation of any financial assurances provided (or to be provided) by the operator to another government agency for which the operator is seeking an offset pursuant to paragraph 90-14.III.B and a copy (or draft) of the same.
+(
+Res. No.
+2023-11
+, §  04/26/2023
+)​​
+Effective on: 8/1/2023

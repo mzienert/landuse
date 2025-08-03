@@ -1,0 +1,33 @@
+Chapter 18 BUILDINGS AND BUILDING REGULATIONS
+Article III. Building Codes and standards: Amendments, additions and deletions to the international codes
+Sec. 18-36
+Amendments and Deletions to the 2015 International Residential Code.
+Amendments and Deletions to the 2015 International Residential Code are as follows:
+(
+Res. No. 2004-15, § 1 (Exh. A), 05/24/2004; Res. No. 2017-33, § 18-36, 10/10/2017; Res. No. 2023-15, § 18-36, 06/06/2023
+)
+Section R502
+Wood Floor Framing
+R502.1.7 Engineered wood rim
+board
+. Section R502.1.7 of the 2015 International
+Residential
+Code
+is deleted and replaced with the following:
+Engineered wood rim boards shall conform to ANSI/APA PRR 410 (
+Standard
+for Performance Rated Engineered Wood Rim Boards) or shall be evaluated in accordance with ASTM Standard D 7672 (Standard Specification for Evaluating Structural Capacities of Rim Board Products and Assemblies). Structural capacities shall be in accordance with ANSI/APA PRR 410 or established in accordance with ASTM D 7672. Rim boards conforming to ANSI/APA PRR 410 shall be marked in accordance with that standard.
+At the point where exterior decks are connected to the rim joist of the
+structure
+, Laminated Veneer Lumber (
+LVL
+) shall be installed as the rim joist in place of Laminated Strand Lumber (
+LSL
+) to provide adequate connection. Where there is the potential of seasonal ground water in the crawlspace
+LVL
+material should be considered for
+use
+as the entire exterior rim joist rather than the (
+LSL
+).
+Effective on: 12/11/2017

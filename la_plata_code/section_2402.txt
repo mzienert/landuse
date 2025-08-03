@@ -1,0 +1,2161 @@
+Chapter 18 BUILDINGS AND BUILDING REGULATIONS
+Contents:
+ARTICLE  I. RESERVED
+ARTICLE II. General Provisions
+ARTICLE III. Building Codes and Standards: Amendments, Additions and Deletions to the International Codes
+ARTICLE IV. Attachments: Chapter 18 Buildings and Building Regulations
+ARTICLE  I. RESERVED
+Sec. 18-1—18-30. Reserved
+Effective on: 12/11/2017
+Article II general provisions
+Contents:
+Sec. 18-31 Adoption of the International Codes
+Sec. 18-32 Effective Date
+Sec. 18-33 Appendices
+Sec. 18-34 Definitions
+Sec. 18-35 Scope and Administration
+Sec. 18-31 Adoption of the International Codes
+The volumes, parts, chapters and listed appendices of the 2015 editions of the International Codes identified below, as published by the International Code Council, together with amendments, additions, and deletions as set forth in this Code, are hereby adopted pursuant to C.R.S. § 30-28-201(1).
+2015 International Building Code, with Amendments and Deletions
+2015 International Residential Code, with Amendments, Additions, and Deletions
+2015 International Plumbing Code, as adopted by the Colorado Plumbing Board, with Amendments and Deletions
+2015 International Mechanical Code, with Additions and Deletions
+2015 International Fuel Gas Code, with Amendments, Additions, and Deletions
+2015 International Energy Conservation Code
+,
+with Amendments and Deletions
+The provisions of these 2015 International Codes shall apply to the construction, alteration, movement, enlargement, replacement, repair, equipment, use and occupancy, location, removal, and demolition of every building or structure, or any appurtenances connected or attached to such buildings or structures, in the unincorporated portion of La Plata County, but they are not intended to limit the jurisdiction or regulatory authority of the Southern Ute Indian Tribe.  These Codes, together with any amendments, additions, deletions, or any other provisions adopted by the La Plata County Board of County Commissioners, shall hereinafter be, referred to as “this Code” and/or the “La Plata County Building Code”. Any portion of the 2015 International Codes not expressly amended or excluded herein is incorporated into this Code. In the event of a conflict between any of the 2015 International Codes and the provisions of this Code, the provisions of this Code shall control.
+(
+Res. No. 2004-15, § 1 (Exh. A), 05/24/2004; Res. No. 2017-33, §  10/10/2017; Res. No. 2023-15, § 18-31, 06/06/2023
+)
+Effective on: 8/1/2023
+Sec. 18-32
+Effective Date
+I.
+This Code shall be and is hereby declared to be in full force and effect as of January 1, 2018, except that the 2015 International Energy Conservation Code shall be in full force and effect as of August 1, 2023 (each the “Effective Date” as context dictates). This Code shall apply to all applications for permits filed on or after the Effective Date of this Code and all such applications shall be processed in accordance with the standards, regulations, and requirements of this Code. Applications pending under the standards, regulations, or requirements in effect prior to the Effective Date of this Code shall be diligently pursued.  Notwithstanding the provisions of this Code in section 18-35(105.4), applications submitted prior to the Effective Date shall become void 90 days after the date that any action is requested of, but not provided by, an applicant.
+II.
+Except as otherwise stated in this Code or under state law, on the Effective Date, and thereafter, this Code shall supersede all prior resolutions and building codes previously adopted in the unincorporated portions of La Plata County.
+III.
+Permits that were issued by the Building Department prior to the Effective Date may be carried out within the scope of the approved permit.  Permits approved pursuant to prior versions of this Code shall remain valid so long as the related projects continue to be compliant with the terms of the permit and the version of the building code under which such permit was issued.
+IV.
+Inspections of permitted projects and the issuance of certificates of occupancy shall be conducted pursuant to the building code version which was effective on the date of each permit’s issuance.  Any violation of previous versions of this Code shall continue to be a violation under such previous versions unless the construction or other activity complies with the provisions of the current version of this Code.
+(
+Res. No. 2004-15, § 1 (Exh. A), 05/24/2004; Res. No. 2017-33, § 18-32, 10/10/2017; Res. No. 2023-15, § 18-32, 06/06/2023
+)
+Effective on: 8/1/2023
+Sec. 18-33 Appendices
+The following appendices, together with any amendments, additions, or deletions set forth in sections 18-36 and 18-38 through 18-44 of this Code, are specifically included in the adoption of this Code. All appendices not listed below are hereby excluded, and shall not apply.
+International Building Code:
+Appendix C. Agricultural Buildings
+Appendix H. Signs
+Appendix J. Grading (with deletions)
+International Residential Code:
+Appendix A. Sizing and Capacity Gas Piping
+Appendix B. Sizing of Venting Systems
+Appendix C. Exit Terminals of Mechanical Draft and Direct Venting
+Appendix D. Recommended Procedure for Safety Inspection of Existing Appliances
+Appendix E.  Manufactured Homes (with additions and deletions)
+Appendix F. Radon Gas (with amendments)
+Appendix G. Piping Standards for Various Applications
+Appendix J. Existing Building and Structures (with amendments)
+Appendix N. Venting Methods
+Appendix P. Sizing of Water Piping Systems
+Appendix R. Light Straw-Clay Construction
+Appendix S. Strawbale Construction
+Appendix T. Recommended Procedure for Worst-Case Testing of Atmospheric Venting
+International Plumbing Code:
+Appendix B. Rates of Rainfall for Various Cities
+Appendix C. Structural Safety
+Appendix E. Sizing of Water Piping System
+International Mechanical Code:
+Appendix A. Chimney Connector
+International Fuel Gas Code:
+Appendix A. Size and Capacities of Gas Piping
+Appendix B. Size of Venting Systems
+Appendix C. Exit Terminals
+Appendix D. Inspection of Existing Appliances
+Effective on: 12/11/2017
+Sec. 18-34
+Definitions
+Pursuant to Section
+18-31
+above, this Code hereby adopts and incorporates the definitions set forth at Chapter 2 of the International Building Code and Chapter 2 of the International Residential Code, together with the additional definitions set forth in this section.
+Res. No. 2004-15, § 1 (Exh. A), 05/24/2004; Res. No. 2017-33, § 18-34, 10/10/2017; Res. No. 2023-15, § 18-34, 06/06/2023
+Debris flow
+or
+Debris field
+means the area impacted by downward movement of soils and other materials in a mountain
+watershed
+because of high sediment yield or high runoff.
+Effective on: 12/11/2017
+IBC
+means the version of the International
+Building Code
+adopted in Section 18-31, as amended by Sections 18-35, 18-38 and 18-45.
+Effective on: 8/1/2023
+IECC
+means the version of the International Energy Conservation Code adopted in Section 18-31, as amended by Section 18-44.
+Effective on: 8/1/2023
+IFGC
+means th
+e version of the International Fuel Gas Code adopted in Section 18-31, as amended by Section 18-43.
+Effective on: 8/1/2023
+IMC
+me
+ans the version of the International Mechanical Code adopted in Section 18-31, as amended by Section 18-39.
+Effective on: 8/1/2023
+IPC
+me
+ans the version of the International Plumbing Code adopted in Section 18-31, as amended by Section 18-40.
+Effective on: 8/1/2023
+IRC
+me
+ans the version of the International Residential Code adopted in Section 18-31, as amended by Sections 18-35 and 18-36.
+Effective on: 8/1/2023
+Design Professional
+means an individual who is registered and licensed by the State of Colorado and is an engineer as defined in C.R.S. § 12-25-102 or an architect as defined in C.R.S. § 12-25-302.
+Effective on: 12/11/2017
+Geologic Hazard
+means a geologic phenomenon which is so adverse to past, current, or foreseeable construction or land use as to constitute a significant hazard to public health and safety, or to property. The term includes but is not limited to:
+1. Avalanches, landslides, rock falls, mud flows, and unstable or potentially unstable slopes; and
+2. Seismic effects.
+Effective on: 12/11/2017
+International
+Code
+Abbreviations
+IBC
+means 2015 International
+Building Code
+IECC
+means 2009 International Energy Conservation Code
+IFGC
+means 2015 International Fuel Gas Code
+IMC
+means 2015 International Mechanical Code
+IPC
+means 2015 International Plumbing Code
+IRC
+m
+eans 2015 International
+Residential
+Code
+Effective on: 12/11/2017
+Sec. 18-35  Scope and Administration
+Chapter 1 of the 2015 International Residential Code and Chapter 1 of the 2015 International Building Code are deleted in their entirety and replaced with the following:
+Contents:
+Section 101 General
+Section 102  Applicability
+Section 103 Building Official
+Section 104 Duties and Powers of Building Official
+Section 105 Permits
+Section 106 Construction Documents
+Section 107 Design Professional in Responsible Charge.
+Section 108 Temporary Structures and Uses
+Section 109 Fees
+Section 110 Required Inspections
+Section 111 Occupancy Approvals
+Section 112 Service Utilities
+Section 113 Board of Review
+Section 114 Violations
+Section 115 Stop Work Order
+Section 116 Unsafe Structures and Equipment
+(
+Res. No. 2004-15, § 1 (Exh. A), 05/24/2004; Res. No. 2017-33, § 18-35, 10/10/2017; Res. No. 2023-15, § 18-35, 06/06/2023
+)
+Section 101 General
+101.1 Scope. The provisions of the 2015 International
+Building Code
+and the 2015 International
+Residential
+Code
+shall apply to the
+construction
+,
+alteration
+, movement, enlargement, replacement, repair,
+equipment
+,
+use
+and occupancy, location, removal, and demolition of every
+building
+or
+structure
+, or any appurtenances connected or attached to such buildings or structures, in the
+unincorporated
+portions of La Plata
+County
+.
+Exception: Detached one- and two-family
+dwellings
+and multiple single
+family
+dwellings (townhouses), not more than three stories high and with a separate means of egress, and their
+accessory
+structures, are governed by the 2015 International Residential Code, as modified herein, and not by the 2015 International Building Code, as modified herein.
+101.2
+Standards
+. Whenever any state or federal law or regulation imposes higher or more stringent standards than those required by this Code, the provisions of that state or federal law or regulation shall
+control
+. Whenever the standards imposed by this Code are higher or more stringent than the standards imposed by any other law or regulation, or resolution of any governmental body, the standards of this Code shall control.  Should further authorizing legislation exist or be enacted, this Code is additionally deemed to be enacted or effective pursuant thereto.
+101.3 Intent. This Code’s purpose is to establish the minimum requirements necessary to safeguard the
+public
+health, safety, and general welfare through structural strength, means of egress
+facilities
+, stability, sanitation, adequate light and ventilation, energy conservation, and safety to life and property from fire and other
+hazards
+attributable to the built environment.   The provisions of this Code shall be liberally construed to effectively carry out its purposes which are hereby found and declared to be in furtherance of the public health, safety, welfare and convenience.
+101.4 Referenced Codes. The Codes listed in Sections 101.3.1 through 101.3.4, and referenced elsewhere in this Code, as modified by this Code, shall be considered part of the requirements of this Code to the prescribed extent of each such reference.
+101.4.1 Mechanical. The provisions of the 2015 International Mechanical Code shall apply to the installation, alteration, repairs, and replacement of mechanical systems, including equipment, appliances, fixtures, fittings, and/or appurtenances to ventilation, heating, cooling, air-conditioning and refrigeration, incinerators, and other energy-related systems.
+101.4.2 Plumbing. The provisions of the 2015 International Plumbing Code shall apply to the installation, alteration, repair, and replacement of plumbing systems, including equipment, appliances, fixtures, fittings, appurtenances, connections to a water or
+sewage
+system, and all
+aspects
+of a medical gas system. (The State of Colorado Plumbing
+Board
+may adopt newer plumbing codes that must be enforced by counties and
+municipalities
+and may supersede the current adopted edition of the Plumbing Code adopted by La Plata County.)
+101.4.3 Gas. The provisions of the 2015 International Fuel Gas Code shall apply to the installation of gas piping systems, extending from the point of delivery to the inlet connections of appliances, and the installation and operation of residential and
+commercial
+gas appliances and related accessories.
+101.4.4 Energy. The provisions of the IECC shall apply to all matters governing the design and construction of buildings for energy efficiency.
+101.5 Fire Prevention.  The applicable provisions of the International
+Fire Code
+, as adopted by Chapter 34 of the La Plata County Code (“Fire Code”), shall apply to matters affecting or relating to the protection of structures and
+premises
+from the hazard of fire and explosion. However, in the event of a conflict between this Code and the Fire Code, then the applicable provision of this Code shall control. In the event of a conflict between the Building
+Department
+and the Fire Department regarding the interpretation of any Fire Code term or provision, the La Plata County Attorney’s interpretation of the applicable Fire Code term or provision shall control, unless the interpretation concerns a determination specifically delegated, by the Fire Code, to be made at the discretion of the Fire
+Chief
+. The La Plata County Attorney shall provide his or her interpretation in writing and pursuant to section 34-36(102.3) of the Fire Code.
+(
+Res. No. 2004-15, § 1 (Exh. A), 05/23/2004; Res. No. 2017-33, § 18-36, 10/10/2017; Res. No. 2023-15, § 18-35, 06/06/2023
+)
+Effective on: 8/1/2023
+Section 102 Applicability
+102.1 General. Where, in any specific case, different sections of this
+Code
+specify different materials, methods of
+construction
+, or other requirements, the most restrictive shall
+control
+. Where there is a conflict between a general requirement and a specific requirement, the more specific requirement shall control.
+102.2 Other laws. The provisions of this Code shall not be deemed to nullify any other provisions of local, state, or federal law. Nothing in this Code shall be construed to exempt a
+building
+or
+structure
+from compliance with the
+development
+and design
+standards
+prescribed by the La Plata
+County
+Land Use Code
+.
+102.3 Referenced codes and standards. The codes and standards referenced in this Code shall be considered part of the requirements of this Code to the prescribed extent of each such reference. Each and every standard, regulation, and requirement of this Code shall be deemed and construed to be cumulative.  Except as otherwise specifically provided, where differences occur between provisions of this Code and referenced codes and standards, the provisions of this Code shall control.
+102.4 Partial invalidity. If any article, section, subsection, sentence, clause, phrase or portion of this Code is, for any reason, held invalid or unconstitutional by any court of competent
+jurisdiction
+, such article, section, subsection, sentence, clause, phrase, or portion of this Code shall be deemed to be a separate, distinct and independent provision and such holding shall not affect the validity of the remaining provisions of this Code, nor shall it or impair or nullify the remainder of this Code, which shall continue in full force and effect.
+102.5 Existing structures. The legal occupancy of any structure existing on the
+Effective Date
+shall be permitted to continue within the scope of the approved
+permit
+, except as is deemed necessary by the
+building official
+, pursuant to section
+18-35
+(116) of this Code, for the general safety and welfare of the occupants or the
+public
+, and except as otherwise provided by the International
+Fire Code
+, as adopted and amended by Chapter 34 of the La Plata County Code.
+102.6
+Additions
+,
+alterations
+, or repairs. Unless otherwise provided in this Code, additions, alterations, or repairs to any structure shall conform to the requirements for a new structure, without requiring the portions of the existing structure not subject to the additions, alterations, or repairs to comply with the requirements of this Code.  Additions, alterations, repairs, and relocations shall not cause an existing structure to endanger the general safety and welfare of the occupants or the public.
+102.7 Responsibility.  It shall be the duty of every
+person
+,
+firm
+, partnership, corporation or other entity who performs work for the construction or repair or any building, structure, or gas, mechanical, or plumbing system to which this Code is applicable, to comply with this Code.
+Effective on: 12/11/2017
+Section 103
+Building Official
+103.1 Creation of the position of building official. The position of building official is hereby created to have charge of the
+Building
+Department
+.
+103.2 Appointment. The building official shall be appointed by the La Plata
+County
+Manager.
+103.3 Deputies. In accordance with the prescribed procedures of La Plata County, the building official shall have the authority to appoint one or more deputy building officials, technical officers, inspectors,
+plan
+examiners, and other employees. Such employees shall have powers as delegated by the building official.
+Effective on: 12/11/2017
+Section 104
+Duties and Powers of
+Building Official
+104.1 General. The building official is hereby authorized and directed to enforce the provisions of this
+Code
+and applicable provisions of federal and state law, where appropriate. For such purposes, he or she shall have all the powers granted to him or her pursuant to the law. However, any
+guarantee
+, representation, or warranty that all
+buildings
+and
+structures
+have been constructed in accordance with all provisions of this Code is expressly denied and disclaimed. This Code shall not be construed to relieve or lessen the responsibility of any
+person
+,
+firm
+, partnership, corporation, or other entity owning, operating, or controlling any building or structure, for any damage to persons or property caused by defects on or in such building or structure. The building official shall have the authority to interpret this Code and to adopt policies and procedures to clarify its provisions and their application.
+104.2 Applications and
+permits
+. Subject to the provisions of this Code, the building official shall:
+1. Receive and review applications, including all required
+construction
+documents and certifications of design professionals;
+2. Issue or deny permits for the erection,
+alteration
+, demolition, or relocation of buildings and structures in the
+unincorporated
+areas of La Plata
+County
+;
+3. Inspect the
+premises
+for which such permits have been issued;
+4.
+Issue any certificates provided by this Code; and
+5.
+Otherwise enforce compliance with the provisions of this Code and applicable state or federal laws and regulations.
+104.3 Notices and orders. The building official shall issue all necessary certificates, notices, orders, and other documents or communications to enforce compliance with this Code.
+104.4 Inspections. The building official and/or duly appointed
+agents
+or employees of the Building
+Department
+shall make all required inspections, or the building official shall have the authority to accept reports of inspections by approved agencies or individuals. Reports of such inspections shall be in writing and certified by a responsible officer of such approved agency or by the responsible individual. The building official has discretion, at the expense of the
+applicant
+, to require and obtain any reports or opinions which he or she deems necessary to determine compliance with any provision of this Code.
+104.5 Identification. The building official and/or duly appointed agents or employees of the Building Department, shall carry proper identification when inspecting buildings or structures pursuant to this Code.
+104.6 Right of entry.
+1. Permitted Premises.
+Issuance of an active
+building permit
+authorizes the building official to enter areas of the subject building or structure, or its premises, to enforce Code provisions related to that permit, including the performance of any inspection provided for in section
+18-35
+(110) of this Code. Initial inspections shall be at the request of the
+permittee
+but, if the building official determines any follow-up or additional inspections are necessary, such follow-up or additional inspections may be conducted without notice to the permittee.
+2. Non-permitted Premises.
+Where a building or structure is not subject to an active building permit, but the building official has reasonable cause to believe that there exists in the building or structure, or upon its premises, a condition which is contrary to or in
+violation
+of this Code and which makes the building, structure, or premises unsafe, dangerous, or hazardous, the building official is authorized to enter the building, structure, or premises at reasonable times to inspect or otherwise perform the duties imposed by this Code, provided that if such building, structure, or premises is occupied, credentials shall be presented to the occupant(s) and entry requested. If such building, structure, or premises is unoccupied, the building official shall first make a reasonable effort to locate the
+owner
+or other person having charge or
+control
+of the building, structure, or premises and request entry. If entry is refused, or if the owner or person in charge of an unoccupied structure does not respond to the building official’s reasonable efforts to locate him or her, then the building official and his or her agents or employees may make recourse to any remedy provided by local, state, or federal law or regulation to secure entry to the building, structure, or premises.
+104.7 Department records. The building official shall keep official records of applications received, permits and certificates issued, reports of inspections, and notices and orders issued consistent with La Plata County’s document retention policy.  Subject to La Plata County’s document retention policy, the building official shall keep an accurate account of all fees and other monies collected or received by the Building Department pursuant to this Code and any implementing resolution or ordinance, the names of the persons upon whose account the same were paid, the date and amount of payment, together with the location of the building or structure to which such payment relates.
+104.8 Nonliability. The adoption of this Code shall not create any duty to any person, firm, corporation, or other entity with regard to enforcement or non-enforcement of this Code.  No person, firm, corporation, or other entity shall have any private right of action, claim, or civil liability remedy against La Plata County, the building official, the Building Department, or any officers, employees, or agents of La Plata County for any damages arising out of or in any way connected with the adoption, enforcement, or non-enforcement of this Code.  Nothing in this Code shall be construed to create any liability, or to waive any of the immunities, limitations on liability, or other provisions of the Colorado Governmental Immunity Act, C.R.S. § 24-10-101
+et seq.
+, or to waive any immunities or limitations on liability otherwise available to La Plata County, and its commissions,
+board
+of review, or officers, employees, or agents.
+104.9 Approved materials,
+equipment
+, and design. Materials, equipment, and devices approved by the building official shall be constructed and installed in accordance with such approval, the manufacturer’s instructions, and the safety requirements of this Code. The provisions of this Code are not intended to prevent the installation of any material or to prohibit any design or method of construction not specifically prescribed by this Code, provided any such alternative has been approved by the building official.  An alternative material, design or method of construction for a specific permit may be approved on a case by case basis where the building official finds that the proposed design or material is satisfactory and complies with the intent of the applicable provisions of this Code. Used materials, equipment, and devices may be used upon approval of the building official when sufficient documentation or information — as determined by the building official in the exercise of his or her discretion — is provided to demonstrate that their
+use
+will comply with the safety requirements of this Code.
+104.10 Modifications. Whenever the building official determines, in the exercise of his or her discretion, that circumstances specific to a building, structure, or premises render compliance with and/or enforcement of any provision of this Code
+impracticable
+, the building official shall have the authority to consider and
+grant
+an application for modification of this Code’s provisions as to an individual building or structure. Before granting any such application for modification, the building official shall determine that the specific circumstances cited in the application render code compliance and/or enforcement impracticable, and that the modification requested will not materially lessen or weaken this Code’s requirements concerning health, accessibility, life and fire safety, or structural requirements. The details granting modifications shall be recorded and entered in the files of the Building Department pursuant to section 104.7.
+104.11. Tests. Whenever there is insufficient evidence of compliance with the provisions of this Code or any other applicable law, or evidence that any material, equipment, design, or other construction method does not conform to the requirements of this Code or any other applicable law, or to substantiate claims for alternative materials or methods, the building official shall have the authority, at the expense of the applicant, to require expert opinions or tests as evidence of compliance.
+Standards
+and methods for any required expert opinions or tests shall be as specified in this Code or as required by the building official in the exercise of his or her discretion.  Where applicable, expert opinions or tests shall be procured from an approved agency and/or design professional. Such expert opinions and/or test results shall be retained by the building official for the period required for retention of
+public
+records, pursuant to section 104.7.
+Effective on: 12/11/2017
+Section 105
+Permits
+105.1 Permits required. Any
+owner
+or authorized
+agent
+who intends to construct, enlarge,
+alter
+, repair, move, demolish, or change the occupancy of a
+building
+or
+structure
+subject to this
+Code
+, or to erect, install, enlarge, alter, repair, remove, convert, or replace any gas, mechanical, or plumbing system, the installation of which is regulated by this Code, or to cause any such work to be done, shall first make application to the
+building official
+and obtain all required permits.  The issuance of a
+building permit
+does not affect or otherwise supersede the requirement to obtain additional permits for grading, temporary uses/structures,
+floodplain
+development
+, land
+use
+, and activities of interest pursuant to the La Plata
+County
+Code. Nothing in this Code shall preclude the building official from refusing to
+grant
+a building permit for an illegally sold or illegally subdivided
+lot
+or
+parcel
+at any time.  Building permits shall not be issued for work to be conducted on any parcel or lot which has been created or developed in a manner that does not fully comply with the La Plata County
+Land Use Code
+.
+105.2 Exempted work. A building permit is not required for the following:
+105.2.1 General.
+One-story, detached
+accessory
+buildings used solely as tool and storage sheds, well houses, and similar uses, not for human occupancy, provided the exterior wall dimensions do not exceed 200 square feet of floor area, the building height does not exceed 12 feet in height to the peak of the roof, and eave overhangs are no greater than 16 inches. These exempt accessory buildings are limited in number to four (4) per parcel of land.
+Utility
+connections will be limited to electrical connections for simple
+lighting
+.
+1.
+Fences
+not over 8 feet high.
+2. Retaining walls, except when acting as an integral part of the building or structure, or less than 4 feet above finish grade.
+3. Open platforms, walks, decks not over thirty (30) inches above
+finished grade
+at any point, which do not support any type of roof structure or cover.
+4. Oil-gas and water production derricks.
+5. Painting, papering, tiling, carpeting, cabinets, counter tops, and similar finish work.
+6.
+Residential
+swimming pools not within a structure or enclosure.
+Public
+swimming pools and
+mineral
+baths must comply with Colorado
+Department
+of Public Health and Environment regulations, 5 CCR 1003-5 et seq.
+7. Swings and other playground
+equipment
+accessory to single or two-family
+dwelling units
+.
+8. Window awnings supported by an exterior wall of Group R, Division 3, and Group U occupancies when projecting not more than 50 inches.
+9.
+Membrane structures
+used as accessories to residential or
+agricultural
+uses that are less than 200 square feet, not attached to the primary structure, and meet the requirements of the La Plata County Land Use Code. Utility connections will be limited to electrical connections for simple lighting.
+10. Agricultural exempt structures, which are buildings or structures used solely for agricultural uses. Pursuant to C.R.S. § 30-28-201, such agricultural buildings shall be used for the sole purpose of providing shelter for agricultural implements, farm products,
+livestock
+, or poultry, and shall not be used for any residential purpose including, but not limited to, storing household items, personal
+vehicles
+, or outdoor sports or
+recreational vehicles
+.  If structures are constructed as agricultural exempt structures then, at the time the agricultural use is discontinued, the building must be reconstructed to comply with all applicable provisions of this Code. Plumbing and electrical systems in an agricultural building are limited to electrical connections for simple lighting and plumbing connections for frost free water spigots. An agricultural exempt building permit with accompanying affidavit will be required prior to constructing an agricultural exempt building. The affidavit will be maintained among the Building Department’s records pursuant to section
+18-35
+(104.7). Agricultural buildings with residential occupancies must comply with all requirements of this Code.
+11.
+Animal
+loafing sheds not exceeding 200 square feet, which are open on at least one side.
+12. Shipping containers used for temporary storage at a permitted
+construction
+site
+.
+13. Shipping containers used solely for storage, less than 200 square feet in size, which are not used to store hazardous materials, and which are not modified or stacked on top of one another, which have no utility connections for heat or water, and which are not used for human occupancy.
+14. Window replacements requiring no structural modifications or alterations, but replacement windows must meet all currently adopted energy code requirements.
+105.2.2. Gas.
+1. Portable heating, cooking, or clothes drying appliances.
+2. Replacement of any minor part that does not alter any equipment subject to approval under this Code, or make such equipment unsafe.
+3. Portable fuel-cell appliances that are not connected to a fixed piping system and are not connected to a power grid.
+105.2.3. Mechanical.
+1. Portable heating appliances.
+2. Portable ventilation appliances.
+3. Portable cooling
+units
+.
+4. Steam piping, or hot or chilled water piping, within any heating or cooling equipment regulated by this Code.
+5. Replacement of any minor part that does not alter any equipment subject to approval under this Code, or make such equipment unsafe.
+6. Portable evaporative coolers.
+7. Self-contained refrigeration systems containing ten (10) pounds (4.54 kg) or less of refrigerant or that are actuated by motors of one (1) horsepower (746 W) or less.
+8. Portable-fuel-cell appliances that are not connected to a fixed piping system and are not connected to a power grid.
+105.2.4. Plumbing.
+1. The stopping of leaks in drains, or water, soil, waste, or vent pipes; provided, however, that if any concealed trap, drainpipe, or water, soil,  waste,  or  vent pipe becomes  defective  and   it  becomes  necessary  to remove and  replace  the  same with new  material, such  work  shall  be considered as  new  work  and  a permit shall be obtained and inspection made as provided in this Code.
+2. The clearing of stoppages or the repairing of leaks in pipes, valves, or fixtures, and the removal and reinstallation of water closets, provided such repairs do not involve or require the replacement or rearrangement of valves, pipes, or fixtures.
+105.2.5 Repairs. Application or notice to the building official is not required for repairs to structures, replacement of lamps, or the connection of approved portable electrical equipment to approved permanently installed receptacles.  Repairs   shall   not  include   the  cutting away of any wall, partition,  or portion  thereof;  the removal or cutting  of any structural beam  or load-bearing support; the removal  or change of any required  means of egress, or  rearrangement  of  parts   of  a  structure  affecting  the egress  requirements, nor shall repairs  include
+addition
+to, alteration of, replacement, or relocation of any water supply,   sewer,
+drainage
+, drain leader,  gas,  soil, waste, vent or similar piping, electric  wiring, mechanical, or other  work which affects the public health  or general  safety.
+105.2.6.
+Emergency repairs
+.  Where equipment replacements and repairs must be performed in an
+emergency
+situation, the permit application shall be submitted to the building official no later than the next business day following the commencement of such replacement or repair.
+105.2.7
+Public utilities
+. A permit shall not be required for the installation, alteration, or repair of generation, transmission, distribution, metering, or other related equipment that is under the ownership and
+control
+of a public utility by established right.
+The above exemptions from this Code’s requirements do not exempt buildings or structures from meeting other applicable provisions of the La Plata County Code, including
+setback
+requirements from
+property lines
+, height limitations in the Animas Valley, and Chapter 78 of the La Plata County Code and any subsequent enactments concerning
+flood
+plain
+management
+.
+105.3 Application for permit. To obtain a permit, the
+applicant
+shall file a written application with the Building Department, including:
+1. A completed application form (as provided by the Building Department) providing accurately all requested information.
+2. Electronic completed plot
+plans
+using aerial photographs of the property,
+sealed
+drawings, or surveyed
+plats
+that represent the building site, location of existing structures, and actual location of the proposed building.
+3. Proof of
+sewage
+disposal authorization, in the form of a copy of a permit from the entity, agency, district, or company (pursuant to the regulatory framework outlined in section
+18-42
+) for an onsite waste-water treatment system, or other system or equipment which will provide sewage disposal for the proposed building.
+4. Proof of adequate,
+potable water
+.  By descending order of preference, building permit applicants shall verify a legal source of potable water as follows:
+a. A written commitment to serve from a public or private water service
+provider
+, or a copy of receipt for payment of public water
+tap
+specific to the lot, parcel or tract of land that is the subject of the building permit application; or
+b. A copy of current valid well permit issued by the Colorado State Division of Water Resources specific to the lot, parcel or tract of land that is the subject of the building permit application; or
+c. If the parcel or tract of land that is the subject of the building permit application is legally and properly subdivided except that a public water supply system is not available or that the individual well water source is not viably potable, then demonstration of an alternative water supply, such as a cistern.
+5. Legal description of the land on which the proposed work is to be performed including the physical address assigned to the property and construction site, and the La Plata County Assessor parcel number.
+6. Identification and description of the work to be permitted and a description of the use and occupancy for which the proposed work is intended.
+7. Such other data and information as required by the building official in the exercise of his or her discretion, including but not limited to the valuation of the proposed work, with supporting documentation.
+8. Electronic plans and construction documents along with other information addressing the requirements set forth in Section 106.
+9. Identification of any
+geologic hazards
+associated with the construction site and any special engineering or other measures necessary to
+mitigate
+those geologic hazards. Such identification may trigger additional submittal or review requirements including those set forth below in subsections (a) through (c) and at section
+18-35
+(107.2).
+10. Expansive soils. When it is found that a building site is located in an area of the County where the soils are classified as being highly expansive, or technical evidence and soil characteristics indicate highly expansive soils, the foundation system for all residential structures must be designed by a
+professional engineer
+, licensed by the State of Colorado.  The design of the foundation system will address the expansion or
+adverse
+soil conditions at the site. The classification of soils will be based on the “soil survey of La Plata County area, Colorado” provided by U.S. Department of Agriculture – Soil Conservation 1981-82, and the maps on the La Plata County GIS Mapping System.
+11. Geologic hazards. When the building site is located in an area subject to geologic hazards, the building official may require an engineering geologist or other
+engineer
+working within their field of expertise to submit specific recommendations for site development to address site drainage and defensive techniques that will limit
+impacts
+of the geologic hazards.  This requirement applies only to residential and
+commercial
+buildings and structures.
+12. Flood plain development.  All development within the mapped flood
+hazard
+zones of La Plata County must comply with Res. No. 2014-30 (August 5, 2014) or subsequent flood plain management regulations adopted by La Plata County, including, but not limited to, Chapter 78 of the La Plata County Code of Resolutions and Ordinances. Where development or construction takes place in designated flood hazard zones as mapped and defined on La Plata County Flood Plain Mapping, a
+FEMA
+elevation certificate will be required along with other engineering requirements contained in the regulations.
+13. Computations and
+specifications
+verifying compliance with the energy efficiency requirements set forth in this Code at section
+18-45
+.
+An application shall be deemed complete if it is submitted in the required form and includes all required submittal information and is accompanied by the applicable fee.  In addition, an application will be considered complete only if the building official determines the information contained in the submittal is adequate to enable the building official to ultimately determine whether the proposed
+project
+will comply with this Code.
+105.4 Time limitation of application. A permit application on which no permit has issued shall be deemed to have been
+abandoned
+180 days after the date of the application’s filing, unless such application has been pursued in
+good faith
+. The building official is authorized, in the exercise of his or her discretion, to grant one extension of time, not exceeding 180 days, to allow the applicant to pursue his or her application.  The extension shall be requested in writing with a demonstration that circumstances beyond the applicant’s control previously have prevented the applicant from pursuing the application in good faith. If no extension is granted, no further processing of an abandoned application shall occur, and the application shall be considered automatically withdrawn.  Any plans submitted with the application shall be either returned to the applicant or destroyed by the building official. Any re-submittal of the application thereafter by the applicant will be treated as a new application for purposes of review, scheduling, and payment of application fees.
+105.5 Action on application. The building official shall examine or cause to be examined applications for permits and amendments thereto within a reasonable time after filing. If the application or any of its attachments do not conform to the requirements of this Code, pertinent laws, or County regulations, the building official shall reject such application in writing, stating the reasons therefor. If the building official is satisfied that the proposed work conforms to the requirements of this Code, and any laws and ordinances applicable thereto, the building official shall issue a permit as soon as practicable. When the building official issues a permit, all construction documents shall be stamped “approved.” Field inspections may warrant changes or corrections to meet Code requirements.
+105.6 Validity of permit. The issuance or granting of a permit shall not be construed to be a permit for, or an approval of, any
+violation
+of any provision of this Code or of any other applicable law or regulation. Any language in an issued permit contrary to or in conflict with the provisions of this Code shall be invalid. The issuance of a permit based on construction documents and other data shall not prevent the building official from later requiring the correction of errors in the construction documents and other data. The building official may prohibit occupancy or use of a building or structure determined to be in violation of this Code or of any other applicable law or regulation.
+105.7 Lapsed or Abandoned Permits.
+105.7.1 Lapse. Every permit issued shall lapse and be of no further force or effect unless the work on the site is commenced within 12 months after the permit’s issuance.  If the permit has lapsed, the applicant must reapply for and be granted a renewal (pursuant to subsection 105.8 below) or a new permit to proceed with the project.  Any activity occurring under a lapsed permit may be subject to an investigation fee as provided in section
+18-35
+(109.3) of this Code.
+105.7.2
+Abandonment
+. If the work authorized on the site by a permit is suspended or abandoned for a period of 12 months after the date on which work was commenced, the permit will be considered abandoned and be of no further force and effect.  If the permit is abandoned, the applicant must reapply for and be granted a renewal (pursuant to subsection 105.8 below) or a new permit to proceed with the project.  Any activity occurring under an abandoned permit may be subject to an investigation fee as provided in section
+18-35
+(109.3) of this Code.
+105.8 Permit renewal. A lapsed or abandoned permit may be renewed upon payment of a renewal permit fee of up to 25% of the original permit fee.  A permit may be renewed only if no changes have been made to the construction documents submitted with the original permit application. A renewed permit shall have the same permit number as the original permit. Permit renewal will be based upon the version of this Code, and any other applicable laws and regulations, in effect at the time of the original permit’s issuance. Renewal permits may lapse or become abandoned in the same manner as the original permit, pursuant to section
+18-35
+(105.7). Any changes to the original approved plans will be subject to additional fees and requirements based on valuation and the current fee schedule.
+105.9 Suspension or revocation. The building official may suspend or revoke a permit when he or she determines that:
+1. There is a material departure from the approved plans, specifications, or conditions of the permit; or
+2. There is a violation of any provision of this Code; or
+3. The permit was obtained based on the submittal of incorrect, inaccurate, or incomplete information; or
+4. The permit was issued in error.
+No suspension or revocation shall occur before the building official provides reasonable notice to the
+permittee
+that any of the conditions listed above in this section exist. Upon receiving such notice, the permittee shall be entitled to a
+hearing
+before the building official and a reasonable opportunity to correct the condition(s).
+If the building official suspends the permittee’s permit following such notice, hearing, and opportunity to correct the condition(s), then no further work, construction, or other activity shall proceed until a final determination is made. The building official shall place a red tag indicating that the building permit is suspended on every structure subject to that suspended permit.  A permit’s suspension shall remain in effect and the red tag shall remain in place until the building official determines that the condition(s) underlying the suspension has been remedied.
+(
+Res. No. 2004-15, § 1 (Exh. A), 05/24/2004; Res. No. 2017-33, § 18-35, 10/10/2017; Res. No. 2023-15, § 18-35, 06/06/2023
+)
+Effective on: 8/1/2023
+Section 106
+Construction
+Documents
+106.1 Submittal documents. Construction documents, geotechnical reports, special inspection and structural observation programs, and other data shall be submitted in three sets (two paper and one electronic) of
+plans
+with each application for a
+permit
+. When required by section
+18-35
+(107) of this
+Code
+, or other applicable laws or regulations, the construction documents shall be prepared by a design professional licensed in the State of Colorado. Pursuant to section
+18-35
+(107) of this Code, where special conditions exist, as determined by the
+building official
+, the building official is authorized to require additional construction documents to be prepared by a design professional at the applicant’s expense.
+Exception: The building official is authorized to waive the requirement for submission of construction documents and other data not required to be prepared by a design professional if he or she determines, in the exercise of his or her discretion, that the nature of the work applied for is such that reviewing of construction documents is not necessary to obtain compliance with this Code.
+106.1.1 Information on construction documents. Construction documents shall be dimensioned and drawn upon suitable material. Construction documents shall be of sufficient clarity to indicate the location, nature, and extent of the work proposed and to show in sufficient detail that it will conform to the provisions of this Code and related laws and regulations.  The first sheet of each set of plans shall give the exact location of the work to be done and shall identify the
+person
+who prepared the plans. Paper plan documents must be a minimum of 18” x 24” in size.  At the discretion of the
+County
+Plans Examiner, smaller
+projects
+such as decks, sheds, and other small
+accessory
+structures
+may be submitted on 11” x 17” paper documents.
+106.1.2 Manufacturer's installation instructions. When requested by the
+building
+inspector, manufacturer’s installation instructions must be provided to verify particular capabilities and installation details for appliances, fixtures, or other building components.
+106.1.3 Combination fire suppression systems.  Plumbing-based fire suppression systems utilizing domestic water
+supplies
+will be inspected and approved by the building official or authorized employees or
+agents
+. Drawings and flow calculations must be submitted for review and approval prior to issuance of plumbing permits.
+106.2
+Site plan
+. The construction documents submitted with the permit application shall be accompanied by a site plan showing to scale the size and location of
+new construction
+and existing structures on the
+site
+. The site plan must show the distances from
+lot
+lines and other buildings, including applicable
+setbacks
+, along with any natural
+drainages
+and water courses. When the proposed construction is located in a designated
+building envelope
+, a survey
+plat
+prepared by a surveyor licensed in the State of Colorado shall be required.  Upon completion of the footing system and exterior supports for decks, the land surveyor will be required to verify that the foundation system is positioned inside the building envelope or applicable setback.
+106.2.1 Demolition. In the case of applications for demolition, the site plan shall show the building or structure to be demolished and the size and location of buildings or structures that are to remain on the site.
+106.2.2
+Waiver
+or modification. The building official is authorized to waive or modify the requirements for a site plan when the application is for a permit for an
+alteration
+or repair not exempted pursuant to section
+18-35
+(105.2), or when the building official otherwise determines, in the exercise of his or her discretion, that a waiver or modification is warranted.
+106.3 Examination of documents. The building official shall examine, or cause to be examined, the accompanying construction documents, and shall ascertain by such examination whether the construction indicated and described is in accordance with the requirements of this Code and other pertinent laws or ordinances. Pursuant to Chapter 34 of the La Plata County Code, the building official may require an
+applicant
+to deliver, within forty-eight (48) hours of submission to the Building
+Department
+, an exact copy of all construction documents and application materials to the appropriate fire protection district or authority.
+106.4 Planning department review. Prior to the review of construction documents and issuance of a
+building permit
+, the construction documents must be reviewed by the La Plata County Planning Department. Planning Department personnel shall review the pertinent submittals to verify compliance with the La Plata County Land
+Use
+regulations.  Upon approval from the Planning Department, the permit application shall be given to the Building Department for review and issuance of the building permit.
+106.5 Approval of construction documents. When the building official issues a permit, the construction documents shall be approved, in writing or by stamp, as "Approved." One paper copy set of construction documents so reviewed and approved shall be retained by the building official, along with one electronic set. The other paper copy shall be returned to the applicant, shall be kept at the work site, and shall be open to inspection by the building official or his authorized representative. Field inspections may require changes or corrections to the construction documents to meet Code requirements.
+106.6 Previous approvals. This Code shall not require changes in the construction documents, construction, or designated occupancy of a structure for which a lawful permit has been heretofore issued or on which work otherwise was lawfully authorized and commenced, and the construction of which has been pursued in
+good faith
+, subject to a valid original permit and any valid renewal permit. Construction projects shall be inspected and permits shall be renewed based on the version of the Code that was in existence at the time of the original permit’s issuance.
+106.7 Phased approval. The building official is authorized to issue a permit for the construction of foundations or any other part of a building or structure before the construction documents for the whole building or structure are complete. Construction plans must be completed to a point that the plans clearly show structural load continuity and transfer, and other information and details that prove structural adequacy and compliance with this Code. The holder of such permit for the foundation or other parts of a building or structure shall proceed at the holder's own risk with the building operation and without assurance that a permit for the entire structure will be granted. Permits for each phase shall be applied for and issued pursuant to the version of this Code in place at the time of each application.
+Effective on: 12/11/2017
+Section 107
+Design Professional in Responsible Charge.
+107.1 General. The
+building official
+may require the involvement of a design professional, licensed in the State of Colorado, to provide
+professional services
+to verify the
+construction
+plans
+and/or finished construction is in compliance with this
+Code
+and other applicable laws and regulations.
+When it is required that plans or other documents be prepared by a design professional, the building official may require the
+owner
+to engage, and designate on the
+building permit
+application, a design professional who shall act as the design professional in responsible charge.  Such design professional shall be considered the owner’s duly authorized
+agent
+. It is the design professional’s responsibility to communicate discussions and decisions to the owner. The owner shall notify the building official in writing if there is a change in the designated design professional.
+The design professional in responsible charge shall be responsible for reviewing and coordinating submittal documents prepared by others, including phased and deferred submittal items, for
+compatibility
+with the design of the
+building
+. The involvement of a design professional, if required by the building official, may be applied to all or part of a building or
+structure
+, whether new or existing. Furthermore, when a
+permit
+relates to an existing structure, the building official may require the design professional to investigate and verify the structural adequacy of such structure and substantial compliance of the structure with the applicable version of this Code.
+Where special structural observations and/or special inspections are required, they shall be done in accordance with Sections 1704 and 1709 of the 2015 International
+Building Code
+.
+107.2 Responsibility for preparation of plans and
+specifications
+. In accordance with Section
+18-35
+(107.1), the building official may require plans, computations, and specifications to be prepared, designed, and stamped by a design professional in circumstances including, but not limited to, the following:
+1. Foundations are constructed by any method other than the minimum foundation
+standards
+contained in La Plata County’s Foundation Details, as set forth in Attachment 1
+of Article 4 to this Code, for
+residential
+and
+accessory
+structures.
+2.  Building structural systems are constructed and concealed prior to inspection.
+3. Floor framing, roof framing, or wall framing does not meet the minimum requirements of this Code according to the applicable design criteria contained in the 2015 International Building or Residential Codes, whichever is applicable.
+4. Alternate building materials and methods are used that may require special engineering, alternate construction methods, or alternate or enhanced inspection processes.
+5. Buildings and/or structures are constructed in the
+100-year flood
+plain of any regulated and mapped
+flood
+hazard
+zone where the National Flood Insurance Program Regulations apply.
+6.  Buildings and/or structures are constructed in a
+geologic hazard area
+identified by the Colorado Geological Survey, the building official, or the design professional.
+7. Buildings and/or structures are constructed in a potential
+debris field
+, as identified by the Colorado Geological Survey, the building official, or the design professional. Plans, computations, and specifications for buildings and/or structures constructed or to be constructed in an area impacted by
+debris flows
+shall conform to the La Plata County’s Regulations for the Construction of a Residence in a Geologic Hazard Area, set forth in Attachment 3 to this Code.
+8. Foundations are located on soils designated as "Highly Expansive" as depicted on maps provided by the U.S.
+Department
+of
+Agriculture
+, Soil Conservation Service.
+9. A building is in a region with snow/roof live loads of 80 pounds per square foot or more.
+Pursuant to C.R.S. § 12-25-303(2), the building official may exercise his or her discretion to require the participation and review of a design professional, even if a
+project
+otherwise is exempt from the requirements of Part 3 of Title 12, Article 25 of the Colorado Revised Statutes.
+107.3 Deferred submittals. For the purposes of this section, deferred submittals are defined as those portions of the design that are submitted subsequent to a permit application but within the time designated by the building official. Deferral of any submittal items shall have the prior approval of the building official. The design professional in responsible charge shall, when the construction documents are submitted, list the deferred submittals for review by the building official.
+Prior to submission of the deferred submittal items to the building official, the design professional shall review the items and shall note that the deferred submittal documents have been reviewed and found to be in general conformance with the design of the building and the provisions of this Code. Any deferred submittal items shall not be installed until their design and submittal documents have been approved by the building official.
+107.4 Amended construction documents. Work shall be installed in accordance with the reviewed construction documents, and any changes proposed to be made during construction that are not in compliance with the approved construction documents shall be resubmitted for approval as an amended set of construction documents prior to those changes being made. The building official can require any drawings, plans, or clarifications necessary to prove compliance with this Code.
+Effective on: 12/11/2017
+Section 108 Temporary
+Structures
+and Uses
+108.1 General. The
+building official
+is authorized to issue a
+permit
+for temporary structures and temporary uses. Such permits shall be for a limited period not to exceed 12 months.
+108.2 Conformance. Temporary structures and uses shall conform to the structural, strength, fire safety, means of egress, accessibility, light, ventilation, and sanitary requirements of this
+Code
+, to Chapter 78 of the La Plata
+County
+Code, and any subsequent enactments pertaining to
+flood
+plain
+management
+.
+108.3 Termination of approval. Where the building official, in the exercise of his or her discretion, determines that the occupancy of any temporary structure poses a threat to
+public
+health, safety, or welfare, the building official is authorized to issue the temporary
+permittee
+a notice of termination and, within a reasonable time, to afford the temporary permittee a
+hearing
+and an opportunity to correct the circumstance underlying the notice. If, after such notice and hearing, the building official determines that the circumstance has not been corrected, the building official may terminate the temporary permit and order the
+temporary use
+to be discontinued.
+Effective on: 12/11/2017
+Section 109 Fees
+109.1 Payment of fees. Any
+permit
+issued by the La Plata
+County
+Building
+Department
+for any
+aspect
+of a
+construction
+project
+shall not be valid until the fees prescribed by law have been paid. Nor shall an amendment to a permit be released until the additional fee, if any, has been paid.
+109.2 Schedule of permit fees. Application and any other applicable fees and penalties shall be set by the
+Board of County Commissioners
+.  All applicable fees shall be submitted with each application.  All fees are cumulative, non-refundable, and will not be prorated if an application is withdrawn, or is
+abandoned
+.
+Permit fees are derived from a combination of processes. Fees can be charged based on a flat fee, flat fee per square foot, or based on valuation of construction
+costs
+. The determination of value or valuation under any of the provisions of this
+Code
+shall be made by the
+building official
+with reference to valuation information provided by the International Code Council (“ICC”)’s  building valuation data. The value to be used in computing the
+building permit
+and fees shall be the total value of all construction work (such as foundation work, structural and non-structural building components, electrical, plumbing, mechanical, insulation, and gas and associated plumbing
+equipment
+and permanent systems, but not including land costs) for which the permit is issued. All building permit and associated fees which contain a fraction of a dollar will be rounded to the next highest dollar.
+109.3 Work commencing before permit issuance. Any
+owner
+or
+person
+who commences any work on a building,
+structure
+, or plumbing, mechanical, or gas system before obtaining all necessary permits shall be subject to an investigation fee, in
+addition
+to the permit fee. The minimum investigation fee shall be equal to the amount of the permit fee required by this Code. The payment of such investigation fee shall not exempt any person or owner from compliance with all other provisions of this Code or any penalty prescribed by law.
+109.4
+Plan
+review fee. Plans for construction projects will be subject to plan review processes.  Most construction plans are reviewed for Code compliance within the Building Department, however, the building official has the authority to require plan review to be conducted by other County departments or outside agencies or
+firms
+. When plans are reviewed in the Building Department, the plan review fee is automatically included in the building permit fee.  But where plan reviews are conducted by other County departments, the building official may collect a fee in accordance with that department’s fee structures. Whenever the building official deems necessary the review of a construction project by an outside firm or agency, the property owner or
+contractor
+shall be required to pay the actual cost of such review.
+109.5. Refund policy. Notwithstanding section
+18-35
+(109.2), when building permits are issued and circumstances prevent the owner from commencing construction the refund of a portion of the original fee excluding costs associated with review and processing of plans, a refund may be granted within 18 months of the issuance date.
+109.6 Reinspections. A reinspection fee may be assessed for any of the following reasons:
+1.
+Any portion of work for which inspection is called is incomplete;
+2.
+Previously noted corrections have not been made;
+3.
+The approved plans are not readily available to the inspector;
+4.
+Failure to provide
+access
+to the job
+site
+on the date for which the inspection was requested; or
+5.
+Deviation from the approved plans.
+In instances where reinspection fees have been assessed, no additional inspection of the work will be performed until the reinspection fee has been received by the Building Department.
+109.7
+Waiver
+of permit fee for new structures and additions. Building permit fees for new structures and additions are automatically waived for tax-supported governmental entities. In addition, the Board of County Commissioners may, from time to time, establish waivers of permit fees for new structures and additions for non-profit organizations. Requests for such waivers by non-profit organizations shall be made in writing and shall explain the applicability of such a waiver. Tax-supported governmental entities and non-profit organizations obtaining a waiver subject to this section shall remain responsible for any plan review fees incurred pursuant to section
+18-35
+(109.4).
+Effective on: 12/11/2017
+Section 110
+Required Inspections
+110.1 General.
+Construction
+or work for which a
+permit
+is required shall be subject to inspection by the
+building official
+, and such construction or work shall remain accessible and exposed for inspection purposes until approved. It shall be the duty of the
+owner
+,
+contractor
+, or subcontractor to confirm that the
+building
+or
+structure
+has a valid permit and to notify the Building
+Department
+when work is ready for inspection. It shall be the duty of the owner, contractor, or subcontractor requesting any inspections required by this
+Code
+to provide legal and adequate
+access
+and means for inspection of such work. The address of the building
+site
+must be posted in a conspicuous place readily visible from the
+public
+road
+.
+Approval following inspection shall not be construed to be an approval of a subsequently discovered
+violation
+of any provision of this Code, or any other provision of the La Plata
+County
+Code. Inspections presumed to authorize a violation of this Code or to render invalid any provision of this Code or the La Plata County Code shall not be valid. Neither the building official nor the County shall be liable for any expense incurred in the removal or replacement of any material required to allow inspection. Requests for inspection shall be made 24 hours in advance of the work being ready for inspection. Inspections will be provided on a first come, first served basis. Due to workload and schedules of department personnel, the owner, contractor, or subcontractor may not request a specific date or time for conduction of the inspection.
+If, due to excessive workload and staffing limitations, the building official is unable to perform a requested inspection within a reasonable time, special inspection reports may be accepted to address the required inspections noted herein.  When approved in advance by the building official, such special inspection reports may be prepared by a qualified architect or
+engineer
+, qualified inspector, or other inspection agency provided such agency satisfies the building official’s requirements as to qualifications and reliability.
+110.2 Required inspections. The building official, upon request as provided in section 110.1, shall perform any applicable inspection described below in sections 110.3.1 through 110.3.10. At the discretion of the building official, preconstruction consultations may be required on site to evaluate any conditions, concerns, or issues that may exist. These consultations may be conducted to assure compliance with applicable provisions of this Code or other chapters of the La Plata County Code.
+110.2.1 Footing inspections. Footings shall be placed on natural compacted soils or engineered compacted base materials designed to accommodate all building loads. Inspections will be made after trenches are excavated, forms erected, steel reinforcing in place, and prior to placement of concrete.  When
+adverse
+soil conditions exist on the site, footings shall be constructed in accordance with soils and geo-technical reports and/or engineered
+plans
+designed to address and/or
+mitigate
+the adverse soil conditions.
+110.2.1.1 Drilled pier inspections. Drilled pier inspections will be made after piers have been drilled, and reinforcing, if any, is in place, but prior to the placing of concrete in piers. In the event pier drilling and placement of concrete occurs in a continuous fashion, making a single inspection impractical, the engineer of record or his authorized representative shall inspect drilling, reinforcement and placement of concrete as required.
+110.2.1.2 Foundation wall inspections. Foundation wall inspections will be made after the footings or piers have been poured. The foundation walls shall be inspected when all forms are constructed, and reinforcing steel and void material is in place. For foundations in
+flood
+hazard
+zones, verification of
+base flood elevations
+in relation to foundation/future finished floor will be required. Where
+platted building envelopes
+exist, upon completion of the footing system and exterior supports for decks, the land surveyor will be required to verify the foundation system is positioned inside the
+building envelope
+.
+110.2.2 Concrete slab or under-floor inspection. Concrete slab and under-floor inspections shall be made after in-slab or under-floor reinforcing steel and anchoring devices, building service
+equipment
+, conduit, DWV plumbing, piping
+accessories
+, and other ancillary equipment items are in place, and prior to any concrete being poured. Where platted building envelopes exist, upon completion of the footing system and exterior supports for decks, the land surveyor will be required to verify that the foundation system is positioned inside the building envelope.
+110.2.3 Nailing inspection. A wall and roof nailing inspection shall be performed when the wall and roof sheathing is completed, prior to the installation of wall wrap, exterior insulation, felt, or ice and water shield. A wall sheathing nailing inspection will be made before the exterior walls are covered. It shall be the applicant’s duty to provide reasonable and safe access to all portions of the roof. The building inspector has the authority to determine whether roof access is reasonable and safe. Building Department personnel have discretion to require the installation of certain safety features or restraints to prevent falls during the inspection process.
+110.2.4 Frame inspection. Frame inspections shall be made after all interior and exterior framing is complete; all exterior decks and roof framing, and mechanical connections and components are attached to the main structure; fire blocking and bracing are in place; pipes, chimneys and vents to be concealed are complete; and the rough electrical, plumbing, heating, wires, pipes, and ducts are installed. Steel frame inspections will be conducted when the steel frame has been erected; all bolting, welding, and bracing has been completed; all ducts, rough plumbing, and electrical systems have been installed; and all exterior decks and roof coverings are installed.
+110.2.5 Energy Code inspections. Energy Code inspections shall ensure a project’s compliance with the IECC as adopted by this Code.  Inspections will be made as the building official determines, in the exercise of his or her discretion, they are required during the construction of the
+project
+.
+110.2.5.1 Insulation -  walls/ceilings/floors. Inspection of insulation installed within walls, ceilings, and floors will be made when the plumbing, mechanical, electric, and framing are complete, and all insulation is installed.  An inspection of the air sealing and roof spray foam may be required before wall and ceiling batt insulation is installed.
+110.2.5.2 Duct leakage testing.  Duct blaster testing, if required, shall be completed before insulation is installed to allow for inspection during the testing and to be able to repair issues that may arise.
+110.2.5.3 Building envelope leak inspection. The building envelope leak inspection shall be performed at any time after creation of all penetrations of the building thermal envelope. The building shall be tested in accordance with the IECC.
+110.2.6 Fire-resistant penetrations. Protection of joints and penetrations in fire-resistance-rated assemblies shall not be concealed from view until they are inspected and approved.
+110.2.7 Other inspections. In
+addition
+to the inspections specified above, the building official has the discretion to make or require any other inspection of any construction work to ascertain compliance with the provisions of this Code, the manufacturer’s installation requirements, and other laws or regulations enforced by the Building Department.
+110.2.8 Final inspection. Upon completion of the work for which the permit has been issued, the building official will complete a final inspection. The final inspection authorization will be based on the completion of all building components and completion of exterior grading and
+drainage
+. Final authorization for
+sewage
+disposal and water supply, and any required approval from other outside agencies, must be provided prior to the final inspection.
+110.3 Approval required. Work shall not be done beyond the point indicated in each successive inspection without first obtaining the approval of the building official. The building official, upon notification, shall make the requested inspections and shall either indicate the portion of the construction that is satisfactory as completed, or shall notify the permit holder or an
+agent
+of the permit holder wherein the same fails to comply with this Code. Any portions of the work that do not comply shall be corrected, and such portion shall not be covered or concealed, until re-inspected and approved by the building official.
+110.4 Fabrication, installation, and manufacturer. Preparation, construction, fabrication, and installation of members and their fastenings shall conform to accepted engineering practices and to the requirements of this Code. All components and members shall be aligned, anchored, tied, and braced to develop the strength and rigidity necessary for the purposes for which they are designed and used.
+110.5 Enforcement policies and Code interpretations. The building official, in the exercise of his or her discretion, may promulgate additional policies and/or interpretations, for the purpose of standardization of enforcement. These policies and/or interpretations may include references to
+standard
+tolerances used by the
+residential
+construction industry, or they may include specific tolerances for inspection items where necessary.
+(
+Res. No. 2004-15, § 1 (Exh. A), 05/24/2004; Res. No. 2017-33, § 18-35, 10/10/2017; Res. No. 2023-15, § 18-35, 06/06/2023
+)
+Effective on: 8/1/2023
+Section 111 Occupancy Approvals
+111.1
+Use
+and occupancy. No
+building
+or
+structure
+, or portion thereof, requiring a
+permit
+in accordance with section
+18-35
+(105) of this
+Code
+, shall be used or occupied, and no change in the existing occupancy classification of such building or structure, or portion thereof, shall be made, until the
+building official
+has issued an appropriate certificate authorizing the legal occupancy of the building  or structure.
+111.1.1
+New construction
+Certificate of Occupancy.  Following issuance of a
+building permit
+, compliance with all required inspections, compliance with the International
+Fire Code
+as adopted and amended by Chapter 34 of the La Plata
+County
+Code, and completion of the final inspection described above in section
+18-35
+(110.2.8), the building official may issue a certificate of occupancy. Issuance of a certificate of occupancy will verify that
+construction
+work has been completed in accordance with permitted
+plans
+and necessary inspections were completed. The certificate will serve as written notification from the building official to the property
+owner
+that the work covered under the permit is complete and the permit is closed.
+EXCEPTION: Single occupancies of Group U used solely for
+agriculture
+buildings, barns, carports, garages,
+livestock
+shelters, private garages, sheds, or stables are exempt from the certificate of occupancy requirements.  Group U occupancies with
+residential
+uses must receive a certificate of occupancy.
+111.1.2 Certificate of Temporary Occupancy. The building official is authorized, at his or her discretion, to issue a certificate of temporary occupancy before the completion of the entire work covered by the permit, provided that the building official determines that the completed portions can be occupied safely. The certificate of temporary occupancy shall expire on a date certain, as stated on the certificate.
+The building official may issue a temporary certificate of occupancy for residential (R-3) occupancies when the structure is substantially completed, but not completed to a point that a final inspection can be performed. The
+permittee
+must have obtained final approvals for the
+sewage
+disposal system, installation of safety features, fire separations between living areas and attached garages, and either the completion of the plumbing system within the home or the isolation of fixtures that are not yet installed before a certificate of temporary occupancy may issue.
+The failure to obtain a certificate of occupancy before the expiration of the certificate of temporary occupancy shall be a
+violation
+of this Code. The building official shall notify the permittee of such violation in writing and the notice of violation shall be retained in the records of the Building
+Department
+. The building official, at his or her discretion, may use all legal enforcement remedies to halt the use and occupancy of the building or structure.
+111.1.3 Certificate of Limited Compliance. The building official may issue a permittee a certificate of limited compliance in lieu of a certificate of occupancy when any of the following circumstances exist, but the building official nevertheless determines that occupancy of the building or structure does not pose a risk to health or safety:
+1. Failure to complete required inspections. A permittee, or any of the permittee's
+agents
+, fails to complete any inspection required by section
+18-35
+(110). The certificate of limited compliance shall list those inspections which must be completed to obtain a certificate of occupancy.
+2. Construction without a building permit. A
+project
+is constructed without issuance of a building permit, such that any inspection required by section
+18-35
+(110) cannot be completed. The certificate of limited compliance shall list those inspections which must be completed to obtain a certificate of occupancy, as well as any other instances in which full compliance with this Code was not achieved.
+3. Construction not in accordance with approved plans. A permitted project is not completed according to the plans which the Building Department has approved pursuant to section
+18-35
+(106). A project will be considered to be not in accordance with approved plans in circumstances including, but not limited to, where the approved plans provide that a portion of the project will remain unfinished, but the permittee finishes that portion; or where the approved plans provide that a portion of the project will be finished, but that portion remains unfinished. The certificate of limited compliance shall identify those portions of the project not completed in accordance with the approved plans.
+Issuance of a certificate of limited compliance will close the building permit. To obtain a certificate of occupancy, the permittee, the permittee's agents, or the permittee's successors in interest must apply for and obtain a new building permit authorizing the completion or correction of all items which the certificate of limited compliance identifies as outstanding or non-compliant.
+111.1.4 Remodel,
+additions
+, or relocated structures certificate. Remodels or additions to buildings, and relocated buildings, shall receive a certificate of occupancy for the work completed after plans have been submitted, a permit issued, and all required inspections are completed.  The certificate shall state that it does not certify that the entire building meets all the requirements of the Code for new buildings.
+111.1.5 Certificate issued – documentation and information. Any certificate issued by the building official for occupancy of a structure shall contain the following information:
+1.
+Building permit number; and
+2.
+Address of the structure; and
+3.
+Property owner’s name; and
+4.
+Type of certificate; and
+5.
+Expiration date, if applicable; and
+6.
+Occupancy classification; and
+7.
+Type of construction; and
+8.
+A statement detailing any imitations or special conditions that have been placed on the issuance of the certificate; and
+9.
+In the case of a certificate of occupancy, a statement that the described construction has been completed in accordance with approved plans; in the case of a certificate of limited compliance, a statement identifying what portions of this Code have not been satisfied: and
+10.
+If applicable, a statement that the described portion of the structure has been inspected by the appropriate authority for compliance with the requirements of the  International Fire Code, as adopted and amended by Chapter 34 of the La Plata County Code.
+111.2 Revocation. The building official is authorized to suspend or revoke a certificate of occupancy, a certificate of temporary occupancy, or a certificate of limited compliance issued under the provisions of this Code wherever the certificate is issued in error, or based on incorrect information supplied, or where it is determined that the building or structure or portion thereof subject to the certificate is in violation of any provision of this Code or applicable law or regulation. Any suspension or revocation pursuant to this section shall be in writing and shall set forth the basis for the suspension or revocation.
+Effective on: 12/11/2017
+Section 112 Service
+Utilities
+112.1 Connection of service utilities.  A
+person
+shall not make connections from a utility, source of energy, or fuel to any
+building
+or system that is regulated by this
+Code
+for which a
+permit
+is required, until such connections are approved by the
+building official
+.
+112.2 Temporary connection. The building official shall have the authority to authorize the temporary connection of the building or system to the utility, source of energy, fuel, or power.
+112.3 Authority to disconnect service utilities. The building official shall have the authority to authorize the disconnection of utility service to any building,
+structure
+, or system regulated by this Code, and any other provision of the La Plata
+County
+Code in the case of
+emergency
+, or where otherwise necessary to eliminate an immediate
+hazard
+to life or property. Prior to taking such action, the building official shall notify the serving utility, and wherever possible the
+owner
+and occupant of the building, structure, or service system, of the decision to disconnect. If the building official is not able to provide notification prior to disconnecting, the owner or occupant of the building, structure, or service system shall be notified in writing as soon as practical thereafter.
+Effective on: 12/11/2017
+Section 113
+Board
+of Review
+113.1 General. To hear and decide
+appeals
+of orders, decisions, or determinations made by the
+building official
+relative to the application and interpretation of this
+Code
+, and pursuant to C.R.S. § 30-28-206, there shall be a Board of Review consisting of members who are qualified by experience and training to pass on matters pertaining to
+building
+construction
+, and who are not employees of the
+County
+. The Board shall adopt rules of procedure for conducting its business, and shall render all decisions and findings in writing to the appellant with a duplicate copy to the building official. The Board of Review shall be compromised of five (5) members and four (4) alternates appointed by, and serving at the pleasure of, the
+Board of County Commissioners
+of La Plata County, Colorado.
+113.2 Terms. Members of the Board of Review shall serve staggered terms of three (3) years each, such that the term of at least one member will expire each year. Members shall serve until their successors are appointed.
+113.3 Vacancies. Vacancies for any unexpired term shall be filled in the same manner as original appointments to the Board.
+113.4 Eligibility. All members must be residents of La Plata County Colorado and shall have reached the age of 18 years on the
+effective date
+of their appointment. Members appointed to the Board of Review shall be experienced as required to provide adequate knowledge and judgment to represent various
+aspects
+of the construction industry.
+113.5 Officers. The Board of Review members shall elect from their membership a chair, vice chair, and any other officers they deem appropriate for the accomplishment of their task. Meetings of the Board of Review shall be open to the
+public
+and conducted in accordance with the Colorado Open Meetings Law, C.R.S. § 24-6-101
+et seq
+. Notices and agendas of public meetings of the Board of Review shall be posted at the La Plata County Administration Building located at 1101 East Second Avenue, Durango, Colorado.
+113.6 Notice of meetings. Meetings of the Board of Review shall be held at the call of the Chair and at such other times as necessary to fulfill its responsibilities. Meetings shall be conducted in accordance with C.R.S. § 30-28-207(1). The presence of a majority of the Board of Review shall constitute a quorum for the transaction of business.
+113.7 Authority. The Board of Review shall hear and decide appeals of orders, decisions, or determinations made by the building official relative to the application and interpretation of this Code. The Board of Review may, in appropriate cases and subject to appropriate principles,
+standards
+, rules, conditions, and safeguards set forth in this Code, make special exceptions to this Code in harmony with its general purpose and intent. The Board of Review shall review any proposed
+building codes
+and
+offer
+recommendations to the Board of County Commissioners regarding the adoption of said codes.
+Effective on: 12/11/2017
+Section 114
+Violations
+114.1 Unlawful acts.  It shall be unlawful for any
+person
+,
+firm
+or corporation to erect, construct,
+alter
+, extend, repair, move, remove, demolish or occupy any
+building
+,
+structure
+or
+equipment
+regulated by this
+Code
+, or cause the same to be done, in conflict with or in violation of any of the provisions of this Code.
+114.2 Violations. As provided in C.R.S. § 30-28-209, any person, firm or corporation violating any provision of this Code is guilty of an offense and, upon conviction, shall be punished by a fine of not more than $100. Each day during which such illegal erections,
+construction
+, reconstruction, alteration, maintenance, or
+use
+continues shall be deemed a separate offense. In case any building or structure is, or is proposed to be, erected, constructed, reconstructed, altered, remodeled, used, or maintained in violation of any regulation or provision of this Code or amendment thereto, as enacted or adopted by the
+Board of County Commissioners
+under the authority granted by C.R.S. § 30-28-209, the La Plata
+County
+Attorney, in
+addition
+to other remedies provided by law, may institute an injunction, mandamus, abatement, or other appropriate proceeding to prevent, enjoin, abate or remove such unlawful erection, construction, reconstruction, alteration, remodeling, maintenance or use.
+114.3   Notice of violation.  The
+building official
+is authorized to serve a notice of violation or order on the person responsible for the erection, construction, alteration, extension, repair, moving removal, demolition or occupancy of a building or structure in violation of the provisions of this Code, or in violation of a
+permit
+or certificate issued under the provisions of this Code.  Such order shall direct the discontinuance of the illegal action of condition and the abatement of the violation.
+114.4   Prosecution of violation.  If the notice of violation is not complied with promptly, the building official is authorized to request the County Attorney to institute the appropriate proceeding at law or in equity to restrain, correct or abate such violation, or to require the removal of termination of the unlawful occupancy of the building or structure in violation of the provisions of this Code or of the order or direction made pursuant thereto.
+114.5   Violation penalties.  Any person who violates a provision of this Code or fails to comply with any of the requirements thereof or who erects, constructs, alters or repairs a building or structure in violation of the approved construction documents or directive of the building official, or permit or certificate issued under the provisions of this Code, shall be subject to penalties as prescribed by law.
+114.6 Transfer of ownership.  It shall be a violation of this Code for the
+owner
+of any
+commercial
+or
+residential
+structure who has received a notice of violation from the building official or La Plata County Attorney, to sell, transfer, mortgage, lease, or otherwise dispose of the structure to another until the provisions of the notice of violation have been complied with, or until such owner first furnishes the grantee, transferee, mortgagee, or
+lessee
+a true copy of any notice of violation. In instances where the owner proposes to sell or mortgage the structure, the owner must also furnish to the building official a signed and notarized statement from the grantee or mortgagee acknowledging the receipt of such notice of violation, and fully accepting the responsibility without condition for making the corrections or repairs required by such notice of violation.
+(
+Res. No. 2022-18, § 18-35, 09/13/2022
+)
+Effective on: 9/13/2022
+Section 115
+Stop
+Work Order
+115.1 Authority.  Whenever the
+building official
+finds any work regulated by this
+Code
+being performed in a manner contrary to the provisions of this Code, or otherwise in a dangerous or unsafe manner, the building official is authorized to issue a stop work order.
+115.2 Issuance.  The stop work order shall be in writing and shall be given to the
+owner
+of the property involved, the owner's
+agent
+, or the
+person
+doing the work, and/or posted on the property. Upon issuance of a stop work order, the cited work immediately shall cease. The stop work order shall state the reason for the order, and the conditions under which the cited work will be permitted to resume.
+115.3 Unlawful continuance.  Any person who continues any work the building official has ordered to cease pursuant to a stop work order, except such work as that person is directed to perform by the building official to remove a
+violation
+or unsafe condition, shall be subject to penalties as prescribed by this Code.
+115.4 Unresolved stop work orders.  Once a stop work order is issued the concerns addressed in the stop work order must be resolved in the time frame set forth in the order, or the matter will be forwarded to the County’s code enforcement office for further action. Such action may include the issuance of a notice of violation, the filing of a lawsuit, and the assessment of fines and fees as provided in this Code and/or by the court.  Unresolved stop work orders shall be retained in the official records of the La Plata
+County
+Building
+Department
+, pursuant to section
+18-35
+(104.7) of this Code.
+Effective on: 12/11/2017
+Section 116 Unsafe
+Structures
+and
+Equipment
+116.1 Conditions. Structures, existing equipment, or
+sewage
+disposal systems that are or hereafter become unsafe, unsanitary, or deficient because of inadequate means of egress
+facilities
+; inadequate light and/or ventilation; existence of a fire
+hazard
+; because they are otherwise dangerous to human life or the
+public
+welfare; or which involve illegal or improper occupancy or inadequate maintenance, shall be deemed to contain an unsafe condition. Structures containing an unsafe condition shall be taken down and removed or made safe, as the
+building official
+deems necessary and as provided for in this section. A vacant structure that is not secured against entry shall be deemed unsafe.
+Exception:
+Agricultural
+buildings
+or structures whose sole purpose is to provide shelter for agricultural implements, farm products,
+livestock
+, or poultry (as described in C.R.S. § 30-28-201(1)) and which have no human occupancy are presumed to not present a danger to human life or public welfare, and thus may not be subject to the provisions of this section.
+116.2 Record. The building official shall cause any report documenting an unsafe condition to be maintained in the records of the Building
+Department
+pursuant to section
+18-35
+(104.7). The report shall describe the occupancy of the structure and the nature of the unsafe condition.
+116.3 Notice.  If an unsafe condition is found, the building official shall serve on the
+owner
+,
+agent
+, or
+person
+in
+control
+of the structure, equipment, or system a written notice that describes the condition deemed unsafe and shall specify the required repairs or
+improvements
+to be made to abate the unsafe condition, or require the unsafe structure to be demolished within a specified time. Such notice shall require the person thus notified to declare immediately to the building official acceptance or rejection of the terms of the order. If the notified person rejects the terms of the order, the building official may
+resort
+to any legal remedy available to obtain the person’s compliance.
+116.4 Method of service.  Such notice shall be deemed properly served if a copy thereof is delivered to the owner of the property personally; sent by certified or registered mail addressed to the owner at the last known address as shown on the
+County
+Assessor’s property tax rolls, with return receipt requested; or posted in a conspicuous place in or about the structure or
+premises
+containing the equipment or system affected by such notice.  If the certified or registered letter is returned showing that the letter is not delivered, a copy thereof may be duly posted in a conspicuous place in or about the structure or premises containing the equipment or system affected by such notice, and such notice shall be considered properly served. Service of such notice in the forgoing manner upon the owner's agent or upon the person responsible for the structure, equipment, or system shall constitute proper service of notice upon the owner.
+116.5 Restoration. The owner, owner’s agent, or person in control of the structure, equipment or system determined to be unsafe by the building official shall immediately restore the structure, equipment, or system to a safe condition, as determined by the building official in the exercise of his or her discretion. To the extent that repairs,
+alterations
+, or
+additions
+are made or a change of occupancy occurs during the restoration, such repairs, alterations, additions, or change of occupancy shall comply with the requirements of section
+18-35
+(105.2.2) and Chapter 34 of La Plata County
+Code
+.
+Effective on: 12/11/2017
+Article III. Building Codes and standards: Amendments, additions and deletions to the international codes
+Contents:
+Sec. 18-36 Amendments and Deletions to the 2015 International Residential Code.
+Sec. 18-37 Tiny Homes
+Sec. 18-38 Amendments and Deletions to the 2015 International Building Code
+Sec. 18-39 Adoption of the 2015 International Mechanical Code.
+Sec. 18-40 Adoption of the 2015 International Plumbing Code.
+Sec. 18-41 On-site Wastewater Treatment Systems
+Sec. 18-42 Adoption of the Electric Code.
+Sec. 18-43 Adoption of the 2015 International Fuel Gas Code.
+Sec. 18-44 Adoption of the 2015 International Energy Conservation Code.
+Sec. 18-45 Signs
+Sec. 18-36
+Amendments and Deletions to the 2015 International Residential Code.
+Amendments and Deletions to the 2015 International Residential Code are as follows:
+Contents:
+Section R301 Design Criteria
+Section R302 Fire-Resistant Construction
+Section R308 Glazing
+Section R312 Guards and Window Fall Protection
+Section R313 Automatic Fire Sprinkler Systems
+Section R314 Smoke Alarms
+Section R315 Carbon Monoxide Alarms
+Section R322 Flood-Resistant Construction
+Section R324 Solar Energy Systems
+Section R401 Foundations -  General
+Section R403 Footings
+Section R404 Foundation and Retaining Walls
+Section R408 Under-floor Space
+Section R502 Wood Floor Framing
+Section R702 Interior Covering
+Section 802 Wood Roof Framing
+Chapter 11. Energy Efficiency
+Section G2406 (303) Appliance Location
+Section G2415 (404)  Piping System Installation
+Section G2417 (406) Inspection, Testing and Purging
+Section G2427 (503) Venting of Appliances
+Section P2603 Structural and Piping Protection
+Section P2718 Clothes Washing Machine
+Section P3003 Joints and Connections
+Part VIII Electrical
+Appendices
+(
+Res. No. 2004-15, § 1 (Exh. A), 05/24/2004; Res. No. 2017-33, § 18-36, 10/10/2017; Res. No. 2023-15, § 18-36, 06/06/2023
+)
+Section R301 Design Criteria
+Table R301.2(2) of the 2015 International
+Residential
+Code
+is deleted and replaced with the following:
+TABLE R301.2(1)
+CLIMATIC AND GEOGRAPHIC DESIGN CRITERIA
+Required minimum roof live load (Snow Load) See Table 301.2.(2)
+Wind speed—90 MPH Basic, 115 MPH Ultimate (3 sec. gust) Exposure B or C applies (Table R301.2(3))
+Seismic Design Category—B
+Weathering—Severe
+Frost depth—32 inches
+Termite—Yes
+Decay—None to slight
+Winter design temperature—4 degrees F.
+Mean annual temperature—52 degrees F.
+Air freezing index—2000
+Flood
+Hazard—
+Community
+NO. 080097 August 19, 2010 Flood Insurance Study: La Plata
+County
+, Colorado and Incorporated areas.  Volume 1 & 2 – Resolution 2014-30, Chapter 78 La Plata County
+Land Use Code
+HDD—6981
+Climate Zone 5
+Ice barrier underlayment required
+Radon protection requirements are set forth in the 2015 International Residential Code Appendix F, as amended, to provide a means of vacating radon gas from crawlspaces and under floor slabs when it is determined that radon gas exists after the completion of a home’s
+construction
+.
+R301.2.3 Snow loads. Section R301.2.3 of the 2015 International Residential Code is deleted and replaced with the following:
+The design of roof systems and assemblies shall be designed using the snow load information contained in Table R301.2.3.  The information represented in Table R301.2.3 provides pounds per square foot snow load for areas and elevations in La Plata County.    This information can also be found by individual
+parcel
+of land on the La Plata County GIS maps.   Properties having more than one snow load shall
+use
+the higher load in the structural calculations.  Pursuant to section
+18-35
+(107.2(9)),
+buildings
+in regions with live loads of  80 pounds per square foot or more shall, at the discretion of the
+building official
+be required to be designed by a design professional.
+In the design of buildings and
+structures
+,
+consideration
+shall be given to the following:
+1.
+Unbalanced loading of roofs.
+2.
+Drifting due to
+adjacent
+obstructions.
+3.
+Accumulations in valleys and adjacent to parapet walls and chimneys.
+4.
+Ice loads on cornices of at least one and one half times the roof snow load.
+5.
+Possible
+impact
+loadings from snow falling on structure from higher roofs.
+6.
+Effect on structure from dynamic loading caused by snow sliding off roof.
+7.
+Snow sliding off roof and dynamically loading sidewalls by being forced against same due to snow embankment adjacent to the structure.
+8.
+Protection of entrances, exits and windows from the danger of falling icicles and snow sliding off pitched roofs.
+9.
+Ice weight where it will refreeze on unheated overhangs after having melted and run off from portions of roofs with heat below same.
+10.
+Projections through the roof, such as ventilation and plumbing vents, which may be torn off or damaged by sliding snow.
+11.
+Gas meter locations must be positioned in areas where they are least effected by ice and snow accumulations from roofs above. Where gas meter shed and protections are required the structure must be designed to resist 1.4 times the snow load requirement for the land/structure
+site
+snow load.
+12.
+All exterior decks must be designed based on the snow load criteria and requirements for the
+project
+location. Structural design must take into consideration the weight of total accumulation, impact loading from roofs above, uplift and mechanical connections and soil/foundation capabilities.
+Table R301.2.3
+Elevation
+Live Roof Snow Load (p.s.f.)
+Ground Snow Load (p.s.f.)
+Elevation
+Live Roof
+Snow Load (p.s.f.)
+Ground Snow Load (p.s.f.)
+< 6,500
+40
+57
+8,250
+97
+136
+6,750
+45
+64
+8,500
+105
+147
+7,000
+50
+70
+8,750
+112
+157
+7,250
+56
+78
+9,000
+120
+168
+7,500
+61
+86
+9,500
+136
+190
+7,750
+66
+94
+10,000
+154
+215
+8,000
+90
+126
+10,500
+173
+242
+R301.2.4 Flood plain construction.  section R301.2.4 of the 2015 International Residential Code is deleted and replaced with the following:
+Buildings and structures constructed in whole or in part in flood
+hazard
+areas (including A or V zones) as established in Table R301.2(1), and any
+substantial improvement
+or restoration of
+substantial damage
+to buildings and structures in flood hazard areas, shall be designed and constructed in accordance with Chapter 78 of the La Plata County Code, as amended. Buildings and structures that are in more than one flood hazard area shall comply with the provisions associated with the most restrictive flood hazard area. Buildings and structures located in whole or in part in identified
+floodways
+may be designed and constructed in accordance with American Society of Civil
+Engineers
+(“ASCE”) 24 (Flood Resistant Design and Construction).
+R301.6 Roof load. Section R301.6 of the 2015 International Residential Code is deleted and replaced with the following:
+The roof shall be designed for the Live Load based on the elevation above sea level of the property indicated in Table 301.2.3, as amended.
+(Res. No. 2004-15, § 1(Exh. A), 5-24-2004, Res. No. 2017-33)
+Effective on: 12/11/2017
+Section R302
+Fire-Resistant
+Construction
+R302.11.1.2 Unfaced fiberglass. Section R302.11.1.2 of the 2015 International
+Residential
+Code
+is deleted and replaced with the following:
+Unfaced fiberglass insulation may be used where piping, conduit, or similar penetrations are encountered.  The insulation shall be tightly packed around the object.  At
+intersections
+between concealed vertical and horizontal spaces, such as occurs at soffits, drop ceilings, and cove ceilings, solid blocking shall be used.
+(Res. No. 2004-15, § 1(Exh. A), 5-24-2004, Res. No. 2017-33)
+Effective on: 12/11/2017
+Section R308
+Glazing
+R308.4.3  Glazing in windows. Exception 2 to R308.4.3 of the 2015 International
+Residential
+Code
+is deleted and replaced with the following
+:
+Where horizontal rails are installed on the accessible side(s) of the glazing, the three barrier bars shall be installed at 12”, 24” and 36” above the walking
+surface
+.  The rails shall
+be capable of withstanding
+a horizontal load of 50 pounds per lineal foot without contacting the glass and have a cross-sectional height of not less than 1 ½ inches.
+R308.4.6  Glazing
+adjacent
+to stairs and ramps. Exception 1 to R308.4.6 of the 2015 International Residential Code is deleted and replaced with the following:
+Where horizontal rails are installed on the accessible side(s) of the glazing, the three barrier bars shall be installed at 12”, 24” and 36” above the walking surface.  The rails shall
+be capable of withstanding
+a horizontal load of 50 pounds per lineal foot without contacting the glass and have a cross-sectional height of not less than 1 ½ inches.
+Effective on: 12/11/2017
+Section R312
+Guards and Window Fall Protection
+R312.1.3 Opening limitations. Exception 3 below is added to section R312.1.3 of the 2015 International
+Residential
+Code
+:
+The openings between stair treads (open risers) do not require guard protection.
+(Res. No. 2004-15, § 1(Exh. A), 5-24-2004, Res. No. 2017-33)
+Effective on: 12/11/2017
+Section R313
+Automatic Fire Sprinkler Systems
+Section R313 of the 2015 International
+Residential
+Code
+is deleted in its entirety and replaced with the following:
+R313.1 Automatic fire sprinkler systems. Except as provided in section
+18-36
+(313.5) below, automatic fire sprinkler systems in one and two-family
+dwellings
+, or townhouses, are not mandated by this section.
+R313.2 Installation
+specifications
+. Group R-3 occupancies as outlined in section 310.5 of the International
+Building Code
+, when equipped with a fire sprinkler system, shall be required to follow the requirements for the installation of fire sprinkler systems in P2904, NFPA 13D or NFPA 13R. Other provisions of the Code requiring the installation of fire sprinkler systems in other occupancies and applications remain in effect as required by this Code.  Fire Districts in La Plata
+County
+encourage property
+owners
+to install fire sprinkler systems in new homes to improve the chance of the home surviving when it catches on fire in outlying areas of La Plata County.
+R313.3 Design and installation.  When a Planning
+Department
+process,
+project
+conditions of approval, or owners request requires an automatic residential fire sprinkler system to be installed, NFPA 13D, NFPA 13R or P2904 are the
+guidelines
+to be used to design and install the system.
+R313.4 Existing fire sprinkler system regulations.  Existing fire sprinkler requirements that have been enacted for existing
+subdivisions
+or other
+land use code
+project approvals shall remain in effect. Any future
+development
+within those existing subdivisions and projects must comply with the requirements of P2904, NFPA 13D or NFPA 13R.
+R313.5 Old Hermosa Cliffs Fire Protection District residential fire sprinklers. Within the boundaries of the Old Hermosa Cliffs Fire Protection District the following shall apply:
+An automatic fire-extinguishing system shall be installed throughout dwellings when any floor exceeds 30 feet above fire department
+access
+, or when fire apparatus access is not available year-round within 150 feet of all exterior walls of the
+building
+, and/or when the dwelling exceeds 3600 sq. ft. excluding the garage. Residential quick-response
+standard
+sprinklers shall be used within the building. The system must comply with NFPA 13D, NFPA 13R or P2904.  An approved automatic smoke-detection system is required and it is recommended the
+smoke
+detection system by supervised by an approved central alarm agency.
+Exception: A single
+family
+dwelling may be exempted from the above requirements when the
+Chief
+of the Fire Department/Fire Marshal and the
+building official
+agree on the exemption, or upon successful
+appeal
+to the La Plata County
+Board
+of Review.
+(Res. No. 2004-15, § 1(Exh. A), 5-24-2004, Res. No. 2017-33)
+Effective on: 12/11/2017
+Section R314
+Smoke
+Alarms
+R314.3 Location. Subsection 2 to R314.3 of the 2015 International
+Residential
+Code
+is deleted and replaced with the following:
+Smoke alarms shall be installed on the exterior of the sleeping area within 15’ of each
+bedroom
+door.
+(Res. No. 2004-15, § 1(Exh. A), 5-24-2004, Res. No. 2017-33)
+Effective on: 12/11/2017
+Section R315
+Carbon Monoxide Alarms
+R315.3 Location. Section R315.3 of the 2015 International
+Residential
+Code
+is deleted and replaced with the following:
+Carbon Monoxide alarms shall be installed on the exterior of the sleeping area within 15’ of each
+bedroom
+door.
+(Res. No. 2004-15, § 1(Exh. A), 5-24-2004, Res. No. 2017-33)
+Effective on: 12/11/2017
+Section R322
+Flood-Resistant
+Construction
+Section
+R322
+of the 2015 International
+Residential
+Code
+is deleted in its entirety and replaced with the following:
+R322.1 General.
+Buildings
+or
+structures
+constructed or substantially improved within the mapped
+flood
+hazard
+area must comply with the provisions of Chapter 78 of the La Plata
+County
+Code, as amended, and any subsequent enactments concerning flood plain
+management
+.
+R322.2 Construction documents.  Construction documents for foundation systems in flood hazard zones, as identified on maps and in the study titled “Flood Insurance Study – La Plata County Colorado and Incorporated Areas” as published by the Federal
+Emergency
+Management Agency (“FEMA”) on August 19, 2010, shall be certified by a registered Colorado
+professional engineer
+or architect.  The
+engineer
+or architect shall certify that the structure is designed and, when necessary, elevated, and has structural components capable of resisting hydrostatic and hydrodynamic loads and effects of buoyancy.
+Effective on: 12/11/2017
+Section R324
+Solar Energy Systems
+R324.4.2 Wind load.  Roof structures for the support of solar panels shall be designed using the LPC wind design speed in Table R301.2.1 at section
+18-36
+of this Code.
+Effective on: 12/11/2017
+Section R401 (Foundations)
+General
+R401.1 Application. Exception 3 below is added to Section R401.1 of the 2015 International
+Residential
+Code
+:
+3.  Where soil conditions allow, the
+use
+of the foundation designs set forth in Attachment 1 to this Code will be allowed.  The
+standards
+set forth in Attachment 1 are not designed for use in expansive soils or soils with low bearing capacity such as unconsolidated
+sand
+or silt. Determination of the location of expansive soils will be based on mapping in the La Plata
+County
+GIS maps and the U.S. Dept. of Agriculture- Soil Survey of La Plata County (see Section R401.4). When snow loads at the
+building
+site
+exceed 80 psf, live load engineered foundation
+plans
+may be required by the
+building official
+.
+R401.3
+Drainage
+.  Section R401.3 of the 2015 International Residential Code is deleted and replaced with the following:
+All foundation systems shall be provided with compacted backfill graded in a manner that assures
+surface water
+will be directed away from the foundation system.  The grade shall fall a minimum of 6 inches within the first 10 feet.  No water shall adversely
+impact
+adjacent
+lots
+or
+structures
+.
+Exception: Where lot lines, walls,
+slopes
+or other physical barriers prohibit 6 inches (152 mm) of fall within 10 feet (3048 mm), drains or swales shall be constructed to ensure drainage away from the structure. Impervious
+surfaces
+within 10 feet (3048 mm) of the building foundation shall be sloped to a minimum of 2 percent away from the building.
+R401.4 Soil tests.  Section R401.4 of the 2015 International Residential Code is deleted and replaced with the following:
+Classification of soils will be based on soil reports, visual observations, “The Soil Survey of La Plata County Area of Colorado” provided by the U.S. Dept. of
+Agriculture
+Soil
+Construction
+1981-82, and maps of the La Plata County GIS. When it is determined that expansive soils exist at a
+project
+location for a residential structure, soil tests and engineered foundation systems will be required for all residential structures.  Pursuant to section
+18-35
+(107.2), the building official shall determine the need for special engineering of the foundation system to address the
+adverse
+soil conditions when questionable soil characteristics are likely present.
+Effective on: 12/11/2017
+Section R403
+Footings
+R403.1.1 Minimum size. Section R401.4 of the 2015 International
+Residential
+Code
+is deleted and replaced with the following:
+The minimum width, W, and thickness, T, for concrete footings shall be in accordance with Tables R403.4(1) through R403.1(3) and Figure R403.1(1) or R703.1.3, as applicable. The footing width shall be based on the load-bearing value of the soil in accordance with Table R401.4.1. Footing projections, P, shall be not less than 2 inches (51 mm) and shall not exceed the thickness of the footing. Footing thickness and projection for fireplaces shall be in accordance with Section R1001.2. The size of footings supporting piers and columns shall be based on the tributary load and allowable soil pressure in accordance with Table R401.4.1. Footings for wood foundations shall be in accordance with the details set forth in Section R403.2, and Figures R403.1(2) and R403.1(3). Where favorable soil conditions exist and design loading on foundation systems are within acceptable ranges, foundations depicted in the Foundation Details set forth in Attachment 1 to this Code can be used.  All footings shall be a minimum of 8” thick.
+R403.1.8 Foundations on expansive soils. Section 403.1.8 of the 2015 International Residential Code is deleted and replaced with the following:
+When soils at the
+building
+site
+of one and two
+dwelling units
+are found to have expansive characteristics per “The Soil Survey of La Plata
+County
+Area of Colorado” provided by the U.S. Dept. of
+Agriculture
+Soil
+Construction
+1981-82 and maps of the La Plata County (LPC) GIS, foundation systems must be designed by an architect or
+engineer
+licensed in the State of Colorado.
+Exception:  Foundations for manufactured homes, garages, and barns and other outbuildings constructed on soils found to have expansive soil characteristics as described in this section need not be designed by an architect or engineer licensed in the State of Colorado.
+R403.2 Footings for wood foundations.  Section R403.2 of the 2015 International Residential Code is deleted and replaced with the following:
+Footings for wood foundations shall be in accordance with Figures R403.1(2) and R403.1(3).
+Gravel
+shall be washed and well graded. The maximum size stone shall not exceed ¾ inch (19.1 mm). Gravel shall be free from organic, clayey or silty soils.
+Sand
+shall be coarse, not smaller than 1/16-inch (1.6 mm) grains and shall be free from organic, clayey or silty soils. Crushed stone shall have a maximum size of ½ inch (12.7 mm). All wood foundation systems for one and two
+family
+dwellings
+shall be designed by an architect or engineer licensed in the State of Colorado.  The
+building official
+may require special inspections be conducted by the architect or engineer of record.
+R403.3 Frost protected shallow foundations.  Section R403.3 of the 2015 International Residential Code is deleted and replaced with the following:
+For buildings where the monthly mean temperature of the building is maintained at a minimum of 64 degrees Fahrenheit (18 degrees Celsius), footings are not required to extend below the frost line when protected from frost by insulation in accordance with Figure R403.3(1) and Table R403.3(1). Foundations protected from frost in accordance with Figure R403.3(1) and Table R403.3(1) shall not be used for unheated spaces such as porches,
+utility
+rooms, garages and carports, and shall not be attached to
+basements
+or crawl spaces that are not maintained at a minimum monthly mean temperature of 64 degrees Fahrenheit (18 degrees Celsius).
+Materials used below grade for the purpose of insulating footings against frost shall be labeled as complying with ASTM
+Standard
+C 578 (Standard Specification for Rigid, Cellular Polystyrene Thermal Insulation). All frost protected shallow foundations shall be designed by an architect or engineer licensed in the State of Colorado.  Pursuant to Section
+18-35
+(110.3.7), the building official may require that special inspections be conducted by the architect or engineer of record.
+Effective on: 12/11/2017
+Section R404 Foundation and Retaining Walls
+R404.1 Concrete and masonry foundation walls. Section R404.1 of the 2015 International
+Residential
+Code
+is deleted and replaced with the following:
+Concrete foundation walls shall be selected and constructed in accordance with the provisions of Section R404.1.3. Masonry foundation walls shall be selected and constructed in accordance with the provisions of Section R404.1.2. Where favorable soil conditions exist and design loading on foundation systems are within acceptable ranges, foundation walls criteria depicted in the Foundation Details- set forth in Attachment 1 to this Code can be used. All foundation walls must be a minimum of 8” thick.
+Effective on: 12/11/2017
+Section R408 Under-floor Space
+R408.3.2.1 Unvented crawlspaces. Section R408.3.2.1 of the
+IRC
+is deleted and replaced with the following:
+Continuously operated mechanical exhaust ventilation at an air changes per hour (ACH) rate of at least 1 cubic foot per minute (0.47 L/s) for each 50 square feet (4.7 m2) of crawl space floor area, including an air pathway to the common area (such as a duct or transfer grille), and perimeter walls insulated in accordance with the
+IECC
+-
+Residential
+Provisions. Humidistat
+control
+is acceptable in lieu of continuous operation of the exhaust system as long as the ACH requirements are met..
+R408.6
+Finished Grade
+. Section R401.4 of the 2015 International Residential
+Code
+is deleted and replaced with the following:
+The finished grade of the under-floor
+surface
+(crawlspace) shall be at or above the top of the footing. When homes are constructed in
+flood
+hazard
+zones crawlspace design and
+construction
+must meet the required flood plain regulations.
+R408.7 Flood Resistance. Subsection 2 of Section R408.7 of the 2015 International Residential Code is deleted and replaced with the following:
+2. Foundation systems constructed utilizing a foundation stem wall and crawlspace design must be constructed to
+specifications
+contained in
+FEMA
+Technical Bulletin TB-11, “Crawlspace Construction – for
+Buildings
+Located in
+Special Flood Hazard Areas
+,” National Flood Insurance Program Interim
+Guidelines
+.
+(
+Res. No. 2023-15, §  06/06/2023
+)
+Effective on: 8/1/2023
+Section R502
+Wood Floor Framing
+R502.1.7 Engineered wood rim
+board
+. Section R502.1.7 of the 2015 International
+Residential
+Code
+is deleted and replaced with the following:
+Engineered wood rim boards shall conform to ANSI/APA PRR 410 (
+Standard
+for Performance Rated Engineered Wood Rim Boards) or shall be evaluated in accordance with ASTM Standard D 7672 (Standard Specification for Evaluating Structural Capacities of Rim Board Products and Assemblies). Structural capacities shall be in accordance with ANSI/APA PRR 410 or established in accordance with ASTM D 7672. Rim boards conforming to ANSI/APA PRR 410 shall be marked in accordance with that standard.
+At the point where exterior decks are connected to the rim joist of the
+structure
+, Laminated Veneer Lumber (
+LVL
+) shall be installed as the rim joist in place of Laminated Strand Lumber (
+LSL
+) to provide adequate connection. Where there is the potential of seasonal ground water in the crawlspace
+LVL
+material should be considered for
+use
+as the entire exterior rim joist rather than the (
+LSL
+).
+Effective on: 12/11/2017
+Section R702
+Interior Covering
+R702.7 Vapor retarders. Section R702.7 of the 2015 International Residential Code is deleted and replaced with the following:
+Vapor retarders, Types I, II or III, are required on the interior side of the framed walls in climate zones 5, 6, 7, 8 and Marine 4.
+Effective on: 12/11/2017
+Section R802
+Wood Roof Framing
+R802.10.3 Bracing. Section R802.10.3 of the 2015 International Residential Code is deleted and replaced with the following:
+Trusses shall be braced to prevent rotation and provide lateral stability in accordance with the requirements specified in the construction documents for the building and on the individual truss design drawings. In the absence of specific bracing requirements, trusses shall be braced in accordance with accepted industry practice such as the SBCA
+Building Component Safety Information (BCSI) Guide to Good Practice for Handling, Installing & Bracing of Metal Plate Connected Wood Trusses.
+However, at a minimum, all truss systems must be provided with angled bracing from the peak of the gable end truss to the bottom cord of the trusses’ interior spanning four or more trusses. All trusses shall be supported laterally at all points of bearing by solid blocking, sheathing, bridging, or other approved methods.
+Effective on: 12/11/2017
+Chapter 11. Energy Efficiency
+Chapter 11 of the
+IRC
+is deleted in its entirety and replaced with applicable portions of the
+IECC
+.
+(
+Res. No. 2004-15, § 1 (Exh. A), 05/24/2004; Res. No. 2017-33, § 18-36, 10/10/2017; Res. No. 2023-15, § 18-36, 06/06/2023
+)
+Effective on: 8/1/2023
+Section G2406 (303)
+Appliance Location
+G2406.2 (303.2) Prohibited locations. Section G2406.2 (303.3) of the 2015 International Residential Code is supplemented to include subsection 6, as follows:
+LPG appliances shall not be installed in a pit or an under-floor area which forms a pit.
+Effective on: 12/11/2017
+Section G2415 (404)
+Piping System Installation
+G2415.12 (404.12) Minimal burial depth. Section G2415.12 of the 2015 International Residential Code is deleted and replaced with the following:
+G2412.12 (404.12) Minimum burial depth. Underground piping systems shall be
+installed at a minimum depth of 18 inches below grade.
+Effective on: 12/11/2017
+Section G2417 (406)
+Inspection, Testing and Purging
+G2417.4.1 (406.4.1) Test pressure. Section G2417.4.1 (406.4.1) of the 2015 International Residential Code is deleted and replaced with the following:
+The test pressure to be used shall be not less than one and one-half times the proposed maximum working pressure, but not less than 10 psig (69 kPa gauge) irrespective of design pressure.
+Effective on: 12/11/2017
+Section G2427 (503)
+Venting of Appliances
+G2427.4.1 (503.4.1) Plastic piping.  Section G2427.4.1 (503.4.1) of the 2015 International Residential Code is deleted and replaced with the following:
+Where plastic piping is used to vent an appliance, the appliance shall be listed for use with such venting materials and the appliance manufacturer’s installation instructions shall identify the specific plastic piping material. If PVC or ABS is used for venting it shall be Schd 40 solid core for both the combustion air and the exhaust vents.  Combustion air and exhaust shall be pressure tested to 5 psi minimum with a 15 lb. ¼” increment air gauge or a method approved by the Building Official.  All installation shall meet the manufacturer’s installation requirements and limitations.
+G2427.4.1.1 (503.4.1.1) (IFGS).  Plastic vent joints.  Section G2427.4.1.1 (503.4.1.1) (IFGS) of the 2015 International Residential Code is deleted and replaced with the following:
+Plastic pipe and fittings used to vent appliances shall be installed in accordance with the appliance manufacturer’s instructions. Primer is required and it shall be a contrasting color.
+Effective on: 12/11/2017
+Section P2603
+Structural and Piping Protection
+P2603.5 Freezing. Section P2603.5 of the 2015 International Residential Code is deleted and replaced with the following:
+In localities having a winter design temperature of 32 ºF (0ºC) or lower as shown in Table R301.2(1) of this code, a water, soil or waste pipe shall not be installed outside of a building, in exterior walls, in attics or crawl spaces, or in any other place subjected to freezing temperature unless adequate provision is made to protect it from freezing by insulation or heat or both. Water service pipe shall be installed no less than 48” below grade or no less than 6” below frost line if it is deeper than 42”.
+Effective on: 12/11/2017
+Section P2718 Clothes Washing Machine
+Section P2718 of the International Residential Code is amended to include section P2718.2 below:
+P2718.2  Discharge. Washing machines shall discharge to a 2” drain line.  When additional plumbing fixtures or sink discharges to the same line, the size shall be increased to 3”.
+Effective on: 12/11/2017
+Section P3003 Joints and Connections
+3003.9.2 Solvent cementing. All exceptions to Section P3003.9.2 of the 2015 International Residential Code are deleted.
+Effective on: 12/11/2017
+Part VIII Electrical
+Part VIII of the 2015 International Residential Code, including Chapters 34-43, is deleted in its entirety and replaced with the following:
+Electric installations.  An outside service disconnect is required on all buildings and structures provided with an electric service in accordance with section 18.42 of this code.
+Effective on: 12/11/2017
+Appendices
+The following Appendices to the
+IRC
+are hereby amended as noted.
+Appendix E: Manufactured Housing Used as
+Dwellings
+.
+Section AE304 Fees is deleted. Fees assessed pursuant to this
+Code
+shall be governed by section
+18-35
+(108).
+Appendix E is supplemented to incorporate by reference Attachment 3 to this Code (“Factory Built Home Requirements”).
+Appendix F: Passive Radon
+Control
+Methods.
+Section AF101.1 is deleted and replaced with the following:
+AF101.1 General.  A pre-installation radon system shall be installed consisting of a 4” PVC or ABS vent pipe for future venting purposes running from the crawl space and terminating in the attic at an easily accessible location with 24” clear work area. A prewired power connection from crawlspace to attic shall also be installed.  For slab
+construction
+, the pipe shall terminate under the slab with a glued “T”.  The pipe will be extended into attic and shall be installed if, after construction is complete, radon is found in the home.  All pipes and electric plugs shall be marked “For radon
+mitigation
+use
+only.”
+The remainder of the Appendix is to be used as a
+guideline
+for a full Radon Mitigation System as required by the
+Owner
+/
+Contractor
+.
+Appendix J: Existing
+Buildings
+and
+Structures
+.
+Section AJ102.4.1, Energy efficiency, is deleted and replaced with the following:
+AJ102.4.1. Energy efficiency. Replacement windows shall comply with the requirements of the
+IECC
+.
+Res. No. 2004-15, § 1 (Exh. A), 05/24/2004; Res. No. 2017-33, § 18-36, 10/10/2017; Res. No. 2023-15, § 18-36, 06/06/2023
+Effective on: 8/1/2023
+Sec.
+18-37
+Tiny Homes
+Definitions
+EGRESS ROOF ACCESS WINDOW.
+A skylight or roof window designed and installed to satisfy the
+emergency
+escape and
+rescue opening requirements in Section R310.2.
+LANDING PLATFORM. A landing provided as the top step of a stairway accessing a loft.
+LOFT. A floor level located more than 30 inches above the main floor and open to it on at least one side, with a ceiling height of less than 6 feet 8 inches, which is used as a living or sleeping space.
+TINY HOME
+. A
+dwelling
+that is 400 square feet or less.
+THOW
+.  A Tiny Home on Wheels.
+I.
+Scope.  This s
+ection shall be applicable to tiny homes used as single
+family
+dwelling units
+. Tiny homes shall comply with this
+Code
+except as otherwise stated in this section. This section only applies to tiny homes and cannot be applied to other
+residential
+units
+in La Plata
+County
+.
+II.
+Approvals. ​
+A.
+Upon the completion of all inspections required pursuant to section
+18-35
+(110) of this Code, a Tiny Home on Wheels (THOW) will receive a Certificate of Limited Compliance from La Plata County.  This can be converted to a Certificate of Occupancy upon the THOW’s installation on a property with a permanent foundation and completion of all required inspections pursuant to section
+18-35
+(110) of this Code.
+B.
+A tiny home that is
+site
+built or delivered and installed on a permanent foundation shall be issued a Certificate of Occupancy upon completion of all required inspections pursuant to section
+18-35
+(110) of this Code.
+III.
+Energy Code.  Tiny homes shall be built in compliance with the
+standards
+set forth in section
+18-44
+of this Code.
+IV.
+Snow load.
+A.
+A THOW without a known destination will be required to have a roof live load of 120 psf.  If the THOW has a known location of installation, the live load can be determined using the LPC GIS map as provided in section
+18-36
+(R301.2.3).
+B.
+A site built tiny home, or a tiny home delivered and installed on a permanent foundation, shall be built to the snow/live load as shown on the LPC GIS map as provided in section
+18-36
+(R301.2.3).
+V.
+Minimum ceiling height.  Habitable space and hallways in tiny houses shall have a ceiling height of not less than 6 feet 8 inches. Bathrooms, toilet rooms, and
+kitchens
+shall have a ceiling height of not less than 6 feet 4 inches. Obstructions, including but not limited to, beams, girders, ducts, and
+lighting
+shall not extend below those minimum ceiling heights.
+VI.
+Exception: Ceiling heights in lofts are permitted to be less than 6 feet 8 inches.
+VII.
+Lofts.
+A.
+Minimum loft area. Lofts shall have a floor area of not less than 35 square feet.
+B.
+Minimum dimensions. Lofts shall  not be less than 5 feet in any horizontal dimension.
+C.
+Height effect on loft area.  Portions of a loft with a sloping ceiling measuring less than 3 feet from the finished floor to the finished ceiling shall not be considered as contributing to the minimum required square footage or horizontal dimensions for the loft.
+Exception: Under gable roofs with a minimum
+slope
+of 6:12, portions of a loft with a sloping ceiling measuring less than 16 inches from the finished floor to the finished ceiling shall not be considered as contributing to the minimum required area for the loft.
+D.
+Loft access. The access to and primary egress from lofts shall conform with the
+specifications
+set forth below in subsections E through P.
+E.
+Stairways.  Stairways accessing lofts shall comply with this Code or with the subsections E through K below.
+F.
+Width.  Stairways accessing a loft shall not be less than 17 inches in clear width at or above the handrail. The minimum width below the handrail shall be not less than 20 inches.
+G.
+Headroom.  The headroom in stairways accessing a loft shall be not less than 6 feet 2 inches, as measured vertically, from a sloped line connecting the tread or landing platform nosings in the middle of their width.
+H.
+Treads and risers. Risers for stairs accessing a loft shall not be less than 7 inches and not more than 12 inches in height. Tread depth and riser height shall be calculated in accordance with one of the following formulas:
+1.
+The tread depth shall be 20 inches minus 4/3 of the riser height, or
+2.
+The riser height shall be 15 inches minus 3/4 of the tread depth.
+I.
+Landing platforms. The top tread and riser of stairways accessing lofts shall be constructed as a landing platform where the loft ceiling height is less than 6 feet 2 inches where the stairway meets the loft. The landing platform shall be 18 inches to 22 inches in depth measured from the nosing of the landing platform to the edge of the loft, and 16 to 18 inches in height measured from the landing platform to the loft floor.
+J.
+Handrails.  Handrails shall comply with Section R311.7.8 of the 2015 International Residential Code.
+K.
+Stairway guards. Guards at open sides of stairways shall comply with Section R312.1 of the 2015 International Residential Code.
+L.
+Ladders. Ladders accessing lofts shall comply with subsections M and N below.
+M.
+Size and capacity.  Ladders accessing lofts shall have a rung width of not less than 12 inches, and 10 inches to 14 inches spacing between rungs. Ladders shall be capable of supporting a 200 pound load on any rung. Rung spacing shall be uniform within 3/8-inch.
+N.
+Incline.  Ladders shall be installed at 70 to 80 degrees from horizontal.
+O.
+Alternating tread devices. Alternating tread devices accessing lofts shall comply with Sections R311.7.11.1 and R311.7.11.2 of the 2015 International Residential Code. The clear width at and below the handrails shall be not less than 20 inches.
+P.
+Ships ladders. Ships ladders accessing lofts shall comply with Sections R311.7.12.1 and R311.7.12.2 of the 2015 International Residential Code. The clear width at and below handrails shall be not less than 20 inches.
+Q.
+Loft guards. Loft guards shall be located along the open side of lofts. Loft guards shall not be less than 36 inches in height or one-half of the clear height to the ceiling, whichever is less.
+VIII.
+Emergency escape and rescue openings. Tiny homes shall meet the requirements of Section R310 of the 2015 International Residential Code for emergency escape and rescue openings.
+Exception: Egress roof access windows in lofts used as sleeping rooms shall be deemed to meet the requirements of Section R310 of the 2015 International Residential Code, where installed such that the bottom of the opening is not more than 44 inches above the loft floor, provided the egress roof access window complies with the minimum opening area requirements of Section R310.2.1 of the 2015 International Residential Code.
+(Res. No. 2017-33,  10-10-2017)
+Effective on: 12/11/2017
+Sec. 18-38 Amendments and Deletions to the 2015 International Building Code
+As provided above in Section
+18-35
+, Chapter 1 of the 2015 International Building Code is deleted in its entirety and replaced by Section
+18-35
+of this Code. Otherwise, the 2015 International Building Code is adopted excepted as specified in this section.
+Contents:
+Section 1207  Sound Transmission
+Section 1608 Snow Loads
+Section 1612  Flood Loads
+Section 2303  Minimum [Wood] Standards and Quality
+Section 3109 Swimming Pool Enclosures and Safety Devices
+Appendices
+Section 1207
+Sound Transmission
+Section 1207 of the 2015 International Building Code is deleted in its entirety.
+Effective on: 12/11/2017
+Section 1608 Snow Loads
+Sections 1608.1 General, and 1608.2, Ground snow loads, are deleted in their entirety and replaced with the following:
+1608.1 General. Roof systems and assemblies shall be designed using the snow load information contained in Table R301.2.3
+of this Code.
+1608.2 Snow loads.  The loading represented in Table R301.2.3
+of this Code provides live load pounds per square foot load for areas and elevations in La Plata County.  The K3/K4 line shall be the 8000 foot elevation line, using the County GIS mapping of snow load.  Properties having more than one snow load shall use the highest load in the calculations.  Buildings in regions with live loads of 80 pounds per square foot or more may, at the discretion of the building official, be required to have the structure designed by a design professional.
+Effective on: 12/11/2017
+Section 1612
+Flood Loads
+Section 1612 of the 2015 International Building Code is deleted in its entirety and replaced with the following:
+Buildings or structures constructed or substantially improved within the Mapped Flood Hazard Zone must comply with the provisions of Chapter 78 of the La Plata County Code.
+Effective on: 12/11/2017
+Section 2303
+Minimum [Wood] Standards and Quality
+Section 2303.1.11 Structural log members, of the 2015 International Building Code is deleted in its entirety and replaced with the following:
+Stress grading of structural log members of nonrectangular shape, as typically used in log buildings, shall be in accordance with ASTM D 3957 (Standard Practices for Establishing Stress Grades for Structural Members Used in Log Buildings). Such structural log members shall be identified by the grade mark of an approved lumber grading or inspection agency. In lieu of a grade mark on the material, a certificate of inspection as to species and grade issued by a lumber grading or inspection agency meeting the requirements of this section shall be permitted. If log grading is not available, a structural engineer licensed in the State of Colorado will be permitted to inspect the logs and design the structure using the ungraded material.
+Effective on: 12/11/2017
+Section 3109
+Swimming Pool Enclosures and Safety Devices
+Section 3109.4 Residential swimming pools. Section 3109.4 of the 2015 International Building Code is deleted in its entirety and replaced with the following:
+Swimming pools, spas, hot tubs, wading pools, etc. associated with single family dwellings are exempt from Section 3109. Community swimming pools, spas, hot tubs, wading pools etc. are subject to all the provisions of Section 3109.
+Effective on: 12/11/2017
+Appendices
+The following Appendices of the 2015 International Building Code, adopted pursuant to Section
+18-32
+(II) of this Code, are hereby amended as noted:
+Appendix Chapter J: Grading.
+Sections J103 (Permits Required); J104 (Permit Applications and Submittals) and J105 (Inspections) are deleted in their entirety.
+Effective on: 12/11/2017
+Sec. 18-39  Adoption of the 2015 International Mechanical Code
+The volumes, parts, chapters, and appendices of the 2015 International Mechanical Code, as published by the International Code Council, together with the additions and deletions set forth in this section are hereby adopted pursuant to C.R.S. § 30-28-201(1).
+S
+ection 106
+Permits
+Section 106.5.2 Fee schedule. Section 106.5.2 of the 2015 International Mechanical Code is deleted in its entirety. Fees assessed pursuant to this Code shall be governed by section
+18-35
+(109).
+The following Sections 303.3.1 and 303.9 are added to this Article III to supplement the provisions of the 2015 International Mechanical Code:
+Section 303.3.1 LPG appliances. LPG appliances shall not be installed in a pit or an under-floor space which forms a pit.
+Section 303.9 Unvented room heaters. Unvented room heaters must be installed in accordance with Section 620 of the International Fuel Gas Code.
+Effective on: 12/11/2017
+Sec. 18-40
+Adoption of the 2015 International Plumbing Code
+The volumes, parts, chapters, and appendices of the 2015 International Plumbing Code, as published by the International Code Council, together with amendments and deletions as set forth in this section, are hereby adopted pursuant to C.R.S. § 30-28-201(1).
+(Res. No. 2017-33,  10-10-2017)
+Section 101
+General
+Section 101.3 Intent. Section 101.3 of the 2015 International Plumbing Code is amended to include the following paragraph:
+The intent of this Code is to meet or exceed the requirements of the State of Colorado Plumbing Code. When technical requirements, specifications or standards in the Colorado Plumbing Code conflict, the more restrictive technical requirement, specification, or standard shall apply.
+P106.6.2 Fee schedule. Section P106.6.2 of the 2015 International Plumbing Code is hereby deleted in its entirety. Fees assessed pursuant to this Code shall be governed by section
+18-35
+(109).
+Effective on: 12/11/2017
+Sec. 18-41 On-site Wastewater Treatment Systems
+On-site Wastewater Treatment Systems (OWTS) are governed by the On-site Wastewater Treatment Systems Act, C.R.S. § 25-10-101 et seq., the Colorado Water Quality
+Control
+Act, C.R.S. § 25-8-101 et seq., the regulations of the Colorado
+Department
+of Health and Environment (CDPHE) and San Juan Basin
+Public
+Health Department (
+SJBPH
+), and, where applicable, the Safe Drinking Water Act, 42 U.S.C. § 300f et seq. and its implementing regulations.
+OWTS serving
+residential
+buildings
+or
+structures
+and which have a design capacity of 2,000 gallons per day or less must operate pursuant to a
+permit
+issued by SJBPH 5 CCR 1002-43. Permits for OWTS with a design capacity of greater than 2,000 gallons per day are subject to review by the CDPHE. C.R.S. § 25-10-104(2); 5 CCR 1002-22.17. OWTS serving buildings or structures used for business,
+commercial
+,
+industrial
+, or institutional purposes, or multifamily
+dwellings
+, must be designed by a licensed
+engineer
+and may be subject to applicable inspection, permitting, and enforcement processes under the
+jurisdiction
+of the CDPHE or the United States Environmental Protection Agency (
+EPA
+).
+Issuance of a
+county
+building permit
+does not satisfy applicable laws or regulations requiring permitting and/or inspection of
+OWTS
+, and the County is not responsible for inspection, permitting, or enforcing
+OWTS
+pursuant to applicable state or federal law, or the regulations of the
+SJBPH
+or the
+CDPHE
+.
+Applicants
+for building permits which require design and installation of an
+OWTS
+are responsible for identifying and obtaining all permits which may be required pursuant to state or federal law.
+(Res. No. 2017-33,  10-10-2017)
+Effective on: 12/11/2017
+Sec. 18-42  Electrical Installation Requirement
+In addition to electrical code regulations and requirements as enforced by the Colorado State Electric Board, La Plata County will require electrical services to buildings and structures to be provided with outside main electrical service disconnect, as follows:
+Electric installations.  In addition to electric code regulations and requirements enforced by the Colorado State Electric Board, La Plata County will require electrical service to buildings and structures to be provided with an outside main electrical service disconnect.  This must be located on the exterior of the building or within 50 feet of the structure.
+(Res. No. 2017-33,  10-10-2017)
+Effective on: 12/11/2017
+Sec. 18-43
+Adoption of the 2015 International Fuel Gas Code
+The volumes, parts, chapters, and appendices of the 2015 International Fuel Gas Code, as published by the International Code Council, together with amendments, additions, and deletions as set forth in this section are hereby adopted pursuant to C.R.S. § 30-28-201(1).
+FG106.6.2 Fee schedule. Section FG106.6.2 of the 2015 International Fuel Gas Code is hereby deleted in its entirety. Fees assessed pursuant to this Code shall be governed by section
+18-35
+(109).
+(Res. No. 2017-33,  10-10-2017)
+Section 303 Appliance Locations
+Section FG303.3 Prohibited locations. Section FG303.3 of the 2015 International Fuel Gas Code is amended to include the following subsection:
+No propane appliances are allowed in a basement, crawlspace, or pit.
+Effective on: 12/11/2017
+Section 404 Piping Systems Installation
+Section FG404.12  Minimum burial depth. Section FG404.12 of the 2015 International Fuel Gas Code is deleted in its entirety and replaced with the following:
+Underground piping systems shall be installed a minimum depth of 18 inches below grade, except as provided for in Section 404.12.1.
+Exception 2 to Section FG404.17.1 Limitations. Exception 2 to Section FG404.17.1 of the 2015 International Fuel Gas Code is deleted in its entirety.
+Effective on: 12/11/2017
+Section 406
+Inspection, Testing and Purging
+Section 406.4.1 Test pressure. Section 406.4.1 of the 2015 International Fuel Gas Code is deleted in its entirety and replaced with the following:
+The test pressure to be used shall be not less than one and one-half (1.5) times the proposed maximum working pressure, but not less than 10 psig irrespective of design pressure.
+Effective on: 12/11/2017
+Section 503 Venting of Appliances
+Section 503.4.1 Plastic piping. Section 503.4.1 of the 2015 International Fuel Gas Code is supplemented with the following:
+If PVC or ABS is used for venting it shall be SCH 40 solid core for both the combustion air and the exhaust vents.  Combustion air and exhaust shall be pressure tested to 5 psi minimum with a 15 lb. ¼ inch increment air gauge or a method approved by the building official.
+Section 503.4.1.1 Plastic vent joints. Section 503.4.1.1 of the 2015 International Fuel Gas Code is deleted in its entirety and replaced with the following:
+Plastic pipe and fittings used to vent appliances shall be installed in accordance with the appliance manufacturer’s instructions. Primer is required and it shall be a contrasting color.
+Effective on: 12/11/2017
+Sec. 18-44 Adoption of the 2015 International Energy Conservation Code.
+The volumes, parts, chapters, and appendices of the
+IECC
+, as published by the International Code Council, together with additions and deletions as set forth in this section, are hereby adopted pursuant to C.R.S. § 30-28-201(1).
+(
+Res. No. 2017-33, § 18-44, 10/10/2017; Res. No. 2023-15, § 18-36, 06/06/2023
+)
+Section 107 Fees
+Section 107 Fee schedule. Section 107 of the
+IECC
+is hereby deleted in its entirety.  Fees assessed pursuant to this Code shall be governed by section
+18-35
+(109).
+(
+Res. No. 2023-15, §  06/06/2023
+)
+Effective on: 8/1/2023
+Section 403
+Building
+Thermal Envelope
+R403.6.2 Testing. Mechanical ventilation systems shall be tested and verified to provide the minimum ventilation flow rates required by section R403.6. Testing shall be performed according to the ventilation
+equipment
+manufacturer's instructions, or by using a flow hood or box, flow grid, or other airflow measuring device at the mechanical ventilation fan's inlet terminals or grilles, outlet terminals or grilles, or in the connected ventilation ducts. Where required by the
+code official
+, testing shall be conducted by an approved third party. A written report of the results of the test shall be signed by the party conducting the test and provided to the code official.
+Exception:
+Kitchen
+range hoods that are ducted to the outside with 6-inch (152 mm) or larger duct and not more than one-degree (1.57 rad) elbow or equivalent in the duct run.
+(
+Res. No. 2017-33, § 403, 10/10/2017; Res. No. 2023-15, § 403, 06/06/2023
+)
+Effective on: 8/1/2023
+Sec. 18-45.
+Appendix H Signs - Appendix H of the International Building Code
+Appendix H of the International Building Code is hereby amended to include the following:
+A building permit is not required for the construction or improvement of signs, but all signs constructed in the unincorporated portions of the County shall comply with Chapters 74 and 93, and section 98-2 of the La Plata County Code, and any subsequent amendments, revisions, or additions to those or other provisions of the La Plata County Code.
+(Res. No. 2017-33,  10-10-2017)
+Effective on: 12/11/2017
+ARTICLE IV. Attachments: Chapter 18 Buildings and Building Regulations
+1.
+Minimum Foundation Standards
+2.
+Manufactured / Mobile Homes
+3.
+Construction Standards for the Construction of a Residence in a Geologic Hazard Area
+Effective on: 12/11/2017

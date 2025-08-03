@@ -1,0 +1,99 @@
+Chapter 18 BUILDINGS AND BUILDING REGULATIONS
+Article II general provisions
+Sec. 18-35  Scope and Administration
+Chapter 1 of the 2015 International Residential Code and Chapter 1 of the 2015 International Building Code are deleted in their entirety and replaced with the following:
+(
+Res. No. 2004-15, § 1 (Exh. A), 05/24/2004; Res. No. 2017-33, § 18-35, 10/10/2017; Res. No. 2023-15, § 18-35, 06/06/2023
+)
+Section 111 Occupancy Approvals
+111.1
+Use
+and occupancy. No
+building
+or
+structure
+, or portion thereof, requiring a
+permit
+in accordance with section
+18-35
+(105) of this
+Code
+, shall be used or occupied, and no change in the existing occupancy classification of such building or structure, or portion thereof, shall be made, until the
+building official
+has issued an appropriate certificate authorizing the legal occupancy of the building  or structure.
+111.1.1
+New construction
+Certificate of Occupancy.  Following issuance of a
+building permit
+, compliance with all required inspections, compliance with the International
+Fire Code
+as adopted and amended by Chapter 34 of the La Plata
+County
+Code, and completion of the final inspection described above in section
+18-35
+(110.2.8), the building official may issue a certificate of occupancy. Issuance of a certificate of occupancy will verify that
+construction
+work has been completed in accordance with permitted
+plans
+and necessary inspections were completed. The certificate will serve as written notification from the building official to the property
+owner
+that the work covered under the permit is complete and the permit is closed.
+EXCEPTION: Single occupancies of Group U used solely for
+agriculture
+buildings, barns, carports, garages,
+livestock
+shelters, private garages, sheds, or stables are exempt from the certificate of occupancy requirements.  Group U occupancies with
+residential
+uses must receive a certificate of occupancy.
+111.1.2 Certificate of Temporary Occupancy. The building official is authorized, at his or her discretion, to issue a certificate of temporary occupancy before the completion of the entire work covered by the permit, provided that the building official determines that the completed portions can be occupied safely. The certificate of temporary occupancy shall expire on a date certain, as stated on the certificate.
+The building official may issue a temporary certificate of occupancy for residential (R-3) occupancies when the structure is substantially completed, but not completed to a point that a final inspection can be performed. The
+permittee
+must have obtained final approvals for the
+sewage
+disposal system, installation of safety features, fire separations between living areas and attached garages, and either the completion of the plumbing system within the home or the isolation of fixtures that are not yet installed before a certificate of temporary occupancy may issue.
+The failure to obtain a certificate of occupancy before the expiration of the certificate of temporary occupancy shall be a
+violation
+of this Code. The building official shall notify the permittee of such violation in writing and the notice of violation shall be retained in the records of the Building
+Department
+. The building official, at his or her discretion, may use all legal enforcement remedies to halt the use and occupancy of the building or structure.
+111.1.3 Certificate of Limited Compliance. The building official may issue a permittee a certificate of limited compliance in lieu of a certificate of occupancy when any of the following circumstances exist, but the building official nevertheless determines that occupancy of the building or structure does not pose a risk to health or safety:
+1. Failure to complete required inspections. A permittee, or any of the permittee's
+agents
+, fails to complete any inspection required by section
+18-35
+(110). The certificate of limited compliance shall list those inspections which must be completed to obtain a certificate of occupancy.
+2. Construction without a building permit. A
+project
+is constructed without issuance of a building permit, such that any inspection required by section
+18-35
+(110) cannot be completed. The certificate of limited compliance shall list those inspections which must be completed to obtain a certificate of occupancy, as well as any other instances in which full compliance with this Code was not achieved.
+3. Construction not in accordance with approved plans. A permitted project is not completed according to the plans which the Building Department has approved pursuant to section
+18-35
+(106). A project will be considered to be not in accordance with approved plans in circumstances including, but not limited to, where the approved plans provide that a portion of the project will remain unfinished, but the permittee finishes that portion; or where the approved plans provide that a portion of the project will be finished, but that portion remains unfinished. The certificate of limited compliance shall identify those portions of the project not completed in accordance with the approved plans.
+Issuance of a certificate of limited compliance will close the building permit. To obtain a certificate of occupancy, the permittee, the permittee's agents, or the permittee's successors in interest must apply for and obtain a new building permit authorizing the completion or correction of all items which the certificate of limited compliance identifies as outstanding or non-compliant.
+111.1.4 Remodel,
+additions
+, or relocated structures certificate. Remodels or additions to buildings, and relocated buildings, shall receive a certificate of occupancy for the work completed after plans have been submitted, a permit issued, and all required inspections are completed.  The certificate shall state that it does not certify that the entire building meets all the requirements of the Code for new buildings.
+111.1.5 Certificate issued – documentation and information. Any certificate issued by the building official for occupancy of a structure shall contain the following information:
+1.
+Building permit number; and
+2.
+Address of the structure; and
+3.
+Property owner’s name; and
+4.
+Type of certificate; and
+5.
+Expiration date, if applicable; and
+6.
+Occupancy classification; and
+7.
+Type of construction; and
+8.
+A statement detailing any imitations or special conditions that have been placed on the issuance of the certificate; and
+9.
+In the case of a certificate of occupancy, a statement that the described construction has been completed in accordance with approved plans; in the case of a certificate of limited compliance, a statement identifying what portions of this Code have not been satisfied: and
+10.
+If applicable, a statement that the described portion of the structure has been inspected by the appropriate authority for compliance with the requirements of the  International Fire Code, as adopted and amended by Chapter 34 of the La Plata County Code.
+111.2 Revocation. The building official is authorized to suspend or revoke a certificate of occupancy, a certificate of temporary occupancy, or a certificate of limited compliance issued under the provisions of this Code wherever the certificate is issued in error, or based on incorrect information supplied, or where it is determined that the building or structure or portion thereof subject to the certificate is in violation of any provision of this Code or applicable law or regulation. Any suspension or revocation pursuant to this section shall be in writing and shall set forth the basis for the suspension or revocation.
+Effective on: 12/11/2017

@@ -1,0 +1,99 @@
+Chapter 73 Standards and Additional Submittal Requirements for Specific Uses
+Overview
+The specific uses addressed in this chapter require particular attention for a variety of reasons. Although many uses have the potential to impact neighbors by generating noise, dust, odor, light, traffic or other potential nuisances, some uses require evaluation and mitigation efforts beyond those established more generally elsewhere in the code. By way of example, some uses present additional concerns to the health, safety and welfare of the community at large that justify special attention in this chapter. Other uses addressed in this chapter warrant special attention in order to accommodate unique technical considerations or to coordinate the county’s interests with regulations and standards set at the state and federal levels. Some uses addressed in this chapter present opportunities to promote the county’s interest in the use by allowing different standards than those generally applicable.
+Sec. 73-13 Land applied septage
+I.
+Purpose.
+Land application of domestic septage is intended to use domestic septage as a soil augmentation medium while preventing negative impacts to ground and surface water and nuisance situations.
+II.
+Applicability.
+A land use permit shall be required for the land application of domestic septage in the unincorporated areas of the county. Dried sludge that has been stabilized or composted, as determined by state sewage sludge regulations, are exempt from these standards.
+III.
+Standards specific to land applied septage.
+A.
+Setbacks. The following minimum setbacks shall apply to all facilities associated with the application of domestic septage:
+1.
+From the property lines of nearby residential and commercial uses: five hundred (500) feet;
+2.
+From the property lines of the parcel or contiguous parcels containing the application site: fifty (50) feet;
+3.
+From the wellhead of a well supplying water for human consumption: five hundred (500) feet;
+4.
+From the outermost limits of any body of surface water or wetlands: five hundred (500) feet;
+5.
+From the outermost limits of a dry streambed: fifty (50) feet;
+6.
+From the outermost bank of irrigation canals and ditches: fifty (50) feet;
+7.
+From the center line of a public roadway: sixty (60) feet.
+B.
+Other limitations. No domestic septage shall be applied:
+1.
+On land located upgradient and within one-half (1/2) mile of any point of diversion at which surface waters are diverted for use in a micro water system or central water supply system;
+2.
+Within the boundaries of a one hundred (100) year floodplain;
+3.
+On land of greater than fifteen (15) percent slope;
+4.
+At a rate that exceeds the agronomic rate of the proposed crops. The determination of the agronomic rate shall be based upon the annual application rate as determined by the EPA in 40 C.F.R. Part 503 for domestic septage. In no case shall the application rate exceed twenty-five thousand (25,000) gallons per acre per year;
+5.
+On frozen soils;
+6.
+When the application site soils are saturated due to heavy precipitation or the site is flooded or ponded with water;
+7.
+Unless
+CDPHE
+or
+LPCPH
+has approved, whether through variance or otherwise, the proposed application complies with all requirements and conditions imposed by CDPHE and LPCPH.
+C.
+Posting. Signs shall be posted at every road access point on the site that include the message “No Trespassing – Domestic Septage Land Application Site.”
+D.
+Spillage and migration. Applicant shall demonstrate the ability to prevent, control and abate spillage and septage migration to other parcels.
+E.
+Fugitive dust abatement and preventive measures. Fugitive dust, blowing debris, odor and other potential nuisance conditions shall be controlled at the site. When application of domestic septage is employed for agricultural operations, an applicant may satisfy these requirements by demonstrating that septage will be applied employing methods and practices commonly or reasonably associated with agricultural production.
+IV.
+Submittal requirements.
+In addition to the general land use permit application submittal requirements set forth in section 66-11, applicant shall submit the following documents and materials at preliminary and final plan:
+A.
+The name and contact information of the domestic septage transporter and applicator;
+B.
+The total acreage of the property to be used for the application and the number of gallons of septage to be applied per acre;
+C.
+The name and contact information of any reservoir, ditch, irrigation or other water district or company with reservoirs, irrigation canals or ditches or flumes on the site.
+D.
+Hydrologic data pertaining to the site, including:
+1.
+The location and depth of all wells within one-half (1/2) mile, depth to water, water use, yield and evaluation of the impact of the proposed application on the groundwater;
+2.
+The location of all surface water, springs and wetlands within one-half (1/2) mile of the site;
+3.
+The location of any mapped one hundred (100) year floodplain;
+4.
+The location of any water distribution system for any micro water system or central water supply system, including but not limited to intake or diversion facilities located within one-half (1/2) mile down gradient of the outer boundary of the site;
+5.
+Topographic information concerning the direction of drainage at the application site;
+6.
+The proposed application rate of the domestic septage at the site;
+7.
+Evidence demonstrating the domestic septage application will be conducted at the agronomic rate of the proposed crops.
+E.
+Operating plan. A plan for the method of operations, including without limitation:
+1.
+Any provisions for temporary storage of domestic septage at the site, including type of storage and spill containment and cleanup procedures;
+2.
+Methods of domestic septage application and incorporation, demonstrating how the applicant will handle, store and apply domestic septage in a manner that controls fugitive dust, blowing debris, odor and other potential nuisance conditions.
+F.
+Irrigation methods and schedule for the site.
+G.
+A written statement demonstrating that at no time shall the application site have an odor reading of greater than the standards established and measured by CDPHE set forth in Regulation Number 2 Odor Emission of the Colorado Air Quality Controls regulations.
+H.
+A written statement demonstrating how the proposed application will comply with all requirements and conditions imposed by LPCPH as a result of their approving, whether through variance or otherwise, the proposed application. The written statement shall include a copy of such approval or variance and any attachments associated with the terms and conditions imposed by LPCPH.
+(
+Res. No.
+2020-30
+, § 73-13, 09/15/2020; Res. No.
+2023-27
+, § 73-13, 11/21/2023
+)
+Effective on: 1/1/2024

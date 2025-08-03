@@ -1,0 +1,120 @@
+Chapter 18 BUILDINGS AND BUILDING REGULATIONS
+Article III. Building Codes and standards: Amendments, additions and deletions to the international codes
+Sec.
+18-37
+Tiny Homes
+Definitions
+EGRESS ROOF ACCESS WINDOW.
+A skylight or roof window designed and installed to satisfy the
+emergency
+escape and
+rescue opening requirements in Section R310.2.
+LANDING PLATFORM. A landing provided as the top step of a stairway accessing a loft.
+LOFT. A floor level located more than 30 inches above the main floor and open to it on at least one side, with a ceiling height of less than 6 feet 8 inches, which is used as a living or sleeping space.
+TINY HOME
+. A
+dwelling
+that is 400 square feet or less.
+THOW
+.  A Tiny Home on Wheels.
+I.
+Scope.  This s
+ection shall be applicable to tiny homes used as single
+family
+dwelling units
+. Tiny homes shall comply with this
+Code
+except as otherwise stated in this section. This section only applies to tiny homes and cannot be applied to other
+residential
+units
+in La Plata
+County
+.
+II.
+Approvals. ​
+A.
+Upon the completion of all inspections required pursuant to section
+18-35
+(110) of this Code, a Tiny Home on Wheels (THOW) will receive a Certificate of Limited Compliance from La Plata County.  This can be converted to a Certificate of Occupancy upon the THOW’s installation on a property with a permanent foundation and completion of all required inspections pursuant to section
+18-35
+(110) of this Code.
+B.
+A tiny home that is
+site
+built or delivered and installed on a permanent foundation shall be issued a Certificate of Occupancy upon completion of all required inspections pursuant to section
+18-35
+(110) of this Code.
+III.
+Energy Code.  Tiny homes shall be built in compliance with the
+standards
+set forth in section
+18-44
+of this Code.
+IV.
+Snow load.
+A.
+A THOW without a known destination will be required to have a roof live load of 120 psf.  If the THOW has a known location of installation, the live load can be determined using the LPC GIS map as provided in section
+18-36
+(R301.2.3).
+B.
+A site built tiny home, or a tiny home delivered and installed on a permanent foundation, shall be built to the snow/live load as shown on the LPC GIS map as provided in section
+18-36
+(R301.2.3).
+V.
+Minimum ceiling height.  Habitable space and hallways in tiny houses shall have a ceiling height of not less than 6 feet 8 inches. Bathrooms, toilet rooms, and
+kitchens
+shall have a ceiling height of not less than 6 feet 4 inches. Obstructions, including but not limited to, beams, girders, ducts, and
+lighting
+shall not extend below those minimum ceiling heights.
+VI.
+Exception: Ceiling heights in lofts are permitted to be less than 6 feet 8 inches.
+VII.
+Lofts.
+A.
+Minimum loft area. Lofts shall have a floor area of not less than 35 square feet.
+B.
+Minimum dimensions. Lofts shall  not be less than 5 feet in any horizontal dimension.
+C.
+Height effect on loft area.  Portions of a loft with a sloping ceiling measuring less than 3 feet from the finished floor to the finished ceiling shall not be considered as contributing to the minimum required square footage or horizontal dimensions for the loft.
+Exception: Under gable roofs with a minimum
+slope
+of 6:12, portions of a loft with a sloping ceiling measuring less than 16 inches from the finished floor to the finished ceiling shall not be considered as contributing to the minimum required area for the loft.
+D.
+Loft access. The access to and primary egress from lofts shall conform with the
+specifications
+set forth below in subsections E through P.
+E.
+Stairways.  Stairways accessing lofts shall comply with this Code or with the subsections E through K below.
+F.
+Width.  Stairways accessing a loft shall not be less than 17 inches in clear width at or above the handrail. The minimum width below the handrail shall be not less than 20 inches.
+G.
+Headroom.  The headroom in stairways accessing a loft shall be not less than 6 feet 2 inches, as measured vertically, from a sloped line connecting the tread or landing platform nosings in the middle of their width.
+H.
+Treads and risers. Risers for stairs accessing a loft shall not be less than 7 inches and not more than 12 inches in height. Tread depth and riser height shall be calculated in accordance with one of the following formulas:
+1.
+The tread depth shall be 20 inches minus 4/3 of the riser height, or
+2.
+The riser height shall be 15 inches minus 3/4 of the tread depth.
+I.
+Landing platforms. The top tread and riser of stairways accessing lofts shall be constructed as a landing platform where the loft ceiling height is less than 6 feet 2 inches where the stairway meets the loft. The landing platform shall be 18 inches to 22 inches in depth measured from the nosing of the landing platform to the edge of the loft, and 16 to 18 inches in height measured from the landing platform to the loft floor.
+J.
+Handrails.  Handrails shall comply with Section R311.7.8 of the 2015 International Residential Code.
+K.
+Stairway guards. Guards at open sides of stairways shall comply with Section R312.1 of the 2015 International Residential Code.
+L.
+Ladders. Ladders accessing lofts shall comply with subsections M and N below.
+M.
+Size and capacity.  Ladders accessing lofts shall have a rung width of not less than 12 inches, and 10 inches to 14 inches spacing between rungs. Ladders shall be capable of supporting a 200 pound load on any rung. Rung spacing shall be uniform within 3/8-inch.
+N.
+Incline.  Ladders shall be installed at 70 to 80 degrees from horizontal.
+O.
+Alternating tread devices. Alternating tread devices accessing lofts shall comply with Sections R311.7.11.1 and R311.7.11.2 of the 2015 International Residential Code. The clear width at and below the handrails shall be not less than 20 inches.
+P.
+Ships ladders. Ships ladders accessing lofts shall comply with Sections R311.7.12.1 and R311.7.12.2 of the 2015 International Residential Code. The clear width at and below handrails shall be not less than 20 inches.
+Q.
+Loft guards. Loft guards shall be located along the open side of lofts. Loft guards shall not be less than 36 inches in height or one-half of the clear height to the ceiling, whichever is less.
+VIII.
+Emergency escape and rescue openings. Tiny homes shall meet the requirements of Section R310 of the 2015 International Residential Code for emergency escape and rescue openings.
+Exception: Egress roof access windows in lofts used as sleeping rooms shall be deemed to meet the requirements of Section R310 of the 2015 International Residential Code, where installed such that the bottom of the opening is not more than 44 inches above the loft floor, provided the egress roof access window complies with the minimum opening area requirements of Section R310.2.1 of the 2015 International Residential Code.
+(Res. No. 2017-33,  10-10-2017)
+Effective on: 12/11/2017

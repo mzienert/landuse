@@ -1,0 +1,184 @@
+Chapter 70: General Site Development Standards Applicable to All Development
+Chapter 70 Technical Appendix
+Section 70-4 Water Specifications & Standard Water Details
+SECTION A: WATER SYSTEM PIPING
+I.
+General. Work required under this section shall include furnishing all materials, labor, equipment and miscellaneous items necessary to install, disinfect, and test water system piping, and appurtenances for water systems.
+II.
+Materials.
+A.
+All materials including pipe, fittings, valves, joints and fire hydrants must conform to applicable standards issued by ASTM, AWWA, and ANSI/NSF that are current at the time of project submittal and must be ANSI/NSF 61 certified. If any of the applicable standards conflict, the more stringent standard shall apply. Specifically, but not by way of limitation, the following standards, as the same may be amended, shall apply to developments subject to the specifications and details set forth in this Appendix.
+B.
+Pipe.
+1.
+Polyvinyl Chloride (PVC) Pressure Pipe shall have a minimum DR 21 (200 psi pressure class) and shall meet the criteria of the current publication of AWWA C900; or
+2.
+High-Density Polyethylene (HDPE) Pressure Pipe shall have a minimum DR 21 (200 psi pressure class), meet the criteria of the current publication of ANSI/AWWA C901/906, and shall meet PE4710.
+3.
+Water mains that provide fire protection, serve fire hydrants, or will provide fire protection in the future must have a minimum nominal pipeline diameter of six inches (6”). Water mains that do not provide fire protection must have a minimum nominal pipeline diameter of two inches (2”). Any deviations in minimum pipe diameter must be specifically approved, in writing, by the planning engineer.
+C.
+Tracer wire No. 14 gauge insulated, stranded copper. All splices shall be watertight, underground type.
+D.
+Magnetic tape.
+1.
+Detectable marking tape shall consist of a minimum of five mil (0.0005") overall thickness; five (5) ply composition; ultra-high molecular weight; one hundred percent (100%) virgin polyethylene; acid alkaline and corrosion resistant. Elongation properties shall be in accordance with ASTM D882-80A and shall be less than one hundred fifty percent (150%) at break. The tape shall have a 20 gauge (0.0020") solid aluminum foil core, encapsulated within 2.55 mil (0.00255") polyethylene backing.
+2.
+Tape color and legend combination shall be in accordance with APWA. The color shall be blue. The legend shall read "CAUTION - WATERLINE BELOW".
+3.
+Tape width shall be three-quarters (3/4) of the diameter of the pipeline being protected.
+E.
+Isolation gate valves. Isolation gate valves shall be resilient seat type and shall meet the criteria of the current publication of AWWA C509. Gate valves shall meet the following requirements:
+1.
+Iron body, resilient seat, parallel-seal conforming to AWWA C509 for buried service;
+2.
+Pressure rating - 250 psi;
+3.
+Wrench nut - two-inch (2”) square, open by turning to the left (counterclockwise);
+4.
+Stem - non-rising;
+5.
+Epoxy coated.
+F.
+All chemicals introduced into the potable water system must be ANSI/NSF 60 certified.
+III.
+Pipe and appurtenance installation.
+A.
+Installation. Installation of waterlines and all appurtenances shall meet current publications of applicable AWWA/ANSI standards.
+B.
+Bedding. Bedding shall comply with the standards set forth in water detail W01.
+C.
+Pipe cover. The minimum depth of cover of water mains shall be as follows:
+Minimum Depth of Cover of Water Mains
+Elevation
+Minimum Depth of Cover (R)
+7,500' +
+Seek county approval
+Below 7,500'
+5'
+Elevation
+Minimum Depth of Cover (R)
+7,500' +
+Seek county approval
+Below 7,500'
+5'
+Elevation
+Minimum Depth of Cover (R)
+7,500' +
+Seek county approval
+Below 7,500'
+5'
+Elevation
+Minimum Depth of Cover (R)
+7,500' +
+Seek county approval
+Below 7,500'
+5'
+D.
+Location. All waterlines appurtenances shall be installed in road rights-of-way or in a non-exclusive dedicated easement, in accordance with county requirements detailed in standard water detail W03.
+E.
+Tracer wire. Electrical tracing wire is required on all water mains. The wire shall be taped to the top of the pipe at ten (10) foot intervals to prevent dislocation of the wire during backfilling. Wire shall be extended to the ground surface at all valves, fire hydrants, and other above ground water appurtenances, and shall be brought up on the outside of the valve box. When the wire is within four inches (4”) of the lid of the valve box, the wire shall be brought back inside the box and securely fastened. Twenty-four inches (24”) of slack in the wire outside of the box must be provided to compensate for any future adjustment to the valve box.
+F.
+Magnetic tape. Magnetic tape is required for all pipe and shall be located a minimum of twelve inches (12”) below finished grade.
+G.
+Isolation gate valves. All gate valves shall be installed with a two inch (2”) operating nut plumb and shall be true with the vertical and centered within the valve box. The operating nut shall be no deeper than six feet (6’) of finished grade unless an extension is provided and attached to the nut, as outlined in standard water detail W04.
+1.
+Whenever possible, water main valves shall be located at roadway intersections. Valves must be placed on all runs of a tee or cross. For instance, each cross shall have four (4) valves located at the intersection while tees shall have three (3) valves located at the intersection. Valves shall be located at the intersection within three feet (3’) of a tee, cross, or bend and all connections shall have mechanical restraint or thrust blocks on the fitting. Valves shall be located at the end of all dead-end intersections for future connections.
+2.
+Valves shall be spaced to minimize the number of service laterals out of service at one time due to a break in the water main.
+3.
+All distribution mains connecting to transmission mains must be valved at the tie-in.
+H.
+Joint restraint. Concrete thrust blocks or mechanical restraint shall be provided for all tees, elbows, plugs, reducers, valves, fire hydrants and crosses if one or more sides of the cross is plugged. Concrete for thrust blocks shall have 3,000 psi compressive strength. Concrete support blocks shall be placed under all valves.
+I.
+Pressure and leakage testing. Installed pipe shall be pressure and leakage tested in accordance with the current publication of AWWA C605 “Underground Installation of Polyvinyl Chloride (PVC) and Molecularly Oriented Polyvinyl Chloride (PVCO) Pressure Pipe and Fittings” or AWWA Manual M55 “PE Pipe – Design and Installation” for HDPE pipe, as applicable.
+J.
+Disinfection. Water pipelines shall be disinfected, flushed, and bacteriologically tested in accordance with the current publication of AWWA C651 “Disinfecting Water Mains”.
+IV.
+Separation from contamination sources.
+A.
+​​​​​​​Parallel installation. Water lines shall be located a minimum of ten feet (10') horizontally from sewer mains, storm sewer, raw surface water pipes, reclaimed water pipes, liquid petroleum pipes, septic tanks, or subsoil treatment systems. The distance must be measured from edge to edge.
+B.
+Crossings. Wherever the sewer mains, storm sewer, raw surface water pipes, reclaimed water pipes, or liquid petroleum pipes crosses above or within eighteen inches (18"), as measured from edge to edge of pipe, beneath the water mains these pipes shall be made impervious by the methods listed below:
+1.
+Concrete encasement for twenty feet (20'), centered over the waterline;
+2.
+In all cases, select granular backfill shall be used to prevent any settling of the higher pipe.
+V.
+Separation from other utilities. Water mains shall be installed to ensure adequate separation from other utilities such as electrical, telecommunications, and natural gas lines. Clearance shall be five feet (5') minimum or as required by utility company, whichever is greater.
+VI.
+Service connections. Customer service connections shall be installed in accordance with standard water detail W02 and section B below.
+SECTION B: WATER SYSTEM SERVICE LATERALS
+I.
+General. Work required under this section shall include furnishing all materials, labor, equipment and miscellaneous items necessary to install all water service lines and appurtenances as specified herein. All work completed and materials used from the curb valve to the building shall comply with the standards set forth in the most recently adopted International Plumbing Code.
+II.
+Materials.
+A.
+Service pipe. All pipe used for services must conform to the applicable standards issued by ASTM, AWWA, and ANSI/NSF that are current at the time of project submittal. If any of the applicable standards conflict, the more stringent standards shall apply. Specifically, but not by way of limitation, the following standards, as the same may be amended, shall apply to developments subject to the specifications and details set forth in this Appendix A:
+1.
+Type K Soft Copper shall meet the current publication of ASTM B88 "Standards Specification for Seamless Copper Water Tube".
+2.
+High-Density polyethylene (HDPE) Pressure Pipe shall have a minimum DR 9 (250 psi pressure class) shall meet standards and requirements set forth in the current publication of ANSI/AWWA C901 and shall meet PE4710.
+3.
+Crosslinked Polyethylene (PEX) Pressure Tubing, shall meet the standards and requirements set forth in the current publication of AWWA C904 "Crosslinked Polyethylene (PEX) Pressure Tubing, 1/2 in. through 3 in., for Water Service".
+B.
+Corporation stops. Unless specifically enumerated herein, the applicant shall meet the standards and specifications set forth in the current publication of AWWA C800 "Underground Service Line Valves and Fittings":
+1.
+Material - brass or bronze;
+2.
+Size - same as service line;
+3.
+Inlet - threaded CC type;
+4.
+Outlet - compression fittings.
+C.
+Service saddles. Service saddles shall be installed on all service connections. Unless specifically enumerated herein, the applicant shall meet the standards and specifications set forth in the current publication of AWWA C800 "Underground Service Line Valves and Fittings".
+1.
+Materials - bronze service clamp, 'O' ring gasket, double strap, brass, CC thread.
+D.
+Curb stops. Unless specifically enumerated herein, the applicant shall meet the standards and specifications set forth in the current publication of AWWA C800 "Underground Service Line Valves and Fittings".
+1.
+Materials - cast bronze body, resilient 'O' ring seals, standard tee head operator, Teflon ball valve type.
+2.
+Riser rods - stainless steel.
+3.
+Inlet - compression fitting.
+4.
+Outlet - compression fitting.
+E.
+Curb boxes.
+1.
+Curb box must be traffic rated when located within traffic areas.
+2.
+Material - cast iron.
+F.
+Couplings.
+1.
+Couplings are not allowed for services less than one hundred feet (100') long from the curb stop to the main and curb stop to house.
+2.
+In the case of a service line exceeding the available length of copper piping, couplings may be used.
+3.
+If a coupling is used the service line must be tested to one and one-half (1.5) times normal working pressure or 150 psi minimum with the coupling exposed so a water system representative can verify.
+G.
+ANSI/NSF 61 certified. All materials, including pipes, fittings, valves, and joints, used for the potable water system must be ANSI/NSF 61 certified.
+H.
+Chemicals. All chemicals introduced into the potable water system must be ANSI/NSF 60 certified.
+I.
+Tracer wire No. 14 gauge insulated, stranded copper. Tracer wire is required for all pipes, and all splices shall be watertight, underground type.
+III.
+Installation. Installation of water service lines and all appurtenances shall meet current publications of applicable AWWA/ANSI standards.
+A.
+Curb box. The curb box shall be placed on the property line; however, at all times, it will fall on the right-of-way or easement side of the property line.
+B.
+Trenching and bedding. Bedding shall comply with standard water detail W02. Water service lines shall be placed in prepared trenches free of rocks and debris. Pipes will be placed so that they are relaxed and “snaked” loosely in the trench and shall not be bent more than the minimum bend radius for the DR of the service line. Rocks or other hard objects shall not be allowed in the vicinity of the buried water service line.
+C.
+Pipe cover. The minimum depth of cover is set forth in standard water detail W02.
+D.
+Tracer wire. Tracer wire is required for all service lines. Electrical tracing wire shall be taped to the top of the pipe at ten foot (10’) intervals to prevent dislocation of the wire during backfilling. Wire shall be extended to the ground surface at all curb boxes and other above ground water appurtenances, and the tracing wire shall be brought up on the outside of the valve box. When the wire is within four inches (4") of the top of the valve box lid, the wire shall be brought back inside the box and securely fastened. Sufficient slack must be provided in the wire outside of the box to compensate for any future adjustment to the valve box.
+E.
+Disinfection. Water pipelines shall be disinfected, flushed, and bacteriologically tested in accordance with the current publication of AWWA C651 “Disinfecting Water Mains”.
+Figure W01: Water Line Standard Details: Typical Trench Detail
+Figure W02: Water Line Standard Details: Typical Water Service Detail
+Figure W03: Water Line Standard Details: Easement Width Detail
+Figure W04: Water Line Standard Details: Typical Isolation Gate Valve Detail
+Figure W05: Water Line Standard Details: Water Line Insulation Detail
+Effective on: 10/1/2020

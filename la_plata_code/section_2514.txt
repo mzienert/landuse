@@ -1,0 +1,48 @@
+Chapter 18 BUILDINGS AND BUILDING REGULATIONS
+Article III. Building Codes and standards: Amendments, additions and deletions to the international codes
+Sec. 18-36
+Amendments and Deletions to the 2015 International Residential Code.
+Amendments and Deletions to the 2015 International Residential Code are as follows:
+(
+Res. No. 2004-15, § 1 (Exh. A), 05/24/2004; Res. No. 2017-33, § 18-36, 10/10/2017; Res. No. 2023-15, § 18-36, 06/06/2023
+)
+Section R408 Under-floor Space
+R408.3.2.1 Unvented crawlspaces. Section R408.3.2.1 of the
+IRC
+is deleted and replaced with the following:
+Continuously operated mechanical exhaust ventilation at an air changes per hour (ACH) rate of at least 1 cubic foot per minute (0.47 L/s) for each 50 square feet (4.7 m2) of crawl space floor area, including an air pathway to the common area (such as a duct or transfer grille), and perimeter walls insulated in accordance with the
+IECC
+-
+Residential
+Provisions. Humidistat
+control
+is acceptable in lieu of continuous operation of the exhaust system as long as the ACH requirements are met..
+R408.6
+Finished Grade
+. Section R401.4 of the 2015 International Residential
+Code
+is deleted and replaced with the following:
+The finished grade of the under-floor
+surface
+(crawlspace) shall be at or above the top of the footing. When homes are constructed in
+flood
+hazard
+zones crawlspace design and
+construction
+must meet the required flood plain regulations.
+R408.7 Flood Resistance. Subsection 2 of Section R408.7 of the 2015 International Residential Code is deleted and replaced with the following:
+2. Foundation systems constructed utilizing a foundation stem wall and crawlspace design must be constructed to
+specifications
+contained in
+FEMA
+Technical Bulletin TB-11, “Crawlspace Construction – for
+Buildings
+Located in
+Special Flood Hazard Areas
+,” National Flood Insurance Program Interim
+Guidelines
+.
+(
+Res. No. 2023-15, §  06/06/2023
+)
+Effective on: 8/1/2023

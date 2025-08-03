@@ -1,0 +1,60 @@
+Chapter 18 BUILDINGS AND BUILDING REGULATIONS
+Article III. Building Codes and standards: Amendments, additions and deletions to the international codes
+Sec. 18-36
+Amendments and Deletions to the 2015 International Residential Code.
+Amendments and Deletions to the 2015 International Residential Code are as follows:
+(
+Res. No. 2004-15, § 1 (Exh. A), 05/24/2004; Res. No. 2017-33, § 18-36, 10/10/2017; Res. No. 2023-15, § 18-36, 06/06/2023
+)
+Section R401 (Foundations)
+General
+R401.1 Application. Exception 3 below is added to Section R401.1 of the 2015 International
+Residential
+Code
+:
+3.  Where soil conditions allow, the
+use
+of the foundation designs set forth in Attachment 1 to this Code will be allowed.  The
+standards
+set forth in Attachment 1 are not designed for use in expansive soils or soils with low bearing capacity such as unconsolidated
+sand
+or silt. Determination of the location of expansive soils will be based on mapping in the La Plata
+County
+GIS maps and the U.S. Dept. of Agriculture- Soil Survey of La Plata County (see Section R401.4). When snow loads at the
+building
+site
+exceed 80 psf, live load engineered foundation
+plans
+may be required by the
+building official
+.
+R401.3
+Drainage
+.  Section R401.3 of the 2015 International Residential Code is deleted and replaced with the following:
+All foundation systems shall be provided with compacted backfill graded in a manner that assures
+surface water
+will be directed away from the foundation system.  The grade shall fall a minimum of 6 inches within the first 10 feet.  No water shall adversely
+impact
+adjacent
+lots
+or
+structures
+.
+Exception: Where lot lines, walls,
+slopes
+or other physical barriers prohibit 6 inches (152 mm) of fall within 10 feet (3048 mm), drains or swales shall be constructed to ensure drainage away from the structure. Impervious
+surfaces
+within 10 feet (3048 mm) of the building foundation shall be sloped to a minimum of 2 percent away from the building.
+R401.4 Soil tests.  Section R401.4 of the 2015 International Residential Code is deleted and replaced with the following:
+Classification of soils will be based on soil reports, visual observations, “The Soil Survey of La Plata County Area of Colorado” provided by the U.S. Dept. of
+Agriculture
+Soil
+Construction
+1981-82, and maps of the La Plata County GIS. When it is determined that expansive soils exist at a
+project
+location for a residential structure, soil tests and engineered foundation systems will be required for all residential structures.  Pursuant to section
+18-35
+(107.2), the building official shall determine the need for special engineering of the foundation system to address the
+adverse
+soil conditions when questionable soil characteristics are likely present.
+Effective on: 12/11/2017

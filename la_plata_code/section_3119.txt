@@ -1,0 +1,262 @@
+Chapter 74: Road and Bridge Standards and Permits
+Sec. 74-4 Roadway and sign design and construction standards
+I.
+Design speed.
+C.R.S. § 42-4-1102 requires that speed limits not be higher or lower than those prescribed by state statute unless the investigation or considerations required by the statute justify the change. The public works director or planning engineer may reduce a design speed and may require more stringent widths and grades from those set forth in Table 74-2 if such changes are warranted by topography, cross-section, drainage, snow storage, maintenance or other site-specific conditions.
+II.
+Turnouts
+. Turnouts shall be provided at fire hydrants for all low ADT and minor local roads. Required turnouts shall be sixty (60) feet (including tapers) in length and provide twenty-six (26) feet in total surface width of cross-section with reasonable tapering.
+III.
+Physical or geological constraints.
+Where physical or geological constraints limit road improvements, the surface width of arterial and collector roads may be reduced by the public works director to twenty-two (22) feet if the specified shoulder width is met, and the posted speed limit is forty-five (45) miles per hour or less. If the arterial or collector road is an urban road with urban improvements, including curb, gutter, and sidewalks, and has a posted speed of thirty-five (35) miles per hour or less, the surface width may be reduced by the public works director to twenty-one (21) feet if the paved shoulders will be five (5) feet in width or greater.
+IV.
+Shoulder width
+. The shoulder widths in Table 74-2 shall be required on both sides of the travel way width sections of the roadway and shall be at the same grade as the road surface.
+V.
+Cut and fill slope
+.
+A.
+Cut and fill slopes shall be completely contained within the right-of-way. If insufficient right-of-way exists, additional width shall be obtained as prescribed by subsection 74-3.II.
+B.
+The preferred design for cut slopes shall be four (4) foot horizontal to one (1) foot vertical. Cut slopes shall not be greater (steeper) than two (2) foot horizontal to one (1) foot vertical and ten (10) feet high except for cuts in stable bedrock verified by a professional engineer. The preferred design for fill slopes shall be four (4) foot horizontal to one (1) foot vertical. Fill slopes shall not be greater (steeper) than two (2) feet horizontal to one (1) foot vertical and four (4) feet high. A slope that exceeds the minimum cut or fill requirements shall either be certified as stable in its current finished state by a professional engineer or shall be designed by a professional engineer.
+VI.
+Superelevation
+. Maximum superelevation rate shall be six hundredths (.06) feet/foot. The public works director or planning engineer may require a lower superelevation rate based on safety considerations. Factors informing the need for superelevation include climate conditions, terrain conditions, classification of the road and the frequency of slow-moving vehicles on the roadway.
+VII.
+Parking areas
+. For projects that have a defined parking area, these standards shall apply from the road to the beginning of the surface widening for the parking area. These standards shall not apply within designated parking areas.
+VIII.
+Intersections
+.
+A.
+Intersections should be designed to intersect as nearly as possible at right angles, except where topography or other site conditions justify variations. A minimum angle of intersection of roads shall be sixty (60) degrees.
+B.
+Sight distances at intersections shall meet the Colorado State Highway Access Code (Volume 2, Code of Colorado Regulations 601-1, latest edition) minimum standards and the applicable road design publications described in subsection 74-1.III. Intersections including median openings shall be designed with adequate corner sight distance and kept free of obstacles.
+C.
+No fence, wall, entrance fixture, landscaping, tree or other sight obstruction shall be allowed to encroach upon the required sight distance at intersections.
+D.
+Roads entering the opposite sides of a road shall either be directly across from one another or offset by at least one hundred twenty-five (125) feet from centerline to centerline.
+E.
+The gradient for roads less than four hundred (400) ADT shall not exceed five (5) percent for the portion of the road within sixty (60) feet of an intersection, measured from the travel way. The gradient for all other roads shall not exceed five (5) percent for the portion of the road within one hundred (100) feet of an intersection, measured from the travel way.
+F.
+Corner radii at all intersections shall be a minimum twenty (20) feet in residential areas and forty (40) feet in industrial or commercial areas, as determined by the public works director.
+G.
+Design of auxiliary lanes shall conform to the current version of the Colorado State Highway Access Code. Designs also shall address right-of-way, guardrail, signing, and striping. The public works director may require additional construction requirements such as sawcutting, milling, and overlay of the asphalt be incorporated into the design to ensure the long term integrity of the pavement.
+IX.
+Surfacing requirements
+.
+A.
+All roads in a subdivision having a net density greater than three (3) units per acre shall be paved or double pin chip seal surfaced in accordance with the design standards set forth in the current CDOT Pavement Design Manual.
+B.
+The travel way width of major local, collector, and arterial classified roads shall be paved in accordance with the design standards set forth in the current CDOT Pavement Design Manual.
+C.
+Shoulders for arterials and collectors shall be paved.
+D.
+All roadways that are not paved that provide access onto a paved public road shall have paved aprons approved by the public works director.
+E.
+The surface width of low ADT and minor local classified roads shall have a minimum surfacing of eight (8) inches of class 2 ABC with three (3) inches of class 6 ABC finish material over suitable compacted subgrade material.
+X.
+Dead ends.
+All roadways (excluding driveways) in excess of one hundred fifty (150) feet in length that do not connect with another road shall contain a turnaround that does not exceed five (5) percent grade.
+A.
+Cul-de-sac turnarounds shall be provided on dead-end streets serving four (4) or more lots as depicted in this Figure 74-4 A: Cul-de-sac design:
+Figure 74-4 A: Cul-de-sac Design
+I.
+Dead-end roadways serving three (3) or fewer lots may also construct hammerheads consistent with one (1) of the following designs in Figure 74-4 B: Design standards for hammerheads for dead-end roadways.
+Figure 74-4 B: Design Standards for Hammerheads for Dead-end Roadways
+I.
+A professional engineer shall certify that the design and construction of the turnaround area can accommodate the safe turnaround of an AASHTO design vehicle WB-40, and a minimum of fifty (50) feet in length.
+II.
+Gates
+. Gated subdivision roads and accesses may be considered within a project when both the applicable fire district and public works director approve the gate’s design. Gate design shall account for public safety for pull-outs along travel lanes and effective accessibility for emergency vehicles through use of a Knox Box or other uniform devices or method.
+III.
+Road structure design and testing standards
+.
+A.
+The following standards apply to major local, collector, and arterial classified roads and may apply to minor local and low ADT classified roads as determined by the public works director or planning engineer. The costs of structure design and testing shall be at the sole cost of the owner.
+1.
+Soils testing and pavement design shall be accomplished by a certified testing firm under the supervision of a professional engineer. Frequency of testing shall be as determined by the public works director or planning engineer.
+2.
+Road structure design shall be in accordance with the criteria and procedures outlined in the current CDOT Pavement Design Manual and must be based on a twenty (20) year design life.
+3.
+Subgrade materials shall be tested by a professional engineer or certified testing firm at intervals no greater than one thousand (1,000) feet or as otherwise determined by the public works director. Subgrade design shall provide R values or CBR values necessary to support selected subbase, base course and surfacing requirements as outlined in the current CDOT Pavement Design Manual, or as required by the public works director. R values or CBR values shall be determined by testing subgrade soils or by comparable design soils conditions as determined by the professional engineer.
+4.
+The results of the testing and the road structure design shall be submitted to the public works director as part of the final plans.
+5.
+At the discretion of the planning engineer or public works director, construction testing of the road structure may be required.
+IV.
+Emergency and second primary access
+. Emergency and second primary access roads shall be located to achieve the greatest practical separation from the primary access road.
+A.
+Single family residential. Developments or uses intended for single family residential units shall have a second primary access or an emergency access from a county road or state highway as described in Table 74-4 C. More stringent requirements and additional intermediate turnarounds may also be required by the director based on local fire protection district guidance regarding the potential for impairment of a single road by vehicle congestion, condition of terrain, or climatic conditions, or by difficulties in firefighting caused by fire apparatus, water supply, topography, or resources available.
+Table 74-4 C: Minimum Emergency Access
+TABLE 74-4 C: MINIMUM EMERGENCY ACCESS
+Number of single-family residential units to be served by road
+Minimum width and type of emergency/second primary access
+≤ 30
+None required
+31-100
+20-foot-wide emergency only
+>100
+Second primary access as determined by Table 74-2, meeting all standards of Chapter 74
+TABLE 74-4 C: MINIMUM EMERGENCY ACCESS
+Number of single-family residential units to be served by road
+Minimum width and type of emergency/second primary access
+≤ 30
+None required
+31-100
+20-foot-wide emergency only
+>100
+Second primary access as determined by Table 74-2, meeting all standards of Chapter 74
+TABLE 74-4 C: MINIMUM EMERGENCY ACCESS
+Number of single-family residential units to be served by road
+Minimum width and type of emergency/second primary access
+≤ 30
+None required
+31-100
+20-foot-wide emergency only
+>100
+Second primary access as determined by Table 74-2, meeting all standards of Chapter 74
+TABLE 74-4 C: MINIMUM EMERGENCY ACCESS
+Number of single-family residential units to be served by road
+Minimum width and type of emergency/second primary access
+≤ 30
+None required
+31-100
+20-foot-wide emergency only
+>100
+Second primary access as determined by Table 74-2, meeting all standards of Chapter 74
+B.
+Multifamily, commercial, industrial, nonresidential and mixed use. Developments or uses intended for multifamily, commercial, industrial, nonresidential or mixed use developments shall have a second primary access from a county road or state highway as described in Table 74-4 D. More stringent requirements and additional intermediate turnarounds may also be required by the director based on local fire protection district guidance regarding the potential for impairment of a single road by vehicle congestion, condition of terrain, or climatic conditions, or by difficulties in firefighting caused by fire apparatus, water supply, topography, or resources available.
+Table 74-4 D: Minimum Access
+TABLE 74-4 D: MINIMUM ACCESS
+Development type
+Threshold
+Minimum width and type of emergency / second primary access
+Commercial, industrial, or nonresidential
+Buildings exceeding three (3) stories or 30 feet in height, o
+r
+>62,000 square feet of gross building area or facility area without sprinklers, or >124,000 square feet of gross building area or facility area with sprinklers
+Second primary access, as determined by Table 74-2 meeting all standards of Chapter 74
+Multifamily Residential
+>100 residential units without sprinklers, or >200 residential units with sprinklers
+Second primary access, as determined by Table 74-2 meeting all standards of Chapter 74
+Mixed Use
+Any single portion of the mixed use development would trigger a second primary access on its own based on the relevant development types or sizes in Tables 74-4 C or 74-4 D
+Second primary access, as determined by Table 74-2 meeting all standards of Chapter 74
+Mixed Use
+No portion of the mixed use development would trigger a second primary access on its own based on the relevant development types or sizes in Tables 74-4 C or 745-4 D
+Either 20-foot wide emergency only or second primary access, as determined by the director based on local fire protection district guidance regarding the potential for impairment of a single road by vehicle congestion, condition of terrain, or climatic conditions, or by difficulties in firefighting caused by fire apparatus, water supply, topography, or resources available
+TABLE 74-4 D: MINIMUM ACCESS
+Development type
+Threshold
+Minimum width and type of emergency / second primary access
+Commercial, industrial, or nonresidential
+Buildings exceeding three (3) stories or 30 feet in height, o
+r
+>62,000 square feet of gross building area or facility area without sprinklers, or >124,000 square feet of gross building area or facility area with sprinklers
+Second primary access, as determined by Table 74-2 meeting all standards of Chapter 74
+Multifamily Residential
+>100 residential units without sprinklers, or >200 residential units with sprinklers
+Second primary access, as determined by Table 74-2 meeting all standards of Chapter 74
+Mixed Use
+Any single portion of the mixed use development would trigger a second primary access on its own based on the relevant development types or sizes in Tables 74-4 C or 74-4 D
+Second primary access, as determined by Table 74-2 meeting all standards of Chapter 74
+Mixed Use
+No portion of the mixed use development would trigger a second primary access on its own based on the relevant development types or sizes in Tables 74-4 C or 745-4 D
+Either 20-foot wide emergency only or second primary access, as determined by the director based on local fire protection district guidance regarding the potential for impairment of a single road by vehicle congestion, condition of terrain, or climatic conditions, or by difficulties in firefighting caused by fire apparatus, water supply, topography, or resources available
+TABLE 74-4 D: MINIMUM ACCESS
+Development type
+Threshold
+Minimum width and type of emergency / second primary access
+Commercial, industrial, or nonresidential
+Buildings exceeding three (3) stories or 30 feet in height, o
+r
+>62,000 square feet of gross building area or facility area without sprinklers, or >124,000 square feet of gross building area or facility area with sprinklers
+Second primary access, as determined by Table 74-2 meeting all standards of Chapter 74
+Multifamily Residential
+>100 residential units without sprinklers, or >200 residential units with sprinklers
+Second primary access, as determined by Table 74-2 meeting all standards of Chapter 74
+Mixed Use
+Any single portion of the mixed use development would trigger a second primary access on its own based on the relevant development types or sizes in Tables 74-4 C or 74-4 D
+Second primary access, as determined by Table 74-2 meeting all standards of Chapter 74
+Mixed Use
+No portion of the mixed use development would trigger a second primary access on its own based on the relevant development types or sizes in Tables 74-4 C or 745-4 D
+Either 20-foot wide emergency only or second primary access, as determined by the director based on local fire protection district guidance regarding the potential for impairment of a single road by vehicle congestion, condition of terrain, or climatic conditions, or by difficulties in firefighting caused by fire apparatus, water supply, topography, or resources available
+TABLE 74-4 D: MINIMUM ACCESS
+Development type
+Threshold
+Minimum width and type of emergency / second primary access
+Commercial, industrial, or nonresidential
+Buildings exceeding three (3) stories or 30 feet in height, o
+r
+>62,000 square feet of gross building area or facility area without sprinklers, or >124,000 square feet of gross building area or facility area with sprinklers
+Second primary access, as determined by Table 74-2 meeting all standards of Chapter 74
+Multifamily Residential
+>100 residential units without sprinklers, or >200 residential units with sprinklers
+Second primary access, as determined by Table 74-2 meeting all standards of Chapter 74
+Mixed Use
+Any single portion of the mixed use development would trigger a second primary access on its own based on the relevant development types or sizes in Tables 74-4 C or 74-4 D
+Second primary access, as determined by Table 74-2 meeting all standards of Chapter 74
+Mixed Use
+No portion of the mixed use development would trigger a second primary access on its own based on the relevant development types or sizes in Tables 74-4 C or 745-4 D
+Either 20-foot wide emergency only or second primary access, as determined by the director based on local fire protection district guidance regarding the potential for impairment of a single road by vehicle congestion, condition of terrain, or climatic conditions, or by difficulties in firefighting caused by fire apparatus, water supply, topography, or resources available
+C.
+Emergency access roads shall:
+1.
+Be surfaced with all-weather material to carry the weight of a seventy-five thousand (75,000) pound vehicle, minimum front single axle = 24,000 pounds; minimum rear single axle = 60,000 pounds;
+2.
+Have road grades less than ten (10) percent. The director may require more stringent grade limit based on local fire protection district guidance regarding fire apparatus;
+3.
+Meet all other county requirements related to horizonal and vertical alignment;
+4.
+Have minimum surfacing of six (6) inches Class 6 (3/4" minus) aggregate on a compacted subgrade material.
+D.
+Permanent easements are required for all required access roads that cross other properties and the applicant or owner is responsible for procuring such easements. The easement width shall be that required to accommodate the road and cut and fill slopes. In no event shall the minimum width of the easement be less than thirty (30) feet.
+E.
+The planning director may issue a director determination letter granting a waiver to the emergency or second primary access standards based upon the written recommendation of the planning engineer, and appropriate fire protection district. The waiver may be based on practical or engineering considerations including, but not limited to: topography, grades, vegetative cover, aspect and density but primary consideration shall be given to the general health, safety, and welfare of the public. A waiver may be justified by the applicant or owner providing additional mitigation, including but not limited to installation of hydrants, ponds, building sprinkler systems or the use of fire-resistant building materials. Where circumstances require, more stringent requirements may by applied.
+F.
+Emergency access may be gated or fenced to prevent use by nonemergency or non-authorized vehicles. the gate or fence construction shall be approved by the local fire protection district, and the emergency road shall be maintained by the owner, a home owner's association, property owner's association or other appropriate authority.
+V.
+Sign standards.
+A.
+All signs required by this chapter shall be shown in the construction plans.
+B.
+Street name signs are required at all intersections in subdivisions. Such signs shall be approved by the public works director.
+C.
+All required street name signs, speed limit signs, stop signs and other traffic control devices shall be installed to the satisfaction of the public works director or planning engineer and paid for by the owner.
+D.
+Nonstandard signs or other traffic control devices installed within county right-of-way are subject to the control and approval of the public works director. Requests to install nonstandard signs or other devices must be submitted to the public works director along with data required to support the request.
+VI.
+Guardrail standards
+.
+A.
+Guardrails may be required when the roadside clear zone and cut and fill slopes warrant protection as determined by the public works director or planning engineer. The basic references for information on all types of barriers is the current AASHTO Roadside Design Guide. Guardrails shall be installed in accordance with the Colorado Department of Transportation M Standards.
+B.
+The public works director or planning engineer may require a guardrail in certain locations due to safety concerns related to grade, road alignment, speed or other site characteristics.
+VII.
+Snow storage standards.
+A.
+All public and private roads shall be designed and constructed to permit a minimum of three (3) feet of horizontal distance that is unobstructed space for snow storage adjacent to the travel way. This space may include shoulders and borrow ditches.
+B.
+Sight distance at intersections shall not be impaired by snow cleared from roadways.
+C.
+All developments above seven thousand five hundred (7,500) feet mean sea level shall provide adequate snow storage areas equivalent to twenty-five (25) percent of the paved or gravel surface adjacent to the traveled way, which may include shoulders and borrow ditches. Uphill grades of five (5) to ten (10) percent shall count at seventy-five (75) percent of the areas to satisfy this requirement. Uphill grades of eleven (11) to twenty (20) percent shall count at fifty (50) percent of the area to satisfy this requirement. Steep uphill grades greater than twenty (20) percent are not appropriate for snow stacking and shall not be counted to satisfy this requirement. More intense developments may incorporate snow melt systems or haul snow to suitable snow storage areas. Snow storage areas shall be analyzed to ensure that facilities are in place to protect wetlands, streams and rivers from runoff. Any additional areas needed outside the right-of-way must be included in a snow storage easement. Calculations prepared by a professional engineer shall be submitted and snow storage for areas shall be shown on the construction plans.
+VIII.
+Access road culverts
+.
+A.
+Installation of culverts along county roads. When the installation of a culvert is made necessary by the creation or expansion of access from private property to a county road, by any alteration of the natural flow of water across private property, or any other reason necessitated by the actions of an owner of property adjacent to a county road, the owner shall pay for materials and the cost of installation for the new culverts. A permit shall be obtained for any work in the right-of-way and approval by the public works director as to specifications, size and location in the county right-of-way is required prior to installation. The culvert size shall be determined in accordance with standard engineering practices. The minimum culvert size is fifteen (15) inches in diameter and acceptable materials include corrugated metal, concrete and polyethylene.
+B.
+Maintenance. After installation, the property owner shall maintain and repair the road access, culvert and associated borrow ditch to the extent necessary to accommodate proper drainage. If the county notifies the owner of the need for maintenance or repair of the culvert, the owner shall have fifteen (15) days to make such repair or perform the needed maintenance. If the owner fails to perform the maintenance or performs the repair or maintenance inadequately, the county may perform the repair or maintenance as necessary to protect the county road and related appurtenances within the right-of-way. The county may charge the owner for the costs incurred. In an emergency or hazardous situation, the owner shall be notified and requested to provide an immediate remedy to the situation. If the property owner fails to react promptly, the county may correct the hazardous situation and charge the property owner for all costs incurred by the county.
+IX.
+Revegetation and soil stabilization
+. All soil disturbed by construction activities shall be mulched and seeded according to the submitted erosion control plan. Slopes steeper than three (3) feet horizontal to one (1) foot vertical shall require additional erosion control measures to prevent erosion and promote vegetation.
+(
+Res. No.
+2020-30
+, § 74-4, 09/15/2020; Res. No.
+2023-19
+, § 74-4, 07/11/2023
+)
+Effective on: 7/11/2023

@@ -1,0 +1,48 @@
+Chapter 18 BUILDINGS AND BUILDING REGULATIONS
+Article III. Building Codes and standards: Amendments, additions and deletions to the international codes
+Sec. 18-38 Amendments and Deletions to the 2015 International Building Code
+As provided above in Section
+18-35
+, Chapter 1 of the 2015 International Building Code is deleted in its entirety and replaced by Section
+18-35
+of this Code. Otherwise, the 2015 International Building Code is adopted excepted as specified in this section.
+Contents:
+Section 1207  Sound Transmission
+Section 1608 Snow Loads
+Section 1612  Flood Loads
+Section 2303  Minimum [Wood] Standards and Quality
+Section 3109 Swimming Pool Enclosures and Safety Devices
+Appendices
+Section 1207
+Sound Transmission
+Section 1207 of the 2015 International Building Code is deleted in its entirety.
+Effective on: 12/11/2017
+Section 1608 Snow Loads
+Sections 1608.1 General, and 1608.2, Ground snow loads, are deleted in their entirety and replaced with the following:
+1608.1 General. Roof systems and assemblies shall be designed using the snow load information contained in Table R301.2.3
+of this Code.
+1608.2 Snow loads.  The loading represented in Table R301.2.3
+of this Code provides live load pounds per square foot load for areas and elevations in La Plata County.  The K3/K4 line shall be the 8000 foot elevation line, using the County GIS mapping of snow load.  Properties having more than one snow load shall use the highest load in the calculations.  Buildings in regions with live loads of 80 pounds per square foot or more may, at the discretion of the building official, be required to have the structure designed by a design professional.
+Effective on: 12/11/2017
+Section 1612
+Flood Loads
+Section 1612 of the 2015 International Building Code is deleted in its entirety and replaced with the following:
+Buildings or structures constructed or substantially improved within the Mapped Flood Hazard Zone must comply with the provisions of Chapter 78 of the La Plata County Code.
+Effective on: 12/11/2017
+Section 2303
+Minimum [Wood] Standards and Quality
+Section 2303.1.11 Structural log members, of the 2015 International Building Code is deleted in its entirety and replaced with the following:
+Stress grading of structural log members of nonrectangular shape, as typically used in log buildings, shall be in accordance with ASTM D 3957 (Standard Practices for Establishing Stress Grades for Structural Members Used in Log Buildings). Such structural log members shall be identified by the grade mark of an approved lumber grading or inspection agency. In lieu of a grade mark on the material, a certificate of inspection as to species and grade issued by a lumber grading or inspection agency meeting the requirements of this section shall be permitted. If log grading is not available, a structural engineer licensed in the State of Colorado will be permitted to inspect the logs and design the structure using the ungraded material.
+Effective on: 12/11/2017
+Section 3109
+Swimming Pool Enclosures and Safety Devices
+Section 3109.4 Residential swimming pools. Section 3109.4 of the 2015 International Building Code is deleted in its entirety and replaced with the following:
+Swimming pools, spas, hot tubs, wading pools, etc. associated with single family dwellings are exempt from Section 3109. Community swimming pools, spas, hot tubs, wading pools etc. are subject to all the provisions of Section 3109.
+Effective on: 12/11/2017
+Appendices
+The following Appendices of the 2015 International Building Code, adopted pursuant to Section
+18-32
+(II) of this Code, are hereby amended as noted:
+Appendix Chapter J: Grading.
+Sections J103 (Permits Required); J104 (Permit Applications and Submittals) and J105 (Inspections) are deleted in their entirety.
+Effective on: 12/11/2017

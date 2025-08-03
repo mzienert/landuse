@@ -1,0 +1,544 @@
+Chapter 20 procurement code
+ARTICLE V METHODS OF COMPETITIVE SOURCE SELECTION FOR STANDARD PURCHASES
+This article describes the appropriate methods of competitive source selection for
+standard purchases
+(i.e., purchases with a contract requirement of more than fifty thousand dollars ($50,000.00). Generally, while
+IFBs
+or
+RFPs
+will be used, the
+contract manager
+in consultation with the finance director, may also determine that an
+RFI
+,
+RFQ
+or other tools should also be utilized. When such tools are used, the procurement division will outline the process to be used, in writing, prior to letting a
+solicitation
+. The provisions of this article do not apply to the source selection methods applicable to
+small purchases
+or
+simplified purchases
+.
+Sec. 20-51 Bid security
+Bid security is submitted as a guaranty that a
+bid
+or an
+offer
+will be maintained in full force and effect for a period of not less than sixty (60) days after opening of the bids or offers, or such other timeframe as specified in the
+solicitation
+.
+I.
+Requirement for bid security is discretionary.
+Bid security may be required for any standard purchase at the discretion of the finance director in an amount not to exceed five (5) percent of the
+contract
+amount.
+II.
+Rejection of proposals for noncompliance
+. If a
+bidder
+or offeror fails to accompany its bid or
+proposal
+with the required bid security, the bid or offer shall be rejected as non-responsive.
+III.
+Withdrawal of bids or proposals that require bid security
+. After bids and proposals requiring security are opened, they shall be irrevocable for the period specified in the
+IFB
+,
+RFP
+or other solicitation package, unless withdrawal is specifically permitted by the finance director in writing. If a bidder or offeror is permitted to withdraw its bid or proposal before
+award
+, no action shall be taken against the bid security.
+IV.
+Acceptable bid security
+. Acceptable bid security shall be limited to:
+A.
+A one-time bid bond underwritten by a company licensed to issue bonds in the State of Colorado;
+B.
+A bank cashier’s check made payable to La Plata County;
+C.
+A bank certified check or cashier’s check made payable to La Plata County; or
+D.
+An irrevocable letter of credit in a form acceptable to the county.
+V.
+Return of bid security
+. Upon award of a contract and execution of the same to the successful bidder or offeror, bid security will be returned to all unsuccessful bidders who have not forfeited such bid security, as set forth below, within fifteen (15) business days of the county’s receipt of the executed contract with the successful bidder. Bid security will also be returned to the bidder or offeror awarded the contract within fifteen (15) business days of the county’s receipt of the executed contract; provided that this in no way will relieve the successful bidder or offeror from providing any additional required
+performance bond
+.
+VI.
+Forfeit of bid security
+. A bidder or offeror will forfeit the bid security to the county if they withdraw their bid/proposal after bids/proposals are opened; unless expressly permitted in writing by the
+contract manager
+; fail to execute a contract after the notice of award is issued; fail to provide proof of necessary insurance and other assurances required by the award or contract; or fail to provide any performance and
+payment bonds
+that may be required.
+(
+Res. No. 2020-42, § 20-51, 12/17/2020
+)
+Effective on: 1/1/2021
+Sec. 20-52 Invitation for bids
+An
+invitation for bids
+(“IFB”) is the formal process used to
+solicit
+bids
+from qualified
+vendors
+for
+goods
+and, in some cases for
+services
+, when complete
+specifications
+or specific purchase descriptions are available, and a measurable task or item is desired. The
+contract
+is awarded to the lowest responsive and responsible bidder, after considering any bid preferences as described in article III.
+I.
+General rule
+. An IFB shall be used to solicit bids for all purchases of more than fifty thousand dollars ($50,000.00) when complete specifications or purchase descriptions are available. The specifications for the items to be procured are not subject to negotiation.
+II.
+Requirements of an IFB
+. In consultation with the responsible department or
+elected official
+, the
+contract manager
+will prepare and publish an IFB solicitation package that shall include, at a minimum:
+A.
+Instructions and information to
+bidders
+concerning the bid submission requirements, including the time and closing date and the address of the office to which bids are to be delivered;
+B.
+The project description (furnished by the department or office), including the specifications or
+SoW
+and all drawings;
+C.
+The basis of
+award
+, including the award and evaluation criteria to be used;
+D.
+Inspection and acceptance requirements;
+E.
+Required warranty and bonding or security requirements and insurance requirements; and
+F.
+A list of all applicable deadlines, including any applicable delivery or performance schedule.
+III.
+Public notice -
+advertisement
+. Public notice of the opportunity to bid is required for any procurement utilizing the IFB process. The opportunity to bid must be published in a newspaper(s) of relevant geographic circulation or other publication(s) directed to the target vendor market on at least two (2) occasions no less than ten (10) days prior to the date set for
+bid opening
+. Public notice shall be adequate if it contains:
+A.
+The project name;
+B.
+A brief description of the goods or services desired;
+C.
+The closing date and time for receiving bids;
+D.
+The place where bid packets may be obtained;
+E.
+The name of the person to contact for information;
+F.
+Date, time and location of any pre-bid conferences;
+G.
+Any special instructions to bidders (such as information about whether prequalification is required or the cost of bid packets) or information about where the same may be obtained;
+H.
+A statement regarding the bidder’s responsibility for determining the date of the award of bid and being heard on the award, if so desired;
+I.
+A statement regarding the county’s right to waive
+minor deviations
+or informalities, amend or cancel any bid solicitation, reject all bids and accept the lowest responsive and responsible bid; and
+J.
+A reference to this
+code
+and any standardized contracts, incorporating them into the bid process, unless otherwise stated.
+IV.
+Communication with bidders
+. Once an IFB is made public, and through the time of contract award, all communication regarding the invitation shall be documented and directed to the contract manager. Unless otherwise set forth in the notice of the bid opportunity, the bid opportunity shall not be discussed with a potential bidder by any other county employee.
+V.
+Receipt of bids
+. The time and date for receipt of bids shall be included in the IFB and must state a specific time on a certain date. Bids received after the specified time on such date will be considered late and not accepted. All submitted bids must be
+sealed
+and shall be received without alteration or correction, except as specifically authorized elsewhere in this code. Bids shall not be opened upon receipt.
+VI.
+Withdrawal of bids
+. Withdrawal or modification of bids may be made by any bidder prior to the established due date and time for such bids upon written request from the bidder. Withdrawal of bids after the due date and time by prior to the time of award may be permitted, provided:
+A.
+The bidder provides evidentiary proof that clearly and convincingly demonstrates that a mistake was made in the costs or other material matter provided;
+B.
+The mistake is clear in the bid; or
+C.
+It is found by the finance director to be unconscionable not to allow the bid to be withdrawn.
+Any decisions to permit or deny a request to withdraw a bid after the due date and time but before the time of award shall be supported by written documentation prepared by the finance director.
+VII.
+Amendment to or cancellation of an IFB; rejection of bid
+. The contract manager may amend or cancel an IFB or reject a bid response by a
+vendor
+, in whole or in part, when it is in the
+best interest of the county
+. Each solicitation issued by the county shall state that the solicitation may be amended or cancelled and that any bid response to a solicitation issued by the county may be rejected, in whole or in part, when in the best interest of the county. If an amendment is made after the IFP is let, it shall be distributed to all bidders who submit bids and posted on the Rocky Mountain ePurchasing system, if applicable. If the solicitation is cancelled, notice of cancellation shall be sent to all offerors and posted on the Rocky Mountain ePurchasing system, along with the reasons cancellation was determined to be in the county’s best interest.
+VIII.
+Bid opening
+. Bids shall be publicly opened in the presence of one or more witnesses at the time and place designated in the IFB. Public participation may be by remote means only, as determined by the county and designated in the IFB. The name of the bidder and amount of each bid, and any other information deemed relevant by the contract manager or designee, shall be read aloud and recorded. This bid record will become subject to public records requests upon contract award. Since each bid is subject to analysis, legal review, and appropriate approvals prior to contract award, no acceptance of any bid offer will take place at the bid opening and no bids will be publicly released prior to award.
+IX.
+Bid evaluation
+. Bids shall be evaluated based on the requirements set forth in the solicitation package. Prior to confirmation of an award, the contract manager may contact potential vendors responding to the bid request for the purpose of obtaining clarification to assure a full understanding of, and conformance to, the solicitation requirements. Any questions or concerns regarding cost reasonableness may be addressed by the contract manager or finance director in the manner deemed to be in the best interest of the county. The county reserves the right to waive minor deviations or informalities in reviewing bids.
+X.
+Budget
+. If all bids received from responsible bidders exceed the funds
+budgeted
+for the acquisition, the county is not required to award a contract. If, however, time or economic considerations preclude the re-solicitation of bids, the finance director is authorized to negotiate an adjustment of the bid price with the lowest responsive and responsible bidder.
+XI.
+Determination of non-responsibility
+. If a bidder who otherwise would have been awarded a contract is found not responsible, the finance director shall prepare a written determination of non-responsibility, setting forth the basis of the finding. A copy of the determination shall be sent promptly to the non-responsible bidder. The final determination shall be made part of the contract file.
+XII.
+Award
+. A recommendation that the county award a contract determined to be in the best interest of the county shall be made by the contract manager and department head or elected official, as applicable, with reasonable promptness and presented to appropriate county personnel, in accordance with the county’s Fiscal Management Policy No. III.4, as amended, for consideration and execution. Upon approval, notice of award is sent to the successful bidder, along with all documents required to finalize the contract terms.
+(
+Res. No. 2020-42, § 20-52, 12/17/2020
+)
+Effective on: 1/1/2021
+Sec. 20-53   Request for proposals
+A
+request for proposals
+(“RFP”) is the formal process used to solicit
+proposals
+from
+qualified vendors
+for
+services
+, and in some cases for
+goods
+, when the
+specification
+is a desired outcome rather than a measurable task or item.
+I.
+General rule
+. An RFP is used to solicit proposals from potential
+vendors
+when a desired outcome is known and recommendations about how to achieve that outcome are requested.
+Award
+of the
+contract
+is based upon criteria other than or in addition to price, including what is in the
+best interest of the county
+. The terms of the proposals upon submission are open to negotiation. The response to an RFP is referred to as both “a proposal” and “an
+offer
+”.
+II.
+Requirements of an RFP
+. The
+contract manager
+will prepare and publish an RFP
+solicitation
+package in consultation with the responsible department head or
+elected official
+, and the package shall include, at a minimum:
+A.
+Instructions and information to the proposer concerning proposal submission requirements, including the time and closing date and the address of the office to which proposals are to be delivered;
+B.
+Accurate and thorough description (prepared by the department or elected official’s office) of the project specifications or
+SoW
+and all drawings;
+C.
+The basis of the award, including the award and evaluation factors to be used;
+D.
+Required warranty and bonding or security requirements and insurance requirements;
+E.
+Inspection and acceptance requirements; and
+F.
+A schedule of all deadlines and key dates, including any applicable delivery or performance schedule.
+III.
+When an RFP is practical
+. The RFP process is a time consuming and costly method of
+procurement
+that should be used only when
+invitation for bids
+is not appropriate.
+Factors that may be helpful in deciding whether the RFP method is practical include, but are not limited to:
+A.
+The estimated contract value is more than fifty thousand dollars ($50,000.00);
+B.
+The requirement is highly technical, unusual, is not a standard “off the shelf” item or there are little or no clear standards or specifications available to use in the solicitation;
+C.
+The terms of the contract require that payment be other than a fixed price;
+D.
+It is desired or necessary to conduct oral or written discussions with the offerors concerning technical and price aspects of their proposals;
+E.
+It may be necessary to afford offerors the opportunity to revise their proposals;
+F.
+It may be necessary to base an award on a comparative evaluation of price, quality and contractual factors in order to determine the most advantageous offering to the county;
+G.
+The primary considerations for award are factors other than price.
+IV.
+When an RFP is advantageous
+. Factors that may be helpful in determining whether the RFP method is advantageous include, but are not limited to:
+A.
+If prior procurements indicate that
+competitive sealed proposals
+result in more beneficial contracts for the county;
+B.
+If the requirement is highly technical or complex in nature and it would be more advantageous to the county to use the RFP method of source selection.
+V.
+Public notice –
+advertisement
+.
+Public notice of the opportunity to submit proposals is required for any procurement utilizing the RFP process. The opportunity to submit proposals must be published in a newspaper(s) of relevant geographic circulation or other publication(s) directed to the target vendor market on at least two (2) occasions no less than ten (10) days prior to the date proposals are due. Public notice shall be considered adequate if it contains:
+A.
+The project name;
+B.
+A brief description of the goods or services desired;
+C.
+The closing date and time for receiving proposals;
+D.
+The place where proposal packets may be obtained;
+E.
+The name of the person to contact for information;
+F.
+Date, time and location of any pre-proposal conferences;
+G.
+Any special instructions to vendors (such as information about whether prequalification is required or the cost of solicitation packets) or information about where the same may be obtained;
+H.
+A statement regarding the vendor’s responsibility for determining the date of the award (and being heard on the award, if so desired);
+I.
+A statement regarding the county’s right to waive
+minor deviations or informalities
+, amend or cancel any solicitation, reject all proposals and accept the proposal deemed most advantageous to the county; and
+J.
+A reference to this
+code
+and any standardized contracts, incorporating them into the bid process, unless otherwise stated.
+VI.
+Communication with vendors
+. Once an RFP is made public, all communication regarding the solicited request shall be documented and directed to the contract manager. Unless otherwise set forth in this code or the notice of the opportunity to submit proposals, the RFP shall not be discussed with a potential vendor by any other county employee.
+VII.
+Receipt of proposals
+. The time and date for receipt of proposals shall be included in the RFP and must state a specific time on a certain date. Proposals received after the specified time on such date will be considered late and not accepted. All submitted proposals must be
+sealed
+and shall be stored in a secure place until opening time. Proposals shall not be opened upon receipt.
+Proposals will
+not
+be opened publicly
+.
+VIII.
+Modification or withdrawal of proposals
+. Proposals may be modified or withdrawn by any offeror prior to the established due date and time for such proposal. Withdrawal of proposals after the due date and time by prior to the time of award may be permitted, provided:
+A.
+The offeror provides evidentiary proof that clearly and convincingly demonstrates that a mistake was made in the costs or other material matter provided; or
+B.
+The mistake is clear in the proposal; or
+C.
+It is found by the finance director to be unconscionable not to allow the proposal to be withdrawn.
+Any decisions to permit or deny a request to withdraw a proposal after the due date and time but before the time of award shall be supported by written documentation prepared by the finance director.
+IX.
+Amendment or cancellation of an RFP; rejection of proposals
+. The contract manager may amend or cancel an RFP or reject a proposal submitted by a vendor, in whole or in part, when it is in the best interest of the county. Each solicitation issued by the county shall state that the solicitation may be amended or cancelled and that any vendor response to a solicitation may be rejected, in whole or in part, when in the best interest of the county. If an amendment to the RFP after the solicitation is let, it shall be distributed to all offerors who submit proposals and posted on the Rocky Mountain ePurchasing system, if applicable. If the solicitation is cancelled, notice of cancellation shall be sent to all offerors and posted on the Rocky Mountain ePurchasing system, along with the reasons cancellation was determined to be in the county’s best interest.
+X.
+Evaluation factors
+. The RFP shall clearly define all evaluation criteria, including price. Numerical rating systems or weights may be used but are not mandatory; however, if they are used, the points or weights must be assigned prior to evaluating the proposals.
+XI.
+Competitive range determination
+. Competitive range refers to those proposals, as determined during the initial evaluation process for competitive negotiation, that includes only those offers with a reasonable chance of being selected for award and that may be considered for further discussion via interviews or written clarification. The competitive range shall be determined based on criteria stated in the RFP. The determination shall include all proposals that have a reasonable chance of being selected for award. When there is doubt as to whether a proposal is in fact within the competitive range, the proposal shall be included.
+A.
+Bid preferences only apply to the scoring of each proposal to determine whether they fall within the competitive range. Once the competitive range is identified, no additional bid preference applies.
+XII.
+Evaluation process
+. The RFP evaluation process shall be conducted as a fair and objective process that requires evaluation of all proposals on the specific criteria stated in the RFP and not on any other criteria.
+A.
+Confidentiality is vital to fair and equitable evaluation. During the entire RFP process, the procurement division serves as the sole contact for vendors and provides all RFP procedures and communication. Vendor information, number of proposals received, results and other evaluation proceedings should always be kept confidential during the award process. Following contract award, this information may become a public record available for inspection in accordance with state statute and the county’s Open Records Policy.
+B.
+Single proposal received. If only one proposal is received in response to an RFP, the contract manager may:
+1.
+Determine if there was enough time allotted for offerors to submit a proposal. If not, the solicitation may be amended to extend the receipt of proposal date and the only proposal received shall be returned unopened to the only offeror;
+2.
+Proceed with the evaluation of the proposal from the single offeror. If the offer meets the requirements stated in the RFP and the cost is determined to be fair and reasonable through negotiations, an award may be made; or
+3.
+If the evaluation determines that the only offeror does not meet the county’s needs, or negotiations of the cost does not result in a fair and reasonable price, then the solicitation may be cancelled and re-solicited later.
+XIII.
+Selection committee/project manager.
+Generally, a selection committee of three (3) or five (5) county employees will be appointed by the department head or elected official to evaluate all submitted proposals. However, with approval of the contract manager in certain circumstances, the department head or elected official may decide that the person(s) who will act as the project manager will have the sole responsibility for evaluating the submitted proposals. When the project manager evaluates proposals, the project manager will follow all standards set for the selection committee in this section.
+A.
+Purpose. The purpose of the selection committee is to ensure that proposals are reviewed based on the evaluation criteria alone in a consistent and fair manner with a maximum degree of professionalism.
+B.
+Eligibility. With the exception of staff members of the procurement division, any full-time county employee who is willing and who agrees to maintain the confidentiality of the selection process is eligible to serve on a selection committee; provided, however, that employees of the county attorney’s office may only serve on a selection committee with the permission of the county attorney and only for solicitations where the county attorney deems there to be a particular need for legal counsel on the selection committee.
+1.
+Selection committees should consist of at least one (1) member who is not part of the department that requested the RFP.
+2.
+Procurement division staff facilitates the evaluation process and may not be members of the selection committee.
+3.
+If any
+BOCC
+member serves on a selection committee, they shall recuse themselves from the final approval of a contract selected by the selection committee.
+C.
+Responsibilities.
+1.
+Each member of the selection committee will be assigned a number and will receive a copy of the solicitation package, a correspondingly numbered copy of each proposal, and a score card on which to score each proposal based on the stated criteria.
+a.
+The scoring must be based solely on information contained in the proposal and not upon additional information, including any personal knowledge or relationship, unless such information is included as a scoring criterion.
+2.
+Once each member has scored each proposal, the score sheets will be tallied by and accounted for by the contract manager. The selection committee may complete the scoring of each proposal in a collaborative means facilitated by the contract manager.
+3.
+Based upon the combined scores of the members, a selection committee representative will complete a decision form that lists the names of the selection committee members, states the results of the scoring, is signed by the selection committee representative, and is returned to the contract manager.
+4.
+The results of the scoring by the selection committee shall be totaled and any bid preference, as set forth in article III, will be applied to determine the overall highest scored/rated proposal.
+XIV.
+Written clarifications or interviews
+.
+The purpose of interviews and written clarifications is to allow the selection committee to differentiate between offerors otherwise similarly situated, as for example, those offerors who fall within the
+competitive range
+. Interviews may or may not be a part of the source selection process.
+A.
+Planned interviews. If interviews are intended to be a part of the evaluation criteria, the RFP must contain language that allows for them. The selection committee, prior to entering into discussions with any offerors, will make competitive range determinations. All offerors determined to be within the competitive range may be given an opportunity to interview.
+B.
+Potential interviews. If interviews were not originally intended but the selection committee determines that a contract award cannot be made on the initial proposals as submitted, the selection committee may request written clarifications or interviews with all responsible offerors within the competitive range. The following are examples of topics that may be appropriate for such follow-up:
+1.
+Attempt to resolve or clarify any uncertainties in the offerors’ proposals;
+2.
+Resolve any suspected mistakes. When it appears from a review of the proposal that a mistake has been made, an offeror should be asked to confirm the proposal. Situations in which confirmation should be requested include apparent errors or a price unreasonably lower than other submitted proposals. Upon acknowledgment that an error was made, the vendor may have its proposal considered as-is or may request to withdraw its response if the conditions set forth in subsection (VIII) of this section are met.
+3.
+Provide each offeror a reasonable opportunity to discuss past performance information obtained from references. Names of individuals providing reference information shall not be disclosed; or
+4.
+Provide each offeror a reasonable opportunity to submit revisions to both their technical proposals and price proposals by requiring submission of best and final offers by each offeror within the competitive range at the conclusion of the discussions.
+C.
+All offerors determined to be within the competitive range will be accorded fair and equal treatment with respect to any opportunity for discussion and revision of proposals prior to award and for the purpose of obtaining best and final offers.
+D.
+Interviews and written clarifications should not be used to:
+1.
+Help one proposal rise to the level of other proposals;
+2.
+Use “auction techniques” such as indicating a cost or price an offeror must meet to be considered;
+3.
+Advise an offeror of its price standing relative to other offerors; or
+4.
+Provide any information about other offerors’ prices.
+XV.
+Best and final offers
+. Upon completion of any interviews, the selection committee may issue to all offerors within the competitive range a request for best and final offers. Oral requests for best and final offers shall be confirmed in writing.
+A.
+The request shall include:
+1.
+Notice that discussions are concluded;
+2.
+Notice of the opportunity to submit a best and final offer; provided that it is made clear to offerors that submittal of a revised best and final offer is not mandatory. If no revision is submitted, the offeror’s original proposal will be considered; and
+3.
+Notice of the due date and time for submission of best and final offer.
+B.
+After receipt of best and final offers, the selection committee shall evaluate them accordingly and recommend that an award be made to the offeror whose final proposal is most advantageous to the county, considering price and the other factors included in the RFP.
+XVI.
+Award
+. Selection for award will be based on scoring criteria specified in the RFP and evaluation of submitted proposals, as set forth above. The county reserves the right to enter contractual negotiations with the highest ranked firm selected by the selection committee. If a mutually agreeable contract cannot be negotiated to meet the county’s needs, the county reserves the right to enter negotiations with the second highest ranked firm, and so on. Award shall be made to the responsible offeror whose proposal is determined to be most advantageous to, and in the best interest of, the county, based on the evaluation factors set forth in the RFP and ability to contract with the offeror. An award recommendation shall be made by the contract manager and department head or elected official, as applicable, with reasonable promptness and presented to appropriate county personnel for consideration and execution, in accordance with the county’s Fiscal Management Policy No. III.4, as amended. Upon approval, notice of award is sent to the successful bidder, along with all documents required to finalize the contract terms.
+XVII.
+Post award de-brief
+. Offerors submitting an unsuccessful proposal may, within five (5) business days of the date notification of award is published via the Rocky Mountain ePurchasing system, request a meeting for debriefing and discussion of their proposals. The request must be submitted in writing and addressed to the contract manager.
+(
+Res. No. 2020-42, § 20-53, 12/17/2020
+)
+Effective on: 1/1/2021
+Sec. 20-54   Unsolicited proposals and vendor shows
+An
+unsolicited proposal
+is an
+offer
+made by a third party to sell
+goods
+or
+services
+to the county that has not been solicited or published by the county.
+I.
+General rule
+. An offer to sell a good or service to the county in the absence of a county defined need,
+SoW,
+public notice or appropriate source selection must be properly evaluated before further action. Proper evaluation includes the following:
+A.
+All unsolicited proposal to sell goods or services to the county, regardless of who they are initially directed to, including the
+BOCC
+, shall be forwarded to the procurement division.
+B.
+The procurement division will make an initial evaluation of the offer and will either reject the offer or will forward the offer to an appropriate department head or
+elected official
+to determine: (1) if the offer meets a county need or provides a benefit that serves the
+best interest of the county
+; and (2) whether there are sufficient resources, including an appropriate
+budget
+, to make and manage the purchase.
+C.
+If the procurement division and department head or elected official decide to pursue the offer, they must then determine if the offer qualifies for a
+sole source justification
+, defined in article III above.
+1.
+If so, the unsolicited proposal may be accepted by complying with the
+sole source purchase
+process and standards.
+2.
+If the offer does not qualify for a sole source justification but the opportunity is deemed to be worth exploring, then article III will dictate the way the opportunity is to be sourced and
+awarded
+. Before solicitation, the original
+proposal
+should be rejected and the pending opportunity to submit a new proposal explained. In this instance, the party who submitted the unsolicited proposal would be required to submit a new responsive proposal and would be evaluated in the same manner as any other
+bidder
+or offeror.
+II.
+Vendor shows
+.
+Vendor
+shows, which include open houses, product exhibits or product demonstrations, must be approved in advance by Procurement in order to protect the integrity of the
+procurement process
+, viability of current
+agreements
+, and ensure fairness to all potential vendors. A product demonstration of a good already contracted for is not a vendor show. The finance director will have final authority to determine what constitutes a vendor show.
+(
+Res. No. 2020-42, § 20-54, 12/17/2020
+)
+Effective on: 1/1/2021
+Sec. 20-55   Other methods of competitive source selection
+The
+contract manager
+may recommend and utilize, upon approval of the finance director, any other form of competitive source
+solicitation
+, such as by way of example only, a
+competitive reverse auction
+, a
+request for information
+or a
+request for qualifications,
+when such an alternative may be better suited to meet a specific need or ensure the best value to the county. If an alternative solicitation method is followed, a written explanation of the reasons and the process followed shall be included in the
+contract
+file.
+(
+Res. No. 2020-42, § 20-55, 12/17/2020
+)
+Effective on: 1/1/2021
+Sec. 20-56   Public records and confidential bids or proposals
+I.
+Timing
+. Upon
+contract
+award
+, information contained in
+bids
+and
+proposals
+that is retained by the county becomes subject to requests for inspection in accordance with the CORA.
+II.
+Documents labeled as confidential
+. If the county receives an open records request that covers information included in a bid or proposal that has been designated as a trade-secret, proprietary or otherwise “confidential,” by a
+bidder
+, offeror,
+vendor
+or
+contractor
+, the contract manager will examine the designated documents to determine if they should be protected from disclosure.
+A.
+If some or all of the information reviewed contains information, identified and marked as
+confidential information
+by the bidder, offeror, vendor or contractor in writing, the procurement division will not disclose the information; provided that the bidder, offeror, vendor or contractor agrees to indemnify, save and hold the county harmless from any claims, costs, expenses, damages or liabilities, including but not limited to attorneys’ fees and court costs, incurred based on withholding such information and data.
+1.
+No bid, proposal or contract may be considered confidential in its entirety. Any attempt to mark any entire document as such may result in rejection of a bid, proposal or other offer.
+2.
+Overall bid, proposal or contract prices will not be considered confidential.
+B.
+If the county and the offeror do not agree about whether information or documents should be made available based on the data provided by the bidder, offeror, vendor or contractor, the county will disclose what it deems appropriate unless the bidder, offeror, vendor or contractor agrees, in writing, to defend and indemnify the county for withholding such information.
+(
+Res. No. 2020-42, § 20-56, 12/17/2020
+)
+Effective on: 1/1/2021
+Secs. 20-57—20-60. Reserved
+Effective on: 1/1/2021

@@ -1,0 +1,118 @@
+Chapter 70: General Site Development Standards Applicable to All Development
+Sec. 70-9 Grading, drainage, and erosion control
+I.
+Purpose and applicability
+.
+A.
+Purpose. The purpose of this section is to minimize the potential adverse impacts of development on stormwater quality and quantity for both construction and post-construction runoff. These standards protect the community’s water resources, streams, creeks, rivers, and their availability for existing and future use.
+B.
+Applicability. These provisions apply to all development except for:
+1.
+Development not requiring a land-use permit;
+2.
+Wildland fire remediation;
+3.
+Plat adjustments and modifications;
+4.
+Lot consolidations and boundary adjustments;
+5.
+Special events and temporary uses;
+6.
+Additional dwelling units that do not require a major land use permit pursuant to section 73-3
+II.
+Standards
+. The applicant shall demonstrate the project will not adversely impact surface waters and minimize the potential adverse impacts of development on stormwater quality and quantity for both construction and post-construction runoff by meeting the standards found in the Chapter 70 -Technical Appendix, Drainage Criteria Standards.
+III.
+Submittals and procedures.
+A.
+Construction plans, grading plans, erosions control plans, and drainage report. The applicant shall submit construction plans, grading plans, erosion control plans, and drainage reports for all improvements required.
+B.
+The planning engineer may waive requirements for construction plans, grading plans, erosions control plans, and drainage report based on, but not limited to: minor site improvements, minimal changes in existing drainage patterns or grade, minimal changes in quantity or quality of stormwater, the lack of need for drainage infrastructure, or a determination is made that stormwater detention is not required.
+C.
+Preparation requirements. All construction plans, grading plans, erosions control plans, and drainage reports shall be:
+1.
+Prepared under the direction of, and signed and sealed by, a professional engineer unless waived by the planning engineer;
+2.
+Completed with sufficient detail to facilitate review and clearly describe the existing conditions and proposed construction of the development in its entirety and detail all equipment, infrastructure, and access. The required detail of construction plans and specifications will depend upon the size, nature, and complexity of the project.
+3.
+Materials submitted to the CDD shall meet the minimum formatting and content requirements outlined in this section and in guidance documents provided by the CDD, which guidance documents may be amended from time to time by the planning engineer and public works director to comport to current industry standards.
+D.
+Timing of submittals.
+1.
+Preliminary submittals. The applicant shall submit preliminary construction plans, grading plans, erosion control plans, and the drainage report (in an acceptable electronic format) at the time of the project submittal for review. These documents shall be revised and resubmitted until approved by the county.
+2.
+Final submittal. Prior to construction, the applicant shall submit final submittal items with appropriate documents signed and sealed by a professional engineer for county approval.
+3.
+Revisions or updates to the approved documents. Revisions to the approved documents and any supporting information shall be submitted to the CDD for administrative approval before project completion. The revised construction plans shall show the clouded revisions and be signed and sealed by a professional engineer. If the public works director or planning engineer do not approve the changes, the applicant shall comply with the approved construction plans.
+E.
+Project Completion.
+1.
+The applicant must complete improvements, revegetation measures, and soil stabilization prior to plat recording or land use permit. Additionally, a professional engineer shall submit a certification that the improvements have been constructed in accordance with the approved plans.
+2.
+For projects that are required to provide stormwater detention, the letter from the professional engineer shall also verify the constructed pond volume and include supporting calculations and information including as-built top of bank and water surface elevations, outlet structure elevations, and installation and size of the orifice in the outlet structure.
+IV.
+Submittal contents
+. In addition to the general land use permit application submittal requirements set forth in section 66-11, applicant shall submit the following documents and materials:
+A.
+Construction drawings. Provide construction information for all road, drainage, or other significant improvements. Minimum requirements for construction drawings include:
+1.
+Provide cross-sections of drainage channels including easement boundaries;
+2.
+Culvert information, including locations, diameters, material, inverts, lengths, etc. Identify any maintenance needed for any existing culverts to be in full functioning condition;
+3.
+All drainage improvements called for in the drainage report;
+4.
+The location of any on-site and off-site drainage easements needed to support the drainage plan;
+5.
+All elevations used for construction and grading improvements shall be from a topographic or aerial survey performed by a registered surveyor. Contour data from a Geographic Information System (GIS) is not acceptable. The source and date of the survey shall be noted and a minimum of one (1) vertical and horizontal survey benchmark shall be shown.
+B.
+Drainage report. The applicant shall conduct a drainage study of the area to be developed and adjacent areas that affect, or are affected by, the development. The study shall use the methodologies found in subsection 70-9.V., below, and the results of the study shall be presented in the drainage report and reflected in the erosion control plans and construction plans for drainage facilities necessary for the development. The drainage report shall include the following:
+1.
+Drainage area maps. Provide drainage area maps for the pre-development and post-development conditions. Maps shall show elevation contours, flow arrows, drainage basin boundaries, basin labels, and basin areas.
+2.
+Off-site flows. Describe the effect of off-site flows on the development and how they are affected by the development. Off-site flows shall be routed over the detention facility spillway or routed around the site.
+3.
+On-site flows. Quantify the pre-development and post-development flows. Define the system that conveys the developed on-site flows throughout the development and how they are dispersed off-site.
+4.
+On-site detention. The applicant shall provide on-site detention to limit the rate of runoff from the site unless exempt based on criteria in subsection 70-9.V.
+5.
+Water quality. If required, describe water quality measures to control water quality after construction is complete.
+6.
+Storm drain system. The design of the interior storm drain system shall accommodate the ten (10) year storm; however, the design shall direct all drainage from the newly created impervious area to the detention facility during the one hundred (100) year storm.
+7.
+Methodologies and documentation. List methods used and document all sources of data. The use of computer programs must also state the method or basis of calculations.
+8.
+Erosion control. Implementation of the erosion control plan during construction activities.
+9.
+For the redevelopment of a site or projects that result in minimal changes in drainage, the planning engineer may require less information. Early consultation with the planning engineer is encouraged for these types of projects.
+C.
+Erosion control plan. The applicant shall submit an erosion control plan for the areas affected by the development. The erosion control plan shall be sufficiently detailed to evaluate soil erosion and the transport of sediments during construction. The erosion control plan shall be the same scale as the site plan and include:
+1.
+Erosion control measures to be implemented during construction of the project;
+2.
+Scheduling and implementation of these measures;
+3.
+Revegetation specifications including seed mix, mulch, and application method;
+4.
+Extent of proposed disturbance and revegetation;
+5.
+Provide detailed drawings of best management practices or reference industry-standard details such as the CDOT M Standard Plans.
+D.
+Grading plan. The grading plan shall be sufficiently detailed for construction, showing the drainage flow directions, and show that drainage is flowing away from buildings and structures. The grading plan shall include the following:
+1.
+Existing and proposed contours. Minimum contour interval shall be two (2) feet for up to twenty (20) percent slopes and ten (10) feet for terrain slopes greater than twenty (20) percent slopes;
+2.
+Spot elevations at changes in proposed grade;
+3.
+Finished floor elevations of all buildings;
+4.
+Invert elevations of all culverts.
+V.
+Stormwater drainage criteria standards.
+Refer to the Chapter 70 – Technical Appendix.
+(
+Res. No.
+2020-30
+, § 70-8, 09/14/2020
+)
+Effective on: 10/1/2020

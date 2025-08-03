@@ -1,0 +1,153 @@
+Chapter 18 BUILDINGS AND BUILDING REGULATIONS
+Article III. Building Codes and standards: Amendments, additions and deletions to the international codes
+Sec. 18-36
+Amendments and Deletions to the 2015 International Residential Code.
+Amendments and Deletions to the 2015 International Residential Code are as follows:
+(
+Res. No. 2004-15, § 1 (Exh. A), 05/24/2004; Res. No. 2017-33, § 18-36, 10/10/2017; Res. No. 2023-15, § 18-36, 06/06/2023
+)
+Section R301 Design Criteria
+Table R301.2(2) of the 2015 International
+Residential
+Code
+is deleted and replaced with the following:
+TABLE R301.2(1)
+CLIMATIC AND GEOGRAPHIC DESIGN CRITERIA
+Required minimum roof live load (Snow Load) See Table 301.2.(2)
+Wind speed—90 MPH Basic, 115 MPH Ultimate (3 sec. gust) Exposure B or C applies (Table R301.2(3))
+Seismic Design Category—B
+Weathering—Severe
+Frost depth—32 inches
+Termite—Yes
+Decay—None to slight
+Winter design temperature—4 degrees F.
+Mean annual temperature—52 degrees F.
+Air freezing index—2000
+Flood
+Hazard—
+Community
+NO. 080097 August 19, 2010 Flood Insurance Study: La Plata
+County
+, Colorado and Incorporated areas.  Volume 1 & 2 – Resolution 2014-30, Chapter 78 La Plata County
+Land Use Code
+HDD—6981
+Climate Zone 5
+Ice barrier underlayment required
+Radon protection requirements are set forth in the 2015 International Residential Code Appendix F, as amended, to provide a means of vacating radon gas from crawlspaces and under floor slabs when it is determined that radon gas exists after the completion of a home’s
+construction
+.
+R301.2.3 Snow loads. Section R301.2.3 of the 2015 International Residential Code is deleted and replaced with the following:
+The design of roof systems and assemblies shall be designed using the snow load information contained in Table R301.2.3.  The information represented in Table R301.2.3 provides pounds per square foot snow load for areas and elevations in La Plata County.    This information can also be found by individual
+parcel
+of land on the La Plata County GIS maps.   Properties having more than one snow load shall
+use
+the higher load in the structural calculations.  Pursuant to section
+18-35
+(107.2(9)),
+buildings
+in regions with live loads of  80 pounds per square foot or more shall, at the discretion of the
+building official
+be required to be designed by a design professional.
+In the design of buildings and
+structures
+,
+consideration
+shall be given to the following:
+1.
+Unbalanced loading of roofs.
+2.
+Drifting due to
+adjacent
+obstructions.
+3.
+Accumulations in valleys and adjacent to parapet walls and chimneys.
+4.
+Ice loads on cornices of at least one and one half times the roof snow load.
+5.
+Possible
+impact
+loadings from snow falling on structure from higher roofs.
+6.
+Effect on structure from dynamic loading caused by snow sliding off roof.
+7.
+Snow sliding off roof and dynamically loading sidewalls by being forced against same due to snow embankment adjacent to the structure.
+8.
+Protection of entrances, exits and windows from the danger of falling icicles and snow sliding off pitched roofs.
+9.
+Ice weight where it will refreeze on unheated overhangs after having melted and run off from portions of roofs with heat below same.
+10.
+Projections through the roof, such as ventilation and plumbing vents, which may be torn off or damaged by sliding snow.
+11.
+Gas meter locations must be positioned in areas where they are least effected by ice and snow accumulations from roofs above. Where gas meter shed and protections are required the structure must be designed to resist 1.4 times the snow load requirement for the land/structure
+site
+snow load.
+12.
+All exterior decks must be designed based on the snow load criteria and requirements for the
+project
+location. Structural design must take into consideration the weight of total accumulation, impact loading from roofs above, uplift and mechanical connections and soil/foundation capabilities.
+Table R301.2.3
+Elevation
+Live Roof Snow Load (p.s.f.)
+Ground Snow Load (p.s.f.)
+Elevation
+Live Roof
+Snow Load (p.s.f.)
+Ground Snow Load (p.s.f.)
+< 6,500
+40
+57
+8,250
+97
+136
+6,750
+45
+64
+8,500
+105
+147
+7,000
+50
+70
+8,750
+112
+157
+7,250
+56
+78
+9,000
+120
+168
+7,500
+61
+86
+9,500
+136
+190
+7,750
+66
+94
+10,000
+154
+215
+8,000
+90
+126
+10,500
+173
+242
+R301.2.4 Flood plain construction.  section R301.2.4 of the 2015 International Residential Code is deleted and replaced with the following:
+Buildings and structures constructed in whole or in part in flood
+hazard
+areas (including A or V zones) as established in Table R301.2(1), and any
+substantial improvement
+or restoration of
+substantial damage
+to buildings and structures in flood hazard areas, shall be designed and constructed in accordance with Chapter 78 of the La Plata County Code, as amended. Buildings and structures that are in more than one flood hazard area shall comply with the provisions associated with the most restrictive flood hazard area. Buildings and structures located in whole or in part in identified
+floodways
+may be designed and constructed in accordance with American Society of Civil
+Engineers
+(“ASCE”) 24 (Flood Resistant Design and Construction).
+R301.6 Roof load. Section R301.6 of the 2015 International Residential Code is deleted and replaced with the following:
+The roof shall be designed for the Live Load based on the elevation above sea level of the property indicated in Table 301.2.3, as amended.
+(Res. No. 2004-15, § 1(Exh. A), 5-24-2004, Res. No. 2017-33)
+Effective on: 12/11/2017

@@ -1,0 +1,212 @@
+Chapter 70: General Site Development Standards Applicable to All Development
+Chapter 70 - Technical Appendix
+Section 70-9 Drainage Criteria Standards
+All existing documents and amendments made to the referenced versions of documents in this appendix are hereby referenced as applicable and relevant to the county. At any time, the planning engineer may allow deviations from these amendments if the applicant’s engineer demonstrates and provides documentation that these deviations meet common drainage engineering practices.
+A.
+Developments within the Joint Planning Area shall conform to the City of Durango’s Storm Drainage Criteria Manual. Developments within other cooperative planning areas shall conform to standards identified within the IGA related to such cooperative planning area.
+B.
+Developments in all other areas shall conform to the Urban Storm Drainage Criteria Manual (USDCM), version 2018, including all revisions (available digitally from the planning engineer) with amendments in (D-H) below.
+C.
+Amendments to USDCM. These amendments are made to the referenced version of USDCM to make the manual applicable and relevant to the county. At any time, the planning engineer may allow deviations from these amendments if the applicant’s engineer demonstrates and provides documentation that these deviations meet common drainage engineering practices.
+D.
+General Amendments to entire USDCM:
+1.
+The Colorado Urban Hydrograph Procedure (CUHP) is not applicable in La Plata County. The planning engineer accepts the following methodologies:
+a.
+Modified Rational Method. The Modified Rational Method (MRM) is an extension of the rational method to produce simple runoff hydrographs;
+b.
+Technical Release 20 (TR-20) Computer Program for Project Formulation Hydrology. A copy of TR-20 is available digitally from the planning engineer;
+c.
+Technical Release 55 (TR-55) Urban Hydrology for Small Watersheds as known as the USDA Soil Conservation Service (SCS) Method. A copy of TR-55 is available digitally from the planning engineer;
+d.
+The use of the following computer programs are also acceptable:
+i.
+HydroFlow (within AutoCAD Civil 3D program);
+ii.
+HydroCAD;
+iii.
+PondPack;
+iv.
+Other programs may be acceptable but shall first be approved by the planning engineer prior to utilizing it.
+E.
+Amendments to USDCM Volume 1 – Management, Hydrology and Hydraulics
+1.
+Chapter 1 – Drainage Policy. No Amendments.
+2.
+Chapter 2 – Drainage Law. No Amendments.
+3.
+Chapter 3 – Planning. No Amendments.
+4.
+Chapter 4 – Flood Risk Management. Amend to delete Chapter 4 in its entirety, floodplain management policy for the county is approved pursuant to Chapter 78: Floodplain Management of the La Plata Land Use Code.
+5.
+Chapter 5 – Rainfall.
+a.
+Clarification:  Utilize NOAA Atlas 14 at
+https://hdsc.nws.noaa.gov/hdsc/pfds/
+to obtain rainfall depth-duration-frequency values.
+b.
+Amend to delete Section 3.0 - Design Distribution for CUHP in its entirety.
+6.
+Chapter 7 – Streets, Inlets, and Storm Drains. Amend to add the following:
+a.
+Design Depth Criteria. The primary design objective is to keep the encroachment of stormwater on the street or road below an acceptable limit for a given flood return period. When stormwater collects on a street and flows down a gutter or swale, the stormwater encroaches into the roadway. If left unchecked, the encroachment will hinder traffic flow and may become hazardous. The maximum encroachment depth over the crown is six (6) inches during the ten (10) year storm and eighteen (18) inches during the one hundred (100) year storm. The public works director shall determine county roads and arterial roadways overtopping.
+7.
+Chapter 8 – Open Channels. Amend to add the following:
+a.
+Freeboard is one (1) foot. Grass-lined open channels conveying less than fifty (50) cubic feet per second (cfs) may reduce the minimum freeboard to convey one and thirty-three hundredths (1.33) times the one hundred (100) year storm event design flow.
+b.
+Grass-lined channels shall be designed so that flow velocities do not exceed six (6) feet per second during the one hundred (100) year storm. If velocities above six (6) feet per second are unavoidable, provide channel stabilization that meets industry standards and provide calculations showing shear forces generated during the one hundred (100) year storm.
+c.
+Side slopes shall not exceed two (2) horizontal to one (1) vertical (2H:1V). If slopes are greater than 2H:1V are unavoidable due to site constraints, provide documentation showing how channels will be safely stabilized and maintained.
+F.
+Amendments to USDCM Volume 2 – Structures, Storage and Recreation.
+1.
+Chapter 9 – Hydraulic Structures. No Amendments.
+2.
+Chapter 10 – Stream Access and Recreational Channels. No Amendments.
+3.
+Chapter 11 – Culverts and Bridges. Amend to add the following:
+a.
+Culverts shall be designed to the following maximum headwater to depth (HW/D) requirements:
+Table 70.F.3.a: Technical Appendix Drainage Criteria Standards
+TABLE 70.F.3.a: TECHNICAL APPENDIX DRAINAGE CRITERIA STANDARDS
+Diameter Range (in inches)
+Max HW/D Ratio
+< 36
+2.0
+> 36-60
+1.7
+> 60-84
+1.5
+> 84-120
+1.2
+> 120
+1.0
+TABLE 70.F.3.a: TECHNICAL APPENDIX DRAINAGE CRITERIA STANDARDS
+Diameter Range (in inches)
+Max HW/D Ratio
+< 36
+2.0
+> 36-60
+1.7
+> 60-84
+1.5
+> 84-120
+1.2
+> 120
+1.0
+TABLE 70.F.3.a: TECHNICAL APPENDIX DRAINAGE CRITERIA STANDARDS
+Diameter Range (in inches)
+Max HW/D Ratio
+< 36
+2.0
+> 36-60
+1.7
+> 60-84
+1.5
+> 84-120
+1.2
+> 120
+1.0
+TABLE 70.F.3.a: TECHNICAL APPENDIX DRAINAGE CRITERIA STANDARDS
+Diameter Range (in inches)
+Max HW/D Ratio
+< 36
+2.0
+> 36-60
+1.7
+> 60-84
+1.5
+> 84-120
+1.2
+> 120
+1.0
+4.
+Chapter 12 – Storage. Amend to add the following:
+a.
+2.0 - Implementation of Regional, Sub-regional, and On-site Detention.
+i.
+Exemptions to stormwater detention. Exemptions to stormwater detention shall not jeopardize the public health, safety, and welfare of public and private property. The applicant shall provide documentation at submittal to demonstrate that project qualifies for an exemption. The following uses are exempt from stormwater detention:
+i.
+Development of sites where the use does not increase the one hundred (100) year runoff by five (5) percent or total increase is less than one (1) cubic feet per second, whichever is less.
+ii.
+An individual parcel with an unobstructed flow path and no other parcel between the Federal Emergency Management Administration (FEMA) regulatory floodplain channel and the project. Water quality measures may still be required.
+iii.
+Residential lots where all of the following exist: Nine (9) or fewer lots, average lot size greater than or equal to two (2) acres per lot.
+ii.
+The county requires detention of runoff through an on-site or regional detention facility. The required volume detains the difference between the one hundred (100) year storm falling on the developed site and the one hundred (100) year storm falling on the undeveloped site.
+iii.
+The detention facility outlet structure shall release the detained water in two (2) stages:
+i.
+Ten (10) year storm event pre-development flow during the ten (10) year storm event post-development flow;
+ii.
+One hundred (100) year storm event pre-development flow during the one hundred (100) year storm event post-development flow.
+iv.
+Detention volumes shall be calculated by the difference in pre-development and post-development hydrographs or by the modified rational method.
+v.
+The design of the detention facility must provide evidence that the pond will drain in accordance with C.R.S. § 37-92-602(8), as amended. A detention facility that can cause injury to water rights or is in violation of state or federal law will not be accepted.
+vi.
+Amend to delete subsection 2.4 - Detention and UDFCD 100-year Floodplain Management Policy in its entirety. The county’s floodplain management policy can be found in Chapter 78: Floodplain Management of the La Plata Land Use Code.
+b.
+3.0 - Full Spectrum Detention. Amend to delete this section in its entirety.
+c.
+4.0 - Sizing of Full Spectrum Detention Storage Volumes. Amend to delete this section in its entirety.
+d.
+5.0 - Design Considerations. Amend to add the following:
+i.
+Each detention facility shall include volume for the water quality capture volume. Water quality capture volume may be included as a portion of the total one hundred (100) year storm event detention facilities’ volume. The water quality capture volume is to be drained over forty (40) hours.
+ii.
+Side slopes. Side slopes of the embankment shall not be steeper than three (3) horizontal to one (1) vertical except where retaining walls are used.
+iii.
+The elevation of the top of the embankment should be a minimum of one (1) foot above the 100-year water surface elevation.
+iv.
+Each detention facility shall contain an emergency spillway capable of conveying the un-detained one hundred (100) year storm discharge draining into the detention facility, both on-site and off-site. The inside crest elevation of the emergency spillway shall be equal to, or above, the one hundred (100) year water surface elevation. The depth of flow out of the emergency spillway shall be six (6) inches or less. The spillway shall have effective erosion protection. In order to protect the emergency spillway from catastrophic erosion failure, buried or grouted riprap shall be placed from the emergency spillway downhill to the embankment toe of slope and covered with six (6) inches of topsoil, if buried. Grouting of the riprap may be required.
+v.
+The outlet pipe bedding material must consist of native earthen soil, not granular bedding material, to at least the first downstream manhole or daylight point.
+vi.
+Irrigation ditches shall not be used as outfall points for stormwater runoff without written permission from the controlling entity. If allowed, the outlet invert shall be above the normal operational water surface elevation to prevent irrigation water from entering the detention facility.
+e.
+6.0 - Additional Configurations of Detention Facilities. Amend to add the following:
+i.
+Retention facilities are only allowed where a detention facility is not practical and where there are no adverse impacts to upstream or downstream properties.
+ii.
+Retention facilities shall be designed to contain two (2) times the additional volume of the runoff due to the development generated by the twenty-four (24) hour, one hundred (100) year storm, plus one (1) foot of freeboard.
+iii.
+The design of the retention facility must include an emergency spillway and must show that a spill will not adversely impact downstream properties or residences. The spillway must be designed in accordance with the detention facility spillway requirements.
+iv.
+The design of the retention facility must provide evidence that the pond will drain through the bottom (sides slopes cannot be used in calculation) in accordance with C.R.S. § 37-92-602(8), as amended. Percolation rates for the on-site soil shall be provided. A retention pond that can cause injury to water rights or is in violation of state or federal law will not be accepted.
+f.
+7.0 - Designing for Safety, Operation, and Maintenance. No Amendments.
+g.
+8.0 - Design Examples. No Amendments.
+h.
+9.0 – References. No Amendments.
+5.
+Chapter 13 – Revegetation. Amend to add the following guidance:
+a.
+County recommends that the applicant consult an environmental scientist to verify proper seed mix designs.
+G.
+Amendments to USDCM Volume 3 – Stormwater Quality.
+1.
+Chapter 1 – Stormwater Management. No Amendments.
+2.
+Chapter 2 – Best Management Practices (BMPs) Selection. No Amendments.
+3.
+Chapter 3 – Calculating WQCV and Volume Reduction. No Amendments.
+4.
+Chapter 4 – Treatment BMPs. No Amendments.
+5.
+Chapter 5 – Source Control BMPs. No Amendments.
+6.
+Chapter 6 – BMP Maintenance. No Amendments.
+7.
+Chapter 7 – Construction BMPs. No Amendments.
+H.
+Additional Stormwater Drainage Criteria.
+1.
+State Dam Safety Requirements. Applicant shall provide documentation in the drainage report that each detention facility either meets or is exempt from meeting the State of Colorado Dam Safety Requirements.
+2.
+Other Jurisdictional Criteria. Applicant shall take into consideration other jurisdictional drainage criteria when developing upstream from said jurisdictions.
+3.
+Drainage Easements. Minimum width for drainage easements is fifteen (15) feet.
+Effective on: 10/1/2020

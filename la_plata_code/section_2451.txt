@@ -1,0 +1,83 @@
+Chapter 18 BUILDINGS AND BUILDING REGULATIONS
+Article II general provisions
+Sec. 18-35  Scope and Administration
+Chapter 1 of the 2015 International Residential Code and Chapter 1 of the 2015 International Building Code are deleted in their entirety and replaced with the following:
+(
+Res. No. 2004-15, § 1 (Exh. A), 05/24/2004; Res. No. 2017-33, § 18-35, 10/10/2017; Res. No. 2023-15, § 18-35, 06/06/2023
+)
+Section 106
+Construction
+Documents
+106.1 Submittal documents. Construction documents, geotechnical reports, special inspection and structural observation programs, and other data shall be submitted in three sets (two paper and one electronic) of
+plans
+with each application for a
+permit
+. When required by section
+18-35
+(107) of this
+Code
+, or other applicable laws or regulations, the construction documents shall be prepared by a design professional licensed in the State of Colorado. Pursuant to section
+18-35
+(107) of this Code, where special conditions exist, as determined by the
+building official
+, the building official is authorized to require additional construction documents to be prepared by a design professional at the applicant’s expense.
+Exception: The building official is authorized to waive the requirement for submission of construction documents and other data not required to be prepared by a design professional if he or she determines, in the exercise of his or her discretion, that the nature of the work applied for is such that reviewing of construction documents is not necessary to obtain compliance with this Code.
+106.1.1 Information on construction documents. Construction documents shall be dimensioned and drawn upon suitable material. Construction documents shall be of sufficient clarity to indicate the location, nature, and extent of the work proposed and to show in sufficient detail that it will conform to the provisions of this Code and related laws and regulations.  The first sheet of each set of plans shall give the exact location of the work to be done and shall identify the
+person
+who prepared the plans. Paper plan documents must be a minimum of 18” x 24” in size.  At the discretion of the
+County
+Plans Examiner, smaller
+projects
+such as decks, sheds, and other small
+accessory
+structures
+may be submitted on 11” x 17” paper documents.
+106.1.2 Manufacturer's installation instructions. When requested by the
+building
+inspector, manufacturer’s installation instructions must be provided to verify particular capabilities and installation details for appliances, fixtures, or other building components.
+106.1.3 Combination fire suppression systems.  Plumbing-based fire suppression systems utilizing domestic water
+supplies
+will be inspected and approved by the building official or authorized employees or
+agents
+. Drawings and flow calculations must be submitted for review and approval prior to issuance of plumbing permits.
+106.2
+Site plan
+. The construction documents submitted with the permit application shall be accompanied by a site plan showing to scale the size and location of
+new construction
+and existing structures on the
+site
+. The site plan must show the distances from
+lot
+lines and other buildings, including applicable
+setbacks
+, along with any natural
+drainages
+and water courses. When the proposed construction is located in a designated
+building envelope
+, a survey
+plat
+prepared by a surveyor licensed in the State of Colorado shall be required.  Upon completion of the footing system and exterior supports for decks, the land surveyor will be required to verify that the foundation system is positioned inside the building envelope or applicable setback.
+106.2.1 Demolition. In the case of applications for demolition, the site plan shall show the building or structure to be demolished and the size and location of buildings or structures that are to remain on the site.
+106.2.2
+Waiver
+or modification. The building official is authorized to waive or modify the requirements for a site plan when the application is for a permit for an
+alteration
+or repair not exempted pursuant to section
+18-35
+(105.2), or when the building official otherwise determines, in the exercise of his or her discretion, that a waiver or modification is warranted.
+106.3 Examination of documents. The building official shall examine, or cause to be examined, the accompanying construction documents, and shall ascertain by such examination whether the construction indicated and described is in accordance with the requirements of this Code and other pertinent laws or ordinances. Pursuant to Chapter 34 of the La Plata County Code, the building official may require an
+applicant
+to deliver, within forty-eight (48) hours of submission to the Building
+Department
+, an exact copy of all construction documents and application materials to the appropriate fire protection district or authority.
+106.4 Planning department review. Prior to the review of construction documents and issuance of a
+building permit
+, the construction documents must be reviewed by the La Plata County Planning Department. Planning Department personnel shall review the pertinent submittals to verify compliance with the La Plata County Land
+Use
+regulations.  Upon approval from the Planning Department, the permit application shall be given to the Building Department for review and issuance of the building permit.
+106.5 Approval of construction documents. When the building official issues a permit, the construction documents shall be approved, in writing or by stamp, as "Approved." One paper copy set of construction documents so reviewed and approved shall be retained by the building official, along with one electronic set. The other paper copy shall be returned to the applicant, shall be kept at the work site, and shall be open to inspection by the building official or his authorized representative. Field inspections may require changes or corrections to the construction documents to meet Code requirements.
+106.6 Previous approvals. This Code shall not require changes in the construction documents, construction, or designated occupancy of a structure for which a lawful permit has been heretofore issued or on which work otherwise was lawfully authorized and commenced, and the construction of which has been pursued in
+good faith
+, subject to a valid original permit and any valid renewal permit. Construction projects shall be inspected and permits shall be renewed based on the version of the Code that was in existence at the time of the original permit’s issuance.
+106.7 Phased approval. The building official is authorized to issue a permit for the construction of foundations or any other part of a building or structure before the construction documents for the whole building or structure are complete. Construction plans must be completed to a point that the plans clearly show structural load continuity and transfer, and other information and details that prove structural adequacy and compliance with this Code. The holder of such permit for the foundation or other parts of a building or structure shall proceed at the holder's own risk with the building operation and without assurance that a permit for the entire structure will be granted. Permits for each phase shall be applied for and issued pursuant to the version of this Code in place at the time of each application.
+Effective on: 12/11/2017

@@ -1,0 +1,375 @@
+Chapter 62 Title, Effective Date, Purposes and Definitions
+Sec. 62-6 Abbreviations and acronyms
+I.
+Abbreviations.
+The following abbreviations are used in this
+code
+and by
+staff
+and are intended to have the following meanings:
+Table 62-6: Abbreviations and Meanings
+Abbreviation
+Meaning
+ac
+acre
+ft
+feet
+gpd
+gallons per day
+gpm
+gallons per minute
+max.
+maximum
+mcl
+maximum contaminant level
+min.
+minimum
+sq. ft.
+square feet
+Abbreviation
+Meaning
+ac
+acre
+ft
+feet
+gpd
+gallons per day
+gpm
+gallons per minute
+max.
+maximum
+mcl
+maximum contaminant level
+min.
+minimum
+sq. ft.
+square feet
+Abbreviation
+Meaning
+ac
+acre
+ft
+feet
+gpd
+gallons per day
+gpm
+gallons per minute
+max.
+maximum
+mcl
+maximum contaminant level
+min.
+minimum
+sq. ft.
+square feet
+Abbreviation
+Meaning
+ac
+acre
+ft
+feet
+gpd
+gallons per day
+gpm
+gallons per minute
+max.
+maximum
+mcl
+maximum contaminant level
+min.
+minimum
+sq. ft.
+square feet
+II.
+Acronyms.
+The following acronyms are used in this code and by staff and are intended to have the following meanings.
+(
+Res. No.
+2020-30
+, § 62-6, 09/15/2020; Res. No.
+2023-27
+, § 62-6, 11/21/2023
+)
+ADT
+. Average daily trips
+Effective on: 1/1/1901
+AES
+. Agricultural Exemption Subdivision
+Effective on: 1/1/1901
+ALA
+. Alternative Location Analysis
+Effective on: 1/1/1901
+ANSI
+. American National Standards Institute
+Effective on: 1/1/1901
+APWA
+. American Public Works Association
+Effective on: 1/1/1901
+AQCC
+. Air Quality Control Commission of Colorado
+Effective on: 1/1/1901
+AVLUP
+. Animas Valley Land Use Plan
+Effective on: 1/1/1901
+ASTM
+. ASTM International
+Effective on: 1/1/1901
+AWAA
+. American Water Works Association
+Effective on: 1/1/1901
+BLM
+. Bureau of Land Management
+Effective on: 1/1/1901
+BMP
+. Best management practice
+Effective on: 1/1/1901
+BOA
+. Board of Adjustment
+Effective on: 1/1/1901
+BOCC
+. Board of County Commissioners
+Effective on: 1/1/1901
+CAFO
+. Confined Animal Feeding Operation
+Effective on: 1/1/1901
+CBM
+. Coalbed methane
+Effective on: 1/1/1901
+CDD
+.
+Community Development Department
+Effective on: 1/1/1901
+CDNR
+. Colorado Department of Natural Resources
+Effective on: 1/1/1901
+CDOT
+. Colorado Department of Transportation
+Effective on: 1/1/1901
+CDOWR
+. Colorado Division of Water Resources
+Effective on: 1/1/1901
+CDPHE
+. Colorado Department of Public Health and Environment
+Effective on: 1/1/1901
+CDRMS
+. Colorado Division of Reclamation, Mining, and Safety
+Effective on: 1/1/1901
+CGS
+. Colorado Geological Survey
+Effective on: 1/1/1901
+C.F.R.
+Code of Federal Regulations
+Effective on: 1/1/1901
+CO
+.
+Certificate of occupancy
+Effective on: 1/1/1901
+CPW
+.
+Colorado Parks and Wildlife
+Effective on: 1/1/1901
+CRD
+.
+Clustered Rural Development
+Effective on: 1/1/1901
+C.R.S.
+Colorado Revised Statutes, as amended
+Effective on: 1/1/1901
+dB(A)
+.
+Decibels (A-weighted scale); unit of measuring sound levels
+Effective on: 1/1/1901
+DIA
+.
+Development improvement agreement
+Effective on: 1/1/1901
+ECMC
+.
+Energy and Carbon Management Commission
+Effective on: 1/1/1901
+EPA
+.
+United States Environmental Protection Agency
+Effective on: 1/1/1901
+ESAL
+.
+Equivalent single axle load
+Effective on: 1/1/1901
+FCC
+.
+Federal Communications Commission
+Effective on: 1/1/1901
+FEMA
+.
+Flood Emergency Management Association. Provides maps of 100-year floodplain and floodway areas. During a flood, Floodplains are typically standing water; Floodways are typically running water.
+Effective on: 1/1/1901
+FHWA
+.
+Federal Highway Administration
+Effective on: 1/1/1901
+GIS
+.
+Geographic Information Systems
+Effective on: 1/1/1901
+GPM
+.
+Gallons per minute
+Effective on: 1/1/1901
+HPRC
+.
+Historic Preservation Review Commission
+Effective on: 1/1/1901
+IBC
+.
+International Building Code
+Effective on: 1/1/1901
+ICA
+.
+Implied consent agreement. Agreement entered between the City of Durango and a landowner; sets forth conditions of their possible future annexation into the City.
+Effective on: 1/1/1901
+IFC
+.
+International Fire Code
+Effective on: 1/1/1901
+IGA
+.
+Intergovernmental agreement
+Effective on: 1/1/1901
+JPC
+.
+Joint City of Durango and La Plata County Planning Commission
+Effective on: 1/1/1901
+LGD
+.
+Local government designee under ECMC rules
+Effective on: 1/1/1901
+LPCPH
+. La Plata County Public Health.
+Effective on: 1/1/1901
+MED
+.
+Colorado Department of Revenue, Marijuana Enforcement Division
+Effective on: 1/1/1901
+MSHA
+.
+Mine Safety and Health Administration
+Effective on: 1/1/1901
+MUTCD
+.
+Manual on Uniform Traffic Control Devices
+Effective on: 1/1/1901
+NMFS
+.
+National Marine Fisheries Services
+Effective on: 1/1/1901
+NRCS.
+Natural Resource Conservation Service
+Effective on: 1/1/1901
+NSF
+.
+NSF International
+Effective on: 1/1/1901
+OEM
+.
+La Plata County Office of Emergency Management
+Effective on: 1/1/1901
+OGF
+.
+Oil and gas facility
+Effective on: 1/1/1901
+OGL
+.
+Oil and gas location
+Effective on: 1/1/1901
+OSMRE
+.
+Office of Surface and Mining Reclamation and Enforcement
+Effective on: 1/1/1901
+OWTS
+.
+On-site wastewater treatment system
+Effective on: 1/1/1901
+PC
+.
+La Plata County Planning Commission
+Effective on: 1/1/1901
+P.E.
+Professional engineer or engineer, professional
+Effective on: 1/1/1901
+P.G.
+Professional geologist or geologist, professional
+Effective on: 1/1/1901
+P.H.
+Professional hydrologist or hydrologist, professional
+Effective on: 1/1/1901
+PHMSA
+.
+U.S. Department of Transportation Pipeline and Hazardous Materials Safety Administration
+Effective on: 1/1/1901
+PUC
+.
+Colorado Public Utilities Commission
+Effective on: 1/1/1901
+PUD
+.
+Planned unit development
+Effective on: 1/1/1901
+ROW
+.
+Right-of-way
+Effective on: 1/1/1901
+RULIPA
+.
+Religious Land Use and Institutionalized Persons Act of 2000
+Effective on: 1/1/1901
+SCS
+.
+Soil Conservation Service
+Effective on: 1/1/1901
+SOPs
+.
+Standard operating practices
+Effective on: 1/1/1901
+SUIT
+.
+Southern Ute Indian Tribe
+Effective on: 1/1/1901
+SUIT/CEC
+.
+Southern Ute Indian Tribe/State of Colorado Environmental Commission
+Effective on: 1/1/1901
+UBC
+.
+Uniform Building Code
+Effective on: 1/1/1901
+UFC
+.
+Uniform Fire Code
+Effective on: 1/1/1901
+USACE
+.
+United States Army Corps of Engineers
+Effective on: 1/1/1901
+U.S.C.
+United States Code
+Effective on: 1/1/1901
+USDCM
+.
+Urban Storm Drainage Criteria Manual
+Effective on: 1/1/1901
+USDOT
+.
+United States Department of Transportation
+Effective on: 1/1/1901
+USFS
+.
+United States Forest Service
+Effective on: 1/1/1901
+USFWS
+.
+United States Fish and Wildlife Services
+Effective on: 1/1/1901
+USGS
+.
+United States Geological Survey
+Effective on: 1/1/1901

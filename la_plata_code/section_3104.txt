@@ -1,0 +1,794 @@
+Chapter 70: General Site Development Standards Applicable to All Development
+Sec. 70-18 Off-street parking and loading standards
+I.
+Purpose
+. This section is intended to lessen congestion on roads and streets, and to ensure an adequate supply of parking spaces are provided for certain land uses.
+II.
+Applicability.
+The off-street parking and loading standards of this section shall apply to the development of all new buildings and uses except for agricultural uses not requiring a land use permit and the construction of a single-family residence. The standards in this section shall also apply to the following expansion of use and change in use. Unless the expansion pertains to a nonconformity exempt from the requirement for a land use permit as described in section 79-3, the off-street parking and loading standards of this section shall apply to the expansion or enlargement of an existing building or use. Additional off-street parking or loading spaces shall be required only to serve the expanded or enlarged area, and not to make up any deficiency that may exist for the current building or use. Unless the change in use pertains to a nonconformity exempt from the requirement for a land use permit as described in section 79-3, any change in the use or manner of operation of a building or a parcel of land that increases the applicable off-street parking requirements shall require the applicant to provide the increased number of parking spaces prior to beginning to operate in the changed manner.
+III.
+Minimum required off-street parking.
+The following table establishes the minimum number of off-street parking spaces to be provided for residential and nonresidential uses. For any proposed use not listed below, the director may determine, in writing, the applicable minimum number of spaces or other forms of parking required based upon commonality with one or more uses listed below. If there is no similar use, the applicant may be required to submit a study to establish the off-street parking standard for the use. The parking study shall set forth the standards of the Institute of Transportation Engineers (ITE) for comparable uses and may also describe the standards found in other recognized professional publications or those applied by communities similar to the county.
+Table 70-18 A: Minimum Required Off-Street Parking
+TABLE 70-18 A: MINIMUM REQUIRED OFF-STREET PARKING
+Use Type
+Minimum Number of Off-Street Parking Spaces Required
+Other Forms of Parking Required
+ACCOMMODATIONS USES
+Bed and Breakfast Inn
+1 space per unit plus 2 spaces for resident manager
+None except that temporary parking may be required if special events are allowed
+Hotel, motel, lodge, resort, agritourism or hostel
+1 space per unit; spaces may also be required for associated uses such as bar or restaurant
+Off-street loading space may be required
+AGRICULTURAL SUPPORT USES
+Farm implement supplies, sales, and repair
+1 space per 400 sq. ft.
+Off-street loading space may be required
+Equine or llama boarding facility
+1 space per 4 horse stalls plus 1 space per employee
+None
+Veterinary office or hospital
+1 space per 400 sq. ft.
+None
+COMMERCIAL USES
+Bank/financial institution
+1 space per 300 sq. ft.
+Stacking spaces required for vehicle drive-thru
+Bar/restaurant
+1 space per 3 seats
+Off-street loading space may be required
+Club/fraternal lodge
+1 space per 3 seats
+Off-street loading space may be required
+Funeral home
+1 space per 4 seats
+None
+Nursery or greenhouse
+1 space per 500 sq. ft. plus 1 space per 4,000 sq. ft. of outdoor display area
+None
+Office buildings, general or professional
+1 space per 300 sq. ft.
+None
+Retail store (freestanding)
+1 space per 200 sq. ft.
+Off-street loading space may be required; stacking spaces required if use includes vehicle drive-thru
+Shopping center: 15,0
+00 to 400,000 sq. ft.
+1 space per 200 sq. ft.
+Off-street loading space(s) required
+Shopping center: Less than 15,000 sq.
+ft.
+1 space per 250 sq. ft.
+Off-street loading space(s) required
+Shopping center: More than
+400,000 sq. ft.​​​​​
+1 space per 225 sq. ft.
+Off-street loading space(s) required
+Vehicle, equipment, or large appliance sales
+1 space per 400 sq. ft.
+Off-street loading space may be required
+Vehicle repair
+4 spaces per service bay
+None
+Wholesale sales
+1 space per 500 sq. ft.
+Off-street loading space may be required
+INDUSTRIAL USES
+Manufacturing, assembly, or processing
+1 space per 500 sq. ft.
+Off-street loading space(s) required
+Self-storage
+1 space per 10 storage units, plus 1 per employee
+None
+Warehouse and freight shipping
+1 space per 500 sq. ft.
+Off-street loading space(s) required
+INSTITUTIONAL/PUBLIC USES
+Auditorium or theatre
+1 space per 4 seats
+None
+Church
+1 space per 4 seats
+None
+Community center
+1 space per 250 sq. ft.
+None
+Daycare and preschool
+1 space per employee, plus 1 space per 10 children
+Drop-off/pick-up area for children is required
+Governmental office
+1 space per 300 sq. ft.
+None
+Hospital
+1 space per 4 beds, plus 1 space per employee
+None
+Library or museum
+1 space per 300 sq. ft.
+None
+Nursing home
+1 space per 4 beds, plus 1 space per 3 employees
+None
+Public park
+4 spaces per golf hole; 20 spaces per athletic or ball field; 3 spaces per tennis court
+None
+Recreation facility: indoor use
+1 space per 200 sq. ft.
+None
+School: elementary or middle school
+2 spaces per classroom
+None
+School: high school
+1 space per 4 students of capacity
+None
+RESIDENTIAL USES
+Single-family dwelling, duplex dwelling, mobile or manufactured home
+2.0 spaces per dwelling unit including garage space. Garage opening must a have 20-foot separation from public right-of way.
+None
+Multi-family or townhome dwelling
+2.0 spaces per dwelling unit if unit contains 2 or more bedrooms; 1.5 spaces per dwelling unit if unit contains 1 bedroom or less. If space located in a garage, garage opening must have a 20-foot separation from public right-of-way.
+None
+Boarding or rooming house
+1 space per boarding or rooming unit
+None
+Group home
+1 space per 4 beds
+None
+TABLE 70-18 A: MINIMUM REQUIRED OFF-STREET PARKING
+Use Type
+Minimum Number of Off-Street Parking Spaces Required
+Other Forms of Parking Required
+ACCOMMODATIONS USES
+Bed and Breakfast Inn
+1 space per unit plus 2 spaces for resident manager
+None except that temporary parking may be required if special events are allowed
+Hotel, motel, lodge, resort, agritourism or hostel
+1 space per unit; spaces may also be required for associated uses such as bar or restaurant
+Off-street loading space may be required
+AGRICULTURAL SUPPORT USES
+Farm implement supplies, sales, and repair
+1 space per 400 sq. ft.
+Off-street loading space may be required
+Equine or llama boarding facility
+1 space per 4 horse stalls plus 1 space per employee
+None
+Veterinary office or hospital
+1 space per 400 sq. ft.
+None
+COMMERCIAL USES
+Bank/financial institution
+1 space per 300 sq. ft.
+Stacking spaces required for vehicle drive-thru
+Bar/restaurant
+1 space per 3 seats
+Off-street loading space may be required
+Club/fraternal lodge
+1 space per 3 seats
+Off-street loading space may be required
+Funeral home
+1 space per 4 seats
+None
+Nursery or greenhouse
+1 space per 500 sq. ft. plus 1 space per 4,000 sq. ft. of outdoor display area
+None
+Office buildings, general or professional
+1 space per 300 sq. ft.
+None
+Retail store (freestanding)
+1 space per 200 sq. ft.
+Off-street loading space may be required; stacking spaces required if use includes vehicle drive-thru
+Shopping center: 15,0
+00 to 400,000 sq. ft.
+1 space per 200 sq. ft.
+Off-street loading space(s) required
+Shopping center: Less than 15,000 sq.
+ft.
+1 space per 250 sq. ft.
+Off-street loading space(s) required
+Shopping center: More than
+400,000 sq. ft.​​​​​
+1 space per 225 sq. ft.
+Off-street loading space(s) required
+Vehicle, equipment, or large appliance sales
+1 space per 400 sq. ft.
+Off-street loading space may be required
+Vehicle repair
+4 spaces per service bay
+None
+Wholesale sales
+1 space per 500 sq. ft.
+Off-street loading space may be required
+INDUSTRIAL USES
+Manufacturing, assembly, or processing
+1 space per 500 sq. ft.
+Off-street loading space(s) required
+Self-storage
+1 space per 10 storage units, plus 1 per employee
+None
+Warehouse and freight shipping
+1 space per 500 sq. ft.
+Off-street loading space(s) required
+INSTITUTIONAL/PUBLIC USES
+Auditorium or theatre
+1 space per 4 seats
+None
+Church
+1 space per 4 seats
+None
+Community center
+1 space per 250 sq. ft.
+None
+Daycare and preschool
+1 space per employee, plus 1 space per 10 children
+Drop-off/pick-up area for children is required
+Governmental office
+1 space per 300 sq. ft.
+None
+Hospital
+1 space per 4 beds, plus 1 space per employee
+None
+Library or museum
+1 space per 300 sq. ft.
+None
+Nursing home
+1 space per 4 beds, plus 1 space per 3 employees
+None
+Public park
+4 spaces per golf hole; 20 spaces per athletic or ball field; 3 spaces per tennis court
+None
+Recreation facility: indoor use
+1 space per 200 sq. ft.
+None
+School: elementary or middle school
+2 spaces per classroom
+None
+School: high school
+1 space per 4 students of capacity
+None
+RESIDENTIAL USES
+Single-family dwelling, duplex dwelling, mobile or manufactured home
+2.0 spaces per dwelling unit including garage space. Garage opening must a have 20-foot separation from public right-of way.
+None
+Multi-family or townhome dwelling
+2.0 spaces per dwelling unit if unit contains 2 or more bedrooms; 1.5 spaces per dwelling unit if unit contains 1 bedroom or less. If space located in a garage, garage opening must have a 20-foot separation from public right-of-way.
+None
+Boarding or rooming house
+1 space per boarding or rooming unit
+None
+Group home
+1 space per 4 beds
+None
+TABLE 70-18 A: MINIMUM REQUIRED OFF-STREET PARKING
+Use Type
+Minimum Number of Off-Street Parking Spaces Required
+Other Forms of Parking Required
+ACCOMMODATIONS USES
+Bed and Breakfast Inn
+1 space per unit plus 2 spaces for resident manager
+None except that temporary parking may be required if special events are allowed
+Hotel, motel, lodge, resort, agritourism or hostel
+1 space per unit; spaces may also be required for associated uses such as bar or restaurant
+Off-street loading space may be required
+AGRICULTURAL SUPPORT USES
+Farm implement supplies, sales, and repair
+1 space per 400 sq. ft.
+Off-street loading space may be required
+Equine or llama boarding facility
+1 space per 4 horse stalls plus 1 space per employee
+None
+Veterinary office or hospital
+1 space per 400 sq. ft.
+None
+COMMERCIAL USES
+Bank/financial institution
+1 space per 300 sq. ft.
+Stacking spaces required for vehicle drive-thru
+Bar/restaurant
+1 space per 3 seats
+Off-street loading space may be required
+Club/fraternal lodge
+1 space per 3 seats
+Off-street loading space may be required
+Funeral home
+1 space per 4 seats
+None
+Nursery or greenhouse
+1 space per 500 sq. ft. plus 1 space per 4,000 sq. ft. of outdoor display area
+None
+Office buildings, general or professional
+1 space per 300 sq. ft.
+None
+Retail store (freestanding)
+1 space per 200 sq. ft.
+Off-street loading space may be required; stacking spaces required if use includes vehicle drive-thru
+Shopping center: 15,0
+00 to 400,000 sq. ft.
+1 space per 200 sq. ft.
+Off-street loading space(s) required
+Shopping center: Less than 15,000 sq.
+ft.
+1 space per 250 sq. ft.
+Off-street loading space(s) required
+Shopping center: More than
+400,000 sq. ft.​​​​​
+1 space per 225 sq. ft.
+Off-street loading space(s) required
+Vehicle, equipment, or large appliance sales
+1 space per 400 sq. ft.
+Off-street loading space may be required
+Vehicle repair
+4 spaces per service bay
+None
+Wholesale sales
+1 space per 500 sq. ft.
+Off-street loading space may be required
+INDUSTRIAL USES
+Manufacturing, assembly, or processing
+1 space per 500 sq. ft.
+Off-street loading space(s) required
+Self-storage
+1 space per 10 storage units, plus 1 per employee
+None
+Warehouse and freight shipping
+1 space per 500 sq. ft.
+Off-street loading space(s) required
+INSTITUTIONAL/PUBLIC USES
+Auditorium or theatre
+1 space per 4 seats
+None
+Church
+1 space per 4 seats
+None
+Community center
+1 space per 250 sq. ft.
+None
+Daycare and preschool
+1 space per employee, plus 1 space per 10 children
+Drop-off/pick-up area for children is required
+Governmental office
+1 space per 300 sq. ft.
+None
+Hospital
+1 space per 4 beds, plus 1 space per employee
+None
+Library or museum
+1 space per 300 sq. ft.
+None
+Nursing home
+1 space per 4 beds, plus 1 space per 3 employees
+None
+Public park
+4 spaces per golf hole; 20 spaces per athletic or ball field; 3 spaces per tennis court
+None
+Recreation facility: indoor use
+1 space per 200 sq. ft.
+None
+School: elementary or middle school
+2 spaces per classroom
+None
+School: high school
+1 space per 4 students of capacity
+None
+RESIDENTIAL USES
+Single-family dwelling, duplex dwelling, mobile or manufactured home
+2.0 spaces per dwelling unit including garage space. Garage opening must a have 20-foot separation from public right-of way.
+None
+Multi-family or townhome dwelling
+2.0 spaces per dwelling unit if unit contains 2 or more bedrooms; 1.5 spaces per dwelling unit if unit contains 1 bedroom or less. If space located in a garage, garage opening must have a 20-foot separation from public right-of-way.
+None
+Boarding or rooming house
+1 space per boarding or rooming unit
+None
+Group home
+1 space per 4 beds
+None
+TABLE 70-18 A: MINIMUM REQUIRED OFF-STREET PARKING
+Use Type
+Minimum Number of Off-Street Parking Spaces Required
+Other Forms of Parking Required
+ACCOMMODATIONS USES
+Bed and Breakfast Inn
+1 space per unit plus 2 spaces for resident manager
+None except that temporary parking may be required if special events are allowed
+Hotel, motel, lodge, resort, agritourism or hostel
+1 space per unit; spaces may also be required for associated uses such as bar or restaurant
+Off-street loading space may be required
+AGRICULTURAL SUPPORT USES
+Farm implement supplies, sales, and repair
+1 space per 400 sq. ft.
+Off-street loading space may be required
+Equine or llama boarding facility
+1 space per 4 horse stalls plus 1 space per employee
+None
+Veterinary office or hospital
+1 space per 400 sq. ft.
+None
+COMMERCIAL USES
+Bank/financial institution
+1 space per 300 sq. ft.
+Stacking spaces required for vehicle drive-thru
+Bar/restaurant
+1 space per 3 seats
+Off-street loading space may be required
+Club/fraternal lodge
+1 space per 3 seats
+Off-street loading space may be required
+Funeral home
+1 space per 4 seats
+None
+Nursery or greenhouse
+1 space per 500 sq. ft. plus 1 space per 4,000 sq. ft. of outdoor display area
+None
+Office buildings, general or professional
+1 space per 300 sq. ft.
+None
+Retail store (freestanding)
+1 space per 200 sq. ft.
+Off-street loading space may be required; stacking spaces required if use includes vehicle drive-thru
+Shopping center: 15,0
+00 to 400,000 sq. ft.
+1 space per 200 sq. ft.
+Off-street loading space(s) required
+Shopping center: Less than 15,000 sq.
+ft.
+1 space per 250 sq. ft.
+Off-street loading space(s) required
+Shopping center: More than
+400,000 sq. ft.​​​​​
+1 space per 225 sq. ft.
+Off-street loading space(s) required
+Vehicle, equipment, or large appliance sales
+1 space per 400 sq. ft.
+Off-street loading space may be required
+Vehicle repair
+4 spaces per service bay
+None
+Wholesale sales
+1 space per 500 sq. ft.
+Off-street loading space may be required
+INDUSTRIAL USES
+Manufacturing, assembly, or processing
+1 space per 500 sq. ft.
+Off-street loading space(s) required
+Self-storage
+1 space per 10 storage units, plus 1 per employee
+None
+Warehouse and freight shipping
+1 space per 500 sq. ft.
+Off-street loading space(s) required
+INSTITUTIONAL/PUBLIC USES
+Auditorium or theatre
+1 space per 4 seats
+None
+Church
+1 space per 4 seats
+None
+Community center
+1 space per 250 sq. ft.
+None
+Daycare and preschool
+1 space per employee, plus 1 space per 10 children
+Drop-off/pick-up area for children is required
+Governmental office
+1 space per 300 sq. ft.
+None
+Hospital
+1 space per 4 beds, plus 1 space per employee
+None
+Library or museum
+1 space per 300 sq. ft.
+None
+Nursing home
+1 space per 4 beds, plus 1 space per 3 employees
+None
+Public park
+4 spaces per golf hole; 20 spaces per athletic or ball field; 3 spaces per tennis court
+None
+Recreation facility: indoor use
+1 space per 200 sq. ft.
+None
+School: elementary or middle school
+2 spaces per classroom
+None
+School: high school
+1 space per 4 students of capacity
+None
+RESIDENTIAL USES
+Single-family dwelling, duplex dwelling, mobile or manufactured home
+2.0 spaces per dwelling unit including garage space. Garage opening must a have 20-foot separation from public right-of way.
+None
+Multi-family or townhome dwelling
+2.0 spaces per dwelling unit if unit contains 2 or more bedrooms; 1.5 spaces per dwelling unit if unit contains 1 bedroom or less. If space located in a garage, garage opening must have a 20-foot separation from public right-of-way.
+None
+Boarding or rooming house
+1 space per boarding or rooming unit
+None
+Group home
+1 space per 4 beds
+None
+IV.
+Calculating off-street parking requirements.
+The following rules apply when calculating the off-street parking requirement applicable to a building or use:
+A.
+When the calculation of the number of required spaces results in a fractional number, any fraction of less than one-half (½) (≤0.49) shall be rounded down to the next lower whole number, while any fraction of one-half (½) (≥0.50) or more shall be rounded up to the next higher whole number.
+B.
+Unless otherwise specified, all square footage-based parking standards shall be calculated based on net leasable floor area, which includes only those areas within a building that are designed to be occupied for industrial, commercial or office purposes, and excludes common or public areas such as bathrooms, stairways, circulation corridors, and mechanical areas.
+C.
+Calculations of employee-based parking standards shall be based on the largest number of persons working on any single shift at the business.
+D.
+Parking areas serving more than a single principal use shall provide parking in an amount equal to the total requirement of all the principal uses being served, unless the applicant obtains approval of a shared parking arrangement for use of the parking area. The director may approve a shared parking arrangement and may reduce the number of off-street parking spaces by up to twenty (20) percent of the total required for all uses if the applicant demonstrates that the uses have different operating hours or business periods whose demand for parking will not overlap with one another.
+V.
+Minimum dimensions for parking spaces and parking areas.
+The following shall apply to all parking areas:
+A.
+The standard parking space shall be nine (9) feet in width and eighteen (18) feet in length.
+B.
+In parking lots containing twenty-five (25) or more spaces, up to twenty (20) percent of the spaces may be compact car spaces, with minimum dimensions of eight (8) feet in width and sixteen (16) feet in length.  Compact car spaces shall be designated for use with a sign.
+C.
+Parking spaces shall have a vertical clearance of at least seven (7) feet.
+The following table establishes the minimum dimensions for parking to be provided for development where applicable:
+Table 70-18 B: Minimum Dimensions for Parking
+TABLE 70-18 B: MINIMUM DIMENSIONS FOR PARKING
+One Way Parallel
+Parking Space Angle (in degrees)
+30°
+45°
+60°
+90°
+Single row of parking
+9'
+18'
+21'
+22'
+20'
+Driving aisle
+12'
+12'
+13'
+18'
+24'
+Minimum width of row plus aisle
+21'
+30'
+34'
+40'
+44'
+Two rows of parking
+18'
+36'
+42'
+44'
+40'
+Driving aisle
+12'
+12'
+13'
+18'
+24'
+Minimum width of row plus aisle
+30'
+48'
+55'
+62'
+64'
+TABLE 70-18 B: MINIMUM DIMENSIONS FOR PARKING
+One Way Parallel
+Parking Space Angle (in degrees)
+30°
+45°
+60°
+90°
+Single row of parking
+9'
+18'
+21'
+22'
+20'
+Driving aisle
+12'
+12'
+13'
+18'
+24'
+Minimum width of row plus aisle
+21'
+30'
+34'
+40'
+44'
+Two rows of parking
+18'
+36'
+42'
+44'
+40'
+Driving aisle
+12'
+12'
+13'
+18'
+24'
+Minimum width of row plus aisle
+30'
+48'
+55'
+62'
+64'
+TABLE 70-18 B: MINIMUM DIMENSIONS FOR PARKING
+One Way Parallel
+Parking Space Angle (in degrees)
+30°
+45°
+60°
+90°
+Single row of parking
+9'
+18'
+21'
+22'
+20'
+Driving aisle
+12'
+12'
+13'
+18'
+24'
+Minimum width of row plus aisle
+21'
+30'
+34'
+40'
+44'
+Two rows of parking
+18'
+36'
+42'
+44'
+40'
+Driving aisle
+12'
+12'
+13'
+18'
+24'
+Minimum width of row plus aisle
+30'
+48'
+55'
+62'
+64'
+TABLE 70-18 B: MINIMUM DIMENSIONS FOR PARKING
+One Way Parallel
+Parking Space Angle (in degrees)
+30°
+45°
+60°
+90°
+Single row of parking
+9'
+18'
+21'
+22'
+20'
+Driving aisle
+12'
+12'
+13'
+18'
+24'
+Minimum width of row plus aisle
+21'
+30'
+34'
+40'
+44'
+Two rows of parking
+18'
+36'
+42'
+44'
+40'
+Driving aisle
+12'
+12'
+13'
+18'
+24'
+Minimum width of row plus aisle
+30'
+48'
+55'
+62'
+64'
+Figure(s) 70-18: Parking Dimensions
+VI.
+Design standards for parking and loading areas.
+All internal driving surfaces and parking areas accommodating ten (10) or more vehicles shall be surfaced with all-weather material, such as concrete, asphalt, or other similar surface approved by the director. However, the director may grant a written request to allow alternative surface material for parking areas, provided a professional engineer can demonstrate the surface adequately serves the intended use of the parking area without adversely impacting the subject site or adjacent properties. Gravel surfaces, including surfaces treated with dust retardants, may only be permitted when air and water quality mitigation measures are sufficiently demonstrated.
+A.
+Paved surfaces shall be striped to demarcate the parking spaces, and directional arrows shall be provided to designate when there is one-way traffic.
+B.
+The minimum amount of parcel area devoted to off-street parking, where the parking area will not be paved with asphalt, concrete, or similar hard-surface materials, may be increased up to ten (10) percent to accommodate additional parking and maneuvering space needed in the absence of striped and demarcated parking spaces and drive aisles.
+C.
+Gravel surfaces shall be regularly treated with appropriate dust suppression measures as determined by a professional engineer.
+D.
+A turn-around area shall be provided for parking areas with twenty-five (25) or more parking spaces.
+E.
+All parking areas shall be located and designed in conjunction with a driveway, such that vehicles exiting from a parking space shall not be required to back onto a public right of way. Provided, however that vehicles exiting from a parking space for a residential property may back onto a residential street.
+F.
+Adequate space shall be provided for storage of snow removed from vehicular ways and parking and loading spaces. Storage of snow in required parking spaces is prohibited. Adequate drainage shall be provided for the snow storage area to accommodate snow melt and to ensure it does not drain onto adjacent property.
+VII.
+Parking spaces for persons with disabilities
+. In no event shall there be fewer parking spaces designated for use only by persons with disabilities than what is required by section 1106.1 of the building code or otherwise required by applicable law. Such spaces shall also meet the following standards:
+A.
+Parking spaces for persons with disabilities shall be in close proximity to building entrances and shall be designed to permit occupants of vehicles to reach the building on an unobstructed path.
+B.
+All parking spaces for persons with disabilities shall be at least thirteen (13) feet in width, measured perpendicular to the angle of parking. The minimum width shall be reduced to nine feet (9) for any space located parallel to a pedestrian walk that is a minimum of four (4) feet in width. Accessible parking dimensions and design shall be provided in accordance with Americans with Disabilities Act, 43 U.S.C. 12101
+et seq
+., and the Fair Housing Act, 43 U.S.C. 12101
+et seq
+.
+C.
+Required spaces for persons with disabilities shall be identified with appropriate signs and pavement markings. Signs shall be posted directly in front of the parking space, at a height of no less than forty-two (42) nor more than seventy-two (72) inches.
+VIII.
+Bicycle parking facilities
+. Bicycle parking facilities (e.g., racks, boxes, etc.) are required for all mixed-use and commercial uses likely to generate significant short-term bicycle demand (e.g., shoppers or visitors) and/or long-term bicycle demand (e.g. employees), as determined by the director.
+A.
+When bicycle parking facilities are provided, the following standards shall apply:
+1.
+A minimum of two (2) bicycle parking spaces shall be provided;
+2.
+The facilities shall be of sound construction and properly anchored to the ground;
+3.
+The facilities shall not impede vehicular or pedestrian access;
+4.
+The facilities shall be located within fifty (50) feet of the building's primary entrance.
+B.
+Four (4) bicycle parking spaces may be used to substitute for one (1) required standard vehicular parking space. Substitute bicycle parking spaces may account for no more than ten (10) percent of the minimum parking spaces required by this section.
+IX.
+Prohibited uses of required spaces
+. Required parking spaces shall be available only for the parking of operable passenger automobiles of residents, guests, customers, patrons, deliveries and employees of the use for which the parking is required. Prohibited uses of required parking spaces shall be as follows:
+A.
+Inoperable vehicles or materials. Inoperable vehicles or materials shall not be stored in required parking spaces. Repair work shall not be conducted in any parking area required for a nonresidential use if the repairs render a vehicle inoperable for periods of more than twenty-four (24) hours.
+B.
+Unobstructed access. Each required parking and loading space shall have unobstructed access from a road or alley, or from an aisle or drive connecting with a road or alley.
+X.
+When off-street loading required
+. Buildings or structures that are designed to receive and distribute materials and merchandise by truck shall provide and maintain off-street loading spaces in sufficient number to meet the use's needs. Where the property or the use is served or designed to be served by tractor-trailer delivery vehicles, the following standards shall be used in establishing the minimum number of off-street loading spaces required, which are in addition to any required parking spaces:
+Table 70-18 C: Minimum Loading Spaces
+TABLE 70-18 C: MINIMUM LOADING SPACES
+Gross Floor Area of the Building
+Number of Required Loading Spaces
+≤ 9,999 sq. ft.
+1
+≥ 10,000 sq. ft.
+2
+TABLE 70-18 C: MINIMUM LOADING SPACES
+Gross Floor Area of the Building
+Number of Required Loading Spaces
+≤ 9,999 sq. ft.
+1
+≥ 10,000 sq. ft.
+2
+TABLE 70-18 C: MINIMUM LOADING SPACES
+Gross Floor Area of the Building
+Number of Required Loading Spaces
+≤ 9,999 sq. ft.
+1
+≥ 10,000 sq. ft.
+2
+TABLE 70-18 C: MINIMUM LOADING SPACES
+Gross Floor Area of the Building
+Number of Required Loading Spaces
+≤ 9,999 sq. ft.
+1
+≥ 10,000 sq. ft.
+2
+XI.
+Continuing obligation.
+Provision and maintenance of off-street parking and loading spaces shall be a continuing obligation of the property owner.
+(
+Res. No.
+2020-30
+, § 70-18, 09/15/2020
+)
+Effective on: 10/1/2020

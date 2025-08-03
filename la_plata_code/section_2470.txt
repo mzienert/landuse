@@ -1,0 +1,14 @@
+Chapter 18 BUILDINGS AND BUILDING REGULATIONS
+Article III. Building Codes and standards: Amendments, additions and deletions to the international codes
+Sec. 18-36
+Amendments and Deletions to the 2015 International Residential Code.
+Amendments and Deletions to the 2015 International Residential Code are as follows:
+(
+Res. No. 2004-15, § 1 (Exh. A), 05/24/2004; Res. No. 2017-33, § 18-36, 10/10/2017; Res. No. 2023-15, § 18-36, 06/06/2023
+)
+Section R324
+Solar Energy Systems
+R324.4.2 Wind load.  Roof structures for the support of solar panels shall be designed using the LPC wind design speed in Table R301.2.1 at section
+18-36
+of this Code.
+Effective on: 12/11/2017

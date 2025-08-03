@@ -1,0 +1,761 @@
+Chapter 81 General Provisions
+Chapter 81 Appendix
+Section 81-6 Reference Maps and Documents
+Reference maps and documents. The
+county
+may use the following plans, studies, and maps, as they may be amended and updated from time to time, as general references.
+A.
+The 2017
+comprehensive plan
+B.
+2018 Multi-Jurisdictional Hazard Mitigation Plan
+C.
+La Plata County Community Wildfire Protection Plan (2006)
+D.
+Wildfire hazard area maps
+E.
+Burned Area Emergency Response Report – 416 Fire, Columbine Ranger District, San Juan National Forest, 2018
+F.
+Colorado Water Plan, 2015
+G.
+The La Plata County Water Critical Map
+H.
+Geologic hazard maps – June 1976, as prepared for the Animas Regional Planning Commission
+I.
+USGS maps
+J.
+U.S. Army Corps of Engineers Wetland Delineation Manual
+K.
+Missionary Ridge Rockfall Study, 2008
+L.
+FEMA La Plata County Flood Insurance Study, 2010
+M.
+Level of Service Study, Felsburg, Holt & Ullevig, 2019
+N.
+La Plata County: Cost of Land Use Fiscal Analysis, TishlerBise, 2017
+O.
+La Plata County Pavement Condition Index, IMS 2017
+P.
+The La Plata County Road Map
+Q.
+La Plata County Annual Road Maintenance Map
+R.
+2015 Regional Housing Alliance Housing Demand Forecast
+S.
+Maps of drilling windows, flowline locations, and directional wellbores as approved by the COGCC
+T.
+Fruitland Outcrop Hazard Zone Map
+U.
+Reservation Air Code, Southern Ute Indian Tribe/State of Colorado, 2012
+V.
+Southern Ute Indian Comprehensive Emissions Inventory
+W.
+The La Plata County Trails Plan (2000), including component needs and opportunities analysis maps
+X.
+Permitted sand and gravel operations locations as shown on maps prepared by the CDMRS
+Y.
+Urban Storm Drainage Criteria Manual as published by the Mile-High Flood District
+Z.
+La Plata County Road Classification and Right-of-Way Width prepared by La Plata County Public Works Department, July 2020
+AA.
+ECMC Rules of Practice and Procedure, Appendix VII: High Priority Habitat Maps
+AB.
+ECMC GIS online interactive maps
+AC.
+National Pipeline Mapping System
+AD.
+Maps published by Pipeline Association for Public Awareness
+AE.
+La Plata County Visual Mitigation Guidelines for Oil and Gas Operations
+AF.
+Surface Operating Standards and Guidelines for Oil and Gas Exploration and Development as published by the BLM (also referred to as “The Gold Book”)
+TABLE 81-6:
+LA PLATA COUNTY ROAD CLASSIFICATION AND RIGHT-OF-WAY WIDTH RECOMMENDATIONS BASED ON HISTORIC, CURRENT AND FUTURE TRAFFIC PREDICTIONS
+COUNTY ROAD
+NUMBER
+BEGINNING
+POINT
+ENDING POINT
+ROAD CLASSIFICATION
+ROW WIDTH
+FOR ROAD
+CLASSIFICATION
+125
+CR 141
+HWY 140
+Collector
+70
+141
+HWY 160
+HWY 140
+Arterial
+80
+203
+South end
+North end
+Collector
+70
+204
+City Limits
+CR 205
+Collector
+70
+210
+City Limits
+CR 141
+Collector
+70
+213
+City Limits
+Reservation
+boundary
+Arterial (La Posta
+Area Plan)
+110
+213
+Reservation
+boundary
+HWY 550
+Collector
+70
+220
+HWY 550
+HWY 172
+Collector
+70
+222
+CR 225A
+HWY 172
+Collector
+70
+228
+CR 234
+CR 224
+Collector
+70
+233
+East end
+Three Springs Blvd.
+Collector
+70
+234
+HWY 160
+CR 240
+Arterial
+80
+235
+CR 234
+City Limits
+Collector
+70
+240
+CR 250
+CR 501
+Arterial
+80
+250
+CR 251
+Hidden Falls Ln.
+Arterial
+80
+250
+Hidden Falls Ln.
+CR 252
+Collector
+70
+252
+HWY 550
+CR 250
+Arterial
+80
+302
+HWY 550
+HWY 172
+Collector
+70
+307
+HWY 172
+South - 4.1 miles
+Collector
+70
+309
+HWY 172
+CR 309A
+Arterial
+80
+309A
+CR 309
+CR 318
+Collector
+70
+310/318
+HWY 550
+HWY 172
+Arterial
+80
+311
+HWY 172
+CR 314
+Collector
+70
+314
+HWY 172
+CR 316
+Collector
+70
+501
+HWY 160
+CR 501A
+Arterial
+80
+501
+CR 501A
+CR 500
+Collector
+70
+509
+HWY 160B
+CR 510
+Collector
+70
+510
+CR 222
+CR 509
+Collector
+70
+516
+HWY 160B
+CR 517
+Collector
+70
+517
+HWY 172
+CR 516
+Collector
+70
+521
+Mesa Drive
+(Bayfield)
+HWY 151
+Collector
+70
+TABLE 81-6:
+LA PLATA COUNTY ROAD CLASSIFICATION AND RIGHT-OF-WAY WIDTH RECOMMENDATIONS BASED ON HISTORIC, CURRENT AND FUTURE TRAFFIC PREDICTIONS
+COUNTY ROAD
+NUMBER
+BEGINNING
+POINT
+ENDING POINT
+ROAD CLASSIFICATION
+ROW WIDTH
+FOR ROAD
+CLASSIFICATION
+125
+CR 141
+HWY 140
+Collector
+70
+141
+HWY 160
+HWY 140
+Arterial
+80
+203
+South end
+North end
+Collector
+70
+204
+City Limits
+CR 205
+Collector
+70
+210
+City Limits
+CR 141
+Collector
+70
+213
+City Limits
+Reservation
+boundary
+Arterial (La Posta
+Area Plan)
+110
+213
+Reservation
+boundary
+HWY 550
+Collector
+70
+220
+HWY 550
+HWY 172
+Collector
+70
+222
+CR 225A
+HWY 172
+Collector
+70
+228
+CR 234
+CR 224
+Collector
+70
+233
+East end
+Three Springs Blvd.
+Collector
+70
+234
+HWY 160
+CR 240
+Arterial
+80
+235
+CR 234
+City Limits
+Collector
+70
+240
+CR 250
+CR 501
+Arterial
+80
+250
+CR 251
+Hidden Falls Ln.
+Arterial
+80
+250
+Hidden Falls Ln.
+CR 252
+Collector
+70
+252
+HWY 550
+CR 250
+Arterial
+80
+302
+HWY 550
+HWY 172
+Collector
+70
+307
+HWY 172
+South - 4.1 miles
+Collector
+70
+309
+HWY 172
+CR 309A
+Arterial
+80
+309A
+CR 309
+CR 318
+Collector
+70
+310/318
+HWY 550
+HWY 172
+Arterial
+80
+311
+HWY 172
+CR 314
+Collector
+70
+314
+HWY 172
+CR 316
+Collector
+70
+501
+HWY 160
+CR 501A
+Arterial
+80
+501
+CR 501A
+CR 500
+Collector
+70
+509
+HWY 160B
+CR 510
+Collector
+70
+510
+CR 222
+CR 509
+Collector
+70
+516
+HWY 160B
+CR 517
+Collector
+70
+517
+HWY 172
+CR 516
+Collector
+70
+521
+Mesa Drive
+(Bayfield)
+HWY 151
+Collector
+70
+TABLE 81-6:
+LA PLATA COUNTY ROAD CLASSIFICATION AND RIGHT-OF-WAY WIDTH RECOMMENDATIONS BASED ON HISTORIC, CURRENT AND FUTURE TRAFFIC PREDICTIONS
+COUNTY ROAD
+NUMBER
+BEGINNING
+POINT
+ENDING POINT
+ROAD CLASSIFICATION
+ROW WIDTH
+FOR ROAD
+CLASSIFICATION
+125
+CR 141
+HWY 140
+Collector
+70
+141
+HWY 160
+HWY 140
+Arterial
+80
+203
+South end
+North end
+Collector
+70
+204
+City Limits
+CR 205
+Collector
+70
+210
+City Limits
+CR 141
+Collector
+70
+213
+City Limits
+Reservation
+boundary
+Arterial (La Posta
+Area Plan)
+110
+213
+Reservation
+boundary
+HWY 550
+Collector
+70
+220
+HWY 550
+HWY 172
+Collector
+70
+222
+CR 225A
+HWY 172
+Collector
+70
+228
+CR 234
+CR 224
+Collector
+70
+233
+East end
+Three Springs Blvd.
+Collector
+70
+234
+HWY 160
+CR 240
+Arterial
+80
+235
+CR 234
+City Limits
+Collector
+70
+240
+CR 250
+CR 501
+Arterial
+80
+250
+CR 251
+Hidden Falls Ln.
+Arterial
+80
+250
+Hidden Falls Ln.
+CR 252
+Collector
+70
+252
+HWY 550
+CR 250
+Arterial
+80
+302
+HWY 550
+HWY 172
+Collector
+70
+307
+HWY 172
+South - 4.1 miles
+Collector
+70
+309
+HWY 172
+CR 309A
+Arterial
+80
+309A
+CR 309
+CR 318
+Collector
+70
+310/318
+HWY 550
+HWY 172
+Arterial
+80
+311
+HWY 172
+CR 314
+Collector
+70
+314
+HWY 172
+CR 316
+Collector
+70
+501
+HWY 160
+CR 501A
+Arterial
+80
+501
+CR 501A
+CR 500
+Collector
+70
+509
+HWY 160B
+CR 510
+Collector
+70
+510
+CR 222
+CR 509
+Collector
+70
+516
+HWY 160B
+CR 517
+Collector
+70
+517
+HWY 172
+CR 516
+Collector
+70
+521
+Mesa Drive
+(Bayfield)
+HWY 151
+Collector
+70
+TABLE 81-6:
+LA PLATA COUNTY ROAD CLASSIFICATION AND RIGHT-OF-WAY WIDTH RECOMMENDATIONS BASED ON HISTORIC, CURRENT AND FUTURE TRAFFIC PREDICTIONS
+COUNTY ROAD
+NUMBER
+BEGINNING
+POINT
+ENDING POINT
+ROAD CLASSIFICATION
+ROW WIDTH
+FOR ROAD
+CLASSIFICATION
+125
+CR 141
+HWY 140
+Collector
+70
+141
+HWY 160
+HWY 140
+Arterial
+80
+203
+South end
+North end
+Collector
+70
+204
+City Limits
+CR 205
+Collector
+70
+210
+City Limits
+CR 141
+Collector
+70
+213
+City Limits
+Reservation
+boundary
+Arterial (La Posta
+Area Plan)
+110
+213
+Reservation
+boundary
+HWY 550
+Collector
+70
+220
+HWY 550
+HWY 172
+Collector
+70
+222
+CR 225A
+HWY 172
+Collector
+70
+228
+CR 234
+CR 224
+Collector
+70
+233
+East end
+Three Springs Blvd.
+Collector
+70
+234
+HWY 160
+CR 240
+Arterial
+80
+235
+CR 234
+City Limits
+Collector
+70
+240
+CR 250
+CR 501
+Arterial
+80
+250
+CR 251
+Hidden Falls Ln.
+Arterial
+80
+250
+Hidden Falls Ln.
+CR 252
+Collector
+70
+252
+HWY 550
+CR 250
+Arterial
+80
+302
+HWY 550
+HWY 172
+Collector
+70
+307
+HWY 172
+South - 4.1 miles
+Collector
+70
+309
+HWY 172
+CR 309A
+Arterial
+80
+309A
+CR 309
+CR 318
+Collector
+70
+310/318
+HWY 550
+HWY 172
+Arterial
+80
+311
+HWY 172
+CR 314
+Collector
+70
+314
+HWY 172
+CR 316
+Collector
+70
+501
+HWY 160
+CR 501A
+Arterial
+80
+501
+CR 501A
+CR 500
+Collector
+70
+509
+HWY 160B
+CR 510
+Collector
+70
+510
+CR 222
+CR 509
+Collector
+70
+516
+HWY 160B
+CR 517
+Collector
+70
+517
+HWY 172
+CR 516
+Collector
+70
+521
+Mesa Drive
+(Bayfield)
+HWY 151
+Collector
+70
+(
+Res. No.
+2020-30
+, §  09/15/2020; Res. No.
+2023-11
+, §  04/26/2023; Res. No.
+2024-26
+, §  08/13/2024
+)
+Effective on: 8/13/2024

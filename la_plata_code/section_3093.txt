@@ -1,0 +1,226 @@
+Chapter 70: General Site Development Standards Applicable to All Development
+Sec. 70-8 Avoidance of natural hazards and protection of sensitive lands
+I.
+Purpose.
+Natural hazards, including geologic hazards, pose a risk to county residents and their property. Development also occurs in the natural habitat of wildlife species. Development must therefore be sensitive to, and take account of, these natural conditions. This section establishes standards intended to:
+A.
+Partially fulfill the goals and objectives of the county’s 2018 Multijurisdictional Hazard Mitigation Plan, including but not limited to:
+1.
+Minimize loss of life and injury to people due to anticipated hazard events;
+2.
+Reduce damage to critical facilities and infrastructure;
+3.
+Reduce risks to property, the environment and economy of the county from the impacts of natural hazards.
+B.
+Protect the county’s significant natural resources, including areas containing unique and sensitive natural features such as rivers and streams, wetlands, and critical wildlife habitat;
+C.
+Plan and design land uses to be harmonious with wildlife habitat and the species that depend on that habitat for the economic, recreational and environmental benefit of county residents and visitors.
+II.
+Applicability.
+Unless otherwise excepted, these standards apply to all new development and land disturbing activity where such activity occurs on land that contains any of the natural resources, steep slope areas, habitat, or hazard areas addressed by this section. Each lot or parcel shall contain a buildable area that complies with this section’s standards.
+A.
+Exemptions – These standards do not apply to:
+1.
+Agricultural operations and structures: Agricultural activities such as soil preparation, irrigation including irrigation district and ditch activities, and irrigation pipelines, planting, plowing, harvesting, and grazing.
+2.
+Minor land disturbing activities: Activities that will disturb less than five thousand (5,000) square feet in area and less than eighteen (18) inches in depth and that are not required to obtain a building permit.
+3.
+Oil and gas drilling activities: See chapter 90 for applicable standards.
+III.
+Submittal requirements.
+In addition to the general land use permit application submittal requirements set forth in section 66-11, applicant shall submit the following documents and materials: a site analysis map that provides information about existing physical site conditions and context, and that comprehensively analyzes existing physical conditions both on and off the proposed development site.
+IV.
+Existing maps and other data sources.
+The information presented in the site analysis map should be produced primarily from existing governmental sources, maps, and data. However, in some instances accurate and reliable mapping may not be available at a site-specific level of detail. In situations where existing mapping and resources are unavailable or inaccurate, or where the applicant disputes the mapped boundaries of a resource or hazard area, the applicant shall retain a qualified professional acceptable to the county and with demonstrated expertise in the field to delineate the boundaries of any resource or hazard area addressed by this section’s standards.
+V.
+Protection of wetlands.
+Boundary delineation of wetlands shall be established by reference to the current USACE Wetlands Delineation Manual, which is available for reference in the USACE office. All wetland boundary delineations are subject to the county’s approval.
+A.
+No person shall engage in any activity that shall disturb, remove, fill, drain, dredge, clear, destroy, or alter any area, including vegetation, within a wetland that falls in the jurisdiction of the federal government and its agencies, except as may be expressly allowed under applicable federal laws or regulations.
+B.
+Notwithstanding any contrary federal law or regulations, draining any wetland that falls in the jurisdiction of the federal government and its agencies is prohibited.
+C.
+The county shall not grant final approval to any development or activity, including subdivisions, in a wetland that falls within the federal government’s jurisdiction until the applicant shows that all necessary federal approvals and permits have been obtained.
+D.
+The county shall not prohibit execution of a permitted mitigation plan or maintenance of those projects, nor shall it take responsibility for the mitigation project, even within areas to be accepted by the county upon final acceptance of all improvements. A letter from the USACE, accepting the mitigation, is required to release the development from further obligations.
+VI.
+Avoidance of steep slope areas
+. Improper uses and disturbances on steep slopes may cause erosion, lead to structural failure, and increase downstream flooding and other hazards. The provisions in this subsection are intended to reduce potential for hazards due to slope failure, reduce potential for increased erosion and sedimentation, as well as preserve the visual quality of steep slope areas, which are a valuable natural and economic resource in the county. Where steep slope areas exist, the following shall apply:
+A.
+The USGS quadrangle maps shall be used to delineate steep slope areas on the site analysis map. A field-prepared or aerial topographic survey of greater accuracy (two (2) feet or smaller contour interval), having a scale of not less than one (1) inch equals one hundred (100) feet, certified by a licensed surveyor or professional engineer may also be used.
+B.
+Slope shall be computed on the existing slope of the land before any grading for the proposed development has commenced, as determined from the topographic survey.
+VII.
+Geologic hazard areas.
+Geologic hazard areas have the potential to pose hazards to human life and safety and to property due to their geologic characteristics. Geologic hazard areas in the county include but are not limited to landslide areas, avalanche chutes, debris fans, rock falls, and areas with potentially unstable soils or slopes. This subsection is intended to ensure that new development avoids these geologic hazard areas to the maximum extent feasible. Where it is not possible for development to avoid these areas, standards are provided to reduce or minimize the potential impacts of the hazard on the occupants of the property and the occupants of adjacent properties, and to reduce or minimize the environmental impacts of development in these areas.
+A.
+Delineation of geologic hazard areas. The standards in this section apply to those areas delineated on the La Plata County Geologic Hazards Maps, prepared by the Colorado Geological Survey (CGS) that depicts the location of geologic hazard areas and parcels where field verification by a professional geologist determines the parcel contains geologic hazards although the Geologic Hazard Maps may not reveal such hazards. Conversely, if the Geological Survey maps indicate the parcel is in the location of a geologic hazard area and the applicant provides a field survey by a professional geologist which demonstrates no hazards or minimal hazards that do not require mitigation, the director may accept the field verification and waive compliance with this section’s mitigation requirements.
+B.
+Mitigation plan required. Applicants proposing development within a mapped or identified geologic hazard area shall prepare and submit a mitigation plan prepared by a professional geologist that addresses how such development will either avoid or substantially mitigate the identified hazard. The plan shall identify how to avoid the creation or increase in the severity of adverse impacts on adjacent properties, including county roadways, as a result of the development.
+C.
+Referral to CGS. The county shall refer all applications for new development within an identified geologic hazard area, and mitigation plan, to the Colorado Geological Survey (CGS) for review and comment.
+1.
+CGS will review the application and provide comments to staff. The review shall be used to determine if the mitigation plan for the proposed development reduces or minimizes the potential impacts of the hazards on the occupants of the property and the occupants of adjacent properties, and to reduce or minimize the environmental impacts of development in the area.
+2.
+If CGS determines the applicant has not adequately addressed geologic hazards on the property, or that the application is otherwise incomplete or inadequate, staff shall require the applicant to revise the application to properly address the CGS’s comments and concerns or a qualified consultant retained by the county pursuant to section 66-11.
+D.
+Geologic hazard area development standards. No development shall expose persons (including emergency service personnel or neighboring properties) to significant and unmitigated dangers or risk or be located or designed in a manner that imposes a substantial burden on the resources of the county. Development may be permitted in a geologic hazard area if the development complies with the following minimum requirements and standards:
+1.
+When the collection and submittal of data, and design of structural or mechanical elements are required by this subsection VII, the data and design shall be certified by a professional engineer, or by a professional geologist. Such designs shall be based on site-specific geotechnical analyses and recommendations, including, where appropriate, a geotechnical analysis of adjacent properties that may be impacted by the development.
+2.
+The development shall not cause or intensify adverse natural conditions in a geologic hazard area, whether on-site or off-site. Site planning and engineering methods shall substantially mitigate any potential hazards to public health, safety, and welfare, including but not limited to the following, where applicable:
+a.
+Except as described in subsection 70-8.XI. pertaining to steep slopes, driveways and subdivision roads shall avoid geologic hazard areas to the maximum extent feasible;
+b.
+Above ground utility facilities located in the hazard area shall be protected by barriers or diversion techniques. The determination to locate utility facilities above ground shall be based on the recommendations and requirements of the utility service provider and approved by the county. The activities associated with the development that increase the existing grade of a potentially unstable slope or slide area, or that remove vegetation or other natural support materials that contribute to site stability are prohibited.
+c.
+When the proposed location of development alone will not provide adequate protection for people and structures from geologic hazards, then the applicant shall also comply with construction practices recommended by a professional engineer, or by a professional geologist, to artificially stabilize, support, buttress, or retain the potential hazard area, and to control surface and subsurface drainage that affects the area. The proposed locations, dimensions, and specification of such mitigation measures and other protective measures shall be included in the application.
+d.
+When a geological hazard cannot be avoided, the development shall be restricted to those areas on the property that are subject to the least degree of potential hazard and has been located as far away as possible from landslide paths.
+3.
+As a condition of approval of the proposed development, all plats, the applicable land use permit, and the applicable document that approves the application shall contain appropriate language approved by the county to identify and disclose any geologic hazard.
+4.
+If the design or mitigation measures will result in an alteration of the natural drainage of surface water, including mud or debris, the applicant shall obtain a drainage easement from impacted downstream property owners. A natural watercourse may be used as a conduit or outlet for the drainage so long as the augmented flow will not tax the stream beyond its capacity and cause flooding of adjacent properties. The applicant may be required to mitigate impacts off-site.
+E.
+Development in avalanche hazard areas. Development may be permitted in an avalanche hazard area if the development complies with the following minimum requirements and standards, as certified by a professional engineer:
+1.
+Building construction shall be certified to withstand avalanche impact and static loads and otherwise protected by external avalanche defense structures that have been similarly certified;
+2.
+Driveways and subdivision roads shall avoid areas where avalanches have return periods of fewer than ten (10) years;
+3.
+Clear cutting or other large-scale removal of vegetation is prohibited in avalanche path starting zones, or in other locations that can increase the potential avalanche hazard on the parcel.
+F.
+Development in landslide hazard areas. Development may be permitted to occur in landslide hazard areas only if the development complies with the following minimum requirements and standards, as certified by a professional engineer:
+1.
+Development shall comply with recommended construction practices to artificially stabilize, support, buttress, or retain the potential slide area and to control surface and subsurface drainage that affects the slide area.
+2.
+The following development activities shall be prohibited in landslide hazard areas:
+a.
+Activities that add water or weight to the top of the slope, or along the length of the slope, or otherwise decrease the stability of the hazard area. Measures and structural improvements to permanently control surface and subsurface drainage from the development shall be required;
+b.
+Activities that remove vegetation or other natural support material that contributes to its stability;
+c.
+Activities that increase the steepness of a potentially unstable slope;
+d.
+Activities that remove the toe of the landslide, unless adequate mechanical support is provided.
+G.
+Development in rockfall hazard areas. Development may be permitted to occur in rockfall hazard areas only if the applicant demonstrates that the development cannot avoid such areas and the development complies with the following minimum requirements and standards, as certified by a professional engineer:
+1.
+Development shall comply with recommended construction practices to minimize the degree of hazard. Construction practices may include without limitation:
+a.
+Stabilizing rocks by bolting, gunite application (cementing), removal of unstable rocks (scaling), cribbing, or installation of retaining walls;
+b.
+Slowing or diverting moving rocks with rock fences, screening, channeling, damming, or constructing concrete barriers or covered galleries;
+c.
+Installation of structural barriers around vulnerable structures to prevent rock impact.
+2.
+The following development activities shall be prohibited in rockfall hazard areas:
+a.
+Activities that add water or weight to, or otherwise decrease the stability of, cliffs or overhanging strata;
+b.
+Activities that will reduce stability, including activities that remove vegetation or other natural support material, or that require excavation, or cause erosion that will remove underlying support to a rockfall hazard area.
+H.
+Development in alluvial fan hazard areas. Development shall only be permitted to occur in an alluvial fan if the applicant demonstrates the development cannot avoid such areas, and the development complies with the following minimum requirements and standards, as certified by a professional engineer:
+1.
+Development shall be protected using structures or other measures on the uphill side that channel, dam, or divert the potential mud or debris flow.
+2.
+Disturbance shall be prohibited in the drainage basin above an alluvial fan, unless an evaluation of the effect on runoff and stability of the fan and on the groundwater recharge area shows that disturbance is not substantial or can be successfully mitigated.
+I.
+Slope development.
+1.
+Slopes twenty (20) percent or greater. Development on slopes twenty (20) percent or greater shall only be permitted to occur if the applicant demonstrates the development complies with the following minimum requirements and standards, as certified by a professional engineer or professional geologist:
+a.
+Building lots with twenty (20) percent or greater slope shall require a special engineering study to establish the feasibility of development proposed for the site. The study shall address feasibility of construction required for the use and describe the mitigation measures to be used to overcome excessive slope problems.
+2.
+Slopes greater than thirty (30) percent. Development shall be permitted to occur on slopes greater than thirty (30) percent only if the applicant demonstrates that the development cannot avoid such areas and the development complies with the following minimum requirements and standards, as certified by a professional engineer or professional geologist:
+a.
+Cutting, filling, and other grading activities shall be confined to the minimum area necessary for construction.
+b.
+Development shall be located and designed to follow natural grade, rather than adjusting the site to fit the structure. Roads and driveways built to serve the development shall follow the contours of the natural terrain and, if feasible, shall be located behind existing landforms.
+3.
+Development on unstable or potentially unstable slopes. If a parcel is identified as having moderate or extremely unstable slopes, then development shall be permitted only if the applicant demonstrates that the development cannot avoid such areas and the development complies with geotechnical design and construction stabilization and maintenance measures, as certified by a professional engineer.
+a.
+Cutting into the slope is prohibited without provision of adequate mechanical support.
+b.
+Adding water or weight to the top of the slope, or along the length of the slope, is prohibited.
+c.
+Vegetation shall not be removed from the slope unless the integrity of the slope can be adequately maintained.
+4.
+Development on talus slopes. Development shall be permitted to occur on a talus slope only if the applicant demonstrates that the development cannot avoid such areas, and the development complies with the following minimum requirements and standards, as certified by a professional engineer or a professional geologist:
+a.
+The development shall be designed to withstand down slope movement;
+b.
+The design shall include buried foundations and utilities below the active talus slope surface;
+c.
+Site disturbance shall be minimized to avoid inducing slope instability;
+d.
+The toe of a talus slope shall not be removed unless adequate mechanical support is provided.
+J.
+Development on corrosive or expansive soils and rock. Development in areas with corrosive or expansive soils and rock shall be designed based upon an evaluation of the development’s effect on slope stability and shrink-swell characteristics. Development shall be permitted only if the applicant demonstrates that the development cannot avoid such areas and the development complies with design, construction stabilization, and maintenance measures certified by a professional engineer, or professional geologist.
+1.
+Surface drainage shall be directed away from foundations.
+2.
+Runoff from impervious surfaces shall be directed into natural drainages or otherwise on-site in a manner that does not create or increase adverse impacts to the development site or other property.
+K.
+Development in mudflow or debris flow areas. Development shall be permitted in a mudflow or debris flow area only if the applicant demonstrates that the development cannot avoid such areas, and the development adequately employs construction stabilization and mitigation and maintenance measures as designed by a professional engineer.
+VIII.
+Wildfire protection
+. All applicants for new subdivisions or PUDs located in areas identified as high to very high wildfire burn probability based upon the Colorado State Forest Service – Colorado Wildfire Risk Assessment mapping should incorporate and explain wildfire mitigation efforts in the project.
+A.
+Wildfire standards. To the maximum extent feasible, all applicants for new subdivisions or PUDs located in areas having high to very high wildfire burn probability based upon the Colorado State Forest Service – Colorado Wildfire Risk Assessment mapping shall submit an assessment identifying the level of risk of wildfire and incorporate wildfire mitigation efforts in the project on the parcel(s) subject to development. The assessment and mitigation shall be provided to Colorado State Forest Service for comments. The requirements may include, but not be limited to:
+1.
+Incorporating open space, if required by this code, in a way that also assists in providing larger defensible spaces or fire breaks between the development and adjacent sources of wildfire;
+2.
+Incorporate ongoing maintenance requirements for defensible space and other fire mitigation efforts in organization documents for the governing body, such as a homeowners’ association or as a plat note, when applicable;
+3.
+Where deemed advantageous by the applicable fire district for wildland fire fighting purposes, dedicate access and fire-fighting easements in a form acceptable to the county attorney.
+B.
+Defensible space guidelines.  All development is encouraged to follow the guidelines in the Colorado State Forest Service Quick Guide Series Fire 2012-1 Protecting Your Home from Wildfire – Creating Wildfire Defensible Zones, providing for defensible space and hardening of homes.
+IX.
+Wildlife protection
+. All applicants should incorporate and explain mitigation efforts in the project designed to protect wildlife and wildlife habitat. The applicant shall submit an assessment identifying affected wildlife habitat and corridors, and any potential conflicts created by new development. Such an assessment shall be shared with Colorado Parks and Wildlife for comments. Any fencing proposed in the affected area is encouraged to follow the fencing design plans of the Colorado Parks and Wildlife.
+X.
+Permitted uses and activities on steep slope areas (thirty (30) percent or greater)
+. Development, including but not limited to: tree removal, clearing, excavation, grading, construction, and reconstruction shall be prohibited on steep slope areas, except for:
+A.
+Passive recreation uses, including construction according to county specifications of unpaved public trails for non-motorized use only;
+B.
+Open space and other conservation uses;
+C.
+Utilities, roads, and driveways, subject to the development standards in subsection XI below;
+D.
+Silvicultural operations as required for wildfire mitigation or forest health;
+E.
+Single family homes subject to the development standards in subsection XII below.
+XI.
+Utilities, driveways, and road standards.
+The following standards apply to the installation and construction of utilities, driveways, and roads in all steep slope areas. Installation and construction of such facilities in other geohazard areas are addressed in subsection 70-8.VII:
+A.
+Utilities, driveways, and roads shall not cross steep slopes greater than fifty (50) percent;
+B.
+Roads and driveways shall be allowed to cross steep slopes of thirty (30) percent or greater, if no other alternative exists. Roads and driveways on steep slopes shall meet the following conditions:
+1.
+No alternate location for access is feasible or available;
+2.
+The cumulative length of individual segments or increments that will cross steep slope areas does not exceed twenty (20) percent of the total length of the road or driveway. The road system shall not be unnecessarily lengthened to increase the permissible amount of steep slope road sections; and
+3.
+No significant adverse visual, environmental, or safety impacts will result from the crossing, either by virtue of the design and construction of the road or driveway as originally proposed or as a result of incorporation of remedial improvements provided by the developer to mitigate such impacts.
+C.
+The applicant shall demonstrate that the slope’s ground surface and subsurface, and the proposed development, will not cause instability or increase the potential for slope failure;
+D.
+Where applicable, shared driveways shall be required to the extent reasonably feasible; and
+E.
+On steep slope areas, all utilities, driveways and roads shall follow natural contour lines to the maximum extent feasible.
+XII.
+Single family residences and accessory structures.
+New single-family subdivisions shall not establish new building areas/envelopes on steep slopes. Notwithstanding the foregoing, for existing legal lots of record, the following standards apply to the installation and construction of single-family homes and accessory structures in all steep slope areas, as allowed by this subsection:
+A.
+A geologist or professional engineer shall review and certify that the overall site geology is safe and appropriate for the proposed development; and
+B.
+A geotechnical evaluation of the structures’ site-specific character to allow the proposed structure shall be required.
+(
+Res. No.
+2020-30
+, § 70-8, 09/15/2020
+)
+Effective on: 10/1/2020

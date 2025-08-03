@@ -1,0 +1,1483 @@
+Chapter 70: General Site Development Standards Applicable to All Development
+Sec. 70-4 Domestic water
+I.
+Purpose, authority, and applicability
+.
+A.
+Purpose. Securing a reliable and safe water source for all
+development
+, while
+mitigating
+any impacts of new
+development’s
+water consumption on existing uses’ water supply, is necessary to protect the community’s health, safety, and welfare, and the continued viability of
+residential
+,
+commercial
+, and
+industrial
+development. These water quantity and quality standards, therefore, are intended to secure the continued availability of adequate,
+potable water
+to
+development
+within the county’s
+unincorporated
+territories.
+B.
+Authority. Article 20 of Title 29 and Title 30 of the Colorado Revised Statutes authorize the Board of County Commissioners to regulate the use of land in a manner that protects against adverse impacts on the community, surrounding areas, and the natural environment, consistent with constitutional rights. This authorization includes a delegation of authority to consider the impacts of development on the quantity and quality of the region’s water resources. These water quantity and quality standards are intended to protect the community’s water resources and their availability for existing and future uses and to operate parallel to and consistent with those regulations promulgated, and permits issued, by the Division of Water Resources pursuant to Title 37 of the Colorado Revised Statutes and Title 402 of the Colorado Code of Regulations.
+C.
+Applicability. These provisions apply to all development except for:
+1.
+Development not requiring a land use permit;
+2.
+Adjustments and plat modifications approved pursuant to section 66-5 which do not require a change to existing water supply or demand;
+3.
+Lot consolidations and boundary adjustments approved pursuant to section 66-5, which do not require a change to existing water supply or demand;
+4.
+Special events approved pursuant to section 66-5;
+5.
+Temporary uses approved pursuant to section 66-6;
+6.
+Conceptual development plans and sketch plans submitted pursuant to section 66-6.
+D.
+Nothing in this section 70-4 shall be construed to exempt any development from complying with the requirement for adequate fire flow set forth in chapter 34 of the county code, Fire Prevention and Protection, as the same may be amended, replaced or modified. Fulfillment of the requirements set forth in chapter 34 may be a condition of approval for all development projects.
+II.
+Water demand estimate and criteria
+. At the time of project submittal, all development subject to these water quantity and quality standards must provide the county with a representative estimate of the development’s peak daily water demand during a period of sustained water usage, according to either the stated requirements set forth in this subsection II or based upon completion of a site-specific water demand study. Required fire flows, if any, are not part of the water demand estimates required under this subsection II.
+Any proposed development that establishes to the director's satisfaction that the proposed project has no water demand is not required to comply with the remaining portions of this section 70-4.
+A.
+Peak daily water demand required. Estimated water demand based upon the proposed development’s peak daily water demand shall be provided.
+B.
+Demand associated with water treatment. If a given water source requires water quality treatment, the peak daily water demand shall be increased to account for the water consumed by the anticipated treatment process. The applicant shall provide a specification sheet for the treatment unit or a statement from the engineer designing the treatment system (e.g. chlorinated cistern) that estimates the water efficiency of the treatment process.
+C.
+Residential uses.
+1.
+General demand. Except as otherwise provided herein, water demand for all residential projects shall be estimated to be three hundred fifty (350) gpd per dwelling unit, which accounts for both in-house demand (e.g., drinking, cooking, bathing, and washing) and outdoor demand during peak season (e.g., landscaping and irrigation).
+2.
+Multifamily dwelling demand. Residential uses that are multifamily dwellings with an anticipated irrigated area (e.g., lawn or garden) of one thousand five hundred (1,500) square feet or less per dwelling unit (including each dwelling unit’s individual private irrigated area and its pro rata share of any irrigable common areas or open space) shall be subject to the following calculations:
+a.
+The minimum daily quantity requirement for
+landscaping
+or irrigation demand is 0.105 gallons per square foot per day.
+b.
+The general
+residential
+demand estimate of three hundred fifty (350) gpd may be reduced by 0.105 gallons per square foot, for each square foot of irrigated area less than one thousand five hundred
+(1,500), as illustrated below.
+a.
+Figure 70-4: Residential Demand Estimate
+b.
+20’ x 40’ = 800f2 irrigable lawn
+c.
+1,500 f2 - 800 f2 = 700 f2
+d.
+700 f2 x .105 = 74 gpd
+e.
+350 gpd -74 gpd = 276 gpd residential demand estimate
+c.
+In no instance shall the minimum indoor demand be less than one hundred ninety-five (195) gpd.
+d.
+As an alternative to the calculation set forth above in sub-subparagraphs II.C.2.a-b, an applicant proposing development of a multifamily dwelling may conduct a site-specific water demand study pursuant to paragraph II.E below.
+D.
+Nonresidential water demand.
+1.
+Calculation based on Table 70-4 A. Nonresidential water demand, including but not limited to those for all commercial and industrial uses, shall be calculated based on the proposed use, according to the rates set forth in Table 70-4 A. Table 70-4 A’s rates are cumulative. Uses implicating two (2) or more of the listed demands must include all demands to derive the total required demand.
+2.
+Alternative methods for calculation. For any proposed use not listed below, and for which a site-specific water demand study is not specifically required, during the pre-application process prior to project submittal, the applicant may choose to prepare a site-specific water demand study pursuant to paragraph II.E. below, or subject to paragraph II.E., the applicant may request that the director determine, in writing, the applicable rates by equating or approximating a proposed use’s demand based on commonality with one (1) or more uses listed below. If the director determines that the proposed use is not sufficiently comparable to a use listed in Table 70-4 A for the purpose of estimating the proposed use’s water demand, the director may require the applicant to complete a site-specific water demand study.
+Table 70-4 A. Non-residential Water Demand
+LA PLATA COUNTY NON-RESIDENTIAL WATER DEMAND
+Water Demand
+Rate
+Units
+Airport (cumulative)
+10 gpd
+Per employee
+Airport (cumulative)
+5 gpd
+Per passenger
+Barber/beauty shops
+100 gpd
+Per chair
+Campground
+50 gpd minimum
+7
+*
+Per campsite
+Commercial (no showers)
+20 gpd
+Person/per 8-hr shift
+Commercial (with showers)
+35 gpd
+Person/per 8-hr shift
+Churches
+5 gpd
+Per seat
+Daycare and preschools - Day (without cafeteria or showers)
+15 gpd
+Per person
+Daycare and preschools - Day (with cafeteria, no shower)
+20 gpd
+Per person
+Daycare and preschools - Day (with cafeteria and showers)
+25 gpd
+Per person
+Doctors office
+250 gpd
+Per doctor
+Equine or llama boarding facility
+12 gpd
+Per animal
+Event facilities with short-term or transient visitors
+5 gpd
+Per seat
+Individual fixtures - Bath/shower
+15 gpd
+8
+Per fixture
+Individual fixtures - Dishwasher
+2 gpd
+8
+Per fixture
+Individual fixtures - Kitchen sink (with garbage disposal)
+6 gpd
+8
+Per fixture
+Individual fixtures - Laundry washer
+20 gpd
+8
+Per fixture
+Individual fixtures - Lavatory
+8 gpd
+8
+Per fixture
+Individual fixtures - Toilet
+25 gpd
+8
+Per fixture
+Hospitals
+250 gpd
+Per bed space
+Hotels/motels (with private baths)
+75 gpd
+Per room
+Indoor commercial cultivation
+300 gpd
+Per 1,000 ft
+2
+of grow area
+Kennels
+30 gpd
+Per animal
+Laundries (self-service)
+400 gpd
+Per commercial washer
+Nursing homes
+250 gpd
+Per bed space
+Office buildings
+15 gpd
+Per employee/per 8-hr shift
+Outdoor irrigation/landscaping
+0.105 gpd
+Per ft
+2
+/day
+Public park - Faucet
+15 gpd
+Per fixture/ per hr open
+Public park - Flush toilet
+36 gpd
+Per fixture/ per hr open
+Public park - Urinal
+10 gpd
+Per fixture/ per hr open
+Resort (night and day)
+50 gpd
+Per person
+Restaurant (open 1 or 2 meals)
+50 gpd
+Per seat
+Restaurant (open 3 meals)
+62.5 gpd
+Per seat
+Restaurant (open 24 hours per day)
+75 gpd
+Per seat
+RV space (with hookups)*
+100 gpd*
+Per unit
+RV space (without hookups)*
+50 gpd*
+Per unit
+Self-storage
+20 gpd
+Per employee/per 8-hr shift
+Service stations
+250 gpd
+Per toilet fixture
+Stadiums, racetracks, ball parks
+5 gpd
+Per seat
+Store/shopping centers
+0.1 gpd
+Per ft
+2
+of retail space
+Swimming pools, bathhouses, and hot tubs
+10 gpd
+Per person
+⁷Table Note: For each campsite, campgrounds must provide the minimum volume of water supply required to meet the regulations established by CDPHE in 6 CCR 1010-9, as amended.
+⁸Table Note: If the director determines there is no commonality for a proposed use, the rate set forth for fixtures will be used at the primary basis for determining estimated water demand, unless a site-specific water demand study is prepared.
+*Or as may be allowed by state regulations.
+LA PLATA COUNTY NON-RESIDENTIAL WATER DEMAND
+Water Demand
+Rate
+Units
+Airport (cumulative)
+10 gpd
+Per employee
+Airport (cumulative)
+5 gpd
+Per passenger
+Barber/beauty shops
+100 gpd
+Per chair
+Campground
+50 gpd minimum
+7
+*
+Per campsite
+Commercial (no showers)
+20 gpd
+Person/per 8-hr shift
+Commercial (with showers)
+35 gpd
+Person/per 8-hr shift
+Churches
+5 gpd
+Per seat
+Daycare and preschools - Day (without cafeteria or showers)
+15 gpd
+Per person
+Daycare and preschools - Day (with cafeteria, no shower)
+20 gpd
+Per person
+Daycare and preschools - Day (with cafeteria and showers)
+25 gpd
+Per person
+Doctors office
+250 gpd
+Per doctor
+Equine or llama boarding facility
+12 gpd
+Per animal
+Event facilities with short-term or transient visitors
+5 gpd
+Per seat
+Individual fixtures - Bath/shower
+15 gpd
+8
+Per fixture
+Individual fixtures - Dishwasher
+2 gpd
+8
+Per fixture
+Individual fixtures - Kitchen sink (with garbage disposal)
+6 gpd
+8
+Per fixture
+Individual fixtures - Laundry washer
+20 gpd
+8
+Per fixture
+Individual fixtures - Lavatory
+8 gpd
+8
+Per fixture
+Individual fixtures - Toilet
+25 gpd
+8
+Per fixture
+Hospitals
+250 gpd
+Per bed space
+Hotels/motels (with private baths)
+75 gpd
+Per room
+Indoor commercial cultivation
+300 gpd
+Per 1,000 ft
+2
+of grow area
+Kennels
+30 gpd
+Per animal
+Laundries (self-service)
+400 gpd
+Per commercial washer
+Nursing homes
+250 gpd
+Per bed space
+Office buildings
+15 gpd
+Per employee/per 8-hr shift
+Outdoor irrigation/landscaping
+0.105 gpd
+Per ft
+2
+/day
+Public park - Faucet
+15 gpd
+Per fixture/ per hr open
+Public park - Flush toilet
+36 gpd
+Per fixture/ per hr open
+Public park - Urinal
+10 gpd
+Per fixture/ per hr open
+Resort (night and day)
+50 gpd
+Per person
+Restaurant (open 1 or 2 meals)
+50 gpd
+Per seat
+Restaurant (open 3 meals)
+62.5 gpd
+Per seat
+Restaurant (open 24 hours per day)
+75 gpd
+Per seat
+RV space (with hookups)*
+100 gpd*
+Per unit
+RV space (without hookups)*
+50 gpd*
+Per unit
+Self-storage
+20 gpd
+Per employee/per 8-hr shift
+Service stations
+250 gpd
+Per toilet fixture
+Stadiums, racetracks, ball parks
+5 gpd
+Per seat
+Store/shopping centers
+0.1 gpd
+Per ft
+2
+of retail space
+Swimming pools, bathhouses, and hot tubs
+10 gpd
+Per person
+⁷Table Note: For each campsite, campgrounds must provide the minimum volume of water supply required to meet the regulations established by CDPHE in 6 CCR 1010-9, as amended.
+⁸Table Note: If the director determines there is no commonality for a proposed use, the rate set forth for fixtures will be used at the primary basis for determining estimated water demand, unless a site-specific water demand study is prepared.
+*Or as may be allowed by state regulations.
+LA PLATA COUNTY NON-RESIDENTIAL WATER DEMAND
+Water Demand
+Rate
+Units
+Airport (cumulative)
+10 gpd
+Per employee
+Airport (cumulative)
+5 gpd
+Per passenger
+Barber/beauty shops
+100 gpd
+Per chair
+Campground
+50 gpd minimum
+7
+*
+Per campsite
+Commercial (no showers)
+20 gpd
+Person/per 8-hr shift
+Commercial (with showers)
+35 gpd
+Person/per 8-hr shift
+Churches
+5 gpd
+Per seat
+Daycare and preschools - Day (without cafeteria or showers)
+15 gpd
+Per person
+Daycare and preschools - Day (with cafeteria, no shower)
+20 gpd
+Per person
+Daycare and preschools - Day (with cafeteria and showers)
+25 gpd
+Per person
+Doctors office
+250 gpd
+Per doctor
+Equine or llama boarding facility
+12 gpd
+Per animal
+Event facilities with short-term or transient visitors
+5 gpd
+Per seat
+Individual fixtures - Bath/shower
+15 gpd
+8
+Per fixture
+Individual fixtures - Dishwasher
+2 gpd
+8
+Per fixture
+Individual fixtures - Kitchen sink (with garbage disposal)
+6 gpd
+8
+Per fixture
+Individual fixtures - Laundry washer
+20 gpd
+8
+Per fixture
+Individual fixtures - Lavatory
+8 gpd
+8
+Per fixture
+Individual fixtures - Toilet
+25 gpd
+8
+Per fixture
+Hospitals
+250 gpd
+Per bed space
+Hotels/motels (with private baths)
+75 gpd
+Per room
+Indoor commercial cultivation
+300 gpd
+Per 1,000 ft
+2
+of grow area
+Kennels
+30 gpd
+Per animal
+Laundries (self-service)
+400 gpd
+Per commercial washer
+Nursing homes
+250 gpd
+Per bed space
+Office buildings
+15 gpd
+Per employee/per 8-hr shift
+Outdoor irrigation/landscaping
+0.105 gpd
+Per ft
+2
+/day
+Public park - Faucet
+15 gpd
+Per fixture/ per hr open
+Public park - Flush toilet
+36 gpd
+Per fixture/ per hr open
+Public park - Urinal
+10 gpd
+Per fixture/ per hr open
+Resort (night and day)
+50 gpd
+Per person
+Restaurant (open 1 or 2 meals)
+50 gpd
+Per seat
+Restaurant (open 3 meals)
+62.5 gpd
+Per seat
+Restaurant (open 24 hours per day)
+75 gpd
+Per seat
+RV space (with hookups)*
+100 gpd*
+Per unit
+RV space (without hookups)*
+50 gpd*
+Per unit
+Self-storage
+20 gpd
+Per employee/per 8-hr shift
+Service stations
+250 gpd
+Per toilet fixture
+Stadiums, racetracks, ball parks
+5 gpd
+Per seat
+Store/shopping centers
+0.1 gpd
+Per ft
+2
+of retail space
+Swimming pools, bathhouses, and hot tubs
+10 gpd
+Per person
+⁷Table Note: For each campsite, campgrounds must provide the minimum volume of water supply required to meet the regulations established by CDPHE in 6 CCR 1010-9, as amended.
+⁸Table Note: If the director determines there is no commonality for a proposed use, the rate set forth for fixtures will be used at the primary basis for determining estimated water demand, unless a site-specific water demand study is prepared.
+*Or as may be allowed by state regulations.
+LA PLATA COUNTY NON-RESIDENTIAL WATER DEMAND
+Water Demand
+Rate
+Units
+Airport (cumulative)
+10 gpd
+Per employee
+Airport (cumulative)
+5 gpd
+Per passenger
+Barber/beauty shops
+100 gpd
+Per chair
+Campground
+50 gpd minimum
+7
+*
+Per campsite
+Commercial (no showers)
+20 gpd
+Person/per 8-hr shift
+Commercial (with showers)
+35 gpd
+Person/per 8-hr shift
+Churches
+5 gpd
+Per seat
+Daycare and preschools - Day (without cafeteria or showers)
+15 gpd
+Per person
+Daycare and preschools - Day (with cafeteria, no shower)
+20 gpd
+Per person
+Daycare and preschools - Day (with cafeteria and showers)
+25 gpd
+Per person
+Doctors office
+250 gpd
+Per doctor
+Equine or llama boarding facility
+12 gpd
+Per animal
+Event facilities with short-term or transient visitors
+5 gpd
+Per seat
+Individual fixtures - Bath/shower
+15 gpd
+8
+Per fixture
+Individual fixtures - Dishwasher
+2 gpd
+8
+Per fixture
+Individual fixtures - Kitchen sink (with garbage disposal)
+6 gpd
+8
+Per fixture
+Individual fixtures - Laundry washer
+20 gpd
+8
+Per fixture
+Individual fixtures - Lavatory
+8 gpd
+8
+Per fixture
+Individual fixtures - Toilet
+25 gpd
+8
+Per fixture
+Hospitals
+250 gpd
+Per bed space
+Hotels/motels (with private baths)
+75 gpd
+Per room
+Indoor commercial cultivation
+300 gpd
+Per 1,000 ft
+2
+of grow area
+Kennels
+30 gpd
+Per animal
+Laundries (self-service)
+400 gpd
+Per commercial washer
+Nursing homes
+250 gpd
+Per bed space
+Office buildings
+15 gpd
+Per employee/per 8-hr shift
+Outdoor irrigation/landscaping
+0.105 gpd
+Per ft
+2
+/day
+Public park - Faucet
+15 gpd
+Per fixture/ per hr open
+Public park - Flush toilet
+36 gpd
+Per fixture/ per hr open
+Public park - Urinal
+10 gpd
+Per fixture/ per hr open
+Resort (night and day)
+50 gpd
+Per person
+Restaurant (open 1 or 2 meals)
+50 gpd
+Per seat
+Restaurant (open 3 meals)
+62.5 gpd
+Per seat
+Restaurant (open 24 hours per day)
+75 gpd
+Per seat
+RV space (with hookups)*
+100 gpd*
+Per unit
+RV space (without hookups)*
+50 gpd*
+Per unit
+Self-storage
+20 gpd
+Per employee/per 8-hr shift
+Service stations
+250 gpd
+Per toilet fixture
+Stadiums, racetracks, ball parks
+5 gpd
+Per seat
+Store/shopping centers
+0.1 gpd
+Per ft
+2
+of retail space
+Swimming pools, bathhouses, and hot tubs
+10 gpd
+Per person
+⁷Table Note: For each campsite, campgrounds must provide the minimum volume of water supply required to meet the regulations established by CDPHE in 6 CCR 1010-9, as amended.
+⁸Table Note: If the director determines there is no commonality for a proposed use, the rate set forth for fixtures will be used at the primary basis for determining estimated water demand, unless a site-specific water demand study is prepared.
+*Or as may be allowed by state regulations.
+3.
+Site-specific water demand study.
+e.
+Alternative to standard requirements. As an alternative to the standard water demand rates set forth in paragraph II.D. above, a site specific water demand study may be prepared by the applicant to quantify the amount of water that will reasonably be required to serve the proposed development. Applicants may seek review and comment of the study from the planning engineer during the pre-application process prior to project submittal.
+f.
+Site-specific water demand study required for certain development. At the director’s discretion, a site-specific water demand study may be required for any proposed development not identified in Table 70-4 A. Applications proposing the following types of development shall prepare a site-specific water demand study and may not request a director determination letter based on commonality with existing estimates:
+a.
+Mineral extraction;
+b.
+Landfills and recycling centers;
+c.
+Batch Plants;
+d.
+Any use regulated by the county pursuant to C.R.S. §§ 24-65.1-101
+et seq
+., Areas and Activities of State Interest;
+e.
+Breweries, distilleries, cideries, and wineries.
+g.
+A site-specific water demand study shall fulfill the following minimum requirements:
+a.
+Preparation and stamp by a professional engineer or preparation by a certified professional geologist or professional hydrologist.
+b.
+Contents. A site-specific water demand study with the following information:
+i.
+The water source;
+ii.
+The number of square feet of land surface to be irrigated (if any);
+iii.
+Plant types and amounts (if any);
+iv.
+Estimates of plant/crop evapotranspiration and application efficiency of irrigation water;
+v.
+Itemized estimates of the water demands of any other activities, individual fixtures, or equipment associated with the proposed
+development;
+vi.
+Itemized quantification of projected water demand.
+c.
+It is the county’s policy to encourage all development to establish water conservation measures. Preparation of a conservation plan, including specific measures to reduce water demand, is encouraged for all site-specific water demand studies.
+F.
+Criteria for verification of legal water supply.
+Unless specifically excepted herein, all development must demonstrate proof of a legal water supply. Verification requirements for the water supply are set forth in this section. Development that fails to demonstrate an adequate legal supply to meet its water demand at full buildout shall not be approved.
+1.
+Service by existing
+public water provider
+or
+designated regional public water provider
+.
+a.
+Adequate legal water supply for the
+development
+may be established as follows:
+a.
+At project submittal, written confirmation from an existing public water provider or designated regional public water provider stating that such provider has the physical and legal capacity to serve the development and is willing to provide a water supply sufficient for build-out of the proposed development, including the information required in paragraph IV.A below if applicable.
+b.
+Signed commitments of firm water delivery (such as a perpetual, non-revocable tap reservation) or evidence of tap purchases from the existing public water provider or designated regional public water provider prior to permit issuance or final plat recording.
+b.
+Requirement to connect to water system.
+a.
+General requirement, all development within four hundred (400) feet of a water main of a public water system or designated regional public water system shall connect to such system, unless the applicable provider certifies, in writing, that the system lacks sufficient capacity to serve the development; or the connection would be technically impracticable; or the provider otherwise refuses to serve the development.
+b.
+The distance from the development to the applicable water main shall be measured in a direct line from the nearest point on the development’s property line to any water main of the applicable provider’s distribution system.
+2.
+Other development. For development proposing service by any means other than an existing public water system or by a designated regional public water provider, a legal water supply may be established at project submittal through verification, by the Colorado State Engineer's Office, Division of Water Resources, of the applicant's water rights and/or permanent water well permit and any augmentation plan(s) or other decreed water rights. For subdivisions, legal water shall be established by providing a well permit for the well that was used to verify physical water supply per subsection IV below, as well as positive comments from the Colorado State Engineer's Office, Division of Water Resources that the remainder of the subdivision has the ability to obtain well permits in the future. Plans relying on a temporary or substitute water supply shall be deemed not to meet the requirements of this section.
+G.
+Criteria for verification of physical water supply.
+At project submittal, all development subject to these provisions, except for accessory uses with no additional water demand, shall demonstrate a water supply adequate to meet the development’s estimated demand rate, as calculated pursuant to subsection II above, according to the following standards.
+1.
+Service by existing public water provider or designated regional public water provider for developments with demand exceeding 9,750 gallons per day. For developments exceeding 9,750 gallons per day proposing to use water from an existing public water provider or designated regional public water provider, written confirmation that the provider has the physical capacity to serve the development and is willing to provide a water supply sufficient for build-out. Such written confirmation must be provided in a report or letter prepared by a professional engineer or by a water supply expert, acceptable to the county, from the public water or designated regional public water provider and must include the following:
+a.
+An estimate of the water demand requirements for the development through build-out conditions.
+b.
+A description of the physical source of water supply to be used to serve the development.
+c.
+An estimate of the amount of water yield projected from the proposed water supply under various hydrologic conditions.
+d.
+The present demand on the water provider and the anticipated demand due to commitments for service entered into but not yet supplied.
+e.
+The amount of uncommitted firm supply the provider has available for future commitment and development.
+f.
+Water conservation measures, if any, that may be implemented within the development.
+g.
+Water demand management measures, if any, that may be implemented to account for hydrologic variability.
+h.
+A summary of the water rights owned and controlled by the provider.
+The specific requirements set forth in this paragraph IV.A may be waived by the county’s planning engineer if a water supply plan is on file with the county for the applicable water provider and such plan has been reviewed and updated, if appropriate, within the past ten (10) years by the governing board of the public water provider or designated regional public water provider, has a minimum twenty (20) year planning horizon and otherwise meets the requirements of C.R.S. § 29-20-304, as amended from time to time.
+2.
+Groundwater. For development proposing to use groundwater from a source other than an existing public water provider or designated regional public water provider subject to paragraph IV.A, aquifer data and/or testing shall be required, the scope and duration of which shall be determined based upon the development’s estimated water demand. For phased development, when the cumulative water demand of any previously approved phase(s) and/or the current proposed phase meets or exceeds any of the tiered thresholds set forth in this paragraph IV.B, the applicant shall establish adequate water supply by completing additional tests or reports (i.e. well aquifer constant-rate tests or a comprehensive hydrogeologic report, based on aquifer testing and a water balance estimate), as appropriate.
+a.
+Basic standards for adequate supply. An adequate water supply for the
+development
+shall be demonstrated through satisfaction of the following and other applicable criteria set forth in this paragraph IV.B:
+a.
+Recovery data demonstrates the water level recovered to within ninety (90) percent of the total drawdown within two (2) times of the pumping duration during the aquifer test. If recovery is deficient, a professional engineer or a professional geologist may provide supplemental data to demonstrate adequate recharge to the well.
+b.
+Pumping rates do not vary more than ten (10) percent over the duration of the test.
+c.
+The well can maintain a minimum average pumping rate of two and two-tenths (2.2) gpm over the prescribed duration of pumping.
+b.
+Development with estimated demand of one thousand fifty (1,050) gpd or less. For development with an estimated water demand of one thousand fifty (1,050) gpd or less, the applicant shall provide the following information and/or perform the following testing:
+a.
+For development of additional dwelling units subject to director determination approval pursuant to subparagraph 66-4.I.A or minor permit approval pursuant to subparagraph 66-6.I.B, for which an existing well (whether an individual groundwater well or a micro water system) has been in operation for one (1) year or more and is located on a portion of the development, and where the anticipated development will not increase the water demand of current uses, the applicant shall provide:
+i.
+A copy of the well’s pump installation report.
+ii.
+A copy of the well’s
+construction
+and test report, or a statement from a well driller, pump installer,
+professional engineer
+or
+professional geologist
+who has constructed, serviced, or tested the well, describing the well's production capabilities.
+If the information listed above is not available, or if it indicates the well may not be capable of producing a minimum sustainable yield of two and two-tenths (2.2) gpm, the applicant shall perform a single well aquifer constant-rate test according to the specifications set forth below in subparagraph IV.B.2.b.
+b.
+For all other wells (whether an individual groundwater well or a micro water system) serving development with an estimated demand of one thousand fifty (1,050) gpd or less, the applicant shall perform a single well aquifer constant-rate test within one (1) year prior to the county land use application submittal date according to the following specifications:
+i.
+The test shall be conducted for a minimum of eight (8) continuous hours.
+ii.
+The test shall follow the protocol requirements outlined under subparagraph IV.B.4 below.
+iii.
+The well tested must be located on the subject property.
+iv.
+The test shall be conducted by a licensed well driller, licensed pump installer, or by the landowner with oversight and certification by a
+professional engineer
+.
+c.
+Development with an estimated demand of more than one thousand fifty (1,050) gpd. For development with an estimated water demand of more than one thousand fifty (1,050) gpd, the applicant shall submit a comprehensive hydrogeologic report prepared by a professional engineer or professional geologist, based on aquifer testing and a water balance estimate. The report shall include estimates based on the test data of the underlying aquifer's hydraulic conductivity, transmissivity, storage coefficient or specific yield, and the distance from the well that appreciably zero (0) drawdown is anticipated to occur. The report shall include water conservation measures, if any, that may be implemented within the development and water demand management measures, if any, that may be implemented within the development to account for hydrologic variability.
+a.
+Basic testing requirements:
+i.
+An
+aquifer constant-rate test
+with at least one (1)
+production well
+and one (1)
+observation well
+. Existing wells meeting the standards specified in subparagraph IV.B.4.a(iii) below may be used with their owners’ written permission.
+ii.
+The test shall be conducted for a minimum of twenty-four (24) continuous hours.
+iii.
+The test shall be supervised by a
+professional engineer
+or
+professional geologist
+, in coordination with the county’s
+planning engineer
+. The county’s
+planning engineer
+shall approve the proposed locations of all
+production
+and
+observation wells
+and determine whether any additional testing, as set forth in sub-subparagraph IV.B.3.b below, may be required.
+iv.
+The test shall follow the protocol requirements outlined under subparagraph IV.B.4 below.
+b.
+Additional testing requirements. The need for any additional testing requirements, including but not limited to an aquifer step test, additional duration, or additional production
+or
+observation wells shall be determined by the county's planning engineer in coordination with the applicant’s professional engineer
+or
+professional geologist. Factors used to determine the number of production
+and
+observation wells shall include:
+i.
+Aquifer
+and geological characteristics (i.e. hydrogeologic setting);
+ii.
+Project
+acreage;
+iii.
+Anticipated water demands and type of proposed
+development
+;
+iv.
+Neighboring parcels’ water uses and water sources.
+c.
+Contents of hydrogeologic report. The hydrogeologic report shall include, at a minimum, the following information and analyses:
+i.
+Geological maps, cross-sections, and descriptions of the
+aquifer
+systems proposed for production, including information concerning the probable hydrogeologic boundaries,
+recharge areas
+, and location of discharge of those aquifers.
+ii.
+Maps and cross-sections showing the depth to the water, and the estimated saturated thickness in the aquifers.
+iii.
+Identification of the nature of the
+aquifer
+geology (e.g. bedrock formation, alluvial deposit, or unconsolidated material) and the type of
+aquifer
+(e.g. confined, unconfined, or semi-confined).
+iv.
+A water budget of the
+aquifer
+demonstrating that the overall
+depletion
+rate of the
+aquifer
+will not exceed the recharge rate, excluding recharge from regional and/or
+adjacent
+irrigation on other properties. Recharge from irrigation and/or other sources on the
+development
+may be considered if the
+applicant
+can reasonably assure their continued practice and permanence after
+development
+of the
+parcel
+. Such assurance may take the form of a deed restriction or substantially similar mechanism acceptable to the county’s
+planning engineer
+. The
+depletion
+rate must include current and probable future demands on the
+aquifer
+. Probable future demands must include any
+development
+which has obtained land
+use
+approval or has valid existing
+vested rights
+but has not yet been completed.
+v.
+Probable yields of the proposed well(s), based on
+aquifer test
+analysis, calculated
+aquifer
+characteristics, description of possible hydrologic boundaries, historic water level changes, and logs and yields of existing wells (on-site proximate).
+vi.
+A projection of
+drawdown
+on properties that may be affected by the proposed withdrawals.
+d.
+Time period for validity of hydrogeologic report.
+i.
+The
+aquifer constant-rate test
+relied upon for the hydrogeologic report must have been completed within one (1) year of the hydrogeologic report’s submittal date.
+ii.
+A completed hydrogeologic report that was approved and/or accepted by the Planning Department shall be valid for a period of two (2) years from the submittal date of the report; provided, that: (a) the previously completed hydrogeologic report meets all requirements listed in this paragraph IV.B; and (b) the proposed demand is substantially the same as the original
+development
+plan based on factors including, but not necessarily limited to: the type of
+development
+; total, daily, peak, and seasonal demands that are less than or equal to the previous application; the same physical and legal water supply; and overall water balance and total recharge validity.
+iii.
+For a completed hydrogeologic report that was approved and/or accepted by the Planning Department and is between two (2) and five (5) years old, the requirements set forth in subparagraph IV.B.3.d(ii) above must be satisfied and a current twenty-four (24) hour
+aquifer constant-rate test
+and a condensed report must be completed to supplement the existing hydrogeologic report. The condensed report shall compare the original and current
+aquifer tests
+to verify that
+aquifer
+and/or well conditions have not changed as to
+static water level
+, duration of test, pumping rate, rate of drawdown, and recovery.
+iv.
+Hydrogeologic reports older than five (5) years will not be accepted.
+d.
+Aquifer testing protocol. All aquifer testing conducted pursuant to this paragraph IV.B shall adhere to the following requirements:
+a.
+Well construction.
+i.
+All production and
+observation wells
+shall be constructed by a well driller licensed by the Colorado State Board of Examiners of Water Well Construction and Pump Installation Contractors.
+ii.
+The licensed driller drilling any well intended to satisfy the provisions of this section shall prepare a well construction and test report for each production and
+observation well
+drilled, which shall include the following documents:
+I.
+Submission of a supplemental county well test data form and copies of all well construction and testing reports (Form No. GWS-32, as amended) and pump installation and test reports (Form No. GWS-31, as amended) that have been submitted to the State Engineer's Office.
+II.
+Detailed completion of section 5, Geologic Log of the GWS-31 form, as amended, including accurate log notations of the depth(s) at which water is encountered.
+III.
+Detailed completion of Colorado State Engineer’s Office Form No. GWS-31 Well Construction and Test Report, as amended, or a facsimile thereof.
+iii.
+Observation wells
+shall be drilled to a depth similar to the depth of the
+production well
+and should screen at a minimum eighty (80) percent of the same interval screened in the
+production well
+.
+b.
+Measuring rates. For discharge rates of thirty (30) gpm or less, volumetric measurement using a minimum five (5) gallon sized calibrated bucket and a stopwatch is acceptable. For discharge rates of water over thirty (30) gpm, a calibrated flow meter or a comparable measuring device approved by the planning engineer (e.g., orifice plate and manometer, magnetic flowmeter, ultrasonic meters, cutthroat flume, or Parshall flume, etc.) shall be used.
+c.
+Measuring water level. Water levels must be measured with a device that measures water levels within one-fourth (1/4) of an inch. The static water levels in all test wells must be recorded before pumping begins.
+d.
+Water level measurement intervals. The water level measurement intervals set forth below in Table 70-4 B. shall be used for all aquifer constant-rate tests.
+Table 70-4 B: Minimum Recording Intervals for Water Level Testing in the Production Well During an Aquifer Constant Rate Test/Measuring Recovery Level Data
+TABLE 70-4 B: MINIMUM RECORDING INTERVALS FOR WATER LEVEL TESTING IN THE PRODUCTION WELL DURING AN AQUIFER CONSTANT RATE TEST/MEASURING RECOVERY LEVEL DATA
+Time of Aquifer Constant Rate Test
+Recording Interval
+0 to 5 minutes
+Every 1 minutes
+6 to 10 minutes
+Every 2 minutes
+11 to 60 minutes
+Every 5 minutes
+61 to 120 minutes
+Every 15 minutes
+121 to 240 minutes
+Every 30 minutes
+241 to 600 minutes
+Every 60 minutes
+601 to 1,440+ minutes
+Every 120 minutes
+TABLE 70-4 B: MINIMUM RECORDING INTERVALS FOR WATER LEVEL TESTING IN THE PRODUCTION WELL DURING AN AQUIFER CONSTANT RATE TEST/MEASURING RECOVERY LEVEL DATA
+Time of Aquifer Constant Rate Test
+Recording Interval
+0 to 5 minutes
+Every 1 minutes
+6 to 10 minutes
+Every 2 minutes
+11 to 60 minutes
+Every 5 minutes
+61 to 120 minutes
+Every 15 minutes
+121 to 240 minutes
+Every 30 minutes
+241 to 600 minutes
+Every 60 minutes
+601 to 1,440+ minutes
+Every 120 minutes
+TABLE 70-4 B: MINIMUM RECORDING INTERVALS FOR WATER LEVEL TESTING IN THE PRODUCTION WELL DURING AN AQUIFER CONSTANT RATE TEST/MEASURING RECOVERY LEVEL DATA
+Time of Aquifer Constant Rate Test
+Recording Interval
+0 to 5 minutes
+Every 1 minutes
+6 to 10 minutes
+Every 2 minutes
+11 to 60 minutes
+Every 5 minutes
+61 to 120 minutes
+Every 15 minutes
+121 to 240 minutes
+Every 30 minutes
+241 to 600 minutes
+Every 60 minutes
+601 to 1,440+ minutes
+Every 120 minutes
+TABLE 70-4 B: MINIMUM RECORDING INTERVALS FOR WATER LEVEL TESTING IN THE PRODUCTION WELL DURING AN AQUIFER CONSTANT RATE TEST/MEASURING RECOVERY LEVEL DATA
+Time of Aquifer Constant Rate Test
+Recording Interval
+0 to 5 minutes
+Every 1 minutes
+6 to 10 minutes
+Every 2 minutes
+11 to 60 minutes
+Every 5 minutes
+61 to 120 minutes
+Every 15 minutes
+121 to 240 minutes
+Every 30 minutes
+241 to 600 minutes
+Every 60 minutes
+601 to 1,440+ minutes
+Every 120 minutes
+e
+Prevention of return flow during aquifer tests. The water discharged from a well during any aquifer test must be discharged in a manner that minimizes recharge to the source aquifer during the time of testing.
+f
+Recovery test. Once the aquifer constant-rate test is completed a recovery test shall be performed. Water level recovery data shall be recorded in the same manner and on the same form as the aquifer test data, with time and depth measurements taken pursuant to Table 70-4 B above. Recovery tests shall be conducted for a minimum of one-half (1/2) the duration of the aquifer test, or until the static water level recovers ninety (90) percent of the total drawdown during the aquifer test, whichever is greater.
+C
+Surface water. Development proposing to utilize a surface water system from a source other than an existing public water provider or designated regional public water provider subject to paragraph IV.A shall comply with the requirements set forth below.
+a.
+Firm yield analysis. The applicant shall submit a firm yield analysis which satisfies the following criteria:
+a.
+Prepared by a professional engineer, professional hydrologist or professional geologist;
+b.
+Demonstrate that any adjudicated water rights, and any water storage, are sufficient in terms of quantity and seniority to meet the development’s estimated demand (including cumulative demand for any phased development with previously approved phases), as calculated pursuant to subsection II above, in times of minimum stream flows or reservoir levels;
+c.
+Minimum stream flows or reservoir levels shall be determined by using the lowest recorded data. If actual historical data is insufficient, estimated data may be utilized using the engineer’s best professional judgment; and
+d.
+Include water conservation measures, if any, that may be implemented within the development and water demand management measures, if any, that may be implemented within the development to account for hydrologic variability.
+V
+Water quality standards.
+Except development exempt from this subsection V, as specified in paragraph V.A, all development subject to these provisions must submit, with its project submittal, water quality data according to the requirements below. Water quality data shall be valid for no more than one (1) year from the date of the sample results and shall be taken from a water source on the subject property. These requirements are in addition to water quality requirements promulgated by CDPHE.
+1.
+Applicability/exemptions. The following development is exempt from the water quality standards set forth in this subsection V.
+a.
+Development served by an existing public water system or designated regional public water system subject to water quality testing and treatment requirements established by CDPHE.
+b.
+Accessory uses that satisfy both of the following conditions: (a) no more than two (2) employees, agents, assistants or other individuals related to the normal operations of the accessory use who do not reside at the dwelling unit will be on site for operations related to the accessory use; and (b) no customers or other members of the public will be on site for operations related to the accessory use. Any accessory use that fails to satisfy either, or both, conditions shall be subject to the standards set forth in this subsection V.
+2.
+Submittals/Certified laboratories. Applicants shall submit water quality data to the county on forms prescribed by the Planning Department and shall include the actual test results from a laboratory or laboratories certified to perform the appropriate testing by CDPHE with their submittals.
+3.
+Constituents tested. Water quality data shall include, at a minimum, the basic primary drinking water constituents set forth below in Table 70-4 C.
+Table 70-4 C: Water Quality Testing Constituents
+TABLE 70-4 C: WATER QUALITY TESTING CONSTITUENTS
+Primary Drinking Water Constituents - Testing Required
+Antimony
+Fluoride
+Arsenic
+Lead
+Barium
+Mercury
+Beryllium
+Nitrate
+Cadmium
+Nitrite
+Chromium
+Total coliforms (presence/absence)
+Copper
+Selenium
+E. coli (presence/absence)
+Thallium
+TABLE 70-4 C: WATER QUALITY TESTING CONSTITUENTS
+Primary Drinking Water Constituents - Testing Required
+Antimony
+Fluoride
+Arsenic
+Lead
+Barium
+Mercury
+Beryllium
+Nitrate
+Cadmium
+Nitrite
+Chromium
+Total coliforms (presence/absence)
+Copper
+Selenium
+E. coli (presence/absence)
+Thallium
+TABLE 70-4 C: WATER QUALITY TESTING CONSTITUENTS
+Primary Drinking Water Constituents - Testing Required
+Antimony
+Fluoride
+Arsenic
+Lead
+Barium
+Mercury
+Beryllium
+Nitrate
+Cadmium
+Nitrite
+Chromium
+Total coliforms (presence/absence)
+Copper
+Selenium
+E. coli (presence/absence)
+Thallium
+TABLE 70-4 C: WATER QUALITY TESTING CONSTITUENTS
+Primary Drinking Water Constituents - Testing Required
+Antimony
+Fluoride
+Arsenic
+Lead
+Barium
+Mercury
+Beryllium
+Nitrate
+Cadmium
+Nitrite
+Chromium
+Total coliforms (presence/absence)
+Copper
+Selenium
+E. coli (presence/absence)
+Thallium
+Further, while not mandatory, additional testing for secondary constituents listed in Table 70-4 D below is encouraged for all development.
+Table 70-4 D: Secondary Drinking Water Constituents - Testing Encouraged
+TABLE 70-4 D: SECONDARY DRINKING WATER CONSTITUENTS - TESTING ENCOURAGED
+Alkalinity
+pH
+Chloride
+Sulfate
+Iron
+Total dissolved solids
+Manganese
+Total hardness
+Nickel
+-
+TABLE 70-4 D: SECONDARY DRINKING WATER CONSTITUENTS - TESTING ENCOURAGED
+Alkalinity
+pH
+Chloride
+Sulfate
+Iron
+Total dissolved solids
+Manganese
+Total hardness
+Nickel
+-
+TABLE 70-4 D: SECONDARY DRINKING WATER CONSTITUENTS - TESTING ENCOURAGED
+Alkalinity
+pH
+Chloride
+Sulfate
+Iron
+Total dissolved solids
+Manganese
+Total hardness
+Nickel
+-
+TABLE 70-4 D: SECONDARY DRINKING WATER CONSTITUENTS - TESTING ENCOURAGED
+Alkalinity
+pH
+Chloride
+Sulfate
+Iron
+Total dissolved solids
+Manganese
+Total hardness
+Nickel
+-
+D
+Testing and treatment requirements.
+d.
+Subdivision lots served by individual groundwater wells.
+a
+Applicants
+shall test water quality for primary constituents identified in paragraph V.C above and shall provide copies of such results to the
+county
+.
+b
+If water quality results for any of the primary drinking water constituents tested under paragraph V.C above exceed the applicable MCL as enumerated by
+CDPHE
+, a
+plat
+note shall be added to the
+plat
+identifying that one (1) or more constituents exceeds the
+MCLs
+and that future
+development
+using the water tested may require treatment.
+e.
+Other development. For all other development:
+a.
+Applicants shall test water quality for primary constituents identified in paragraph V.C above and shall provide copies of such results to the county.
+b.
+If any of the primary constituents tested exceeds the applicable MCLs, as enumerated by CDPHE, the applicant shall install appropriate treatment measures and re-test the water quality to demonstrate that no constituents listed under Table 70-4 C exceed the applicable MCLs, as enumerated by CDPHE.
+VI
+Cistern and hauled water supply.
+1.
+With respect to new development, cistern and hauled water is allowed only for (y) second or third dwelling units approved pursuant to chapter 66 as a director determination, an administrative land use permit, or a minor land use permit and (z) for agricultural exempt and single (involving only two (2) lots) subdivisions; provided, when compliance with the following criteria is met.
+a.
+Unavailability of water service. The applicant must prove the unavailability of water service from a public water system or designated regional public water system if the development within four hundred feet (400) of a water main of a public water system or designated regional water system. The applicable provider must certify, in writing, that the system lacks sufficient capacity to serve the development; or the connection would be technically impracticable; or the provider otherwise refuses to serve the development.
+b.
+Unavailability of groundwater. The applicant must demonstrate to the planning engineer’s satisfaction the technological infeasibility of using groundwater by providing one (1) or more of the following:
+a.
+A driller's log, aquifer constant-rate test data, water quality data, or other information satisfactory to the planning engineer pertaining to a new or existing production or observation well on the subject property that has been drilled to a depth within five (5) percent of the depth of the nearest producing well; or
+b.
+A report from a professional engineer or a professional geologist demonstrating that a new well on the subject property will produce water from the same aquifer as neighboring well(s) based on the number of neighboring wells, the relative depth of each of the neighboring wells, aquifer constant-rate test data and the distance of the neighboring wells from the subject property.
+c.
+Factors the planning engineer may consider to determine the unavailability or technological infeasibility of using groundwater includes, but shall not be limited to, the following:
+i.
+The Division of Water Resources will not issue an
+exempt well
+permit for the
+development
+and
+augmentation water
+is unavailable.
+ii.
+An existing observation or
+production well
+on the subject property, or neighboring
+production well
+(s) pumping water from the same
+aquifer
+, produces a minimum sustainable yield of less than two and two-tenths (2.2) gpm.
+iii.
+An existing observation or
+production well
+on the subject property, or neighboring
+production well
+(s) pumping water from the same
+aquifer
+, produces poor quality water and treatment is not technically practicable.
+c.
+Execution of notice required. The applicant for any development approved to be served by bulk hauled water must sign a notice acknowledging: "La Plata County provides no assurance or representation that the use of bulk water and a cistern will be an approved or acceptable long-term source of potable water. There is no guarantee that bulk hauled water will always be available for sale, and La Plata County has no authority or jurisdiction whatsoever over water suppliers or their decision to sell water in bulk to the general public." The foregoing acknowledgment shall also be included in any covenants and as a plat note, where applicable.
+d.
+Requirement to connect to water system. At which future time a public water system or designated regional public water provider extends its water mains to within four hundred (400) feet of any development served by cisterns and hauled water, such development shall be required to connect to and use water from such public water system or designated regional public water provider’s system within eighteen (18) months of the date on which the determination of capacity and willingness to serve has been confirmed by the CDD.
+The requirement to connect shall not apply if the applicable provider certifies, in writing, that the system lacks sufficient capacity to serve the development; or the connection would be technically impracticable; or the provider otherwise refuses to serve the development. The distance from the development to the applicable water main shall be measured in a direct line from the nearest point on the development’s property line to any water main of the applicable provider’s distribution system.
+VII
+Design and construction standards and specifications for central water supply systems and micro water system.
+Except for development exempt from this subsection VII, as specified in paragraph VII.A, all future development shall meet the design and construction standards set forth in this section.
+1.
+Applicability/exemptions. The following development is exempt from the design and construction standards and specifications set forth in this subsection VII.
+a.
+Development served by an individual groundwater well(s).
+b.
+Development of additional dwelling units subject to director determination approval pursuant to paragraph 66-4.I.A.
+2.
+General requirements.
+a.
+Relevant law. All minimum standards and requirements of relevant Federal and State agencies shall be followed in design and construction.
+b.
+Easements and specifications. All water distribution systems shall be located within appropriate easements or public or private rights-of-way and shall conform, as applicable, to the specification set forth in water detail W03, Appendix A to section 70-4 - La Plata County Water Specifications and Standard Water Details, which specifications and details may be amended from time to time by the county’s planning engineer to comport with current industry standards.
+c.
+Required plan submittals and submittal procedures.
+a.
+Construction plans and specifications. All submitted construction plans and specifications shall meet the minimum formatting and content requirements set forth in water plan guidance documents made available by the CDD, which guidance documents may be amended from time to time by the planning engineer to comport to current industry standards.
+i.
+Preparation requirements. All
+construction
+plans and specifications submitted shall be:
+I.
+Completed with sufficient detail to facilitate review and clearly describe the existing conditions and proposed
+construction
+of the
+development
+in its entirety and detail all equipment,
+infrastructure
+, and
+access
+. The required detail of
+construction
+plans and specifications will depend upon the size, nature, and complexity of the
+project
+.
+II.
+Prepared under the direction of, and signed and sealed by, a
+professional engineer
+.
+ii.
+Timing of
+construction
+plan submittals.
+I.
+Preliminary
+construction
+plans. One (1) set of preliminary
+construction
+plans and specifications, in an acceptable electronic format, shall be provided at
+project
+submittal.
+II.
+Final
+construction
+plans. Prior to
+construction
+, the
+applicant
+shall submit final, approved
+construction
+plans and specifications, signed and sealed by a
+professional engineer
+.
+b.
+Capacity statement. At project submittal, applicants shall provide a statement of the maximum number of taps and/or units the central water supply system or micro water system has capacity to serve.
+c.
+Calculations. One (1) set of calculations supporting the design criteria employed shall be furnished with the preliminary and final construction plans and specifications. Each sheet of calculations shall be dated and shall include the name or initials of the individual making the calculations. All calculations shall be prepared, signed and stamped by a professional engineer.
+d.
+Development improvements agreement. For developments that choose not to construct and complete water distribution systems prior to recording of the final plat, the applicant shall enter into a development improvements agreement, pursuant to section 66-30 and be subject to the requirements set forth in section 66-30.
+3.
+Central water systems and campgrounds regulated by CDPHE.
+a.
+CDPHE review. Construction plans and specifications, meeting the design and construction standards set forth by CDPHE and the requirements set forth in subparagraph VII.B.3 above, are required at project submittal for any central water supply system regulated by CDPHE and may be sent to CDPHE for review and comment.
+b.
+Designated regional public water provider design and comment. Any development whose property is served by or located within a designated regional public water provider’s service area or whose boundaries are within four hundred (400) feet of the boundary of such service area shall design and construct its water supply system in accordance with the designated regional public water provider’s construction and design standards and specifications. The CDD will provide the designated regional public water provider with an agency referral and access to the drawings and specifications submitted by the applicant. Positive comments from that designated regional public water provider shall be obtained prior to scheduling a PC meeting.
+c.
+More stringent design standard. In circumstances where the service area of two (2) designated regional public water providers abut or overlap and/or where development is subject to both CDPHE approval and the design and construction standards of a designated regional public water provider, the more stringent design and construction standards shall apply to the development; provided, that if the more stringent standard creates a conflict or inconsistency that is reasonably anticipated to affect future provision of water by a designated regional public water provider, as determined by the county’s planning engineer, the following criteria will be used to determine which design and construction standards apply:
+a.
+When development occurs within the defined service area of only one (1) designated regional public water provider, the design and construction standards of such water provider shall control regardless of the location of a second regional public water provider.
+b.
+When development occurs within the defined service area of two (2) or more designated regional public water providers or within four hundred (400) feet of the same while being outside of the designated boundaries of any such provider, the planning engineer shall determine which design and construction standards apply, after considering the following factors:
+i.
+The ability of one of the
+designated regional public water providers
+to waive a conflicting
+standard;
+ii.
+The closest
+designated regional public water provider's
+water main
+. The distance from the
+development
+to the applicable
+water main
+shall be measured in a direct line from the nearest point on the
+development’s
+property line
+to any
+water main
+of the applicable provider’s distribution system;
+iii.
+Any town, city, or municipality’s adopted future land use map;
+iv.
+Any other factors that may reasonably affect future service to the
+development
+by a
+designated regional public water provider
+.
+d.
+Plat recording or permit issuance. Approval of the construction plans and specifications by CDPHE, or written notice that such approval is not required, must be received prior to plat recording or permit issuance. Further, installation of the central water supply system is required prior to plat recording or permit issuance unless a development improvements agreement is executed.
+4.
+Micro water providers. Micro water systems shall comply with the following:
+a.
+Designated regional public water provider design and comment. Any development whose property is served by or located within a designated regional public water provider’s service area or whose boundaries are within four hundred (400) feet of the boundary of such service area shall design and construct its micro water system in accordance with the designated regional public water provider’s construction and design standards and specifications. The CDD will provide the designated regional public water provider with an agency referral and access to the drawings and specifications submitted by the applicant. Positive comments from that designated regional public water provider shall be obtained prior to scheduling a PC meeting.
+b.
+More stringent design standard. In circumstances where the service area of two (2) designated regional public water providers abut or overlap, the more stringent design and construction standards shall apply to the development; provided, that if the more stringent standard creates a conflict or inconsistency that is reasonably anticipated to affect future provision of water by a designated regional public water provider, as determined by the county’s planning engineer, the following criteria will be used to determine which design and construction standards apply:
+a.
+When development occurs within the defined service area of only one (1) designated regional public water provider, the design and construction standards of such water provider shall control regardless of the location of a second regional public water provider.
+b.
+When development occurs within the defined service area of two (2) or more designated regional public water providers or within four hundred (400) feet of the same while being outside of the designated boundaries of any such provider, the planning engineer shall determine which design and construction standards apply, after considering the following factors:
+i.
+The ability of one of the
+designated regional public water providers
+to waive a conflicting
+standard;
+ii.
+The closest
+designated regional public water provider's
+water main
+. The distance from the
+development
+to the applicable
+water main
+shall be measured in a direct line from the nearest point on the
+development’s
+property line
+to any
+water main
+of the applicable provider’s distribution system;
+iii.
+Any town, city, or municipality’s adopted future land use map;
+iv.
+Any other factors that may reasonably affect future service to the
+development
+by a
+designated regional public water provider
+.
+c.
+County design standard. Any development not served by a designated regional public water provider whose property boundaries are more than four hundred (400) feet from a designated regional public water system’s service area shall design and construct its micro water system in accordance with the design and construction standards set forth in Appendix A to section 70-4 - La Plata County Water Specifications and Standard Water Details, which specifications and details may be amended from time to time by the county’s planning engineer to comport with current industry standards.
+d.
+System storage.  All micro water systems shall be designed to provide storage capacity to store a quantity of water sufficient to supply two (2) days of the development’s estimated daily demand.
+e.
+Meters required.
+a.
+Common source of water. Installation of a water meter (or equivalent measuring device) on the common water source of water is required for the all development subject to this paragraph VII.D.
+b.
+Individual water meters required. Where more than one (1) building or structure is served by a common water source, installation of individual water meters, to measure consumption at each building or separate structure, is required for the following types of development:
+i.
+Single-family residential
+development
+, including
+manufactured home subdivisions
+but not
+manufactured home parks
+, with four (4) or more lots;
+ii.
+Developments of multi-family dwellings with four (4) or more total
+dwelling units
+in the
+development
+; provided, that
+manufactured home parks
+are exempt from this requirement;
+iii.
+All other types of
+development
+, including but not limited to
+mixed use development;
+iv.
+Any
+single-family residential
+development
+or development of multi-family dwellings, other than
+manufactured home parks
+, regardless of size, that proposes to use a
+micro water system
+that supplies or will supply water to a total of four (4) or more lots or
+dwelling units
+, as applicable.
+f.
+Additional required plan submittals and submittal procedures. In addition to plan submittals required in subparagraph VII.B.3 above, development to be served by micro water systems and providers must submit the following additional plans:
+a.
+System maintenance plan. A system maintenance plan, which includes the following items must be submitted at project submittal:
+i.
+A list of equipment, parts, and supplies needed to ensure the
+micro water system’s
+continued mechanical functioning;
+ii.
+A regular maintenance schedule to ensure the continued safe operation of the
+micro water system;
+iii.
+Name of a person or entity responsible for carrying out the system maintenance plan.
+b.
+Soils report. If required by the planning director, a soils investigation report shall be provided with the preliminary construction plans. Sufficient subsurface exploration borings and analyses shall be made to permit the planning director to make an adequate assessment of any soil problems that may be encountered.
+c.
+Surveys. All the existing conditions, including rights-of-way easements and horizontal and vertical control information, shall be prepared by a professional land surveyor licensed in the state of Colorado.
+g.
+Construction process and project acceptance.
+a.
+Development completing construction prior to plat recording. For developments that construct and complete water distribution systems prior to recording the final plat and/or permit issuance, the applicant shall submit the following:
+i.
+Record drawings
+.
+Record drawings
+of
+water distribution systems
+, in an acceptable electronic format, and the AutoCAD file of the system. CAD files shall contain GPS points that can be easily incorporated into the county’s GIS database.
+ii.
+Engineer’s certification. The
+project
+engineer shall submit a certification that the
+micro water system
+has met the following requirements:
+I.
+The
+micro water system
+has been constructed in accordance with the approved drawings and specifications;
+II.
+The
+potable water
+lines have been disinfected in accordance with the specifications outlined in Appendix A. Bacteriological test results, demonstrating compliance with specifications outlined in Appendix A, must be submitted with the engineer’s certification;
+III.
+The hydrostatic testing has been conducted in accordance with the specifications outlined in Appendix A. Documentation of successful hydrostatic testing, demonstrating compliance with the specifications outlined must be provided with the engineer’s certification.
+VIII
+County water rights.
+1.
+06CW99 water rights. La Plata County owns conditional water rights decreed in Case No. 06CW99, which are available to provide a legal water supply in some portions of the county (Animas River, Junction Creek, and Lightner Creek watersheds) for specific decreed uses. The decree in Case No. 06CW99 and chapter 94, Article IV of this code detail the process of applying for and conveying a deeded portion of the decreed water right to an individual user to cover the stream depletions associated with their individual project.
+2.
+06CW127 water rights. La Plata County, together with the Southwestern Water Conservation District, owns conditional water rights decreed in Case No. 06CW127, which can be perfected to provide a legal water supply in some portions of the county for specific decreed uses. The decree in Case No. 06CW127 and chapter 94, Article V of this code detail the process of filing a notice of intent and perfecting and transferring increments of the conditional Animas Service Area water right to an individual user to cover the stream depletions associated with their individual project.
+(
+Res. No.
+2022-01
+, § 70-4, 01/04/2022
+)
+Effective on: 1/4/2022

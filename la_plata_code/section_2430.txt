@@ -1,0 +1,14 @@
+Chapter 18 BUILDINGS AND BUILDING REGULATIONS
+Article III. Building Codes and standards: Amendments, additions and deletions to the international codes
+Sec. 18-43
+Adoption of the 2015 International Fuel Gas Code
+The volumes, parts, chapters, and appendices of the 2015 International Fuel Gas Code, as published by the International Code Council, together with amendments, additions, and deletions as set forth in this section are hereby adopted pursuant to C.R.S. § 30-28-201(1).
+FG106.6.2 Fee schedule. Section FG106.6.2 of the 2015 International Fuel Gas Code is hereby deleted in its entirety. Fees assessed pursuant to this Code shall be governed by section
+18-35
+(109).
+(Res. No. 2017-33,  10-10-2017)
+Section 406
+Inspection, Testing and Purging
+Section 406.4.1 Test pressure. Section 406.4.1 of the 2015 International Fuel Gas Code is deleted in its entirety and replaced with the following:
+The test pressure to be used shall be not less than one and one-half (1.5) times the proposed maximum working pressure, but not less than 10 psig irrespective of design pressure.
+Effective on: 12/11/2017

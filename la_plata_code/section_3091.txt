@@ -1,0 +1,268 @@
+Chapter 70: General Site Development Standards Applicable to All Development
+Sec. 70-6 Setbacks and structure height
+I.
+Setbacks
+. The following minimum setbacks, unless otherwise specified, shall apply to structures and improvements which require a building permit:
+Table 70-6 A: Setbacks
+Table 70-6 A: Setbacks
+Lot Line
+Agricultural/Residential > 10,000sq/ft.*
+Residential Lots < 10,000sq/ft.*
+Commercial/Industrial/Mixed Use*
+All public roads or streets
+Front
+20ft.
+20ft.
+50ft.
+20ft.
+Side
+10ft.
+5ft.
+10ft.
+20ft.
+Rear
+10ft.
+5ft.
+10ft.
+20ft.
+Table 70-6 A: Setbacks
+Lot Line
+Agricultural/Residential > 10,000sq/ft.*
+Residential Lots < 10,000sq/ft.*
+Commercial/Industrial/Mixed Use*
+All public roads or streets
+Front
+20ft.
+20ft.
+50ft.
+20ft.
+Side
+10ft.
+5ft.
+10ft.
+20ft.
+Rear
+10ft.
+5ft.
+10ft.
+20ft.
+Table 70-6 A: Setbacks
+Lot Line
+Agricultural/Residential > 10,000sq/ft.*
+Residential Lots < 10,000sq/ft.*
+Commercial/Industrial/Mixed Use*
+All public roads or streets
+Front
+20ft.
+20ft.
+50ft.
+20ft.
+Side
+10ft.
+5ft.
+10ft.
+20ft.
+Rear
+10ft.
+5ft.
+10ft.
+20ft.
+Table 70-6 A: Setbacks
+Lot Line
+Agricultural/Residential > 10,000sq/ft.*
+Residential Lots < 10,000sq/ft.*
+Commercial/Industrial/Mixed Use*
+All public roads or streets
+Front
+20ft.
+20ft.
+50ft.
+20ft.
+Side
+10ft.
+5ft.
+10ft.
+20ft.
+Rear
+10ft.
+5ft.
+10ft.
+20ft.
+A.
+General setback criteria.
+1.
+The front lot line shall be that from which primary access is obtained.
+2.
+On corner lots, each right-of-way frontage shall meet front setback regulations.
+3.
+Above-grade architectural features including but not limited to: decks, eaves, attached canopies (excluding carports), or other similar features may encroach up to five (5) feet into a required setback.
+4.
+Above-grade surface equipment for propane and other utility gasoline or oil shall be setback a minimum of ten (10) feet from any right-of-way.
+5.
+Should a greenbelt or open space exist between the property line and the public right-of-way, the greenbelt or open space may be applied to the setback.
+6.
+Fences and screening, buffering, privacy, and retaining walls are exempt from these setback requirements.
+B.
+Setbacks from streams, lakes, rivers, and wetlands. Structures and improvements shall have a minimum setback of fifty (50) horizontal feet as measured from the wetlands, and bank high-water line of streams and rivers. Roads, driveways, utilities, drainage features, and fences shall comply with the fifty (50) foot setback requirement to the maximum extent practicable as determined by the director.
+C.
+Measurements.
+1.
+Front/side/rear property line. Property line setbacks shall be measured as the shortest distance between the lot or property line and the closest exterior wall or projection of a building or structure along a line at right angles to the lot or property line.
+2.
+Highway and road setbacks. For state highways, county roads and all other streets and roads, roadway setbacks are measured as the shortest distance between the edge of right-of-way and the closest exterior wall or projection of a structure or improvement. Alternately, if the width of the right-of-way is unknown, the setback shall be measured from the road center line with an additional forty (40) feet added to the minimum roadway setback requirement.
+D.
+Development prohibited within right-of-way. Development and obstructions within a county right-of-way or easement is prohibited and shall be removed by the property owner immediately upon discovery, at the owner’s expense. Failure to remove development or an obstruction within the right-of-way or easement may be a violation of C.R.S. § 43-5-301, subject to criminal prosecution and civil action by the county.
+E.
+Land use permit setback criteria. The applicant may propose alternative setbacks which meet the criteria of this subsection, except for setbacks from public roads which are required to be twenty (20) feet or prescribed elsewhere in this code, such as Ch. 73 or Ch. 90. The review body and decision-making body shall review the adequacy of the proposed setbacks using all setback criteria in this section. If the review body or decision-making body finds that the proposed setbacks do not meet the criteria, it shall increase or decrease the setbacks. The permit application shall be denied or continued until setbacks that comply with this subsection are provided. Structures shall be set back far enough from the property line to allow for:
+1.
+Sunlight and air to enter the structure;
+2.
+Preventing the spread of fire;
+3.
+Maintaining existing vegetation whenever possible. Existing vegetation may require alternative setbacks;
+4.
+Protecting the privacy of neighbors. Development which causes noise, odor, dust, smoke, glare, vibration, unsightly equipment or other external effects which can reasonably disturb neighbors may require alternative setbacks;
+5.
+Compatibility with similar existing setbacks in the general area;
+6.
+Providing room for snow removal and for preventing the shedding of snow onto adjacent properties or facilities and roadways;
+7.
+Adequate visibility of traffic from driveways and intersections;
+8.
+Meeting building code requirements;
+9.
+Adequate ingress, egress and general traffic safety;
+10.
+Adequate building maintenance between properties.
+II.
+Structure height. The following height standards shall apply to all new development in the county, except for sign structures, telecommunication facilities and small scale solar that are governed by the chapters 70 and 98, and except where a different height is permitted as part of an approved planned unit development or development agreement.
+A.
+The maximum structure height shall not exceed thirty (30) feet within twenty-five (25) feet of the lot line adjacent to a lot containing a dwelling unit or vacant lot.
+B.
+Properties subject to regulations set forth in the Animas Valley Land Use Plan in chapter 65 shall have a general maximum building height of thirty (30) feet for all nonagricultural structures, and a maximum of thirty-five (35) feet for agricultural structures.
+C.
+Roof height measurement. Roof height measurements shall be taken from the mid-point of pre or post construction grade whichever is more restrictive, and the midpoint of the eave of a pitched roof or the highest point of a flat roof or parapet.
+III.
+Verifying setbacks or structure height. The applicant or owner may be required, at the applicant or owner’s expense, to verify compliance with the height or setback requirements of this section through a site improvement location certificate, if requested by the director.
+IV.
+Oil and gas reciprocal setbacks.
+A.
+Purpose. The purpose of this section is to provide standards to separate dwelling units, including high occupancy building units, from existing industrial oil and gas uses to eliminate or minimize potential nuisances such as noise, glare, and odors; to minimize adverse impacts and to minimize risks posed by air pollutants, hazardous materials, site contamination or pollution or danger from fires or explosions.
+B.
+Definitions and measurements. The terms “flowlines”, “high occupancy building units”, “minimize adverse impacts”, “oil and gas location”, “pipeline”, “well”, “well site” and “working pad surface” used in this section 70-6 shall have the meaning set forth in chapter 90. When determining the methodology for measuring the distances described in this section, the methodology of the ECMC shall be used, it being the intent that the setback requirements set forth in this section be consistent with and determined in the same manner as setback requirements imposed on new oil and gas development.
+C.
+Minimum distances from oil and gas locations.
+1.
+Unless the flowline(s) or pipeline(s) have been properly abandoned in place under chapter 90, no dwelling unit or high occupancy building units shall be allowed within fifty (50) feet of an existing or county permitted flowline or pipeline.
+2.
+No dwelling units or high occupancy building units shall be allowed within four hundred (400) feet of an existing or county permitted working pad surface.
+3.
+No commercial buildings, industrial buildings, public or private playgrounds, parks, permanent recreational fields or similar places of public assembly or community spaces shall be allowed within three hundred (300) feet of an existing or county permitted working pad surface.
+4.
+No development of any kind shall be placed in a location that causes final reclamation of the nearby OGL to be impossible, including without limitation locations that restrict the access to the OGL in a manner that prevents access by the equipment anticipated to be necessary to perform final reclamation of the OGL.
+D.
+Buffer reduction.
+1.
+From plugged and abandoned or dry and abandoned wells. An applicant may request the decision-making body approve a reduced buffer distance from a plugged and abandoned well or a dry and abandoned well for which final reclamation has been completed in accordance with chapter 90 and the regulations of the ECMC, provided the approved reduced buffer is no less than one hundred fifty (150) feet from the permanently abandoned well and the decision-making body determines the proposed alternative minimizes adverse impacts and reduces the nuisances referenced in this section equally well or better than the requirement set forth in subsection 70-6.IV.
+2.
+Uses by right. A setback imposed by subparagraph 70-6.IV.C.2 or 3 above may be reduced to no less than two hundred (200) feet from an existing or county permitted well if the proposed development does not require a land use permit under section 66-3 and is on a legal lot of record that existed before August 1, 2023.
+Table 70-6: Setbacks from Oil and Gas Facilities
+​
+Table 70-6 B: Setbacks from Oil and Gas Facilities
+O&G Facility
+Commercial building, industrial building, public or private playground, park, permanent recreational field, or similar place of public assembly or community space
+Dwelling unit or high occupancy building unit
+All development, including commercial and industrial buildings, dwelling units, and high occupancy building units
+Working pad surface
+300 ft.
+400 ft.
+Sufficient setback to not render final reclamation to be impossible
+Flowline or pipeline
+n/a
+50 ft.
+Sufficient setback to not render final reclamation to be impossible
+Plugged and abandoned well or dry and abandoned well
+150 ft.
+150 ft.
+n/a
+Existing or county permitted well
+200 ft.
+(If the use does not require a land use permit under section 66-3 and is proposed on a legal lot of record that existed before August 1, 2023)
+200 ft.
+(If the use does not require a land use permit under section 66-3 and is proposed on a legal lot of record that existed before August 1, 2023
+Sufficient setback to not render final reclamation to be impossible
+Table 70-6 B: Setbacks from Oil and Gas Facilities
+O&G Facility
+Commercial building, industrial building, public or private playground, park, permanent recreational field, or similar place of public assembly or community space
+Dwelling unit or high occupancy building unit
+All development, including commercial and industrial buildings, dwelling units, and high occupancy building units
+Working pad surface
+300 ft.
+400 ft.
+Sufficient setback to not render final reclamation to be impossible
+Flowline or pipeline
+n/a
+50 ft.
+Sufficient setback to not render final reclamation to be impossible
+Plugged and abandoned well or dry and abandoned well
+150 ft.
+150 ft.
+n/a
+Existing or county permitted well
+200 ft.
+(If the use does not require a land use permit under section 66-3 and is proposed on a legal lot of record that existed before August 1, 2023)
+200 ft.
+(If the use does not require a land use permit under section 66-3 and is proposed on a legal lot of record that existed before August 1, 2023
+Sufficient setback to not render final reclamation to be impossible
+Table 70-6 B: Setbacks from Oil and Gas Facilities
+O&G Facility
+Commercial building, industrial building, public or private playground, park, permanent recreational field, or similar place of public assembly or community space
+Dwelling unit or high occupancy building unit
+All development, including commercial and industrial buildings, dwelling units, and high occupancy building units
+Working pad surface
+300 ft.
+400 ft.
+Sufficient setback to not render final reclamation to be impossible
+Flowline or pipeline
+n/a
+50 ft.
+Sufficient setback to not render final reclamation to be impossible
+Plugged and abandoned well or dry and abandoned well
+150 ft.
+150 ft.
+n/a
+Existing or county permitted well
+200 ft.
+(If the use does not require a land use permit under section 66-3 and is proposed on a legal lot of record that existed before August 1, 2023)
+200 ft.
+(If the use does not require a land use permit under section 66-3 and is proposed on a legal lot of record that existed before August 1, 2023
+Sufficient setback to not render final reclamation to be impossible
+Table 70-6 B: Setbacks from Oil and Gas Facilities
+O&G Facility
+Commercial building, industrial building, public or private playground, park, permanent recreational field, or similar place of public assembly or community space
+Dwelling unit or high occupancy building unit
+All development, including commercial and industrial buildings, dwelling units, and high occupancy building units
+Working pad surface
+300 ft.
+400 ft.
+Sufficient setback to not render final reclamation to be impossible
+Flowline or pipeline
+n/a
+50 ft.
+Sufficient setback to not render final reclamation to be impossible
+Plugged and abandoned well or dry and abandoned well
+150 ft.
+150 ft.
+n/a
+Existing or county permitted well
+200 ft.
+(If the use does not require a land use permit under section 66-3 and is proposed on a legal lot of record that existed before August 1, 2023)
+200 ft.
+(If the use does not require a land use permit under section 66-3 and is proposed on a legal lot of record that existed before August 1, 2023
+Sufficient setback to not render final reclamation to be impossible
+(
+Res. No.
+2020-30
+, § 70-6, 09/15/2020
+)
+Effective on: 10/1/2020

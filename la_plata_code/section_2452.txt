@@ -1,0 +1,81 @@
+Chapter 18 BUILDINGS AND BUILDING REGULATIONS
+Article II general provisions
+Sec. 18-35  Scope and Administration
+Chapter 1 of the 2015 International Residential Code and Chapter 1 of the 2015 International Building Code are deleted in their entirety and replaced with the following:
+(
+Res. No. 2004-15, § 1 (Exh. A), 05/24/2004; Res. No. 2017-33, § 18-35, 10/10/2017; Res. No. 2023-15, § 18-35, 06/06/2023
+)
+Section 107
+Design Professional in Responsible Charge.
+107.1 General. The
+building official
+may require the involvement of a design professional, licensed in the State of Colorado, to provide
+professional services
+to verify the
+construction
+plans
+and/or finished construction is in compliance with this
+Code
+and other applicable laws and regulations.
+When it is required that plans or other documents be prepared by a design professional, the building official may require the
+owner
+to engage, and designate on the
+building permit
+application, a design professional who shall act as the design professional in responsible charge.  Such design professional shall be considered the owner’s duly authorized
+agent
+. It is the design professional’s responsibility to communicate discussions and decisions to the owner. The owner shall notify the building official in writing if there is a change in the designated design professional.
+The design professional in responsible charge shall be responsible for reviewing and coordinating submittal documents prepared by others, including phased and deferred submittal items, for
+compatibility
+with the design of the
+building
+. The involvement of a design professional, if required by the building official, may be applied to all or part of a building or
+structure
+, whether new or existing. Furthermore, when a
+permit
+relates to an existing structure, the building official may require the design professional to investigate and verify the structural adequacy of such structure and substantial compliance of the structure with the applicable version of this Code.
+Where special structural observations and/or special inspections are required, they shall be done in accordance with Sections 1704 and 1709 of the 2015 International
+Building Code
+.
+107.2 Responsibility for preparation of plans and
+specifications
+. In accordance with Section
+18-35
+(107.1), the building official may require plans, computations, and specifications to be prepared, designed, and stamped by a design professional in circumstances including, but not limited to, the following:
+1. Foundations are constructed by any method other than the minimum foundation
+standards
+contained in La Plata County’s Foundation Details, as set forth in Attachment 1
+of Article 4 to this Code, for
+residential
+and
+accessory
+structures.
+2.  Building structural systems are constructed and concealed prior to inspection.
+3. Floor framing, roof framing, or wall framing does not meet the minimum requirements of this Code according to the applicable design criteria contained in the 2015 International Building or Residential Codes, whichever is applicable.
+4. Alternate building materials and methods are used that may require special engineering, alternate construction methods, or alternate or enhanced inspection processes.
+5. Buildings and/or structures are constructed in the
+100-year flood
+plain of any regulated and mapped
+flood
+hazard
+zone where the National Flood Insurance Program Regulations apply.
+6.  Buildings and/or structures are constructed in a
+geologic hazard area
+identified by the Colorado Geological Survey, the building official, or the design professional.
+7. Buildings and/or structures are constructed in a potential
+debris field
+, as identified by the Colorado Geological Survey, the building official, or the design professional. Plans, computations, and specifications for buildings and/or structures constructed or to be constructed in an area impacted by
+debris flows
+shall conform to the La Plata County’s Regulations for the Construction of a Residence in a Geologic Hazard Area, set forth in Attachment 3 to this Code.
+8. Foundations are located on soils designated as "Highly Expansive" as depicted on maps provided by the U.S.
+Department
+of
+Agriculture
+, Soil Conservation Service.
+9. A building is in a region with snow/roof live loads of 80 pounds per square foot or more.
+Pursuant to C.R.S. § 12-25-303(2), the building official may exercise his or her discretion to require the participation and review of a design professional, even if a
+project
+otherwise is exempt from the requirements of Part 3 of Title 12, Article 25 of the Colorado Revised Statutes.
+107.3 Deferred submittals. For the purposes of this section, deferred submittals are defined as those portions of the design that are submitted subsequent to a permit application but within the time designated by the building official. Deferral of any submittal items shall have the prior approval of the building official. The design professional in responsible charge shall, when the construction documents are submitted, list the deferred submittals for review by the building official.
+Prior to submission of the deferred submittal items to the building official, the design professional shall review the items and shall note that the deferred submittal documents have been reviewed and found to be in general conformance with the design of the building and the provisions of this Code. Any deferred submittal items shall not be installed until their design and submittal documents have been approved by the building official.
+107.4 Amended construction documents. Work shall be installed in accordance with the reviewed construction documents, and any changes proposed to be made during construction that are not in compliance with the approved construction documents shall be resubmitted for approval as an amended set of construction documents prior to those changes being made. The building official can require any drawings, plans, or clarifications necessary to prove compliance with this Code.
+Effective on: 12/11/2017

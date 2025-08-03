@@ -1,0 +1,174 @@
+Chapter 20 procurement code
+ARTICLE III – THE PUBLIC PROCUREMENT PROCESS; ACQUISITION AND DISPOSAL OF GOODS AND SERVICES
+This article III sets forth how
+vendors
+are to be identified and solicited and how personal property will be disposed of by the county.  Generally, all county purchases and
+contracts
+shall be procured competitively, unless otherwise set forth in this
+code
+.
+Both applicable law and the
+BOCC
+recognize, however, that it is not always in the
+county’s best interest
+to expend the time and resources required to make a
+standard purchase
+. As a result, certain exceptions based upon the nature and amount of the purchase are recognized. Whenever an exception is used to identify and select a
+vendor
+, the appropriate contract file should reflect the exception utilized and how it applied to the specific circumstance.
+Regardless of the way the vendor is selected and regardless of the amount of the purchase, a contract with that vendor is required (see article VI).
+Sec. 20-32 Exceptions to competitive solicitation requirements based on source of good or service or emergency
+I.
+Sole source purchase
+. A
+sole source purchase
+is any purchase of a
+good
+or
+service
+with a
+contract
+requirement of more than ten thousand dollars ($10,000.00) that does not meet the competitive solicitation standards of either a
+simplified purchase
+or a
+standard purchase
+. The term also includes any
+contract amendment
+or extension outside the terms of the original
+solicitation
+and contract.
+A.
+General rule and application
+. A sole source purchase is permissible when: (1) the
+contract manager
+determines that there is only one source for the required goods or services; or (2) when the contract manager determines, after investigating the prevailing market for the relevant goods or services, that re-bidding a contract would result in higher costs and lower returns to the county than those enjoyed under an existing contract. In either case, the finance director must approve the
+sole source justification
+.
+1.
+Application of rule
+. Sole source refers to the supplier, not the product or service. Justification for a sole source purchase depends upon a needed item or service being available from only a single supplier under the prevailing conditions.
+a.
+Examples of circumstances that could necessitate a sole source procurement include:
+i.
+The purchase of technical equipment for which there is no competitive product, and which is available only from one supplier;
+ii.
+The purchase of
+professional services
+from a vendor, who is uniquely qualified to provide such services;
+iii.
+The purchase of a component or replacement part for which there is no commercially available product, and which can be obtained only from the manufacturer;
+iv.
+The purchase of an item where compatibility is the overriding consideration;
+v.
+The purchase of a used item which becomes immediately available and is subject to prior sale;
+vi.
+The purchase of a product for a trial or testing;
+vii.
+The use of other than original equipment manufacturer parts would void a still valid warranty; or
+viii.
+The purchase of a product or service from a vendor that has been awarded a contract by another governmental entity and that allows its product or service to be purchased by other governmental agencies from that contract.
+b.
+Examples of circumstances that do not necessitate or warrant use of a sole source procurement include:
+i.
+Whenever the item or service may be obtained from more than one source;
+ii.
+The vendor has provided excellent service or products in the past;
+iii.
+The vendor is familiar with the county’s preferred practices;
+iv.
+No other vendor can do the job as well; or
+v.
+There is insufficient time to vet the credentials of any other vendor, unless an emergency exists.
+B.
+Budget
+. Only those purchases that are authorized in an approved
+budget
+will be procured.
+C.
+Authorization
+. Department heads and
+elected officials
+are authorized to initiate sole source purchases when the amount to be spent is within an approved budget, a written sole source justification is prepared, and the sole source justification is approved by the finance director.
+D.
+Scope of work or specifications
+. A written
+scope of work
+or specifications is required to complete the mandatory sole source justification form.
+E.
+Solicitation standard – sole source justification
+. The standard by which the fairness and cost efficiency of a sole source purchase is determined shall be set forth in a written sole source justification form, signed by the department head or elected official, that includes:
+1.
+A description of the scope of work or specifications sought;
+2.
+An explanation of why no other supplier will be suitable or acceptable to meet the need;
+3.
+An explanation of how cost reasonableness was determined; and
+4.
+The finance director’s signature.
+F.
+Documentation and contract
+. The contract manager is responsible for maintaining documentation of any sole source purchase.
+G.
+Contract
+award
+. The appropriate approved contract form, determined by the contract type and amount, shall be used to document all sole source purchases. The contract manager and requesting department or elected official will negotiate a final contract document, obtain all requisite attachments and
+vendor
+signatures, and present the proposed contract to the
+BOCC
+or authorized delegate for approval.
+1.
+All contract forms will be written or approved by the county attorney’s office.
+2.
+Unless otherwise approved by the finance director, no contract will be submitted for approval by the BOCC or its delegate until it is ready for signature.
+3.
+Any work performed in accordance with the contract prior to approval is undertaken at the vendor’s sole risk and will not be paid for if the contract is not approved.
+H.
+Payment processing
+. Payment of invoices submitted for sole source purchases are processed in the same manner as payments for standard purchases when the sole source contract is more than fifty thousand dollars ($50,000.00), and as payments for simplified purchases when the sole source contract is fifty thousand dollars ($50,000.00) or less. Instead of a
+documented quote
+, however, and for both standard and simplified purchases, the sole source justification must be attached to the
+purchase requisition
+.
+II.
+Emergency purchases
+. An
+emergency purchase
+is a purchase made in response to a condition that creates a threat to public health, welfare, or safety such as may arise by: reason of fire, flood, avalanche, epidemic, pandemic, riot, equipment failure, motor vehicle, airplane or rail accidents, hazardous spills or other occurrence or imminent threat of widespread or severe damage, injury or loss of life or property resulting from any nature or human cause that creates an immediate and serious need for
+supplies
+or services.
+A.
+General rules
+. Emergency procurement shall be made with such competition as is practicable under the circumstances. Persons authorized to make emergency purchases shall request assistance of the procurement division, as much as practicable, especially in prolonged emergency situations. The basis for the emergency and for the selection of the particular contractor shall be maintained as a public record with payment records. The county's standard form agreements shall be used whenever possible.
+B.
+Limitations on purchase
+. An emergency purchase shall be limited only to a quantity of those
+supplies
+, equipment, materials, or services necessary to meet the emergency.
+C.
+Review of emergency.
+If the follow-up review of an emergency purchase indicates that the purchase was not necessary to respond to an emergency, the purchase will be referred to the county manager for appropriate resolution.
+D.
+Emergencies without an emergency operations center (“EOC”)
+. When an emergency arises or occurs for which no EOC is established, such as is the case of equipment failure in a county facility, and the functions and operations of a county department or elected official’s office would be seriously hampered or delayed through use of the otherwise applicable procurement process, emergency purchases may be made by the same individuals as otherwise set forth in this code so long as funds budgeted in the then-current year in the county’s general fund are available to the person making the purchase. Further, the county manager may authorize and execute emergency purchases of up to fifty thousand dollars ($50,000.00) for any single emergency event without additional approval from the BOCC so long as sufficient budgeted and appropriated funds are available in the county’s contingency fund.
+E.
+Emergencies with an established EOC
+. When an emergency arises or occurs for which an EOC is established, including but not limited to those emergencies as determined or proclaimed by the President of the United States, Governor of Colorado, BOCC, La Plata County Sheriff, or county manager, the following individuals have authority to make emergency purchases under this code:
+1.
+La Plata County Sheriff or Undersheriff
+.
+Contracts
+and a
+greements
+totaling fifty thousand dollars or less ($50,000.00) for any single emergency event, the purpose of which is to provide emergency response to both natural and manmade emergencies may be authorized and executed by the La Plata County Sheriff or Undersheriff without other approval so long as sufficient budgeted and appropriated funds are available in the Sheriff’s budget.
+2.
+Director of the office of emergency management, department heads and other elected officials
+. The director of the office of emergency management, department heads and other
+elected officials
+, or their designees, may request approval to make emergency purchases of goods or services, with budgeted and appropriated funds available to such department head or elected official in the county’s general fund, when a threat to public health, welfare, or safety exists and the need cannot be met through normal
+procurement
+methods Requests shall be made to, and written approval obtained from, the county EOC’s logistics section and finance section chiefs prior to making any emergency purchase. Further, the county manager may authorize and execute emergency purchases of up to fifty thousand dollars ($50,000.00) for any single emergency event without additional approval from the BOCC so long as sufficient budgeted and appropriated funds are available in the county’s contingency fund.
+The individual authorizing the emergency purchase shall inform the county manager and the finance director of the emergency purchase no later than the first working day following the purchase.
+(
+Res. No. 2020-42, § 20-32, 12/17/2020
+)
+Effective on: 1/1/2021
