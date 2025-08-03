@@ -18,26 +18,22 @@ This repository contains:
 
 ### Initial Setup
 
-1. **Python Installation (if needed)**
+1. **Python Environment**
 ```bash
-brew install python
+# The project uses a virtual environment in the 'env' directory
+source env/bin/activate  # Activate the existing environment
 ```
 
-2. **Virtual Environment Setup**
+2. **Install MLX (Required for Semantic Search)**
 ```bash
-python -m venv mlx_env
-source mlx_env/bin/activate
-```
-
-3. **Required Packages**
-```bash
-# Core dependencies
+# Install MLX and related packages
 pip install mlx mlx-lm
-pip install chromadb json
 
-# Optional utilities
-pip install tqdm numpy
+# Install additional dependencies if needed
+pip install chromadb tqdm numpy
 ```
+
+Note: The environment is already set up with basic dependencies. MLX installation is only required if you plan to work with the semantic search functionality.
 
 ## Technology Stack
 
