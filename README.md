@@ -1,152 +1,183 @@
-# La Plata County Land Use Code - Semantic Search Project
+# La Plata County Land Use Code - Semantic Search API
 
-This project provides semantic search capabilities for the La Plata County Land Use Code, enabling efficient discovery and analysis of county regulations through natural language queries.
+A semantic search system for the La Plata County Land Use Code, enabling natural language queries over county regulations. Built with sentence transformers, ChromaDB, and Flask API.
 
-## Project Overview
+## 🚀 Quick Start
 
-This repository contains:
-- Scraped La Plata County Land Use Code data
-- Tools for semantic search implementation
-- Local-first development setup optimized for Apple Silicon
+**Prerequisites:** Apple Silicon Mac, Python 3.10+, Virtual environment activated
 
-## Local Development Setup
+1. **Setup Environment**
+   ```bash
+   source env/bin/activate
+   pip install sentence-transformers chromadb flask flask-cors
+   ```
 
-### System Requirements
-- Apple Silicon (M4 Pro with 24GB RAM)
-- Python 3.10+
-- Homebrew (recommended for Python installation)
+2. **Create Vector Embeddings** (First time only)
+   ```bash
+   python create_embeddings.py
+   ```
 
-### Initial Setup
+3. **Start API Server**
+   ```bash
+   ./scripts/api.sh start
+   ```
 
-1. **Python Environment**
+4. **Test the API**
+   ```bash
+   curl "http://localhost:8000/search/simple?query=building%20permits&num_results=10"
+   ```
+
+📖 **Detailed setup instructions:** See [BUILD_STEPS.md](BUILD_STEPS.md)
+
+## 🏗️ Architecture
+
+### System Overview
+```
+┌─────────────────┐    ┌──────────────────┐    ┌─────────────────┐
+│  Source Data    │ →  │ Vector Embeddings │ →  │   Search API    │
+│ (JSON files)    │    │   (ChromaDB)      │    │   (Flask)       │
+└─────────────────┘    └──────────────────┘    └─────────────────┘
+         │                        │                        │
+    ┌─────────┐              ┌──────────┐           ┌─────────────┐
+    │ 1,298   │              │ all-Mini │           │ REST API    │
+    │sections │              │ LM-L6-v2 │           │ + CORS      │
+    └─────────┘              └──────────┘           └─────────────┘
+```
+
+### Technology Stack
+
+**Core Components:**
+- **Embedding Model**: `all-MiniLM-L6-v2` (384 dimensions, optimized for Apple Silicon)
+- **Vector Database**: ChromaDB (local development) / Pinecone (production)
+- **API Framework**: Flask with CORS support
+- **Language**: Python 3.10+
+
+**Data Pipeline:**
+1. **Source**: La Plata County Land Use Code (`la_plata_code/full_code.json`)
+2. **Processing**: Text chunking, embedding generation, vector storage
+3. **Search**: Semantic similarity search with configurable result counts
+4. **API**: RESTful endpoints with JSON responses
+
+### Project Structure
+```
+landuse/
+├── la_plata_code/           # Source data (JSON, TXT files)
+├── chroma_db/               # Vector database storage
+├── scripts/                 # Management scripts
+│   └── api.sh              # API server management
+├── create_embeddings.py     # Embedding generation script
+├── search_api.py           # Flask API server
+├── test_search.py          # Local testing utilities
+└── BUILD_STEPS.md          # Detailed setup guide
+```
+
+## 🔍 API Usage
+
+### Endpoints
+
+**Health Check**
 ```bash
-# The project uses a virtual environment in the 'env' directory
-source env/bin/activate  # Activate the existing environment
+curl "http://localhost:8000/health"
 ```
 
-2. **Install MLX (Required for Semantic Search)**
+**Simple Search** (Recommended for testing)
 ```bash
-# Install MLX and related packages
-pip install mlx mlx-lm
-
-# Install additional dependencies if needed
-pip install chromadb tqdm numpy
+curl "http://localhost:8000/search/simple?query=building%20permits&num_results=10"
 ```
 
-Note: The environment is already set up with basic dependencies. MLX installation is only required if you plan to work with the semantic search functionality.
-
-## Technology Stack
-
-### Core Components
-- **Embedding Framework**: MLX (Apple-optimized)
-- **Vector Database**: 
-  - Development: Chroma (local)
-  - Production: Pinecone (cloud-based)
-- **Programming Language**: Python
-- **Future UI/Deployment**: Vercel with Next.js
-
-### Model Selection
-
-We prioritize quantized models for efficient use of 24GB RAM. Current recommendations:
-
-| Model | Dimensions | Size (Quantized) | Best For |
-|-------|------------|------------------|----------|
-| all-MiniLM-L6-v2 (Primary) | 384 | ~20MB (4-bit) | General purpose, county code analysis |
-| BAAI/bge-small-en-v1.5 | 384 | ~50MB (4-bit) | Enhanced semantic search |
-| paraphrase-MiniLM-L6-v2 | 384 | ~20MB (4-bit) | Variant phrasings |
-| nomic-embed-text-v1.5 | 768 | ~100MB (4-bit) | Long-form documents |
-
-### Model Setup
-
+**Full Search** (Detailed metadata)
 ```bash
-# Example: Converting and quantizing MiniLM
-mlx_lm.convert --hf-path sentence-transformers/all-MiniLM-L6-v2 \
-               --mlx-path local_mini_lm \
-               --q_bits 4
+curl "http://localhost:8000/search?query=zoning%20requirements&num_results=5"
 ```
 
-## Implementation Guide
-
-### 1. Data Processing Pipeline
-
-```python
-# Basic implementation structure
-import json
-from mlx_lm import load
-import chromadb
-from tqdm import tqdm
-
-# Load and parse JSON
-with open('data.json', 'r') as f:
-    data = json.load(f)
-texts = [item['content'] for item in data]
-
-# Load model
-model, tokenizer = load("mlx-community/all-MiniLM-L6-v2-4bit")
-
-# Embedding generation
-def embed_texts(texts):
-    inputs = tokenizer(texts, return_tensors="np", padding=True)
-    outputs = model(**inputs)
-    return mx.mean(outputs.last_hidden_state, axis=1).array().tolist()
-
-# Batch processing
-batch_size = 128
-all_embeddings = []
-for i in tqdm(range(0, len(texts), batch_size)):
-    batch = texts[i:i + batch_size]
-    all_embeddings.extend(embed_texts(batch))
-
-# Store in Chroma
-client = chromadb.PersistentClient(path="./chroma_db")
-collection = client.get_or_create_collection("county_codes")
-ids = [str(i) for i in range(len(texts))]
-metadatas = [{'text': t} for t in texts]
-collection.upsert(ids=ids, embeddings=all_embeddings, metadatas=metadatas)
+**POST Search**
+```bash
+curl -X POST "http://localhost:8000/search" \
+  -H "Content-Type: application/json" \
+  -d '{"query": "subdivision regulations", "num_results": 3}'
 ```
 
-### 2. Hardware Optimization
+### Browser Testing
 
-- MLX automatically utilizes Apple Neural Engine/GPU
-- Monitor RAM usage via Activity Monitor
-- Debug with: `export MLX_VERBOSE=1`
+Open in your browser:
+- **Health Check**: [http://localhost:8000/health](http://localhost:8000/health)
+- **Search Example**: [http://localhost:8000/search/simple?query=building%20permits&num_results=10](http://localhost:8000/search/simple?query=building%20permits&num_results=10)
+- **Zoning Query**: [http://localhost:8000/search/simple?query=zoning%20requirements&num_results=5](http://localhost:8000/search/simple?query=zoning%20requirements&num_results=5)
 
-### 3. Data Organization
-
+### Response Format
+```json
+{
+  "query": "building permits",
+  "results": [
+    {
+      "section": "2538",
+      "text": "Chapter 2 ADMINISTRATION...",
+      "relevance": "0.798"
+    }
+  ]
+}
 ```
-project_root/
-├── models/              # Local model storage
-├── data/               # JSON and processed data
-├── chroma_db/          # Local vector database
-├── scripts/            # Processing scripts
-└── notebooks/          # Development notebooks
+
+## 🛠️ Server Management
+
+**Start/Stop API Server**
+```bash
+./scripts/api.sh start     # Start in background
+./scripts/api.sh status    # Check status + connectivity test
+./scripts/api.sh stop      # Stop server
+./scripts/api.sh restart   # Restart server
+./scripts/api.sh logs      # View recent logs
 ```
 
-## Performance Considerations
+## 📊 Performance
 
-- **Batch Processing**: Default batch size of 128; adjust based on RAM usage
-- **Model Quantization**: Use 4-bit quantization for optimal performance
-- **Storage**: Monitor Chroma DB size for large datasets
-- **Memory Management**: Implement streaming for large JSON files
+- **Dataset**: 1,298 sections of La Plata County Land Use Code
+- **Embedding Generation**: ~2-3 minutes on M4 Pro (Apple Silicon optimized)
+- **Memory Usage**: ~8GB RAM during processing, ~2GB during API serving
+- **Search Speed**: Sub-second query response times
+- **Storage**: ~50MB ChromaDB + embeddings
 
-## Future Scalability
+## 🔧 Development
 
-1. **Cloud Migration Path**
-   - Transition from Chroma to Pinecone for production
-   - Implement serverless functions for API endpoints
-   - Deploy web interface on Vercel
+**Local Testing**
+```bash
+python test_search.py              # Console-based search test
+curl "http://localhost:8000/..."   # API endpoint testing
+```
 
-2. **Performance Optimization**
-   - Fine-tune models for legal/administrative domain
-   - Implement caching for frequent queries
-   - Optimize batch sizes based on usage patterns
+**Model Information**
+- **Model**: `sentence-transformers/all-MiniLM-L6-v2`
+- **Dimensions**: 384 (optimized for legal/administrative text)
+- **Apple Silicon**: Leverages MPS (Metal Performance Shaders)
+- **Quantization**: Automatic optimization for Apple Neural Engine
 
-## Contributing
+## 🚀 Production Deployment
+
+**Recommended Stack:**
+- **Vector DB**: Migrate ChromaDB → Pinecone
+- **API**: Deploy Flask on cloud platform (AWS/GCP/Azure)
+- **Frontend**: Next.js application with Vercel deployment
+- **Caching**: Redis for frequent queries
+- **Monitoring**: Application performance monitoring
+
+## 📝 Example Queries
+
+Try these semantic searches:
+- `building permits and zoning requirements`
+- `subdivision regulations and approval process`
+- `environmental impact assessments`
+- `parking requirements for commercial properties`
+- `flood damage prevention regulations`
+- `oil and gas development restrictions`
+
+## 🤝 Contributing
 
 1. Fork the repository
-2. Create a feature branch
-3. Submit a pull request
+2. Create a feature branch (`git checkout -b feature/amazing-feature`)
+3. Commit your changes (`git commit -m 'Add amazing feature'`)
+4. Push to the branch (`git push origin feature/amazing-feature`)
+5. Open a Pull Request
 
-## License
+## 📄 License
 
 [Add your chosen license]

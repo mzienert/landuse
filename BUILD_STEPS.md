@@ -1,12 +1,12 @@
-# La Plata County Land Use Code - Vector Embeddings Setup
+# Build Steps - La Plata County Search API
 
-Step-by-step guide to create vector embeddings from the La Plata County Land Use Code JSON data.
+Detailed step-by-step instructions for setting up the complete semantic search system from scratch.
 
 ## Prerequisites
 
-- Apple Silicon Mac (M4 Pro with 24GB RAM recommended)
-- Python 3.10+
-- Virtual environment activated: `source env/bin/activate`
+- **Hardware**: Apple Silicon Mac (M4 Pro with 24GB RAM recommended)
+- **Software**: Python 3.10+, Git
+- **Data**: La Plata County Land Use Code JSON file in `la_plata_code/full_code.json`
 
 ## Step 1: Install Dependencies
 
@@ -124,84 +124,99 @@ rm -rf ./chroma_db
 # Re-run the embedding script
 ```
 
-## Step 6: HTTP API Setup
+## Step 6: Start the API Server
 
-Create a simple HTTP API to serve the search functionality:
+Install Flask dependencies and start the server:
 
-### Install Flask
 ```bash
 pip install flask flask-cors
 ```
 
-### Start the API Server
-
-**Option A: Using the management script (Recommended)**
+**Start API Server:**
 ```bash
-# Start the API in background
-./api.sh start
-
-# Check status
-./api.sh status
-
-# View logs
-./api.sh logs
-
-# Stop the API
-./api.sh stop
-
-# Restart the API
-./api.sh restart
+./scripts/api.sh start
 ```
 
-**Option B: Direct Python execution**
+**Verify API is running:**
 ```bash
-python search_api.py
-```
-
-The server will start at `http://localhost:8000`
-
-### API Endpoints
-
-**Health Check:**
-```bash
+./scripts/api.sh status
 curl "http://localhost:8000/health"
 ```
 
-**Simple Search:**
+Expected output:
+```json
+{
+  "status": "healthy",
+  "model_loaded": true,
+  "database_connected": true,
+  "document_count": 1298
+}
+```
+
+## Step 7: Test the Search API
+
+**Basic search test:**
 ```bash
 curl "http://localhost:8000/search/simple?query=building%20permits&num_results=3"
 ```
 
-**Full Search (GET):**
-```bash
-curl "http://localhost:8000/search?query=zoning%20requirements&num_results=5"
-```
-
-**Full Search (POST):**
-```bash
-curl -X POST "http://localhost:8000/search" \
-  -H "Content-Type: application/json" \
-  -d '{"query": "subdivision regulations", "num_results": 3}'
-```
-
-### Example Response
+**Expected search response format:**
 ```json
 {
   "query": "building permits",
   "results": [
     {
-      "relevance": "-0.202",
-      "section": "77",
-      "text": "Chapter 2 ADMINISTRATION..."
+      "section": "2538",
+      "text": "Chapter 2 ADMINISTRATION...",
+      "relevance": "0.798"
     }
   ]
 }
 ```
 
-## Next Steps
+## Troubleshooting
 
-After successful API setup:
-1. Build web interface for querying
-2. Add query result ranking and filtering
-3. Consider fine-tuning models for legal domain
-4. Deploy to production environment
+### Build Issues
+
+**Memory problems during embedding generation:**
+```bash
+# Reduce batch size in create_embeddings.py
+BATCH_SIZE = 16  # Instead of 32
+```
+
+**Model loading errors:**
+```bash
+pip uninstall sentence-transformers
+pip install sentence-transformers
+```
+
+**ChromaDB issues:**
+```bash
+rm -rf ./chroma_db
+python create_embeddings.py  # Recreate embeddings
+```
+
+### API Issues
+
+**Port already in use:**
+```bash
+./scripts/api.sh stop
+./scripts/api.sh start
+```
+
+**Virtual environment not found:**
+```bash
+# Ensure you're running from project root directory
+cd /path/to/landuse
+./scripts/api.sh start
+```
+
+## Performance Optimization
+
+**For lower memory systems:**
+- Reduce `BATCH_SIZE` in `create_embeddings.py` to 16 or 8
+- Monitor Activity Monitor during processing
+
+**For faster processing:**
+- Increase `BATCH_SIZE` to 64 if you have sufficient RAM
+- Ensure MLX is properly utilizing Apple Silicon

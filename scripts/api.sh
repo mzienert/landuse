@@ -3,11 +3,12 @@
 # La Plata County Search API Startup Script
 
 API_PORT=8000
-PID_FILE="./api.pid"
-LOG_FILE="./api.log"
 SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
+PROJECT_ROOT="$(cd "$SCRIPT_DIR/.." && pwd)"
+PID_FILE="$PROJECT_ROOT/api.pid"
+LOG_FILE="$PROJECT_ROOT/api.log"
 
-cd "$SCRIPT_DIR"
+cd "$PROJECT_ROOT"
 
 # Function to check if API is running
 is_running() {
