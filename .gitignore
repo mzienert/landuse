@@ -9,3 +9,4 @@ env/
 
 # Chrome driver
 chromedriver
+node_modules/
