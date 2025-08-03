@@ -3,7 +3,7 @@ from sentence_transformers import SentenceTransformer
 
 # Load model and database
 print("Loading model...")
-model = SentenceTransformer('all-MiniLM-L6-v2')
+model = SentenceTransformer('BAAI/bge-small-en-v1.5')
 print("Connecting to database...")
 client = chromadb.PersistentClient(path="./chroma_db")
 collection = client.get_collection("la_plata_county_code")

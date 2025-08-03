@@ -29,9 +29,9 @@ def setup_model():
     """Load the sentence transformer model"""
     print("Loading sentence transformer model...")
     try:
-        # Use sentence-transformers which can leverage MLX backend on Apple Silicon
-        model = SentenceTransformer('all-MiniLM-L6-v2')
-        print("Model loaded successfully")
+        # Use BAAI/bge-small-en-v1.5 for enhanced semantic search
+        model = SentenceTransformer('BAAI/bge-small-en-v1.5')
+        print("Model loaded successfully: BAAI/bge-small-en-v1.5")
         print(f"MLX Metal available: {mx.metal.is_available()}")
         return model
     except Exception as e:
