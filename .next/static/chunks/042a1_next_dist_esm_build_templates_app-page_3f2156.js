@@ -1,0 +1,18 @@
+(globalThis.TURBOPACK = globalThis.TURBOPACK || []).push([
+    "static/chunks/042a1_next_dist_esm_build_templates_app-page_3f2156.js",
+    {},
+]);
+(globalThis.TURBOPACK_CHUNK_LISTS = globalThis.TURBOPACK_CHUNK_LISTS || []).push({
+  "path": "static/chunks/042a1_next_dist_esm_build_templates_app-page_3f2156.js",
+  "chunks": [
+    "static/chunks/042a1_next_dist_compiled_react_c2330d._.js",
+    "static/chunks/042a1_next_dist_compiled_react-dom_cjs_react-dom_development_040c5c.js",
+    "static/chunks/042a1_next_dist_compiled_react-dom_7f1eaf._.js",
+    "static/chunks/042a1_next_dist_compiled_6e5438._.js",
+    "static/chunks/042a1_next_dist_client_f2384c._.js",
+    "static/chunks/042a1_next_dist_7616d5._.js",
+    "static/chunks/90481_@swc_helpers_cjs_e55b81._.js",
+    "static/chunks/[turbopack]_dev_client_hmr-client_ts_d5d8d4._.js"
+  ],
+  "source": "entry"
+});

@@ -1,0 +1,10 @@
+{
+  "app": {
+    "[project]/app/protected/page": [
+      "static/media/Geist_Variable-s.p.f406b17f.woff2"
+    ]
+  },
+  "appUsingSizeAdjust": true,
+  "pages": {},
+  "pagesUsingSizeAdjust": false
+}

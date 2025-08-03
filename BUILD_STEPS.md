@@ -124,10 +124,84 @@ rm -rf ./chroma_db
 # Re-run the embedding script
 ```
 
+## Step 6: HTTP API Setup
+
+Create a simple HTTP API to serve the search functionality:
+
+### Install Flask
+```bash
+pip install flask flask-cors
+```
+
+### Start the API Server
+
+**Option A: Using the management script (Recommended)**
+```bash
+# Start the API in background
+./api.sh start
+
+# Check status
+./api.sh status
+
+# View logs
+./api.sh logs
+
+# Stop the API
+./api.sh stop
+
+# Restart the API
+./api.sh restart
+```
+
+**Option B: Direct Python execution**
+```bash
+python search_api.py
+```
+
+The server will start at `http://localhost:8000`
+
+### API Endpoints
+
+**Health Check:**
+```bash
+curl "http://localhost:8000/health"
+```
+
+**Simple Search:**
+```bash
+curl "http://localhost:8000/search/simple?query=building%20permits&num_results=3"
+```
+
+**Full Search (GET):**
+```bash
+curl "http://localhost:8000/search?query=zoning%20requirements&num_results=5"
+```
+
+**Full Search (POST):**
+```bash
+curl -X POST "http://localhost:8000/search" \
+  -H "Content-Type: application/json" \
+  -d '{"query": "subdivision regulations", "num_results": 3}'
+```
+
+### Example Response
+```json
+{
+  "query": "building permits",
+  "results": [
+    {
+      "relevance": "-0.202",
+      "section": "77",
+      "text": "Chapter 2 ADMINISTRATION..."
+    }
+  ]
+}
+```
+
 ## Next Steps
 
-After successful embedding creation:
-1. Implement semantic search API
-2. Build web interface for querying
-3. Add query result ranking and filtering
-4. Consider fine-tuning models for legal domain
+After successful API setup:
+1. Build web interface for querying
+2. Add query result ranking and filtering
+3. Consider fine-tuning models for legal domain
+4. Deploy to production environment

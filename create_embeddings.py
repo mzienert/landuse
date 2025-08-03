@@ -88,7 +88,7 @@ def store_embeddings(collection, chunks, embeddings):
     # Prepare data for ChromaDB
     ids = [chunk['id'] for chunk in chunks]
     metadatas = [{
-        'text': chunk['text'][:1000] + '...' if len(chunk['text']) > 1000 else chunk['text'],
+        'text': chunk['text'],  # Store full text without truncation
         'full_text_length': chunk['length'],
         'section_id': chunk['id']
     } for chunk in chunks]

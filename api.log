@@ -1,0 +1,31 @@
+INFO:__main__:Loading sentence transformer model...
+INFO:sentence_transformers.SentenceTransformer:Use pytorch device_name: mps
+INFO:sentence_transformers.SentenceTransformer:Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+INFO:__main__:Model loaded successfully
+INFO:__main__:Connecting to ChromaDB...
+INFO:chromadb.telemetry.product.posthog:Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+INFO:__main__:Connected to database with 1298 documents
+INFO:__main__:Starting Flask server...
+ * Serving Flask app 'search_api'
+ * Debug mode: on
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://10.2.32.118:8000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+INFO:__main__:Loading sentence transformer model...
+INFO:sentence_transformers.SentenceTransformer:Use pytorch device_name: mps
+INFO:sentence_transformers.SentenceTransformer:Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+INFO:__main__:Model loaded successfully
+INFO:__main__:Connecting to ChromaDB...
+INFO:chromadb.telemetry.product.posthog:Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+INFO:__main__:Connected to database with 1298 documents
+INFO:__main__:Starting Flask server...
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 163-124-976
+INFO:werkzeug:127.0.0.1 - - [03/Aug/2025 16:36:09] "GET /health HTTP/1.1" 200 -
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]/Users/matthewzienert/Documents/landuse/env/lib/python3.13/site-packages/torch/nn/modules/module.py:1762: FutureWarning: `encoder_attention_mask` is deprecated and will be removed in version 4.55.0 for `BertSdpaSelfAttention.forward`.
+  return forward_call(*args, **kwargs)
+Batches: 100%|██████████| 1/1 [00:00<00:00,  9.79it/s]Batches: 100%|██████████| 1/1 [00:00<00:00,  9.77it/s]
+INFO:werkzeug:127.0.0.1 - - [03/Aug/2025 16:36:16] "GET /search/simple?query=building%20permits&num_results=1 HTTP/1.1" 200 -
