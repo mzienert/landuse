@@ -11,7 +11,7 @@ INFO:__main__:Starting Flask server...
 INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
  * Running on all addresses (0.0.0.0)
  * Running on http://127.0.0.1:8000
- * Running on http://10.2.32.118:8000
+ * Running on http://192.168.1.17:8000
 INFO:werkzeug:[33mPress CTRL+C to quit[0m
 INFO:werkzeug: * Restarting with stat
 INFO:__main__:Loading sentence transformer model...
@@ -24,47 +24,8 @@ INFO:__main__:Connected to database with 1298 documents
 INFO:__main__:Starting Flask server...
 WARNING:werkzeug: * Debugger is active!
 INFO:werkzeug: * Debugger PIN: 163-124-976
+INFO:werkzeug:127.0.0.1 - - [03/Aug/2025 21:15:12] "OPTIONS /search/simple?query=animals&num_results=5 HTTP/1.1" 200 -
 Batches:   0%|          | 0/1 [00:00<?, ?it/s]/Users/matthewzienert/Documents/landuse/env/lib/python3.13/site-packages/torch/nn/modules/module.py:1762: FutureWarning: `encoder_attention_mask` is deprecated and will be removed in version 4.55.0 for `BertSdpaSelfAttention.forward`.
   return forward_call(*args, **kwargs)
-Batches: 100%|██████████| 1/1 [00:00<00:00,  1.92it/s]Batches: 100%|██████████| 1/1 [00:00<00:00,  1.92it/s]
-INFO:werkzeug:127.0.0.1 - - [03/Aug/2025 17:38:33] "GET /search/simple?query=building%20permits&num_results=3 HTTP/1.1" 200 -
-Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 11.20it/s]
-INFO:werkzeug:127.0.0.1 - - [03/Aug/2025 17:43:36] "GET /search/simple?query=building%20permits&num_results=10 HTTP/1.1" 200 -
-INFO:werkzeug:127.0.0.1 - - [03/Aug/2025 17:50:20] "OPTIONS /search/simple?query=Building+permits&num_results=5 HTTP/1.1" 200 -
-Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00,  8.10it/s]Batches: 100%|██████████| 1/1 [00:00<00:00,  8.09it/s]
-INFO:werkzeug:127.0.0.1 - - [03/Aug/2025 17:50:21] "GET /search/simple?query=Building+permits&num_results=5 HTTP/1.1" 200 -
-INFO:werkzeug:127.0.0.1 - - [03/Aug/2025 17:50:41] "OPTIONS /search/simple?query=building+permits&num_results=5 HTTP/1.1" 200 -
-Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 10.58it/s]
-INFO:werkzeug:127.0.0.1 - - [03/Aug/2025 17:50:42] "GET /search/simple?query=building+permits&num_results=5 HTTP/1.1" 200 -
-INFO:werkzeug:127.0.0.1 - - [03/Aug/2025 17:52:20] "OPTIONS /search/simple?query=titling+property&num_results=5 HTTP/1.1" 200 -
-Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00,  2.44it/s]Batches: 100%|██████████| 1/1 [00:00<00:00,  2.44it/s]
-INFO:werkzeug:127.0.0.1 - - [03/Aug/2025 17:52:21] "GET /search/simple?query=titling+property&num_results=5 HTTP/1.1" 200 -
-INFO:werkzeug:127.0.0.1 - - [03/Aug/2025 17:57:31] "OPTIONS /search/simple?query=building+permits&num_results=5 HTTP/1.1" 200 -
-Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00,  7.79it/s]Batches: 100%|██████████| 1/1 [00:00<00:00,  7.78it/s]
-INFO:werkzeug:127.0.0.1 - - [03/Aug/2025 17:57:31] "GET /search/simple?query=building+permits&num_results=5 HTTP/1.1" 200 -
-INFO:werkzeug:127.0.0.1 - - [03/Aug/2025 17:59:07] "OPTIONS /search/simple?query=Any+owner+or+authorized+agent+who+intends+to+construct&num_results=5 HTTP/1.1" 200 -
-Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00,  2.66it/s]Batches: 100%|██████████| 1/1 [00:00<00:00,  2.66it/s]
-INFO:werkzeug:127.0.0.1 - - [03/Aug/2025 17:59:07] "GET /search/simple?query=Any+owner+or+authorized+agent+who+intends+to+construct&num_results=5 HTTP/1.1" 200 -
-INFO:werkzeug:127.0.0.1 - - [03/Aug/2025 17:59:17] "OPTIONS /search/simple?query=building+permits&num_results=5 HTTP/1.1" 200 -
-Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 11.52it/s]
-INFO:werkzeug:127.0.0.1 - - [03/Aug/2025 17:59:17] "GET /search/simple?query=building+permits&num_results=5 HTTP/1.1" 200 -
-INFO:werkzeug:127.0.0.1 - - [03/Aug/2025 17:59:37] "OPTIONS /search/simple?query=Any+owner+or+authorized+agent+who+intends+to+construct,+enlarge,+alter&num_results=5 HTTP/1.1" 200 -
-Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00,  4.54it/s]Batches: 100%|██████████| 1/1 [00:00<00:00,  4.54it/s]
-INFO:werkzeug:127.0.0.1 - - [03/Aug/2025 17:59:37] "GET /search/simple?query=Any+owner+or+authorized+agent+who+intends+to+construct,+enlarge,+alter&num_results=5 HTTP/1.1" 200 -
-INFO:werkzeug:127.0.0.1 - - [03/Aug/2025 18:00:13] "OPTIONS /search/simple?query=Equine&num_results=5 HTTP/1.1" 200 -
-Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 10.81it/s]
-INFO:werkzeug:127.0.0.1 - - [03/Aug/2025 18:00:13] "GET /search/simple?query=Equine&num_results=5 HTTP/1.1" 200 -
-Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 13.68it/s]
-INFO:werkzeug:127.0.0.1 - - [03/Aug/2025 18:02:34] "GET /search/simple?query=building%20permits&num_results=1 HTTP/1.1" 200 -
-INFO:werkzeug:127.0.0.1 - - [03/Aug/2025 18:03:56] "OPTIONS /search/simple?query=building+permits&num_results=5 HTTP/1.1" 200 -
-Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00,  9.79it/s]Batches: 100%|██████████| 1/1 [00:00<00:00,  9.78it/s]
-INFO:werkzeug:127.0.0.1 - - [03/Aug/2025 18:03:56] "GET /search/simple?query=building+permits&num_results=5 HTTP/1.1" 200 -
-INFO:werkzeug:127.0.0.1 - - [03/Aug/2025 18:06:05] "OPTIONS /search/simple?query=building+permits&num_results=5 HTTP/1.1" 200 -
-Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00,  9.42it/s]Batches: 100%|██████████| 1/1 [00:00<00:00,  9.41it/s]
-INFO:werkzeug:127.0.0.1 - - [03/Aug/2025 18:06:05] "GET /search/simple?query=building+permits&num_results=5 HTTP/1.1" 200 -
-INFO:werkzeug:127.0.0.1 - - [03/Aug/2025 18:06:54] "OPTIONS /search/simple?query=ADU&num_results=5 HTTP/1.1" 200 -
-Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 11.32it/s]
-INFO:werkzeug:127.0.0.1 - - [03/Aug/2025 18:06:54] "GET /search/simple?query=ADU&num_results=5 HTTP/1.1" 200 -
-INFO:werkzeug:127.0.0.1 - - [03/Aug/2025 18:07:09] "OPTIONS /search/simple?query=Accessory+dwelling&num_results=5 HTTP/1.1" 200 -
-Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 10.82it/s]
-INFO:werkzeug:127.0.0.1 - - [03/Aug/2025 18:07:09] "GET /search/simple?query=Accessory+dwelling&num_results=5 HTTP/1.1" 200 -
+Batches: 100%|██████████| 1/1 [00:00<00:00,  6.10it/s]Batches: 100%|██████████| 1/1 [00:00<00:00,  6.10it/s]
+INFO:werkzeug:127.0.0.1 - - [03/Aug/2025 21:15:12] "GET /search/simple?query=animals&num_results=5 HTTP/1.1" 200 -

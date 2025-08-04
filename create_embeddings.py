@@ -1,5 +1,6 @@
 import json
 import os
+import gc
 from pathlib import Path
 import numpy as np
 from tqdm import tqdm
@@ -29,7 +30,7 @@ def setup_model():
     """Load the sentence transformer model"""
     print("Loading sentence transformer model...")
     try:
-        # Use intfloat/e5-large-v2 for 1024D embeddings that are memory efficient
+        # Use intfloat/e5-large-v2 for 1024D embeddings - better for legal text
         model = SentenceTransformer('intfloat/e5-large-v2')
         print("Model loaded successfully: intfloat/e5-large-v2 (1024 dimensions)")
         print(f"MLX Metal available: {mx.metal.is_available()}")
@@ -38,27 +39,50 @@ def setup_model():
         print(f"Error loading model: {e}")
         raise
 
-def create_embeddings(chunks, model, batch_size=32):
-    """Generate embeddings for text chunks in batches"""
-    print(f"Creating embeddings for {len(chunks)} chunks...")
+def create_embeddings(chunks, model, micro_batch_size=1):
+    """Generate embeddings for text chunks with ultra-aggressive memory management"""
+    print(f"Creating embeddings for {len(chunks)} chunks with micro-batch size: {micro_batch_size}")
     
     texts = [chunk['text'] for chunk in chunks]
     all_embeddings = []
     
-    # Process in batches to manage memory
-    for i in tqdm(range(0, len(texts), batch_size), desc="Processing batches"):
-        batch_texts = texts[i:i + batch_size]
+    # Process one item at a time with maximum memory cleanup
+    for i in tqdm(range(len(texts)), desc="Processing items"):
+        text = texts[i]
         
-        # Generate embeddings using sentence-transformers
-        batch_embeddings = model.encode(
-            batch_texts,
-            batch_size=len(batch_texts),
-            show_progress_bar=False,
-            convert_to_numpy=True
-        )
-        
-        all_embeddings.extend(batch_embeddings.tolist())
+        try:
+            # Process single item with forced cleanup
+            single_embedding = model.encode(
+                [text],
+                batch_size=1,
+                show_progress_bar=False,
+                convert_to_numpy=True,
+                normalize_embeddings=False,  # Disable normalization to save memory
+                device=None,  # Let it auto-detect MPS
+                convert_to_tensor=False  # Return numpy directly
+            )
+            
+            # Immediately convert to list and extend
+            all_embeddings.extend(single_embedding.tolist())
+            
+            # Explicit cleanup after each item
+            del single_embedding
+            del text
+            
+            # Force garbage collection every 50 items
+            if i % 50 == 0:
+                gc.collect()
+                if i > 0:
+                    print(f"  Processed {i}/{len(texts)} items, memory cleanup performed")
+                
+        except Exception as e:
+            print(f"❌ Error processing item {i+1}: {e}")
+            print(f"   Skipping text: {texts[i][:100]}...")
+            # Skip this text and continue
+            continue
     
+    # Final cleanup
+    gc.collect()
     print(f"Generated {len(all_embeddings)} embeddings")
     return all_embeddings
 
@@ -109,9 +133,14 @@ def store_embeddings(collection, chunks, embeddings):
     print(f"Stored {collection.count()} documents in ChromaDB")
 
 def main():
-    # Configuration
+    # Configuration for ultra-aggressive memory management
     JSON_FILE = "./la_plata_code/full_code.json"
-    BATCH_SIZE = 8  # Very small batch for 1024D embeddings
+    MICRO_BATCH_SIZE = 1  # Single item processing for 1536D embeddings
+    
+    print("🚀 Starting embedding generation with ULTRA-aggressive memory management")
+    print(f"📦 Micro-batch size: {MICRO_BATCH_SIZE} (single item processing)")
+    print("💾 Memory optimization: Maximum (single item + forced cleanup)")
+    print("⚠️  This will be slower but should avoid memory issues")
     
     # Step 1: Load data
     chunks = load_json_data(JSON_FILE)
@@ -119,8 +148,8 @@ def main():
     # Step 2: Setup model
     model = setup_model()
     
-    # Step 3: Create embeddings
-    embeddings = create_embeddings(chunks, model, BATCH_SIZE)
+    # Step 3: Create embeddings with micro-batching
+    embeddings = create_embeddings(chunks, model, MICRO_BATCH_SIZE)
     
     # Step 4: Setup vector database
     collection = setup_chroma_db()
@@ -130,6 +159,7 @@ def main():
     
     print("✅ Vector embeddings created successfully!")
     print(f"📊 Total sections processed: {len(chunks)}")
+    print(f"🔢 Vector dimensions: 1024D (e5-large-v2)")
     print(f"🗂️  Database location: ./chroma_db")
     print(f"🔍 Ready for semantic search queries")
 

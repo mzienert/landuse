@@ -135,7 +135,7 @@ def simple_search():
                 simple_results.append({
                     'section': result['section_id'],
                     'text': result['content'],  # Return full text without truncation
-                    'relevance': f"{1 - result['distance']:.3f}" if result['distance'] else 'N/A'
+                    'relevance': f"{1 / (1 + result['distance']):.3f}" if result['distance'] else 'N/A'
                 })
         
         return jsonify({
