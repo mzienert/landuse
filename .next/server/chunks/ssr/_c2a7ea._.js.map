@@ -1,9 +1,0 @@
-{
-  "version": 3,
-  "sources": [],
-  "sections": [
-    {"offset": {"line": 11, "column": 0}, "map": {"version":3,"sources":["/turbopack/[project]/app/protected/grid-parser-dashboard.tsx"],"sourcesContent":["'use client';\n\nimport { useState } from 'react';\n\ninterface LandUseCodeDashboardProps {\n  userId: string;\n}\n\nexport function  LandUseCodeDashboard() {\n  return (\n    <div>\n      <h1>Land Use Dashboard</h1>\n    </div>\n  );\n}"],"names":[],"mappings":";;;;;AAAA;;AAQO,SAAU;IACf,qBACE,wXAAC;kBACC,cAAA,wXAAC;sBAAG;;;;;;;;;;;AAGV"}},
-    {"offset": {"line": 33, "column": 0}, "map": {"version":3,"sources":[],"names":[],"mappings":"A"}},
-    {"offset": {"line": 41, "column": 0}, "map": {"version":3,"sources":["/turbopack/[project]/node_modules/.pnpm/next@14.2.31_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/src/server/future/route-modules/app-page/vendored/ssr/react-jsx-dev-runtime.ts"],"sourcesContent":["unable to read source [project]/node_modules/.pnpm/next@14.2.31_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/src/server/future/route-modules/app-page/vendored/ssr/react-jsx-dev-runtime.ts"],"names":["module","exports","require","vendored","ReactJsxDevRuntime"],"mappings":";AAAAA,OAAOC,OAAO,GAAGC,qNAAiCC,QAAQ,CACxD,YACD,CAACC,kBAAkB"}},
-    {"offset": {"line": 43, "column": 0}, "map": {"version":3,"sources":[],"names":[],"mappings":"A"}}]
-}

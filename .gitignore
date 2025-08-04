@@ -10,3 +10,10 @@ env/
 # Chrome driver
 chromedriver
 node_modules/
+
+# Next.js
+.next/
+out/
+
+# Vector database
+chroma_db/
