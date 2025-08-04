@@ -9,6 +9,7 @@ interface SearchResultsProps {
   query: string;
   isLoading?: boolean;
   error?: string;
+  collectionName?: string;
 }
 
 function FormattedTextDisplay({ sections }: { sections: FormattedTextSection[] }) {
@@ -57,7 +58,7 @@ function FormattedTextDisplay({ sections }: { sections: FormattedTextSection[] }
   );
 }
 
-export function SearchResults({ results, query, isLoading = false, error }: SearchResultsProps) {
+export function SearchResults({ results, query, isLoading = false, error, collectionName }: SearchResultsProps) {
   const [expandedResults, setExpandedResults] = useState<Set<number>>(new Set());
 
   const toggleExpanded = (index: number) => {
@@ -118,7 +119,7 @@ export function SearchResults({ results, query, isLoading = false, error }: Sear
     <div className="bg-white shadow-md rounded-lg p-6">
       <div className="mb-4">
         <h2 className="text-lg font-semibold text-gray-900">
-          Search Results for "{query}"
+          {collectionName || 'Search'} Results for "{query}"
         </h2>
         <p className="text-sm text-gray-600">{results.length} result(s) found</p>
       </div>
@@ -128,7 +129,9 @@ export function SearchResults({ results, query, isLoading = false, error }: Sear
           <div key={index} className="border-b border-gray-200 pb-4 last:border-b-0">
             <div className="flex justify-between items-start mb-2">
               <h3 className="font-medium text-blue-600">
-                Section {result.section}
+                {result.section && `Section ${result.section}`}
+                {result.account && `Account ${result.account}`}
+                {result.id && !result.section && !result.account && `ID ${result.id}`}
               </h3>
               <span className="text-xs bg-green-100 text-green-800 px-2 py-1 rounded">
                 Relevance: {parseFloat(result.relevance).toFixed(3)}

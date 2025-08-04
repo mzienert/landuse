@@ -1,0 +1,69 @@
+{
+  "all_tables": [
+    "ARCHYEAR",
+    "CLASSUSE",
+    "MAILADDR",
+    "LEGAL",
+    "LIVALUE",
+    "PROPTYPE",
+    "SALEDATA",
+    "SITEADDR",
+    "SUBCONDO",
+    "CLASSCOD",
+    "PROPUSE",
+    "asrdata"
+  ],
+  "table_analysis": {
+    "property_tables": [],
+    "lookup_tables": [
+      "CLASSUSE",
+      "PROPTYPE",
+      "CLASSCOD"
+    ],
+    "transaction_tables": [
+      "SALEDATA"
+    ],
+    "other_tables": [
+      "ARCHYEAR",
+      "MAILADDR",
+      "LEGAL",
+      "LIVALUE",
+      "SITEADDR",
+      "SUBCONDO",
+      "PROPUSE",
+      "asrdata"
+    ]
+  },
+  "detailed_info": {
+    "ARCHYEAR": {
+      "table_name": "ARCHYEAR",
+      "schema": "-- ----------------------------------------------------------\n-- MDB Tools - A library for reading MS Access database files\n-- Copyright (C) 2000-2011 Brian Bruns and others.\n-- Files in libmdb are licensed under LGPL and the utilities under\n-- the GPL, see COPYING.LIB and COPYING files respectively.\n-- Check out http://mdbtools.sourceforge.net\n-- ----------------------------------------------------------\n\n-- That file uses encoding UTF-8\n\nCREATE TABLE [ARCHYEAR]\n (\n\t[ACCOUNT_NO]\t\t\tText (15), \n\t[PARCELNUMBER]\t\t\tText (64), \n\t[DOC_OCCURENCE]\t\t\tLong Integer, \n\t[ACTUAL_YEAR_BLT]\t\t\tLong Integer, \n\t[ABSTRACT_CODE]\t\t\tText (50), \n\t[ABSTRACT_DESC]\t\t\tText (50), \n\t[BUILDING_CODE]\t\t\tText (50), \n\t[BUILDING_DESC]\t\t\tText (50), \n\t[BEDROOMS]\t\t\tSingle, \n\t[BATHROOMS]\t\t\tSingle, \n\t[NUMBER_STORIES]\t\t\tSingle, \n\t[IMPSQFT]\t\t\tSingle, \n\t[UNITS]\t\t\tSingle, \n\t[MODEL]\t\t\tText (10), \n\t[ARCH_STYLE_DESC]\t\t\tText (50)\n);",
+      "row_count": "29347",
+      "sample_data": "ACCOUNT_NO,PARCELNUMBER,DOC_OCCURENCE,ACTUAL_YEAR_BLT,ABSTRACT_CODE,ABSTRACT_DESC,BUILDING_CODE,BUILDING_DESC,BEDROOMS,BATHROOMS,NUMBER_STORIES,IMPSQFT,UNITS,MODEL,ARCH_STYLE_DESC\n\"M025015\",\"594902400012\",0,1976,\"9290\",\"EXEMPT MH VALUE UNDER 28K\",\"1235\",\"MANUFAC HOUSING\",2,2,1,924,1,\"MOBILE\",\"SINGLE WIDE\"\n\"M025018\",\"595123100235\",0,1971,\"9290\",\"EXEMPT MH VALUE UNDER 28K\",\"1235\",\"MANUFAC HOUSING\",3,2,1,896,1,\"MOBILE\",\"SINGLE WIDE\"\n\"M025020\",\"590930100227\",0,1964,\"9290\",\"EXEMPT MH VALUE UNDER 28K\",\"1235\",\"MANUFAC HOUSING\",2,1,1,460,1,\"MOBILE\",\"SINGLE WIDE\"\n\"M025035\",\"595118400093\",0,1979,\"9290\",\"EXEMPT MH VALUE UNDER 28K\",\"1235\",\"MANUFAC HOUSING\",3,2,1,1248,1,\"MOBILE\",\"DOUBLE WIDE\"\n\"M025036\",\"595316300417\",0,1973,\"9290\",\"EXEMPT MH VALUE UNDER 28K\",\"1235\",\"MANUFAC HOUSING\",2,1,1,552,1,\"MOBILE\",\"SINGLE WIDE\""
+    },
+    "CLASSUSE": {
+      "table_name": "CLASSUSE",
+      "schema": "-- ----------------------------------------------------------\n-- MDB Tools - A library for reading MS Access database files\n-- Copyright (C) 2000-2011 Brian Bruns and others.\n-- Files in libmdb are licensed under LGPL and the utilities under\n-- the GPL, see COPYING.LIB and COPYING files respectively.\n-- Check out http://mdbtools.sourceforge.net\n-- ----------------------------------------------------------\n\n-- That file uses encoding UTF-8\n\nCREATE TABLE [CLASSUSE]\n (\n\t[Account_No]\t\t\tText (15), \n\t[Parcel_No]\t\t\tText (64), \n\t[Class_CD]\t\t\tText (64), \n\t[Act_VAL]\t\t\tCurrency, \n\t[Ass_VAL]\t\t\tCurrency, \n\t[Acres]\t\t\tSingle\n);",
+      "row_count": "77741",
+      "sample_data": "Account_No,Parcel_No,Class_CD,Act_VAL,Ass_VAL,Acres\n\"M025020\",\"590930100227\",\"9290\",810.0000,0.0000,0\n\"M025036\",\"595316300417\",\"9290\",5130.0000,0.0000,0\n\"M025040\",\"566115400025\",\"9290\",8860.0000,0.0000,0\n\"M025044\",\"566512300013\",\"9290\",6980.0000,0.0000,0\n\"M025052\",\"567308401003\",\"9290\",14990.0000,0.0000,0"
+    },
+    "MAILADDR": {
+      "table_name": "MAILADDR",
+      "schema": "-- ----------------------------------------------------------\n-- MDB Tools - A library for reading MS Access database files\n-- Copyright (C) 2000-2011 Brian Bruns and others.\n-- Files in libmdb are licensed under LGPL and the utilities under\n-- the GPL, see COPYING.LIB and COPYING files respectively.\n-- Check out http://mdbtools.sourceforge.net\n-- ----------------------------------------------------------\n\n-- That file uses encoding UTF-8\n\nCREATE TABLE [MAILADDR]\n (\n\t[Account_No]\t\t\tText (15), \n\t[Name]\t\t\tText (255), \n\t[Addr_1]\t\t\tText (255), \n\t[Addr_2]\t\t\tText (255), \n\t[City]\t\t\tText (255), \n\t[State]\t\t\tText (255), \n\t[Zip]\t\t\tText (10), \n\t[Parcel_No]\t\t\tText (64), \n\t[Tax_Dist]\t\t\tText (64), \n\t[AcctType]\t\t\tText (64), \n\t[Econ_Area]\t\t\tText (255)\n);",
+      "row_count": "46231",
+      "sample_data": "Account_No,Name,Addr_1,Addr_2,City,State,Zip,Parcel_No,Tax_Dist,AcctType,Econ_Area\n\"M031736\",\"DILGARDE, CLAY\",,\"6000 CR 203 #50\",\"DURANGO\",\"CO\",\"81301\",\"559715200081\",\"1103\",,\"150\"\n\"M031737\",\"KUGLE, ROGER CHRISTIAN & DAWN & KEATON & JILLIAN\",,\"994 CR 505\",\"BAYFIELD\",\"CO\",\"81122\",\"567526200191\",\"2202\",,\"150\"\n\"M031747\",\"CRICKETT CONSTRUCTION LLC & HOLMES, CRICKETT\",,\"710 RANCHOS FLORIDA DR\",\"DURANGO\",\"CO\",\"81303\",\"567309404001\",\"1227\",,\"150\"\n\"M031752\",\"SMITH, MARVIN L & JUDITH A\",,\"PO BOX 102\",\"MARVEL\",\"CO\",\"81329\",\"594501200177\",\"1302\",,\"150\"\n\"M031754\",\"SEVERN, ERIC\",,\"293 FIR DR\",\"DURANGO\",\"CO\",\"81301\",\"594512200470\",\"1302\",,\"150\""
+    },
+    "LEGAL": {
+      "table_name": "LEGAL",
+      "schema": "-- ----------------------------------------------------------\n-- MDB Tools - A library for reading MS Access database files\n-- Copyright (C) 2000-2011 Brian Bruns and others.\n-- Files in libmdb are licensed under LGPL and the utilities under\n-- the GPL, see COPYING.LIB and COPYING files respectively.\n-- Check out http://mdbtools.sourceforge.net\n-- ----------------------------------------------------------\n\n-- That file uses encoding UTF-8\n\nCREATE TABLE [LEGAL]\n (\n\t[ACCOUNTNUMBER]\t\t\tText (15), \n\t[PARCELNUMBER]\t\t\tText (12), \n\t[LEGAL_DESC]\t\t\tText (250)\n);",
+      "row_count": "46230",
+      "sample_data": "ACCOUNTNUMBER,PARCELNUMBER,LEGAL_DESC\n\"M025002\",\"566509300012\",\" MOBILE/MANUFACTURED TITLE: 004864837 MOBILE/MANUFACTURED SERIAL: ZWK75145626 YEAR: 1979 MAKE: WINDSOR SIZE:  14X75 SPACE:  5   Subdivision: ANIMAS VIEW MHP CO-OP    288 ANIMAS VIEW DR #5 DURANGO  81301\"\n\"M025005\",\"591135300062\",\" MOBILE/MANUFACTURED SERIAL: 46DW5753 YEAR: 1957 MAKE: GEER SIZE:  8X46 SPACE:  5911-353-00-062       256 CR 130A HESPERUS  81326\"\n\"M025012\",\"590324100773\",\" MOBILE/MANUFACTURED SERIAL: 2931X YEAR: 1972 MAKE: CHICKASHA SIZE:  14X60 SPACE:  5903-241-00-773       2690 CR 514 IGNACIO  81137\"\n\"M025015\",\"594902400012\",\" MOBILE/MANUFACTURED SERIAL: 67A6034 YEAR: 1976 MAKE: BON SPACE:  5949-024-00-012       6073 CR 213 DURANGO  81301\"\n\"M025018\",\"595123100235\",\" MOBILE/MANUFACTURED SERIAL: 68141191 YEAR: 1971 MAKE: AZTEC SIZE:  14X68 SPACE:  5951-231-00-235       601 CR 318 IGNACIO  81137\""
+    },
+    "LIVALUE": {
+      "table_name": "LIVALUE",
+      "schema": "-- ----------------------------------------------------------\n-- MDB Tools - A library for reading MS Access database files\n-- Copyright (C) 2000-2011 Brian Bruns and others.\n-- Files in libmdb are licensed under LGPL and the utilities under\n-- the GPL, see COPYING.LIB and COPYING files respectively.\n-- Check out http://mdbtools.sourceforge.net\n-- ----------------------------------------------------------\n\n-- That file uses encoding UTF-8\n\nCREATE TABLE [LIVALUE]\n (\n\t[ACCOUNT_NO]\t\t\tText (15), \n\t[PARCEL_NO]\t\t\tText (64), \n\t[LAND_ACT]\t\t\tCurrency, \n\t[IMPV_ACT]\t\t\tCurrency, \n\t[LAND_ASS]\t\t\tCurrency, \n\t[IMPV_ASS]\t\t\tCurrency\n);",
+      "row_count": "46230",
+      "sample_data": "ACCOUNT_NO,PARCEL_NO,LAND_ACT,IMPV_ACT,LAND_ASS,IMPV_ASS\n\"M025002\",\"566509300012\",0.0000,22250.0000,0.0000,1390.0000\n\"M025005\",\"591135300062\",0.0000,30.0000,0.0000,0.0000\n\"M025012\",\"590324100773\",0.0000,8370.0000,0.0000,520.0000\n\"M025015\",\"594902400012\",0.0000,8140.0000,0.0000,510.0000\n\"M025018\",\"595123100235\",0.0000,5330.0000,0.0000,330.0000"
+    }
+  }
+}

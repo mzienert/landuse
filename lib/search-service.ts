@@ -1,11 +1,16 @@
 export interface SearchResult {
-  section: string;
+  section?: string;
+  account?: string;
+  id?: string;
   text: string;
   relevance: string;
+  collection: string;
 }
 
 export interface SearchResponse {
   query: string;
+  collection: string;
+  collection_name: string;
   results: SearchResult[];
 }
 
@@ -16,9 +21,10 @@ export interface SearchError {
 export class SearchService {
   private static readonly BASE_URL = 'http://localhost:8000';
 
-  static async searchLandUseCode(
+  static async search(
     query: string, 
-    numResults: number = 5
+    numResults: number = 5,
+    collection: string = 'la_plata_county_code'
   ): Promise<SearchResponse> {
     if (!query.trim()) {
       throw new Error('Query cannot be empty');
@@ -27,6 +33,7 @@ export class SearchService {
     const url = new URL(`${this.BASE_URL}/search/simple`);
     url.searchParams.set('query', query.trim());
     url.searchParams.set('num_results', numResults.toString());
+    url.searchParams.set('collection', collection);
 
     try {
       const response = await fetch(url.toString(), {
@@ -48,7 +55,7 @@ export class SearchService {
       const data: SearchResponse = await response.json();
       
       // Validate response structure
-      if (!data.query || !Array.isArray(data.results)) {
+      if (!data.query || !Array.isArray(data.results) || !data.collection) {
         throw new Error('Invalid response format from search API');
       }
 

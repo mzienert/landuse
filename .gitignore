@@ -17,3 +17,9 @@ out/
 
 # Vector database
 chroma_db/
+
+# Environment variables
+.env*
+!.env.example
+
+LPC-Assessor-Data-Files/

@@ -1,6 +1,6 @@
-# La Plata County Land Use Code - Semantic Search API
+# La Plata County Semantic Search System
 
-A semantic search system for the La Plata County Land Use Code, enabling natural language queries over county regulations. Built with sentence transformers, ChromaDB, and Flask API.
+A comprehensive semantic search platform for La Plata County data, enabling natural language queries across Land Use Code regulations and Property Assessor records. Built with dual-model architecture, ChromaDB, and Flask API.
 
 ## 🚀 Quick Start
 
@@ -9,27 +9,35 @@ A semantic search system for the La Plata County Land Use Code, enabling natural
 1. **Setup Environment**
    ```bash
    source env/bin/activate
-   pip install sentence-transformers chromadb flask flask-cors
+   pip install sentence-transformers chromadb flask flask-cors mdbtools
    ```
 
 2. **Create Vector Embeddings**
+   
+   **Land Use Code (1,298 sections):**
    ```bash
    python create_embeddings.py
    ```
    
-   **Note**: This processes 1,298 sections and takes ~2 minutes. The script will:
-   - Load the intfloat/e5-large-v2 model (1024 dimensions)
-   - Generate embeddings for all county code sections
-   - Store vectors in ChromaDB at `./chroma_db/`
+   **Property Assessor Data (46,230 properties):**
+   ```bash
+   python create_assessor_embeddings.py
+   ```
+   
+   **Note**: Both processes use optimized models and take 2-6 minutes each.
 
 3. **Start API Server**
    ```bash
    ./scripts/api.sh start
    ```
 
-4. **Test the API**
+4. **Test Both Collections**
    ```bash
-   curl "http://localhost:8000/search/simple?query=building%20permits&num_results=10"
+   # Land Use Code
+   curl "http://localhost:8000/search/simple?query=building%20permits&collection=la_plata_county_code&num_results=5"
+   
+   # Property Assessor Data
+   curl "http://localhost:8000/search/simple?query=Smith%20family&collection=la_plata_assessor&num_results=5"
    ```
 
 📖 **Detailed setup instructions:** See [BUILD_STEPS.md](BUILD_STEPS.md)
@@ -38,42 +46,60 @@ A semantic search system for the La Plata County Land Use Code, enabling natural
 
 ### System Overview
 ```
-┌─────────────────┐    ┌──────────────────┐    ┌─────────────────┐
-│  Source Data    │ →  │ Vector Embeddings │ →  │   Search API    │
-│ (JSON files)    │    │   (ChromaDB)      │    │   (Flask)       │
-└─────────────────┘    └──────────────────┘    └─────────────────┘
-         │                        │                        │
-    ┌─────────┐              ┌──────────┐           ┌─────────────┐
-    │ 1,298   │              │ all-Mini │           │ REST API    │
-    │sections │              │ LM-L6-v2 │           │ + CORS      │
-    └─────────┘              └──────────┘           └─────────────┘
+┌──────────────────────┐    ┌─────────────────────┐    ┌──────────────────┐
+│    Dual Data Sources │ →  │  Vector Embeddings  │ →  │   Search API     │
+│                      │    │     (ChromaDB)      │    │    (Flask)       │
+├──────────────────────┤    ├─────────────────────┤    └──────────────────┘
+│ Land Use Code        │    │ la_plata_county_code│              │
+│ • 1,298 sections     │    │ • e5-large-v2       │    ┌──────────────────┐
+│ • Regulations        │    │ • 1024 dimensions   │    │ Multi-Collection │
+├──────────────────────┤    ├─────────────────────┤    │ REST API + CORS  │
+│ Property Assessor    │    │ la_plata_assessor   │    │ • Collection     │
+│ • 46,230 properties  │    │ • all-mpnet-base-v2 │    │   Selection      │
+│ • Ownership & Values │    │ • 768 dimensions    │    │ • Dual Models    │
+└──────────────────────┘    └─────────────────────┘    └──────────────────┘
 ```
 
 ### Technology Stack
 
 **Core Components:**
-- **Embedding Model**: `intfloat/e5-large-v2` (1024 dimensions, optimized for legal text)
-- **Vector Database**: ChromaDB (local development) / Pinecone (production)
-- **API Framework**: Flask with CORS support
+- **Dual Embedding Models**: 
+  - `intfloat/e5-large-v2` (1024D) for legal/regulatory text
+  - `all-mpnet-base-v2` (768D) for property/structured data
+- **Vector Database**: ChromaDB with multi-collection support
+- **API Framework**: Flask with CORS and collection routing
+- **Data Processing**: MDB extraction tools + custom property description generation
 - **Language**: Python 3.10+
 
 **Data Pipeline:**
-1. **Source**: La Plata County Land Use Code (`la_plata_code/full_code.json`)
-2. **Processing**: Text chunking, embedding generation, vector storage
-3. **Search**: Semantic similarity search with configurable result counts
-4. **API**: RESTful endpoints with JSON responses
+1. **Sources**: 
+   - Land Use Code JSON (`la_plata_code/full_code.json`)
+   - Property Assessor MDB (`LPC-Assessor-Data-Files/AssessorData.mdb`)
+2. **Processing**: 
+   - Text chunking and cleaning
+   - Model-specific embedding generation
+   - Multi-collection vector storage
+3. **Search**: Collection-aware semantic similarity search
+4. **API**: RESTful endpoints with collection selection
 
 ### Project Structure
 ```
 landuse/
-├── la_plata_code/           # Source data (JSON, TXT files)
-├── chroma_db/               # Vector database storage
-├── scripts/                 # Management scripts
-│   └── api.sh              # API server management
-├── create_embeddings.py     # Embedding generation script
-├── search_api.py           # Flask API server
-├── test_search.py          # Local testing utilities
-└── BUILD_STEPS.md          # Detailed setup guide
+├── la_plata_code/                    # Land Use Code source data
+├── LPC-Assessor-Data-Files/          # Property Assessor source data (MDB)
+├── chroma_db/                        # Multi-collection vector database
+├── scripts/                          # Management scripts
+│   └── api.sh                       # API server management
+├── create_embeddings.py             # Land Use Code embeddings (1024D)
+├── create_assessor_embeddings.py    # Property Assessor embeddings (768D)
+├── search_api.py                    # Multi-collection Flask API
+├── components/                       # Next.js UI components
+│   ├── search-form.tsx              # Collection-aware search form
+│   └── search-results.tsx           # Unified results display
+├── app/                             # Next.js application
+│   ├── search/page.tsx             # Search interface
+│   └── page.tsx                    # Landing page
+└── BUILD_STEPS.md                   # Detailed setup guide
 ```
 
 ## 🔍 API Usage
@@ -243,6 +269,18 @@ Try these semantic searches:
 3. Commit your changes (`git commit -m 'Add amazing feature'`)
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
+
+## 🎯 Roadmap / TODO
+
+### Data Expansion
+- [ ] **GIS Data Integration**: Scrape and integrate https://gis.lpcgov.org/lpcmap/ for geographic/zoning overlay data
+- [ ] **Assessor's Office Data**: Scrape and integrate property assessment data from La Plata County Assessor's Office
+
+### Future Enhancements
+- [ ] Multi-county support (expansion beyond La Plata County)
+- [ ] Real-time data synchronization
+- [ ] Advanced search filters (date ranges, document types, etc.)
+- [ ] Geographic search capabilities with GIS integration
 
 ## 📄 License
 
