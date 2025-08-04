@@ -1,7 +1,8 @@
 'use client';
 
-import React from 'react';
+import React, { useState } from 'react';
 import { SearchResult } from '../lib/search-service';
+import { parseAndFormatText, formatTextForDisplay, FormattedTextSection } from '../lib/text-formatter';
 
 interface SearchResultsProps {
   results: SearchResult[];
@@ -10,7 +11,64 @@ interface SearchResultsProps {
   error?: string;
 }
 
+function FormattedTextDisplay({ sections }: { sections: FormattedTextSection[] }) {
+  return (
+    <div className="space-y-1">
+      {sections.map((section, idx) => {
+        switch (section.type) {
+          case 'heading':
+            return (
+              <div 
+                key={idx} 
+                className={`font-bold text-gray-900 ${
+                  section.level === 1 ? 'text-base' : 'text-sm'
+                } ${idx > 0 ? 'mt-4 mb-2' : 'mb-2'}`}
+              >
+                {section.content}
+              </div>
+            );
+          case 'section':
+            return (
+              <div key={idx} className="font-semibold text-blue-700 text-sm mt-3 mb-1">
+                {section.content}
+              </div>
+            );
+          case 'metadata':
+            return (
+              <div key={idx} className="text-xs text-gray-500 italic mt-2">
+                {section.content}
+              </div>
+            );
+          case 'list-item':
+            return (
+              <div key={idx} className="text-sm text-gray-700 ml-4 my-1">
+                {section.content}
+              </div>
+            );
+          default:
+            return (
+              <div key={idx} className="text-sm text-gray-700 leading-relaxed mb-2">
+                {section.content}
+              </div>
+            );
+        }
+      })}
+    </div>
+  );
+}
+
 export function SearchResults({ results, query, isLoading = false, error }: SearchResultsProps) {
+  const [expandedResults, setExpandedResults] = useState<Set<number>>(new Set());
+
+  const toggleExpanded = (index: number) => {
+    const newExpanded = new Set(expandedResults);
+    if (newExpanded.has(index)) {
+      newExpanded.delete(index);
+    } else {
+      newExpanded.add(index);
+    }
+    setExpandedResults(newExpanded);
+  };
   if (isLoading) {
     return (
       <div className="bg-white shadow-md rounded-lg p-6">
@@ -76,17 +134,28 @@ export function SearchResults({ results, query, isLoading = false, error }: Sear
                 Relevance: {parseFloat(result.relevance).toFixed(3)}
               </span>
             </div>
-            <div className="text-gray-700 text-sm leading-relaxed">
+            <div>
               {result.text.length > 500 ? (
-                <>
-                  {result.text.substring(0, 500)}
-                  <span className="text-gray-500">... </span>
-                  <button className="text-blue-600 hover:text-blue-800 text-xs">
-                    Read more
+                <div>
+                  <FormattedTextDisplay 
+                    sections={parseAndFormatText(
+                      expandedResults.has(index) 
+                        ? result.text 
+                        : formatTextForDisplay(result.text, 500)
+                    )}
+                  />
+                  {!expandedResults.has(index) && (
+                    <span className="text-gray-500 text-sm">... </span>
+                  )}
+                  <button 
+                    onClick={() => toggleExpanded(index)}
+                    className="text-blue-600 hover:text-blue-800 text-xs ml-1 inline-block mt-2"
+                  >
+                    {expandedResults.has(index) ? 'Show less' : 'Read more'}
                   </button>
-                </>
+                </div>
               ) : (
-                result.text
+                <FormattedTextDisplay sections={parseAndFormatText(result.text)} />
               )}
             </div>
           </div>

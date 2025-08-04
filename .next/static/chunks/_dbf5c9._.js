@@ -1,4 +1,4 @@
-(globalThis.TURBOPACK = globalThis.TURBOPACK || []).push(["static/chunks/_e15ba4._.js", {
+(globalThis.TURBOPACK = globalThis.TURBOPACK || []).push(["static/chunks/_dbf5c9._.js", {
 
 "[project]/components/search-form.tsx [app-client] (ecmascript)": (({ r: __turbopack_require__, f: __turbopack_module_context__, i: __turbopack_import__, s: __turbopack_esm__, v: __turbopack_export_value__, n: __turbopack_export_namespace__, c: __turbopack_cache__, M: __turbopack_modules__, l: __turbopack_load__, j: __turbopack_dynamic__, P: __turbopack_resolve_absolute_path__, U: __turbopack_relative_url__, R: __turbopack_resolve_module_id_path__, g: global, __dirname, k: __turbopack_refresh__ }) => (() => {
 "use strict";
@@ -144,6 +144,111 @@ var _c;
 __turbopack_refresh__.register(_c, "SearchForm");
 
 })()),
+"[project]/lib/text-formatter.ts [app-client] (ecmascript)": (({ r: __turbopack_require__, f: __turbopack_module_context__, i: __turbopack_import__, s: __turbopack_esm__, v: __turbopack_export_value__, n: __turbopack_export_namespace__, c: __turbopack_cache__, M: __turbopack_modules__, l: __turbopack_load__, j: __turbopack_dynamic__, P: __turbopack_resolve_absolute_path__, U: __turbopack_relative_url__, R: __turbopack_resolve_module_id_path__, g: global, __dirname, k: __turbopack_refresh__ }) => (() => {
+"use strict";
+
+__turbopack_esm__({
+    "formatTextForDisplay": ()=>formatTextForDisplay,
+    "parseAndFormatText": ()=>parseAndFormatText
+});
+function parseAndFormatText(text) {
+    const lines = text.split('\n').filter((line)=>line.trim());
+    const sections = [];
+    let currentParagraph = [];
+    const flushParagraph = ()=>{
+        if (currentParagraph.length > 0) {
+            sections.push({
+                type: 'paragraph',
+                content: currentParagraph.join(' ')
+            });
+            currentParagraph = [];
+        }
+    };
+    for(let i = 0; i < lines.length; i++){
+        const line = lines[i].trim();
+        if (!line) continue;
+        // Chapter/Article headings (all caps, contains "Chapter" or "Article")
+        if (line.includes('Chapter') && line === line.toUpperCase()) {
+            flushParagraph();
+            sections.push({
+                type: 'heading',
+                content: line,
+                level: 1
+            });
+        } else if (line.includes('Article') && line === line.toUpperCase()) {
+            flushParagraph();
+            sections.push({
+                type: 'heading',
+                content: line,
+                level: 2
+            });
+        } else if (/^Sec\.\s+\d+[-\d]*\.?$/.test(line)) {
+            flushParagraph();
+            sections.push({
+                type: 'section',
+                content: line
+            });
+        } else if (/^\d+\.\d+\s+/.test(line)) {
+            flushParagraph();
+            sections.push({
+                type: 'section',
+                content: line
+            });
+        } else if (line.startsWith('(') && line.endsWith(')')) {
+            flushParagraph();
+            sections.push({
+                type: 'metadata',
+                content: line
+            });
+        } else if (line.startsWith('Effective on:')) {
+            flushParagraph();
+            sections.push({
+                type: 'metadata',
+                content: line
+            });
+        } else if (/^[\d]+\.\s/.test(line) || line.startsWith('•') || line.startsWith('-')) {
+            flushParagraph();
+            sections.push({
+                type: 'list-item',
+                content: line
+            });
+        } else {
+            currentParagraph.push(line);
+        }
+    }
+    // Flush any remaining paragraph
+    flushParagraph();
+    return sections;
+}
+function formatTextForDisplay(text, maxLength) {
+    // If no max length specified, return formatted version
+    if (!maxLength) {
+        return text.replace(/\n/g, '\n').trim();
+    }
+    // For truncated text, try to break at a natural point
+    if (text.length <= maxLength) {
+        return text.replace(/\n/g, '\n').trim();
+    }
+    const truncated = text.substring(0, maxLength);
+    // Try to break at the end of a sentence
+    const lastSentence = truncated.lastIndexOf('.');
+    if (lastSentence > maxLength * 0.7) {
+        return truncated.substring(0, lastSentence + 1).replace(/\n/g, '\n').trim();
+    }
+    // Try to break at the end of a line
+    const lastNewline = truncated.lastIndexOf('\n');
+    if (lastNewline > maxLength * 0.7) {
+        return truncated.substring(0, lastNewline).replace(/\n/g, '\n').trim();
+    }
+    // Fall back to word boundary
+    const lastSpace = truncated.lastIndexOf(' ');
+    if (lastSpace > maxLength * 0.8) {
+        return truncated.substring(0, lastSpace).replace(/\n/g, '\n').trim();
+    }
+    return truncated.replace(/\n/g, '\n').trim();
+}
+
+})()),
 "[project]/components/search-results.tsx [app-client] (ecmascript)": (({ r: __turbopack_require__, f: __turbopack_module_context__, i: __turbopack_import__, s: __turbopack_esm__, v: __turbopack_export_value__, n: __turbopack_export_namespace__, c: __turbopack_cache__, M: __turbopack_modules__, l: __turbopack_load__, j: __turbopack_dynamic__, P: __turbopack_resolve_absolute_path__, U: __turbopack_relative_url__, R: __turbopack_resolve_module_id_path__, g: global, __dirname, k: __turbopack_refresh__ }) => (() => {
 "use strict";
 
@@ -161,12 +266,12 @@ var _s = __turbopack_refresh__.signature();
 ;
 function FormattedTextDisplay({ sections }) {
     return /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f$next$40$14$2e$2$2e$31_react$2d$dom$40$18$2e$3$2e$1_react$40$18$2e$3$2e$1_$5f$react$40$18$2e$3$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-        className: "space-y-2",
+        className: "space-y-1",
         children: sections.map((section, idx)=>{
             switch(section.type){
                 case 'heading':
                     return /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f$next$40$14$2e$2$2e$31_react$2d$dom$40$18$2e$3$2e$1_react$40$18$2e$3$2e$1_$5f$react$40$18$2e$3$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                        className: `font-bold text-gray-900 ${section.level === 1 ? 'text-base' : 'text-sm'} ${idx > 0 ? 'mt-4' : ''}`,
+                        className: `font-bold text-gray-900 ${section.level === 1 ? 'text-base' : 'text-sm'} ${idx > 0 ? 'mt-4 mb-2' : 'mb-2'}`,
                         children: section.content
                     }, idx, false, {
                         fileName: "[project]/components/search-results.tsx",
@@ -175,7 +280,7 @@ function FormattedTextDisplay({ sections }) {
                     }, this);
                 case 'section':
                     return /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f$next$40$14$2e$2$2e$31_react$2d$dom$40$18$2e$3$2e$1_react$40$18$2e$3$2e$1_$5f$react$40$18$2e$3$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                        className: "font-semibold text-blue-700 text-sm mt-3",
+                        className: "font-semibold text-blue-700 text-sm mt-3 mb-1",
                         children: section.content
                     }, idx, false, {
                         fileName: "[project]/components/search-results.tsx",
@@ -184,7 +289,7 @@ function FormattedTextDisplay({ sections }) {
                     }, this);
                 case 'metadata':
                     return /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f$next$40$14$2e$2$2e$31_react$2d$dom$40$18$2e$3$2e$1_react$40$18$2e$3$2e$1_$5f$react$40$18$2e$3$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                        className: "text-xs text-gray-500 italic",
+                        className: "text-xs text-gray-500 italic mt-2",
                         children: section.content
                     }, idx, false, {
                         fileName: "[project]/components/search-results.tsx",
@@ -193,7 +298,7 @@ function FormattedTextDisplay({ sections }) {
                     }, this);
                 case 'list-item':
                     return /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f$next$40$14$2e$2$2e$31_react$2d$dom$40$18$2e$3$2e$1_react$40$18$2e$3$2e$1_$5f$react$40$18$2e$3$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                        className: "text-sm text-gray-700 ml-4",
+                        className: "text-sm text-gray-700 ml-4 my-1",
                         children: section.content
                     }, idx, false, {
                         fileName: "[project]/components/search-results.tsx",
@@ -202,7 +307,7 @@ function FormattedTextDisplay({ sections }) {
                     }, this);
                 default:
                     return /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f$next$40$14$2e$2$2e$31_react$2d$dom$40$18$2e$3$2e$1_react$40$18$2e$3$2e$1_$5f$react$40$18$2e$3$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                        className: "text-sm text-gray-700 leading-relaxed",
+                        className: "text-sm text-gray-700 leading-relaxed mb-2",
                         children: section.content
                     }, idx, false, {
                         fileName: "[project]/components/search-results.tsx",
@@ -1714,4 +1819,4 @@ if ("TURBOPACK compile-time falsy", 0) {
 }.call(this) }),
 }]);
 
-//# sourceMappingURL=_e15ba4._.js.map
+//# sourceMappingURL=_dbf5c9._.js.map
