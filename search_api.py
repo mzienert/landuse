@@ -27,8 +27,8 @@ AVAILABLE_COLLECTIONS = {
     },
     'la_plata_assessor': {
         'name': 'Property Assessor Data',
-        'model': 'sentence-transformers/all-mpnet-base-v2',
-        'dimensions': 768,
+        'model': 'intfloat/e5-large-v2',
+        'dimensions': 1024,
         'description': 'Property assessment and ownership data'
     }
 }

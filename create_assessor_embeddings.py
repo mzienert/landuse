@@ -168,8 +168,8 @@ def setup_model():
     """Load the sentence transformer model - using medium dimension model"""
     print("Loading sentence transformer model...")
     try:
-        model = SentenceTransformer('sentence-transformers/all-mpnet-base-v2')  # 768 dimensions - good balance
-        print("Model loaded successfully: all-mpnet-base-v2 (768 dimensions)")
+        model = SentenceTransformer('intfloat/e5-large-v2')  # 1024 dimensions - better for structured data
+        print("Model loaded successfully: e5-large-v2 (1024 dimensions)")
         return model
     except Exception as e:
         print(f"Error loading model: {e}")
