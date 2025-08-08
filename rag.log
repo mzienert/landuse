@@ -8,8 +8,17 @@
  * Restarting with stat
  * Debugger is active!
  * Debugger PIN: 114-241-345
-127.0.0.1 - - [07/Aug/2025 19:05:57] "GET /rag/health HTTP/1.1" 200 -
-127.0.0.1 - - [07/Aug/2025 19:06:07] "POST /rag/answer/stream HTTP/1.1" 200 -
-127.0.0.1 - - [07/Aug/2025 19:06:11] "POST /rag/answer/stream HTTP/1.1" 200 -
-127.0.0.1 - - [07/Aug/2025 19:06:14] "POST /rag/answer/stream HTTP/1.1" 200 -
-127.0.0.1 - - [07/Aug/2025 19:06:16] "POST /rag/answer/stream HTTP/1.1" 200 -
+Fetching 6 files:   0%|          | 0/6 [00:00<?, ?it/s]Fetching 6 files: 100%|██████████| 6/6 [00:00<00:00, 49539.02it/s]
+127.0.0.1 - - [07/Aug/2025 22:30:23] "POST /rag/model/load HTTP/1.1" 200 -
+127.0.0.1 - - [07/Aug/2025 22:30:40] "GET /rag/answer/stream?query=dogs&collection=la_plata_county_code&num_results=6&max_tokens=512 HTTP/1.1" 200 -
+ * Detected change in '/Users/matthewzienert/Documents/landuse/rag/inference.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 114-241-345
+127.0.0.1 - - [07/Aug/2025 22:32:00] "GET /rag/answer/stream?query=Dog+leash&collection=la_plata_county_code&num_results=6&max_tokens=512 HTTP/1.1" 200 -
+127.0.0.1 - - [07/Aug/2025 22:32:13] "[33mPOST /rag/query HTTP/1.1[0m" 404 -
+127.0.0.1 - - [07/Aug/2025 22:32:22] "GET /rag/answer/stream?query=dog+leash&collection=la_plata_county_code&num_results=6&max_tokens=512 HTTP/1.1" 200 -
+Fetching 6 files:   0%|          | 0/6 [00:00<?, ?it/s]Fetching 6 files: 100%|██████████| 6/6 [00:00<00:00, 91180.52it/s]
+127.0.0.1 - - [07/Aug/2025 22:32:32] "POST /rag/model/load HTTP/1.1" 200 -
+127.0.0.1 - - [07/Aug/2025 22:32:38] "GET /rag/answer/stream?query=dog+leash%0A&collection=la_plata_county_code&num_results=6&max_tokens=512 HTTP/1.1" 200 -
+127.0.0.1 - - [07/Aug/2025 22:34:33] "GET /rag/answer/stream?query=cows%0A%0A&collection=la_plata_county_code&num_results=6&max_tokens=512 HTTP/1.1" 200 -

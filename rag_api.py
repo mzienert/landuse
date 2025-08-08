@@ -16,6 +16,26 @@ import time
 app = Flask(__name__)
 CORS(app)
 
+# Optional: MLX model manager (loaded on demand)
+try:
+    from rag.inference import ModelManager
+    model_mgr = ModelManager()
+except Exception:
+    model_mgr = None
+
+try:
+    from rag.retrieval import (
+        fetch_simple_search,
+        build_prompt_with_sources,
+        rerank_results,
+        extract_citations,
+        auto_cite_answer,
+    )
+    from rag.verify import verify_answer_support
+except Exception:
+    fetch_simple_search = None
+    build_prompt_with_sources = None
+
 
 RAG_CONFIG = {
     "service": "RAG API",
@@ -39,11 +59,14 @@ def rag_health():
     return jsonify(
         {
             "status": "healthy",
-            "model_loaded": False,
+            "model_loaded": bool(model_mgr and model_mgr.is_loaded),
+            "mlx_available": bool(model_mgr and model_mgr.is_available),
+            "model_id": model_mgr.model_id if model_mgr else None,
             "streaming": True,
             "endpoints": [
                 "/rag/health",
                 "/rag/config",
+                "/rag/model/load",
                 "/rag/answer",
                 "/rag/answer/stream",
             ],
@@ -54,6 +77,23 @@ def rag_health():
 @app.route("/rag/config", methods=["GET"])
 def rag_config():
     return jsonify(RAG_CONFIG)
+
+
+@app.route("/rag/model/load", methods=["POST"])
+def rag_model_load():
+    if not model_mgr:
+        return jsonify({"error": "Model manager unavailable"}), 500
+
+    data = request.get_json(force=True, silent=True) or {}
+    model_id = data.get("model_id", "").strip()
+    if not model_id:
+        return jsonify({"error": "model_id is required"}), 400
+
+    try:
+        info = model_mgr.load_model(model_id)
+        return jsonify({"loaded": True, **info})
+    except Exception as e:
+        return jsonify({"loaded": False, "error": str(e)}), 500
 
 
 @app.route("/rag/answer", methods=["POST"])
@@ -67,10 +107,47 @@ def rag_answer():
         if not query:
             return jsonify({"error": "query is required"}), 400
 
-        # Stubbed response (no model yet)
-        answer_text = (
-            "[stub] RAG service initialized. Model loading not yet implemented in this step."
-        )
+        # If model loaded, include retrieval context (no reranking yet)
+        if model_mgr and model_mgr.is_loaded:
+            if fetch_simple_search and build_prompt_with_sources:
+                try:
+                    retrieval = fetch_simple_search(query, collection=collection, num_results=num_results)
+                    raw_results = retrieval.get("results", [])
+                    # Heuristic rerank + diversity selection (v1)
+                    results = rerank_results(query, raw_results, top_k=min(num_results, 6))
+                except Exception as e:
+                    results = []
+                    # Fall back to raw question if retrieval fails
+                prompt, sources_meta = build_prompt_with_sources(query, results) if results else (
+                    f"User question:\n{query}\n\nAnswer concisely.",
+                    [],
+                )
+            else:
+                prompt, sources_meta = f"User question:\n{query}\n\nAnswer concisely.", []
+            tokens = []
+            try:
+                for t in model_mgr.stream_generate(
+                    prompt,
+                    max_tokens=int(data.get("max_tokens", 256)),
+                    temperature=float(data.get("temperature", 0.2)),
+                    top_p=float(data.get("top_p", 0.9)),
+                ):
+                    tokens.append(t)
+            except Exception as e:
+                return jsonify({"error": str(e)}), 500
+            answer_text = "".join(tokens).strip()
+            citations, used_sources = extract_citations(answer_text, sources_meta)
+            if not citations and sources_meta:
+                # Best-effort auto-citation fallback
+                answer_text, citations, used_sources = auto_cite_answer(answer_text, sources_meta)
+
+            # Lightweight verification report
+            annotated_answer, verification = verify_answer_support(answer_text, used_sources)
+            answer_text = annotated_answer
+        else:
+            answer_text = (
+                "[stub] Model not loaded. Load via POST /rag/model/load with {\"model_id\": \"...\"}."
+            )
 
         return jsonify(
             {
@@ -78,8 +155,9 @@ def rag_answer():
                 "collection": collection,
                 "num_results": num_results,
                 "answer": answer_text,
-                "citations": [],
-                "sources": [],
+                "citations": citations if model_mgr and model_mgr.is_loaded else [],
+                "sources": used_sources if model_mgr and model_mgr.is_loaded else [],
+                "verification": verification if model_mgr and model_mgr.is_loaded else None,
             }
         )
     except Exception as e:
@@ -90,10 +168,21 @@ def _sse(data: dict) -> str:
     return f"data: {json.dumps(data)}\n\n"
 
 
-@app.route("/rag/answer/stream", methods=["POST"])
+@app.route("/rag/answer/stream", methods=["POST", "GET"])
 def rag_answer_stream():
-    data = request.get_json(force=True, silent=True) or {}
-    query = data.get("query", "").strip()
+    if request.method == "GET":
+        data = {
+            "query": request.args.get("query", ""),
+            "collection": request.args.get("collection", "la_plata_county_code"),
+            "num_results": request.args.get("num_results", 5),
+            "max_tokens": request.args.get("max_tokens", 256),
+            "temperature": request.args.get("temperature", 0.2),
+            "top_p": request.args.get("top_p", 0.9),
+        }
+    else:
+        data = request.get_json(force=True, silent=True) or {}
+
+    query = (data.get("query", "") or "").strip()
     collection = data.get("collection", "la_plata_county_code")
 
     if not query:
@@ -101,26 +190,54 @@ def rag_answer_stream():
 
     @stream_with_context
     def generate():
-        # Begin stream
-        yield _sse({"event": "start", "model_loaded": False, "collection": collection})
+        yield _sse({
+            "event": "start",
+            "model_loaded": bool(model_mgr and model_mgr.is_loaded),
+            "collection": collection,
+        })
+        # Large SSE comment padding to defeat buffering in certain proxies/browsers
+        yield ": " + (" " * 2048) + "\n\n"
 
-        # Stubbed token stream
-        tokens = ["This", " is", " a", " stubbed", " RAG", " response."]
-        for t in tokens:
-            time.sleep(0.05)
-            yield _sse({"event": "token", "text": t})
+        if model_mgr and model_mgr.is_loaded:
+            # Retrieval first (no reranking yet)
+            sources_meta = []
+            if fetch_simple_search and build_prompt_with_sources:
+                try:
+                    k = int(data.get("num_results", 5))
+                    retrieval = fetch_simple_search(query, collection=collection, num_results=k)
+                    raw_results = retrieval.get("results", [])
+                    results = rerank_results(query, raw_results, top_k=min(k, 6))
+                    prompt, sources_meta = build_prompt_with_sources(query, results)
+                except Exception as e:
+                    prompt = f"User question:\n{query}\n\nAnswer concisely."
+            else:
+                prompt = f"User question:\n{query}\n\nAnswer concisely."
+            try:
+                for t in model_mgr.stream_generate(
+                    prompt,
+                    max_tokens=int(data.get("max_tokens", 256)),
+                    temperature=float(data.get("temperature", 0.2)),
+                    top_p=float(data.get("top_p", 0.9)),
+                ):
+                    yield _sse({"event": "token", "text": t})
+            except Exception as e:
+                yield _sse({"event": "error", "message": str(e)})
+        else:
+            for t in ["Model", " not", " loaded."]:
+                time.sleep(0.05)
+                yield _sse({"event": "token", "text": t})
 
-        # End of generation with placeholder citations
-        yield _sse(
-            {
-                "event": "end",
-                "answer": "This is a stubbed RAG response.",
-                "citations": [],
-                "sources": [],
-            }
-        )
+        # We cannot reliably compute final citations from a streaming session without
+        # buffering the whole output. For now, end event does not carry final citations.
+        yield _sse({"event": "end", "answer": None, "citations": [], "sources": []})
 
-    return Response(generate(), mimetype="text/event-stream")
+    resp = Response(generate(), mimetype="text/event-stream")
+    # Encourage immediate flushing/streaming across proxies/browsers
+    resp.headers["Cache-Control"] = "no-cache"
+    resp.headers["X-Accel-Buffering"] = "no"  # nginx buffering hint
+    resp.headers["Connection"] = "keep-alive"
+    resp.headers["Content-Type"] = "text/event-stream; charset=utf-8"
+    return resp
 
 
 @app.route("/", methods=["GET"])
