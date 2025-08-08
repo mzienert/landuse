@@ -1,0 +1,15 @@
+ * Serving Flask app 'rag_api'
+ * Debug mode: on
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8001
+ * Running on http://192.168.1.17:8001
+[33mPress CTRL+C to quit[0m
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 114-241-345
+127.0.0.1 - - [07/Aug/2025 19:05:57] "GET /rag/health HTTP/1.1" 200 -
+127.0.0.1 - - [07/Aug/2025 19:06:07] "POST /rag/answer/stream HTTP/1.1" 200 -
+127.0.0.1 - - [07/Aug/2025 19:06:11] "POST /rag/answer/stream HTTP/1.1" 200 -
+127.0.0.1 - - [07/Aug/2025 19:06:14] "POST /rag/answer/stream HTTP/1.1" 200 -
+127.0.0.1 - - [07/Aug/2025 19:06:16] "POST /rag/answer/stream HTTP/1.1" 200 -
