@@ -64,7 +64,7 @@ class ModelManager:
         self,
         prompt: str,
         *,
-        max_tokens: int = 256,
+        max_tokens: int = 1200,
         temperature: float = 0.2,
         top_p: float = 0.9,
     ) -> Generator[str, None, None]:

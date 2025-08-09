@@ -128,7 +128,7 @@ def rag_answer():
             try:
                 for t in model_mgr.stream_generate(
                     prompt,
-                    max_tokens=int(data.get("max_tokens", 256)),
+                    max_tokens=int(data.get("max_tokens", 1200)),
                     temperature=float(data.get("temperature", 0.2)),
                     top_p=float(data.get("top_p", 0.9)),
                 ):
@@ -175,7 +175,7 @@ def rag_answer_stream():
             "query": request.args.get("query", ""),
             "collection": request.args.get("collection", "la_plata_county_code"),
             "num_results": request.args.get("num_results", 5),
-            "max_tokens": request.args.get("max_tokens", 256),
+            "max_tokens": request.args.get("max_tokens", 1200),
             "temperature": request.args.get("temperature", 0.2),
             "top_p": request.args.get("top_p", 0.9),
         }
@@ -215,7 +215,7 @@ def rag_answer_stream():
             try:
                 for t in model_mgr.stream_generate(
                     prompt,
-                    max_tokens=int(data.get("max_tokens", 256)),
+                    max_tokens=int(data.get("max_tokens", 1200)),
                     temperature=float(data.get("temperature", 0.2)),
                     top_p=float(data.get("top_p", 0.9)),
                 ):

@@ -95,7 +95,7 @@ start_both() {
     
     # Load model automatically
     print_status $YELLOW "Loading RAG model..."
-    local model_id="mlx-community/Llama-3.1-8B-Instruct-4bit"
+    local model_id="mlx-community/Qwen3-4B-Thinking-2507-8bit"
     local model_response=$(curl -s -X POST "http://localhost:8001/rag/model/load" \
         -H 'Content-Type: application/json' \
         -d "{\"model_id\":\"$model_id\"}" 2>/dev/null)

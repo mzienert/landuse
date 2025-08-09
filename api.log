@@ -28,255 +28,7 @@ INFO:__main__:Successfully initialized 2 collections
 INFO:__main__:Starting Flask server...
 WARNING:werkzeug: * Debugger is active!
 INFO:werkzeug: * Debugger PIN: 114-241-345
-INFO:werkzeug:127.0.0.1 - - [07/Aug/2025 21:36:14] "GET /health HTTP/1.1" 200 -
 Batches:   0%|          | 0/1 [00:00<?, ?it/s]/Users/matthewzienert/Documents/landuse/env/lib/python3.13/site-packages/torch/nn/modules/module.py:1762: FutureWarning: `encoder_attention_mask` is deprecated and will be removed in version 4.55.0 for `BertSdpaSelfAttention.forward`.
   return forward_call(*args, **kwargs)
-Batches: 100%|██████████| 1/1 [00:01<00:00,  1.63s/it]Batches: 100%|██████████| 1/1 [00:01<00:00,  1.63s/it]
-INFO:werkzeug:127.0.0.1 - - [07/Aug/2025 21:36:29] "GET /search/simple?query=Subdivision%20requirements&collection=la_plata_county_code&num_results=5 HTTP/1.1" 200 -
-Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00,  3.28it/s]Batches: 100%|██████████| 1/1 [00:00<00:00,  3.28it/s]
-INFO:werkzeug:127.0.0.1 - - [07/Aug/2025 21:36:52] "GET /search/simple?query=Summarize+subdivision+requirements+in+La+Plata+County&collection=la_plata_county_code&num_results=6 HTTP/1.1" 200 -
-Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 17.98it/s]
-INFO:werkzeug:127.0.0.1 - - [07/Aug/2025 21:38:17] "GET /search/simple?query=Summarize+subdivision+requirements+in+La+Plata+County&collection=la_plata_county_code&num_results=6 HTTP/1.1" 200 -
-INFO:werkzeug: * Detected change in '/Users/matthewzienert/Documents/landuse/rag_api.py', reloading
-INFO:werkzeug: * Restarting with stat
-INFO:__main__:Connecting to ChromaDB...
-INFO:chromadb.telemetry.product.posthog:Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
-INFO:__main__:Loading model: intfloat/e5-large-v2
-INFO:sentence_transformers.SentenceTransformer:Use pytorch device_name: mps
-INFO:sentence_transformers.SentenceTransformer:Load pretrained SentenceTransformer: intfloat/e5-large-v2
-INFO:__main__:Model loaded: intfloat/e5-large-v2 (1024 dimensions)
-INFO:__main__:Connected to collection 'la_plata_county_code': 1298 documents
-INFO:__main__:Connected to collection 'la_plata_assessor': 46230 documents
-INFO:__main__:Successfully initialized 2 collections
-INFO:__main__:Starting Flask server...
-WARNING:werkzeug: * Debugger is active!
-INFO:werkzeug: * Debugger PIN: 114-241-345
-INFO:werkzeug: * Detected change in '/Users/matthewzienert/Documents/landuse/rag_api.py', reloading
-INFO:werkzeug: * Restarting with stat
-INFO:__main__:Connecting to ChromaDB...
-INFO:chromadb.telemetry.product.posthog:Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
-INFO:__main__:Loading model: intfloat/e5-large-v2
-INFO:sentence_transformers.SentenceTransformer:Use pytorch device_name: mps
-INFO:sentence_transformers.SentenceTransformer:Load pretrained SentenceTransformer: intfloat/e5-large-v2
-INFO:__main__:Model loaded: intfloat/e5-large-v2 (1024 dimensions)
-INFO:__main__:Connected to collection 'la_plata_county_code': 1298 documents
-INFO:__main__:Connected to collection 'la_plata_assessor': 46230 documents
-INFO:__main__:Successfully initialized 2 collections
-INFO:__main__:Starting Flask server...
-WARNING:werkzeug: * Debugger is active!
-INFO:werkzeug: * Debugger PIN: 114-241-345
-INFO:werkzeug: * Detected change in '/Users/matthewzienert/Documents/landuse/rag/retrieval.py', reloading
-INFO:werkzeug: * Restarting with stat
-INFO:__main__:Connecting to ChromaDB...
-INFO:chromadb.telemetry.product.posthog:Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
-INFO:__main__:Loading model: intfloat/e5-large-v2
-INFO:sentence_transformers.SentenceTransformer:Use pytorch device_name: mps
-INFO:sentence_transformers.SentenceTransformer:Load pretrained SentenceTransformer: intfloat/e5-large-v2
-INFO:__main__:Model loaded: intfloat/e5-large-v2 (1024 dimensions)
-INFO:__main__:Connected to collection 'la_plata_county_code': 1298 documents
-INFO:__main__:Connected to collection 'la_plata_assessor': 46230 documents
-INFO:__main__:Successfully initialized 2 collections
-INFO:__main__:Starting Flask server...
-WARNING:werkzeug: * Debugger is active!
-INFO:werkzeug: * Debugger PIN: 114-241-345
-INFO:werkzeug: * Detected change in '/Users/matthewzienert/Documents/landuse/rag/verify.py', reloading
-INFO:werkzeug: * Restarting with stat
-INFO:__main__:Connecting to ChromaDB...
-INFO:chromadb.telemetry.product.posthog:Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
-INFO:__main__:Loading model: intfloat/e5-large-v2
-INFO:sentence_transformers.SentenceTransformer:Use pytorch device_name: mps
-INFO:sentence_transformers.SentenceTransformer:Load pretrained SentenceTransformer: intfloat/e5-large-v2
-INFO:__main__:Model loaded: intfloat/e5-large-v2 (1024 dimensions)
-INFO:__main__:Connected to collection 'la_plata_county_code': 1298 documents
-INFO:__main__:Connected to collection 'la_plata_assessor': 46230 documents
-INFO:__main__:Successfully initialized 2 collections
-INFO:__main__:Starting Flask server...
-WARNING:werkzeug: * Debugger is active!
-INFO:werkzeug: * Debugger PIN: 114-241-345
-Batches:   0%|          | 0/1 [00:00<?, ?it/s]/Users/matthewzienert/Documents/landuse/env/lib/python3.13/site-packages/torch/nn/modules/module.py:1762: FutureWarning: `encoder_attention_mask` is deprecated and will be removed in version 4.55.0 for `BertSdpaSelfAttention.forward`.
-  return forward_call(*args, **kwargs)
-Batches: 100%|██████████| 1/1 [00:01<00:00,  1.53s/it]Batches: 100%|██████████| 1/1 [00:01<00:00,  1.53s/it]
-INFO:werkzeug:127.0.0.1 - - [07/Aug/2025 21:42:05] "GET /search/simple?query=Summarize+subdivision+requirements+in+La+Plata+County&collection=la_plata_county_code&num_results=6 HTTP/1.1" 200 -
-Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00,  1.59it/s]Batches: 100%|██████████| 1/1 [00:00<00:00,  1.59it/s]
-INFO:werkzeug:127.0.0.1 - - [07/Aug/2025 21:55:04] "GET /search/simple?query=What's+up+with+dogs&collection=la_plata_county_code&num_results=6 HTTP/1.1" 200 -
-Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00,  1.96it/s]Batches: 100%|██████████| 1/1 [00:00<00:00,  1.96it/s]
-INFO:werkzeug:127.0.0.1 - - [07/Aug/2025 21:55:44] "GET /search/simple?query=Dogs&collection=la_plata_county_code&num_results=6 HTTP/1.1" 200 -
-Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00,  2.01it/s]Batches: 100%|██████████| 1/1 [00:00<00:00,  2.01it/s]
-INFO:werkzeug:127.0.0.1 - - [07/Aug/2025 21:56:35] "GET /search/simple?query=Building+permits&collection=la_plata_county_code&num_results=6 HTTP/1.1" 200 -
-Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 22.54it/s]
-INFO:werkzeug:127.0.0.1 - - [07/Aug/2025 21:57:16] "GET /search/simple?query=Chicken+coop&collection=la_plata_county_code&num_results=6 HTTP/1.1" 200 -
-INFO:werkzeug: * Detected change in '/Users/matthewzienert/Documents/landuse/rag_api.py', reloading
-INFO:werkzeug: * Restarting with stat
-INFO:__main__:Connecting to ChromaDB...
-INFO:chromadb.telemetry.product.posthog:Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
-INFO:__main__:Loading model: intfloat/e5-large-v2
-INFO:sentence_transformers.SentenceTransformer:Use pytorch device_name: mps
-INFO:sentence_transformers.SentenceTransformer:Load pretrained SentenceTransformer: intfloat/e5-large-v2
-INFO:__main__:Model loaded: intfloat/e5-large-v2 (1024 dimensions)
-INFO:__main__:Connected to collection 'la_plata_county_code': 1298 documents
-INFO:__main__:Connected to collection 'la_plata_assessor': 46230 documents
-INFO:__main__:Successfully initialized 2 collections
-INFO:__main__:Starting Flask server...
-WARNING:werkzeug: * Debugger is active!
-INFO:werkzeug: * Debugger PIN: 114-241-345
-INFO:werkzeug: * Detected change in '/Users/matthewzienert/Documents/landuse/rag_api.py', reloading
-INFO:werkzeug: * Restarting with stat
-INFO:__main__:Connecting to ChromaDB...
-INFO:chromadb.telemetry.product.posthog:Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
-INFO:__main__:Loading model: intfloat/e5-large-v2
-INFO:sentence_transformers.SentenceTransformer:Use pytorch device_name: mps
-INFO:sentence_transformers.SentenceTransformer:Load pretrained SentenceTransformer: intfloat/e5-large-v2
-INFO:__main__:Model loaded: intfloat/e5-large-v2 (1024 dimensions)
-INFO:__main__:Connected to collection 'la_plata_county_code': 1298 documents
-INFO:__main__:Connected to collection 'la_plata_assessor': 46230 documents
-INFO:__main__:Successfully initialized 2 collections
-INFO:__main__:Starting Flask server...
-WARNING:werkzeug: * Debugger is active!
-INFO:werkzeug: * Debugger PIN: 114-241-345
-Batches:   0%|          | 0/1 [00:00<?, ?it/s]/Users/matthewzienert/Documents/landuse/env/lib/python3.13/site-packages/torch/nn/modules/module.py:1762: FutureWarning: `encoder_attention_mask` is deprecated and will be removed in version 4.55.0 for `BertSdpaSelfAttention.forward`.
-  return forward_call(*args, **kwargs)
-Batches: 100%|██████████| 1/1 [00:00<00:00,  5.76it/s]Batches: 100%|██████████| 1/1 [00:00<00:00,  5.75it/s]
-INFO:werkzeug:127.0.0.1 - - [07/Aug/2025 22:02:06] "GET /search/simple?query=Dog+leash&collection=la_plata_county_code&num_results=6 HTTP/1.1" 200 -
-INFO:werkzeug: * Detected change in '/Users/matthewzienert/Documents/landuse/rag_api.py', reloading
-INFO:werkzeug: * Restarting with stat
-INFO:__main__:Connecting to ChromaDB...
-INFO:chromadb.telemetry.product.posthog:Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
-INFO:__main__:Loading model: intfloat/e5-large-v2
-INFO:sentence_transformers.SentenceTransformer:Use pytorch device_name: mps
-INFO:sentence_transformers.SentenceTransformer:Load pretrained SentenceTransformer: intfloat/e5-large-v2
-INFO:__main__:Model loaded: intfloat/e5-large-v2 (1024 dimensions)
-INFO:__main__:Connected to collection 'la_plata_county_code': 1298 documents
-INFO:__main__:Connected to collection 'la_plata_assessor': 46230 documents
-INFO:__main__:Successfully initialized 2 collections
-INFO:__main__:Starting Flask server...
-WARNING:werkzeug: * Debugger is active!
-INFO:werkzeug: * Debugger PIN: 114-241-345
-INFO:werkzeug: * Detected change in '/Users/matthewzienert/Documents/landuse/rag_api.py', reloading
-INFO:werkzeug: * Restarting with stat
-INFO:__main__:Connecting to ChromaDB...
-INFO:chromadb.telemetry.product.posthog:Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
-INFO:__main__:Loading model: intfloat/e5-large-v2
-INFO:sentence_transformers.SentenceTransformer:Use pytorch device_name: mps
-INFO:sentence_transformers.SentenceTransformer:Load pretrained SentenceTransformer: intfloat/e5-large-v2
-INFO:__main__:Model loaded: intfloat/e5-large-v2 (1024 dimensions)
-INFO:__main__:Connected to collection 'la_plata_county_code': 1298 documents
-INFO:__main__:Connected to collection 'la_plata_assessor': 46230 documents
-INFO:__main__:Successfully initialized 2 collections
-INFO:__main__:Starting Flask server...
-WARNING:werkzeug: * Debugger is active!
-INFO:werkzeug: * Debugger PIN: 114-241-345
-INFO:werkzeug: * Detected change in '/Users/matthewzienert/Documents/landuse/rag_api.py', reloading
-INFO:werkzeug: * Restarting with stat
-INFO:__main__:Connecting to ChromaDB...
-INFO:chromadb.telemetry.product.posthog:Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
-INFO:__main__:Loading model: intfloat/e5-large-v2
-INFO:sentence_transformers.SentenceTransformer:Use pytorch device_name: mps
-INFO:sentence_transformers.SentenceTransformer:Load pretrained SentenceTransformer: intfloat/e5-large-v2
-INFO:__main__:Model loaded: intfloat/e5-large-v2 (1024 dimensions)
-INFO:__main__:Connected to collection 'la_plata_county_code': 1298 documents
-INFO:__main__:Connected to collection 'la_plata_assessor': 46230 documents
-INFO:__main__:Successfully initialized 2 collections
-INFO:__main__:Starting Flask server...
-WARNING:werkzeug: * Debugger is active!
-INFO:werkzeug: * Debugger PIN: 114-241-345
-Batches:   0%|          | 0/1 [00:00<?, ?it/s]/Users/matthewzienert/Documents/landuse/env/lib/python3.13/site-packages/torch/nn/modules/module.py:1762: FutureWarning: `encoder_attention_mask` is deprecated and will be removed in version 4.55.0 for `BertSdpaSelfAttention.forward`.
-  return forward_call(*args, **kwargs)
-Batches: 100%|██████████| 1/1 [00:00<00:00,  1.85it/s]Batches: 100%|██████████| 1/1 [00:00<00:00,  1.85it/s]
-INFO:werkzeug:127.0.0.1 - - [07/Aug/2025 22:05:49] "GET /search/simple?query=Summarize+subdivision+requirements&collection=la_plata_county_code&num_results=6 HTTP/1.1" 200 -
-Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 11.52it/s]
-INFO:werkzeug:127.0.0.1 - - [07/Aug/2025 22:06:27] "GET /search/simple?query=Dog+leash&collection=la_plata_county_code&num_results=6 HTTP/1.1" 200 -
-INFO:werkzeug: * Detected change in '/Users/matthewzienert/Documents/landuse/rag_api.py', reloading
-INFO:werkzeug: * Restarting with stat
-INFO:__main__:Connecting to ChromaDB...
-INFO:chromadb.telemetry.product.posthog:Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
-INFO:__main__:Loading model: intfloat/e5-large-v2
-INFO:sentence_transformers.SentenceTransformer:Use pytorch device_name: mps
-INFO:sentence_transformers.SentenceTransformer:Load pretrained SentenceTransformer: intfloat/e5-large-v2
-INFO:__main__:Model loaded: intfloat/e5-large-v2 (1024 dimensions)
-INFO:__main__:Connected to collection 'la_plata_county_code': 1298 documents
-INFO:__main__:Connected to collection 'la_plata_assessor': 46230 documents
-INFO:__main__:Successfully initialized 2 collections
-INFO:__main__:Starting Flask server...
-WARNING:werkzeug: * Debugger is active!
-INFO:werkzeug: * Debugger PIN: 114-241-345
-INFO:werkzeug: * Detected change in '/Users/matthewzienert/Documents/landuse/rag_api.py', reloading
-INFO:werkzeug: * Restarting with stat
-INFO:__main__:Connecting to ChromaDB...
-INFO:chromadb.telemetry.product.posthog:Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
-INFO:__main__:Loading model: intfloat/e5-large-v2
-INFO:sentence_transformers.SentenceTransformer:Use pytorch device_name: mps
-INFO:sentence_transformers.SentenceTransformer:Load pretrained SentenceTransformer: intfloat/e5-large-v2
-INFO:__main__:Model loaded: intfloat/e5-large-v2 (1024 dimensions)
-INFO:__main__:Connected to collection 'la_plata_county_code': 1298 documents
-INFO:__main__:Connected to collection 'la_plata_assessor': 46230 documents
-INFO:__main__:Successfully initialized 2 collections
-INFO:__main__:Starting Flask server...
-WARNING:werkzeug: * Debugger is active!
-INFO:werkzeug: * Debugger PIN: 114-241-345
-Batches:   0%|          | 0/1 [00:00<?, ?it/s]/Users/matthewzienert/Documents/landuse/env/lib/python3.13/site-packages/torch/nn/modules/module.py:1762: FutureWarning: `encoder_attention_mask` is deprecated and will be removed in version 4.55.0 for `BertSdpaSelfAttention.forward`.
-  return forward_call(*args, **kwargs)
-Batches: 100%|██████████| 1/1 [00:00<00:00,  6.99it/s]Batches: 100%|██████████| 1/1 [00:00<00:00,  6.98it/s]
-INFO:werkzeug:127.0.0.1 - - [07/Aug/2025 22:09:14] "GET /search/simple?query=Summarize+subdivision+requirements+in+La+Plata+County&collection=la_plata_county_code&num_results=6 HTTP/1.1" 200 -
-Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 12.24it/s]
-INFO:werkzeug:127.0.0.1 - - [07/Aug/2025 22:09:45] "GET /search/simple?query=subdivision&collection=la_plata_county_code&num_results=6 HTTP/1.1" 200 -
-Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 23.75it/s]
-INFO:werkzeug:127.0.0.1 - - [07/Aug/2025 22:10:19] "GET /search/simple?query=subdivision&collection=la_plata_county_code&num_results=6 HTTP/1.1" 200 -
-Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 17.03it/s]
-INFO:werkzeug:127.0.0.1 - - [07/Aug/2025 22:13:37] "GET /search/simple?query=hello&collection=la_plata_county_code&num_results=6 HTTP/1.1" 200 -
-INFO:werkzeug: * Detected change in '/Users/matthewzienert/Documents/landuse/rag/inference.py', reloading
-INFO:werkzeug: * Restarting with stat
-INFO:__main__:Connecting to ChromaDB...
-INFO:chromadb.telemetry.product.posthog:Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
-INFO:__main__:Loading model: intfloat/e5-large-v2
-INFO:sentence_transformers.SentenceTransformer:Use pytorch device_name: mps
-INFO:sentence_transformers.SentenceTransformer:Load pretrained SentenceTransformer: intfloat/e5-large-v2
-INFO:__main__:Model loaded: intfloat/e5-large-v2 (1024 dimensions)
-INFO:__main__:Connected to collection 'la_plata_county_code': 1298 documents
-INFO:__main__:Connected to collection 'la_plata_assessor': 46230 documents
-INFO:__main__:Successfully initialized 2 collections
-INFO:__main__:Starting Flask server...
-WARNING:werkzeug: * Debugger is active!
-INFO:werkzeug: * Debugger PIN: 114-241-345
-INFO:werkzeug: * Detected change in '/Users/matthewzienert/Documents/landuse/rag/inference.py', reloading
-INFO:werkzeug: * Restarting with stat
-INFO:__main__:Connecting to ChromaDB...
-INFO:chromadb.telemetry.product.posthog:Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
-INFO:__main__:Loading model: intfloat/e5-large-v2
-INFO:sentence_transformers.SentenceTransformer:Use pytorch device_name: mps
-INFO:sentence_transformers.SentenceTransformer:Load pretrained SentenceTransformer: intfloat/e5-large-v2
-INFO:__main__:Model loaded: intfloat/e5-large-v2 (1024 dimensions)
-INFO:__main__:Connected to collection 'la_plata_county_code': 1298 documents
-INFO:__main__:Connected to collection 'la_plata_assessor': 46230 documents
-INFO:__main__:Successfully initialized 2 collections
-INFO:__main__:Starting Flask server...
-WARNING:werkzeug: * Debugger is active!
-INFO:werkzeug: * Debugger PIN: 114-241-345
-Batches:   0%|          | 0/1 [00:00<?, ?it/s]/Users/matthewzienert/Documents/landuse/env/lib/python3.13/site-packages/torch/nn/modules/module.py:1762: FutureWarning: `encoder_attention_mask` is deprecated and will be removed in version 4.55.0 for `BertSdpaSelfAttention.forward`.
-  return forward_call(*args, **kwargs)
-Batches: 100%|██████████| 1/1 [00:00<00:00,  4.62it/s]Batches: 100%|██████████| 1/1 [00:00<00:00,  4.62it/s]
-INFO:werkzeug:127.0.0.1 - - [07/Aug/2025 22:30:41] "GET /search/simple?query=dogs&collection=la_plata_county_code&num_results=6 HTTP/1.1" 200 -
-INFO:werkzeug: * Detected change in '/Users/matthewzienert/Documents/landuse/rag/inference.py', reloading
-INFO:werkzeug: * Restarting with stat
-INFO:__main__:Connecting to ChromaDB...
-INFO:chromadb.telemetry.product.posthog:Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
-INFO:__main__:Loading model: intfloat/e5-large-v2
-INFO:sentence_transformers.SentenceTransformer:Use pytorch device_name: mps
-INFO:sentence_transformers.SentenceTransformer:Load pretrained SentenceTransformer: intfloat/e5-large-v2
-INFO:__main__:Model loaded: intfloat/e5-large-v2 (1024 dimensions)
-INFO:__main__:Connected to collection 'la_plata_county_code': 1298 documents
-INFO:__main__:Connected to collection 'la_plata_assessor': 46230 documents
-INFO:__main__:Successfully initialized 2 collections
-INFO:__main__:Starting Flask server...
-WARNING:werkzeug: * Debugger is active!
-INFO:werkzeug: * Debugger PIN: 114-241-345
-Batches:   0%|          | 0/1 [00:00<?, ?it/s]/Users/matthewzienert/Documents/landuse/env/lib/python3.13/site-packages/torch/nn/modules/module.py:1762: FutureWarning: `encoder_attention_mask` is deprecated and will be removed in version 4.55.0 for `BertSdpaSelfAttention.forward`.
-  return forward_call(*args, **kwargs)
-Batches: 100%|██████████| 1/1 [00:00<00:00,  6.45it/s]Batches: 100%|██████████| 1/1 [00:00<00:00,  6.44it/s]
-INFO:werkzeug:127.0.0.1 - - [07/Aug/2025 22:32:39] "GET /search/simple?query=dog+leash&collection=la_plata_county_code&num_results=6 HTTP/1.1" 200 -
-Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 10.73it/s]
-INFO:werkzeug:127.0.0.1 - - [07/Aug/2025 22:34:33] "GET /search/simple?query=cows&collection=la_plata_county_code&num_results=6 HTTP/1.1" 200 -
-Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 16.33it/s]
-INFO:werkzeug:127.0.0.1 - - [07/Aug/2025 22:38:48] "GET /search/simple?query=cows&collection=la_plata_county_code&num_results=6 HTTP/1.1" 200 -
-INFO:werkzeug: * Detected change in '/Users/matthewzienert/Documents/landuse/apis/rag/rag_api.py', reloading
-INFO:werkzeug: * Restarting with stat
-/opt/homebrew/Cellar/python@3.13/3.13.1/Frameworks/Python.framework/Versions/3.13/Resources/Python.app/Contents/MacOS/Python: can't open file '/Users/matthewzienert/Documents/landuse/search_api.py': [Errno 2] No such file or directory
+Batches: 100%|██████████| 1/1 [00:00<00:00,  5.99it/s]Batches: 100%|██████████| 1/1 [00:00<00:00,  5.99it/s]
+INFO:werkzeug:127.0.0.1 - - [09/Aug/2025 09:59:35] "GET /search/simple?query=What+are+the+requirements+for+a+minor+subdivision+in+La+Plata+County?&collection=la_plata_county_code&num_results=5 HTTP/1.1" 200 -

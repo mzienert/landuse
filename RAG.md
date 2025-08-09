@@ -69,7 +69,7 @@ Use a compatible MLX model. Example tested locally:
 ```bash
 curl -X POST http://localhost:8001/rag/model/load \
   -H 'Content-Type: application/json' \
-  -d '{"model_id":"mlx-community/Llama-3.1-8B-Instruct-4bit"}' | jq
+  -d '{"model_id":"mlx-community/Qwen3-4B-Thinking-2507-8bit"}' | jq
 ```
 
 Health should now report `model_loaded: true` and the `model_id`.
@@ -331,9 +331,13 @@ source_separation = True     # Clear separators between different sources
 #### Model Configuration
 ```python
 # Model selection
-model_name = "Llama3-LegalLM"        # Preferred legal-tuned model
+model_name = "mlx-community/Qwen3-4B-Thinking-2507-8bit"    # Current thinking model
 fallback_model = "mlx-community/Llama-3.1-8B-Instruct-4bit" # Tested fallback
-quantization = "4bit"                # Options: "4bit", "8bit", "fp16"
+quantization = "8bit"                # Options: "4bit", "8bit", "fp16"
+
+# Thinking model considerations
+thinking_model_tokens = 1200         # Minimum recommended for complete reasoning
+standard_model_tokens = 800          # Sufficient for direct responses
 ```
 
 #### Generation Parameters
@@ -341,7 +345,7 @@ quantization = "4bit"                # Options: "4bit", "8bit", "fp16"
 # Core generation settings
 temperature = 0.3           # Lower = more deterministic, higher = more creative
 top_p = 0.9                # Nucleus sampling threshold
-max_tokens = 800           # Maximum response length
+max_tokens = 1200          # Maximum response length (updated for thinking models)
 min_tokens = 100           # Minimum response length (prevent truncation)
 ```
 
@@ -353,9 +357,10 @@ min_tokens = 100           # Minimum response length (prevent truncation)
 - **High (0.7-1.0)**: Creative but less reliable - avoid for legal content
 
 ##### Token Limits
-- **Conservative (400-600)**: Concise answers, may miss details
-- **Generous (800-1200)**: Comprehensive but verbose
-- **Sweet spot**: 600-800 tokens for legal explanations
+- **Conservative (600-800)**: Concise answers, may miss details
+- **Generous (1200-1500)**: Comprehensive reasoning, good for thinking models
+- **Thinking models**: 1200+ tokens recommended for complete reasoning process
+- **Sweet spot**: 1200 tokens for legal explanations with thinking models
 
 ### ✅ Verification Stage Parameters
 
@@ -387,7 +392,8 @@ auto_citation_enabled = True  # Add citations to supported sentences
 num_results = 15
 max_chunks_in_context = 8
 temperature = 0.2
-diversity_threshold = 0.9  # More aggressive deduplication
+max_tokens = 1500           # Extra tokens for detailed reasoning
+diversity_threshold = 0.9   # More aggressive deduplication
 citation_similarity_threshold = 0.8
 ```
 
@@ -397,6 +403,7 @@ citation_similarity_threshold = 0.8
 num_results = 12
 max_chunks_in_context = 6
 temperature = 0.3
+max_tokens = 1200           # Default for thinking models
 diversity_threshold = 0.8
 citation_similarity_threshold = 0.7
 ```
@@ -407,6 +414,7 @@ citation_similarity_threshold = 0.7
 num_results = 8
 max_chunks_in_context = 4
 temperature = 0.4
+max_tokens = 800            # Shorter for speed
 diversity_threshold = 0.75
 citation_similarity_threshold = 0.6
 ```
@@ -470,7 +478,7 @@ config = {
 
 **Issue: Slow response times**
 - ↓ Reduce `num_results` (12 → 8)
-- ↓ Lower `max_tokens` (800 → 600)
+- ↓ Lower `max_tokens` (1200 → 800)
 - ↓ Reduce `max_chunks_in_context` (6 → 4)
 - Use 4-bit quantization instead of 8-bit
 
