@@ -1,83 +1,51 @@
+Auto-loading default model: mlx-community/Qwen3-4B-Thinking-2507-8bit
+Fetching 11 files:   0%|          | 0/11 [00:00<?, ?it/s]Fetching 11 files: 100%|██████████| 11/11 [00:00<00:00, 254902.45it/s]
+✅ Default model loaded successfully
  * Serving Flask app 'rag_api'
  * Debug mode: on
 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
  * Running on all addresses (0.0.0.0)
  * Running on http://127.0.0.1:8001
- * Running on http://192.168.1.17:8001
+ * Running on http://10.2.32.179:8001
 [33mPress CTRL+C to quit[0m
  * Restarting with stat
+Auto-loading default model: mlx-community/Qwen3-4B-Thinking-2507-8bit
+Fetching 11 files:   0%|          | 0/11 [00:00<?, ?it/s]Fetching 11 files: 100%|██████████| 11/11 [00:00<00:00, 249391.05it/s]
  * Debugger is active!
  * Debugger PIN: 114-241-345
-127.0.0.1 - - [09/Aug/2025 10:07:20] "GET /rag/health HTTP/1.1" 200 -
-Fetching 11 files:   0%|          | 0/11 [00:00<?, ?it/s]Fetching 11 files: 100%|██████████| 11/11 [00:00<00:00, 346897.32it/s]
-127.0.0.1 - - [09/Aug/2025 10:07:22] "POST /rag/model/load HTTP/1.1" 200 -
-127.0.0.1 - - [09/Aug/2025 10:08:05] "POST /rag/answer HTTP/1.1" 200 -
- * Detected change in '/Users/matthewzienert/Documents/landuse/apis/rag/retrieval.py', reloading
+127.0.0.1 - - [09/Aug/2025 15:39:46] "GET /rag/health HTTP/1.1" 200 -
+✅ Default model loaded successfully
+Fetching 11 files:   0%|          | 0/11 [00:00<?, ?it/s]Fetching 11 files: 100%|██████████| 11/11 [00:00<00:00, 142840.07it/s]
+127.0.0.1 - - [09/Aug/2025 15:39:48] "POST /rag/model/load HTTP/1.1" 200 -
+127.0.0.1 - - [09/Aug/2025 15:40:56] "POST /rag/answer HTTP/1.1" 200 -
+127.0.0.1 - - [09/Aug/2025 15:49:53] "POST /rag/answer HTTP/1.1" 200 -
+127.0.0.1 - - [09/Aug/2025 15:53:04] "POST /rag/answer HTTP/1.1" 200 -
+ * Detected change in '/Users/matthewzienert/Documents/landuse/apis/rag/rag_api.py', reloading
  * Restarting with stat
+Auto-loading default model: mlx-community/Qwen3-4B-Thinking-2507-8bit
+Fetching 11 files:   0%|          | 0/11 [00:00<?, ?it/s]Fetching 11 files: 100%|██████████| 11/11 [00:00<00:00, 219701.64it/s]
  * Debugger is active!
  * Debugger PIN: 114-241-345
  * Detected change in '/Users/matthewzienert/Documents/landuse/apis/rag/rag_api.py', reloading
+✅ Default model loaded successfully
  * Restarting with stat
+Auto-loading default model: mlx-community/Qwen3-4B-Thinking-2507-8bit
+Fetching 11 files:   0%|          | 0/11 [00:00<?, ?it/s]Fetching 11 files: 100%|██████████| 11/11 [00:00<00:00, 262144.00it/s]
  * Debugger is active!
  * Debugger PIN: 114-241-345
  * Detected change in '/Users/matthewzienert/Documents/landuse/apis/rag/rag_api.py', reloading
+✅ Default model loaded successfully
  * Restarting with stat
+Auto-loading default model: mlx-community/Qwen3-4B-Thinking-2507-8bit
+Fetching 11 files:   0%|          | 0/11 [00:00<?, ?it/s]Fetching 11 files: 100%|██████████| 11/11 [00:00<00:00, 193854.39it/s]
  * Debugger is active!
  * Debugger PIN: 114-241-345
  * Detected change in '/Users/matthewzienert/Documents/landuse/apis/rag/rag_api.py', reloading
+✅ Default model loaded successfully
  * Restarting with stat
+Auto-loading default model: mlx-community/Qwen3-4B-Thinking-2507-8bit
+Fetching 11 files:   0%|          | 0/11 [00:00<?, ?it/s]Fetching 11 files: 100%|██████████| 11/11 [00:00<00:00, 77541.75it/s]
  * Debugger is active!
  * Debugger PIN: 114-241-345
-127.0.0.1 - - [09/Aug/2025 13:11:29] "POST /rag/answer HTTP/1.1" 200 -
-Fetching 11 files:   0%|          | 0/11 [00:00<?, ?it/s]Fetching 11 files: 100%|██████████| 11/11 [00:00<00:00, 257750.53it/s]
-127.0.0.1 - - [09/Aug/2025 13:11:40] "POST /rag/model/load HTTP/1.1" 200 -
-127.0.0.1 - - [09/Aug/2025 13:12:16] "POST /rag/answer HTTP/1.1" 200 -
-127.0.0.1 - - [09/Aug/2025 13:13:51] "POST /rag/answer HTTP/1.1" 200 -
-127.0.0.1 - - [09/Aug/2025 13:14:32] "POST /rag/answer HTTP/1.1" 200 -
- * Detected change in '/Users/matthewzienert/Documents/landuse/apis/rag/retrieval.py', reloading
- * Restarting with stat
- * Debugger is active!
- * Debugger PIN: 114-241-345
-127.0.0.1 - - [09/Aug/2025 13:16:19] "POST /rag/answer HTTP/1.1" 200 -
-Fetching 11 files:   0%|          | 0/11 [00:00<?, ?it/s]Fetching 11 files: 100%|██████████| 11/11 [00:00<00:00, 166560.81it/s]
-127.0.0.1 - - [09/Aug/2025 13:16:36] "POST /rag/model/load HTTP/1.1" 200 -
-127.0.0.1 - - [09/Aug/2025 13:17:08] "POST /rag/answer HTTP/1.1" 200 -
- * Detected change in '/Users/matthewzienert/Documents/landuse/apis/rag/retrieval.py', reloading
-DEBUG: Extracted references: ['67-4', '67', '66-16', '66-13', '67-3', '67-6']
- * Restarting with stat
- * Debugger is active!
- * Debugger PIN: 114-241-345
-Fetching 6 files:   0%|          | 0/6 [00:00<?, ?it/s]Fetching 6 files: 100%|██████████| 6/6 [00:00<00:00, 109416.63it/s]
-127.0.0.1 - - [09/Aug/2025 13:22:03] "POST /rag/model/load HTTP/1.1" 200 -
-127.0.0.1 - - [09/Aug/2025 13:22:59] "POST /rag/answer HTTP/1.1" 200 -
- * Detected change in '/Users/matthewzienert/Documents/landuse/apis/rag/retrieval.py', reloading
- * Restarting with stat
- * Debugger is active!
- * Debugger PIN: 114-241-345
- * Detected change in '/Users/matthewzienert/Documents/landuse/apis/rag/retrieval.py', reloading
- * Restarting with stat
- * Debugger is active!
- * Debugger PIN: 114-241-345
-Fetching 11 files:   0%|          | 0/11 [00:00<?, ?it/s]Fetching 11 files: 100%|██████████| 11/11 [00:00<00:00, 172154.27it/s]
-127.0.0.1 - - [09/Aug/2025 13:33:17] "POST /rag/model/load HTTP/1.1" 200 -
-127.0.0.1 - - [09/Aug/2025 13:34:08] "POST /rag/answer HTTP/1.1" 200 -
-127.0.0.1 - - [09/Aug/2025 13:34:44] "POST /rag/answer HTTP/1.1" 200 -
-127.0.0.1 - - [09/Aug/2025 13:39:14] "POST /rag/answer HTTP/1.1" 200 -
- * Detected change in '/Users/matthewzienert/Documents/landuse/apis/rag/retrieval.py', reloading
-DEBUG: Found references: ['73-2', '66-7', '73-19', '67', '73-3', '73-9', '67-7', '73-14', '68', '66', '73-8', '66-19', '73-13', '73-10', '66-6', '73-17', '66-36', '73-15', '65', '66-23', '73-16', '73-22', '67-3', '73-5', '66-33', '66-29', '73-21', '67-4', '66-21', '73-7', '67-6', '66-20']
-DEBUG: Found references: ['67', '67-4', '66-13', '67-6', '67-3', '66-16']
-DEBUG: Found references: ['67', '67-4', '66-13', '67-6', '67-3', '66-16']
- * Restarting with stat
- * Debugger is active!
- * Debugger PIN: 114-241-345
-127.0.0.1 - - [09/Aug/2025 13:40:45] "POST /rag/answer HTTP/1.1" 200 -
-Fetching 11 files:   0%|          | 0/11 [00:00<?, ?it/s]Fetching 11 files: 100%|██████████| 11/11 [00:00<00:00, 116803.40it/s]
-127.0.0.1 - - [09/Aug/2025 13:40:58] "POST /rag/model/load HTTP/1.1" 200 -
-127.0.0.1 - - [09/Aug/2025 13:42:21] "POST /rag/answer HTTP/1.1" 200 -
-127.0.0.1 - - [09/Aug/2025 13:43:42] "POST /rag/answer HTTP/1.1" 200 -
-Fetching 6 files:   0%|          | 0/6 [00:00<?, ?it/s]Fetching 6 files: 100%|██████████| 6/6 [00:00<00:00, 37008.56it/s]
-127.0.0.1 - - [09/Aug/2025 13:45:35] "POST /rag/model/load HTTP/1.1" 200 -
-127.0.0.1 - - [09/Aug/2025 13:46:38] "POST /rag/answer HTTP/1.1" 200 -
-Fetching 6 files:   0%|          | 0/6 [00:00<?, ?it/s]Fetching 6 files: 100%|██████████| 6/6 [00:00<00:00, 165564.63it/s]
-127.0.0.1 - - [09/Aug/2025 13:54:46] "POST /rag/model/load HTTP/1.1" 200 -
-127.0.0.1 - - [09/Aug/2025 13:56:10] "POST /rag/answer HTTP/1.1" 200 -
+127.0.0.1 - - [09/Aug/2025 16:08:22] "POST /rag/answer HTTP/1.1" 200 -
+127.0.0.1 - - [09/Aug/2025 16:11:21] "POST /rag/answer HTTP/1.1" 200 -

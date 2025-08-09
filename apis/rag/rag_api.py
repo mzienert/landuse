@@ -33,16 +33,21 @@ try:
         expand_query_with_references,
     )
     from verify import verify_answer_support
+    from normalize import normalize_legal_query, get_query_variations
 except Exception:
     fetch_simple_search = None
     build_prompt_with_sources = None
 
 
+# Default model configuration
+DEFAULT_MODEL_ID = "mlx-community/Qwen3-4B-Thinking-2507-8bit"
+
 RAG_CONFIG = {
     "service": "RAG API",
     "version": "0.1.0",
     "model": {
-        "target": "Llama3-LegalLM (Hugging Face)",
+        "default": DEFAULT_MODEL_ID,
+        "target": "Qwen3-4B-Thinking for legal reasoning",
         "fallback": "Llama 3 Instruct or legal LoRA",
         "quantization": "8-bit preferred; fallback to 4-bit",
         "context_window": "8K–16K tokens",
@@ -53,6 +58,66 @@ RAG_CONFIG = {
         "rerank": "heuristic v1 (cosine boost, redundancy penalty, diversity)",
     },
 }
+
+# Auto-load default model on startup
+def auto_load_default_model():
+    """Automatically load the default model on startup if none is loaded."""
+    if model_mgr and not model_mgr.is_loaded:
+        try:
+            print(f"Auto-loading default model: {DEFAULT_MODEL_ID}")
+            model_mgr.load_model(DEFAULT_MODEL_ID)
+            print(f"✅ Default model loaded successfully")
+        except Exception as e:
+            print(f"⚠️  Failed to auto-load default model: {e}")
+            print(f"   Model can be loaded manually via /rag/model/load endpoint")
+
+
+def enhanced_retrieval_with_normalization(query: str, collection: str = "la_plata_county_code", num_results: int = 5):
+    """
+    Perform retrieval with query normalization and fallback variations.
+    
+    Args:
+        query: User query string
+        collection: Collection to search
+        num_results: Number of results to retrieve
+        
+    Returns:
+        Tuple of (final_results, used_query) where final_results are the retrieved results
+        and used_query is the query that worked best
+    """
+    if not fetch_simple_search or not expand_query_with_references:
+        return [], query
+    
+    # Normalize the query
+    normalized_query = normalize_legal_query(query)
+    query_variations = get_query_variations(normalized_query)
+    
+    # Try each query variation until we get good results
+    for i, variant_query in enumerate(query_variations):
+        try:
+            # Get initial results
+            retrieval = fetch_simple_search(variant_query, collection=collection, num_results=num_results)
+            initial_results = retrieval.get("results", [])
+            
+            # If we got results, apply enhanced retrieval (reference expansion)
+            if initial_results:
+                expanded_results = expand_query_with_references(variant_query, initial_results, collection=collection)
+                final_results = rerank_results(variant_query, expanded_results, top_k=min(num_results, 6))
+                
+                # Return results if we found something substantial
+                if final_results:
+                    # Log which query variation worked (for debugging)
+                    if i > 0:  # Only log if we needed a fallback
+                        print(f"Query normalization: '{query}' → '{variant_query}' (variation {i+1})")
+                    return final_results, variant_query
+                        
+        except Exception as e:
+            print(f"Error with query variation '{variant_query}': {e}")
+            continue
+    
+    # If all variations failed, return empty results with original query
+    print(f"All query variations failed for: '{query}'")
+    return [], query
 
 
 @app.route("/rag/health", methods=["GET"])
@@ -108,18 +173,15 @@ def rag_answer():
         if not query:
             return jsonify({"error": "query is required"}), 400
 
-        # If model loaded, include retrieval context (no reranking yet)
+        # If model loaded, include retrieval context with query normalization
         if model_mgr and model_mgr.is_loaded:
             if fetch_simple_search and build_prompt_with_sources:
                 try:
-                    retrieval = fetch_simple_search(query, collection=collection, num_results=num_results)
-                    initial_results = retrieval.get("results", [])
-                    # Enhanced retrieval: expand with cross-references
-                    expanded_results = expand_query_with_references(query, initial_results, collection=collection)
-                    # Heuristic rerank + diversity selection (v1) 
-                    results = rerank_results(query, expanded_results, top_k=min(num_results, 6))
+                    # Use enhanced retrieval with normalization
+                    results, used_query = enhanced_retrieval_with_normalization(query, collection=collection, num_results=num_results)
                 except Exception as e:
                     results = []
+                    used_query = query
                     # Fall back to raw question if retrieval fails
                 prompt, sources_meta = build_prompt_with_sources(query, results) if results else (
                     f"User question:\n{query}\n\nAnswer concisely.",
@@ -202,16 +264,13 @@ def rag_answer_stream():
         yield ": " + (" " * 2048) + "\n\n"
 
         if model_mgr and model_mgr.is_loaded:
-            # Retrieval first (no reranking yet)
+            # Retrieval with query normalization
             sources_meta = []
             if fetch_simple_search and build_prompt_with_sources:
                 try:
                     k = int(data.get("num_results", 5))
-                    retrieval = fetch_simple_search(query, collection=collection, num_results=k)
-                    initial_results = retrieval.get("results", [])
-                    # Enhanced retrieval: expand with cross-references
-                    expanded_results = expand_query_with_references(query, initial_results, collection=collection)
-                    results = rerank_results(query, expanded_results, top_k=min(k, 6))
+                    # Use enhanced retrieval with normalization
+                    results, used_query = enhanced_retrieval_with_normalization(query, collection=collection, num_results=k)
                     prompt, sources_meta = build_prompt_with_sources(query, results)
                 except Exception as e:
                     prompt = f"User question:\n{query}\n\nAnswer concisely."
@@ -263,6 +322,8 @@ def index():
 
 
 if __name__ == "__main__":
+    # Auto-load default model on startup
+    auto_load_default_model()
     app.run(host="0.0.0.0", port=8001, debug=True)
 
 
