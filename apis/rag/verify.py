@@ -60,7 +60,7 @@ def verify_answer_support(
     src_tokens = {}
     for s in sources_meta:
         idx = s.get("index")
-        chunk = s.get("chunk") or s.get("preview") or ""
+        chunk = s.get("truncated_chunk") or s.get("chunk") or s.get("preview") or ""
         src_tokens[idx] = _tokenize(chunk)
 
     sentences = _split_sentences(answer_text)

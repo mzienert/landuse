@@ -30,6 +30,7 @@ try:
         rerank_results,
         extract_citations,
         auto_cite_answer,
+        expand_query_with_references,
     )
     from verify import verify_answer_support
 except Exception:
@@ -112,9 +113,11 @@ def rag_answer():
             if fetch_simple_search and build_prompt_with_sources:
                 try:
                     retrieval = fetch_simple_search(query, collection=collection, num_results=num_results)
-                    raw_results = retrieval.get("results", [])
-                    # Heuristic rerank + diversity selection (v1)
-                    results = rerank_results(query, raw_results, top_k=min(num_results, 6))
+                    initial_results = retrieval.get("results", [])
+                    # Enhanced retrieval: expand with cross-references
+                    expanded_results = expand_query_with_references(query, initial_results, collection=collection)
+                    # Heuristic rerank + diversity selection (v1) 
+                    results = rerank_results(query, expanded_results, top_k=min(num_results, 6))
                 except Exception as e:
                     results = []
                     # Fall back to raw question if retrieval fails
@@ -205,8 +208,10 @@ def rag_answer_stream():
                 try:
                     k = int(data.get("num_results", 5))
                     retrieval = fetch_simple_search(query, collection=collection, num_results=k)
-                    raw_results = retrieval.get("results", [])
-                    results = rerank_results(query, raw_results, top_k=min(k, 6))
+                    initial_results = retrieval.get("results", [])
+                    # Enhanced retrieval: expand with cross-references
+                    expanded_results = expand_query_with_references(query, initial_results, collection=collection)
+                    results = rerank_results(query, expanded_results, top_k=min(k, 6))
                     prompt, sources_meta = build_prompt_with_sources(query, results)
                 except Exception as e:
                     prompt = f"User question:\n{query}\n\nAnswer concisely."

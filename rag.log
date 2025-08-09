@@ -8,7 +8,42 @@
  * Restarting with stat
  * Debugger is active!
  * Debugger PIN: 114-241-345
-127.0.0.1 - - [09/Aug/2025 09:57:41] "GET /rag/health HTTP/1.1" 200 -
-Fetching 11 files:   0%|          | 0/11 [00:00<?, ?it/s]Fetching 11 files: 100%|██████████| 11/11 [00:00<00:00, 295752.21it/s]
-127.0.0.1 - - [09/Aug/2025 09:57:43] "POST /rag/model/load HTTP/1.1" 200 -
-127.0.0.1 - - [09/Aug/2025 10:00:01] "POST /rag/answer HTTP/1.1" 200 -
+127.0.0.1 - - [09/Aug/2025 10:07:20] "GET /rag/health HTTP/1.1" 200 -
+Fetching 11 files:   0%|          | 0/11 [00:00<?, ?it/s]Fetching 11 files: 100%|██████████| 11/11 [00:00<00:00, 346897.32it/s]
+127.0.0.1 - - [09/Aug/2025 10:07:22] "POST /rag/model/load HTTP/1.1" 200 -
+127.0.0.1 - - [09/Aug/2025 10:08:05] "POST /rag/answer HTTP/1.1" 200 -
+ * Detected change in '/Users/matthewzienert/Documents/landuse/apis/rag/retrieval.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 114-241-345
+ * Detected change in '/Users/matthewzienert/Documents/landuse/apis/rag/rag_api.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 114-241-345
+ * Detected change in '/Users/matthewzienert/Documents/landuse/apis/rag/rag_api.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 114-241-345
+ * Detected change in '/Users/matthewzienert/Documents/landuse/apis/rag/rag_api.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 114-241-345
+127.0.0.1 - - [09/Aug/2025 13:11:29] "POST /rag/answer HTTP/1.1" 200 -
+Fetching 11 files:   0%|          | 0/11 [00:00<?, ?it/s]Fetching 11 files: 100%|██████████| 11/11 [00:00<00:00, 257750.53it/s]
+127.0.0.1 - - [09/Aug/2025 13:11:40] "POST /rag/model/load HTTP/1.1" 200 -
+127.0.0.1 - - [09/Aug/2025 13:12:16] "POST /rag/answer HTTP/1.1" 200 -
+127.0.0.1 - - [09/Aug/2025 13:13:51] "POST /rag/answer HTTP/1.1" 200 -
+127.0.0.1 - - [09/Aug/2025 13:14:32] "POST /rag/answer HTTP/1.1" 200 -
+ * Detected change in '/Users/matthewzienert/Documents/landuse/apis/rag/retrieval.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 114-241-345
+127.0.0.1 - - [09/Aug/2025 13:16:19] "POST /rag/answer HTTP/1.1" 200 -
+Fetching 11 files:   0%|          | 0/11 [00:00<?, ?it/s]Fetching 11 files: 100%|██████████| 11/11 [00:00<00:00, 166560.81it/s]
+127.0.0.1 - - [09/Aug/2025 13:16:36] "POST /rag/model/load HTTP/1.1" 200 -
+127.0.0.1 - - [09/Aug/2025 13:17:08] "POST /rag/answer HTTP/1.1" 200 -
+ * Detected change in '/Users/matthewzienert/Documents/landuse/apis/rag/retrieval.py', reloading
+DEBUG: Extracted references: ['67-4', '67', '66-16', '66-13', '67-3', '67-6']
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 114-241-345

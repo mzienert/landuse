@@ -35,7 +35,7 @@ def build_prompt_with_sources(
     question: str,
     results: List[Dict[str, Any]],
     *,
-    max_chunk_chars: int = 1200,
+    max_chunk_chars: int = 3000,
 ) -> Tuple[str, List[Dict[str, Any]]]:
     """Construct a grounded prompt with enumerated sources and return (prompt, sources_meta).
 
@@ -66,7 +66,8 @@ def build_prompt_with_sources(
                 "collection": collection,
                 "id": ident,
                 "preview": chunk[:200],
-                "chunk": chunk,
+                "chunk": text,  # Store full text for final response
+                "truncated_chunk": chunk,  # Store truncated for prompt building
             }
         )
 
@@ -112,7 +113,7 @@ def rerank_results(
     query: str,
     results: List[Dict[str, Any]],
     *,
-    max_chunk_chars: int = 1200,
+    max_chunk_chars: int = 3000,
     top_k: int = 6,
     diversity_threshold: float = 0.8,
 ) -> List[Dict[str, Any]]:
@@ -207,6 +208,83 @@ def extract_citations(answer_text: str, sources_meta: List[Dict[str, Any]]) -> T
     return citations, used_sources
 
 
+def extract_section_references(results: List[Dict[str, Any]]) -> List[str]:
+    """Extract section references from retrieval results.
+    
+    Looks for patterns like:
+    - "section 67-4"  
+    - "Chapter 67"
+    - "67-4"
+    - "(see section 66-20)"
+    """
+    references = set()
+    
+    for r in results:
+        text = (r.get("text") or "").lower()
+        
+        # Pattern 1: "section X-Y" or "section X.Y" 
+        for match in re.finditer(r"section\s+(\d+[-\.]\d+)", text):
+            references.add(match.group(1))
+            
+        # Pattern 2: "chapter X"
+        for match in re.finditer(r"chapter\s+(\d+)", text):
+            references.add(f"{match.group(1)}")
+            
+        # Pattern 3: standalone "XX-YY" (more restrictive to avoid false positives)
+        for match in re.finditer(r"\b(\d{2,3}-\d{1,3})\b", text):
+            ref = match.group(1)
+            # Only include if it looks like a legal section reference
+            if any(word in text[max(0, match.start()-50):match.end()+50] for word in 
+                   ["section", "chapter", "pursuant", "accordance", "see", "refer"]):
+                references.add(ref)
+    
+    return list(references)
+
+
+def expand_query_with_references(
+    original_query: str,
+    initial_results: List[Dict[str, Any]],
+    *,
+    collection: str = "la_plata_county_code", 
+    max_additional_results: int = 8,
+    base_url: str = DEFAULT_SEARCH_BASE,
+) -> List[Dict[str, Any]]:
+    """Expand retrieval by following section references found in initial results.
+    
+    Returns combined and deduplicated results from original query + reference queries.
+    """
+    references = extract_section_references(initial_results)
+    
+    if not references:
+        return initial_results
+        
+    # Collect additional results from reference queries
+    additional_results = []
+    seen_ids = {r.get("id") for r in initial_results}
+    
+    for ref in references[:3]:  # Limit to top 3 references to avoid explosion
+        try:
+            ref_query = f"section {ref}"
+            ref_data = fetch_simple_search(
+                ref_query,
+                collection=collection,
+                num_results=max_additional_results // 2,
+                base_url=base_url,
+            )
+            
+            for result in ref_data.get("results", []):
+                result_id = result.get("id")
+                if result_id and result_id not in seen_ids:
+                    additional_results.append(result)
+                    seen_ids.add(result_id)
+                    
+        except Exception:
+            continue  # Skip failed reference queries
+    
+    # Combine and return
+    return initial_results + additional_results
+
+
 def auto_cite_answer(answer_text: str, sources_meta: List[Dict[str, Any]], *,
                      min_jaccard: float = 0.05) -> Tuple[str, List[Dict[str, Any]], List[Dict[str, Any]]]:
     """Best-effort citation insertion when the model omits [n] markers.
@@ -219,11 +297,11 @@ def auto_cite_answer(answer_text: str, sources_meta: List[Dict[str, Any]], *,
     if not answer_text or not sources_meta:
         return answer_text, [], []
 
-    # Pre-tokenize source chunks
+    # Pre-tokenize source chunks (use truncated for matching)
     src_tokens = {}
     for s in sources_meta:
         idx = s.get("index")
-        chunk = s.get("chunk") or s.get("preview") or ""
+        chunk = s.get("truncated_chunk") or s.get("chunk") or s.get("preview") or ""
         src_tokens[idx] = _tokenize(chunk)
 
     lines = answer_text.split("\n")
