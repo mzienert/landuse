@@ -46,7 +46,9 @@ def build_prompt_with_sources(
     system = (
         "You are a legal assistant for La Plata County. Answer only using the SOURCES "
         "provided below. If the sources are insufficient, explicitly state that you don't have "
-        "enough information. Include citations using [1], [2], etc., that refer to the SOURCES list."
+        "enough information. Include citations using [1], [2], etc., that refer to the SOURCES list. "
+        "CRITICAL: Only use citation numbers that correspond to actual SOURCES provided. "
+        "Do not invent citation numbers beyond the sources given."
     )
 
     lines.append(f"SYSTEM:\n{system}\n")

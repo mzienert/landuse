@@ -700,12 +700,100 @@ The system now handles:
 - ✅ Automatic deduplication of overlapping results
 - ✅ Limit of 3 top references to prevent query explosion
 
+#### Known Limitations
+
+**Query Sensitivity**: Initial retrieval results vary based on exact query phrasing, affecting reference expansion success:
+
+- ✅ **Works Well**: `"minor subdivision requirements"` → finds section 67-4
+- ⚠️ **Inconsistent**: `"What are the requirements for a minor subdivision..."` → may only find Chapter 66
+
+**Root Cause**: Different query phrasings return different initial search results from the vector database, which may or may not contain the key references needed for expansion.
+
+**Workaround**: Users can try alternative phrasings if initial results seem incomplete.
+
 ---
 
-## Future Enhancements (Notes)
+## Future Enhancements
 
-- **Multi-step retrieval**: Implement reference extraction and follow-up queries for dense legal text
-- **LangChain integration**: Consider agent-based orchestration for complex multi-step legal analysis
+### Phase 2: Enhanced Retrieval Quality
+
+To address the remaining 20% of query sensitivity issues:
+
+#### 1. Query Normalization (Common in RAG)
+```python
+def normalize_legal_query(query: str) -> str:
+    """Standardize legal query phrasing for better retrieval."""
+    # Legal-specific patterns
+    patterns = [
+        (r"what are the requirements for (.*)", r"\1 requirements"),
+        (r"how do I (.*)", r"\1 process"),
+        (r"tell me about (.*)", r"\1"),
+    ]
+    
+    normalized = query.lower()
+    for pattern, replacement in patterns:
+        normalized = re.sub(pattern, replacement, normalized)
+    return normalized
+```
+
+**Benefits**: More consistent initial retrieval results regardless of user phrasing
+
+#### 2. Better Embedding Model
+Current: Default sentence-transformers model
+**Upgrades**:
+- Legal-specific embeddings (e.g., legal-bert variants)
+- Domain fine-tuning on municipal code text
+- Hybrid search (semantic + keyword)
+
+**Implementation**:
+```python
+# Pinecone migration considerations
+embeddings = {
+    "current": "all-MiniLM-L6-v2",  # 384D, general purpose
+    "legal": "law-ai/InLegalBERT",   # 768D, legal-specific
+    "hybrid": "bge-large-en-v1.5"   # 1024D, best retrieval performance
+}
+```
+
+#### 3. LangChain Agent Integration (Phase 2)
+For complex multi-step legal analysis requiring true reasoning chains:
+
+```python
+agent = create_legal_retrieval_agent(
+    tools=[
+        search_tool,
+        reference_extractor, 
+        cross_reference_validator
+    ],
+    llm=thinking_model,
+    memory=ConversationBufferMemory(),
+    max_iterations=3
+)
+```
+
+### Recommended Implementation Order
+
+1. **Quick Win**: Query normalization (1-2 days)
+2. **Medium Impact**: Better embeddings during Pinecone migration (1 week)  
+3. **High Impact**: LangChain agents for complex reasoning (2-3 weeks)
+
+### RAG Industry Context
+
+**Query Normalization**: Standard practice in production RAG systems
+- Used by legal AI companies (Harvey, Casetext)
+- Common in enterprise search (Microsoft Viva Topics)
+- Essential for consistent user experience
+
+**Multi-Modal Retrieval**: Current best practice combines:
+- Dense retrieval (embeddings)
+- Sparse retrieval (BM25/keyword)  
+- Query expansion (synonyms, reformulation)
+- Reference following (our current enhancement ✅)
+
+---
+
+## Additional Future Enhancements (Notes)
+
 - UI comparison mode: When a UI is available, display the baseline (previous step) answer side-by-side with the augmented (RAG) answer for comparison.
 - Cross-encoder reranking: Add small transformer for (query, passage) relevance scoring
 - Strict citation policy: Enforce that claims are supported by SOURCES; add inline markers [1], [2] and a sources section.

@@ -47,3 +47,37 @@ DEBUG: Extracted references: ['67-4', '67', '66-16', '66-13', '67-3', '67-6']
  * Restarting with stat
  * Debugger is active!
  * Debugger PIN: 114-241-345
+Fetching 6 files:   0%|          | 0/6 [00:00<?, ?it/s]Fetching 6 files: 100%|██████████| 6/6 [00:00<00:00, 109416.63it/s]
+127.0.0.1 - - [09/Aug/2025 13:22:03] "POST /rag/model/load HTTP/1.1" 200 -
+127.0.0.1 - - [09/Aug/2025 13:22:59] "POST /rag/answer HTTP/1.1" 200 -
+ * Detected change in '/Users/matthewzienert/Documents/landuse/apis/rag/retrieval.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 114-241-345
+ * Detected change in '/Users/matthewzienert/Documents/landuse/apis/rag/retrieval.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 114-241-345
+Fetching 11 files:   0%|          | 0/11 [00:00<?, ?it/s]Fetching 11 files: 100%|██████████| 11/11 [00:00<00:00, 172154.27it/s]
+127.0.0.1 - - [09/Aug/2025 13:33:17] "POST /rag/model/load HTTP/1.1" 200 -
+127.0.0.1 - - [09/Aug/2025 13:34:08] "POST /rag/answer HTTP/1.1" 200 -
+127.0.0.1 - - [09/Aug/2025 13:34:44] "POST /rag/answer HTTP/1.1" 200 -
+127.0.0.1 - - [09/Aug/2025 13:39:14] "POST /rag/answer HTTP/1.1" 200 -
+ * Detected change in '/Users/matthewzienert/Documents/landuse/apis/rag/retrieval.py', reloading
+DEBUG: Found references: ['73-2', '66-7', '73-19', '67', '73-3', '73-9', '67-7', '73-14', '68', '66', '73-8', '66-19', '73-13', '73-10', '66-6', '73-17', '66-36', '73-15', '65', '66-23', '73-16', '73-22', '67-3', '73-5', '66-33', '66-29', '73-21', '67-4', '66-21', '73-7', '67-6', '66-20']
+DEBUG: Found references: ['67', '67-4', '66-13', '67-6', '67-3', '66-16']
+DEBUG: Found references: ['67', '67-4', '66-13', '67-6', '67-3', '66-16']
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 114-241-345
+127.0.0.1 - - [09/Aug/2025 13:40:45] "POST /rag/answer HTTP/1.1" 200 -
+Fetching 11 files:   0%|          | 0/11 [00:00<?, ?it/s]Fetching 11 files: 100%|██████████| 11/11 [00:00<00:00, 116803.40it/s]
+127.0.0.1 - - [09/Aug/2025 13:40:58] "POST /rag/model/load HTTP/1.1" 200 -
+127.0.0.1 - - [09/Aug/2025 13:42:21] "POST /rag/answer HTTP/1.1" 200 -
+127.0.0.1 - - [09/Aug/2025 13:43:42] "POST /rag/answer HTTP/1.1" 200 -
+Fetching 6 files:   0%|          | 0/6 [00:00<?, ?it/s]Fetching 6 files: 100%|██████████| 6/6 [00:00<00:00, 37008.56it/s]
+127.0.0.1 - - [09/Aug/2025 13:45:35] "POST /rag/model/load HTTP/1.1" 200 -
+127.0.0.1 - - [09/Aug/2025 13:46:38] "POST /rag/answer HTTP/1.1" 200 -
+Fetching 6 files:   0%|          | 0/6 [00:00<?, ?it/s]Fetching 6 files: 100%|██████████| 6/6 [00:00<00:00, 165564.63it/s]
+127.0.0.1 - - [09/Aug/2025 13:54:46] "POST /rag/model/load HTTP/1.1" 200 -
+127.0.0.1 - - [09/Aug/2025 13:56:10] "POST /rag/answer HTTP/1.1" 200 -
