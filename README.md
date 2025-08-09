@@ -26,18 +26,31 @@ A comprehensive semantic search platform for La Plata County data, enabling natu
    
    **Note**: Both processes use optimized models and take 2-6 minutes each.
 
-3. **Start API Server**
+3. **Start Complete API Suite (Search + RAG)**
    ```bash
-   ./scripts/api.sh start
+   ./scripts/start_both.sh start
    ```
+   
+   This automatically starts:
+   - Search API (port 8000) for semantic search
+   - RAG API (port 8001) for Q&A with citations
+   - Loads the RAG model ready for questions
 
-4. **Test Both Collections**
+4. **Test Search and RAG**
    ```bash
-   # Land Use Code
+   # Test Search API
    curl "http://localhost:8000/search/simple?query=building%20permits&collection=la_plata_county_code&num_results=5"
    
-   # Property Assessor Data
-   curl "http://localhost:8000/search/simple?query=Smith%20family&collection=la_plata_assessor&num_results=5"
+   # Test RAG API with Q&A
+   curl -X POST http://localhost:8001/rag/answer \
+     -H 'Content-Type: application/json' \
+     -d '{"query":"What are subdivision requirements?","collection":"la_plata_county_code","num_results":5}'
+   ```
+
+   **Alternative: Start APIs Individually**
+   ```bash
+   ./scripts/api.sh start        # Search API only
+   ./scripts/run_rag.sh start    # RAG API only
    ```
 
 📖 **Detailed setup instructions:** See [BUILD_STEPS.md](BUILD_STEPS.md)
@@ -86,21 +99,32 @@ A comprehensive semantic search platform for La Plata County data, enabling natu
 ### Project Structure
 ```
 landuse/
-├── la_plata_code/                    # Land Use Code source data
-├── LPC-Assessor-Data-Files/          # Property Assessor source data (MDB)
-├── chroma_db/                        # Multi-collection vector database
-├── scripts/                          # Management scripts
-│   └── api.sh                       # API server management
-├── create_embeddings.py             # Land Use Code embeddings (1024D)
-├── create_assessor_embeddings.py    # Property Assessor embeddings (768D)
-├── search_api.py                    # Multi-collection Flask API
-├── components/                       # Next.js UI components
-│   ├── search-form.tsx              # Collection-aware search form
-│   └── search-results.tsx           # Unified results display
-├── app/                             # Next.js application
-│   ├── search/page.tsx             # Search interface
-│   └── page.tsx                    # Landing page
-└── BUILD_STEPS.md                   # Detailed setup guide
+├── apis/                            # API services
+│   ├── search/                      # Search API
+│   │   ├── search_api.py           # Multi-collection Flask API
+│   │   └── test_search.py          # Search API testing
+│   └── rag/                        # RAG API
+│       ├── rag_api.py             # Q&A with citations Flask API
+│       ├── inference.py           # MLX model management
+│       ├── retrieval.py           # Retrieval orchestration
+│       └── verify.py              # Citation verification
+├── scripts/                         # Management scripts
+│   ├── api.sh                      # Search API management
+│   ├── run_rag.sh                  # RAG API management
+│   └── start_both.sh               # Combined API management
+├── data/                           # Source data
+│   ├── la_plata_code/             # Land Use Code source data
+│   └── LPC-Assessor-Data-Files/   # Property Assessor source data (MDB)
+├── chroma_db/                      # Multi-collection vector database
+├── create_embeddings.py           # Land Use Code embeddings (1024D)
+├── create_assessor_embeddings.py  # Property Assessor embeddings (768D)
+├── components/                     # Next.js UI components
+│   ├── search-form.tsx            # Collection-aware search form
+│   └── search-results.tsx         # Unified results display
+├── app/                           # Next.js application
+│   ├── search/page.tsx           # Search interface
+│   └── page.tsx                  # Landing page
+└── BUILD_STEPS.md                 # Detailed setup guide
 ```
 
 ## 🔍 API Usage
@@ -178,13 +202,30 @@ Open in your browser:
 
 ## 🛠️ Server Management
 
-**Start/Stop API Server**
+**Complete API Suite Management (Recommended)**
 ```bash
+./scripts/start_both.sh start     # Start both Search + RAG APIs with model
+./scripts/start_both.sh status    # Check status of both APIs
+./scripts/start_both.sh test      # Test connectivity and functionality
+./scripts/start_both.sh stop      # Stop both APIs
+./scripts/start_both.sh restart   # Restart both APIs
+./scripts/start_both.sh logs      # View logs from both APIs
+```
+
+**Individual API Management**
+```bash
+# Search API only (port 8000)
 ./scripts/api.sh start     # Start in background
 ./scripts/api.sh status    # Check status + connectivity test
 ./scripts/api.sh stop      # Stop server
 ./scripts/api.sh restart   # Restart server
 ./scripts/api.sh logs      # View recent logs
+
+# RAG API only (port 8001)
+./scripts/run_rag.sh start     # Start RAG service
+./scripts/run_rag.sh status    # Check RAG status
+./scripts/run_rag.sh stop      # Stop RAG service
+./scripts/run_rag.sh logs      # View RAG logs
 ```
 
 ## 🔄 Vector Database Management

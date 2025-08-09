@@ -18,20 +18,20 @@ CORS(app)
 
 # Optional: MLX model manager (loaded on demand)
 try:
-    from rag.inference import ModelManager
+    from inference import ModelManager
     model_mgr = ModelManager()
 except Exception:
     model_mgr = None
 
 try:
-    from rag.retrieval import (
+    from retrieval import (
         fetch_simple_search,
         build_prompt_with_sources,
         rerank_results,
         extract_citations,
         auto_cite_answer,
     )
-    from rag.verify import verify_answer_support
+    from verify import verify_answer_support
 except Exception:
     fetch_simple_search = None
     build_prompt_with_sources = None

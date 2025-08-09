@@ -39,7 +39,7 @@ start_api() {
   source env/bin/activate
 
   echo "Starting RAG API on port $API_PORT..."
-  nohup python rag_api.py > "$LOG_FILE" 2>&1 &
+  nohup python apis/rag/rag_api.py > "$LOG_FILE" 2>&1 &
   local pid=$!
   echo "$pid" > "$PID_FILE"
   sleep 2

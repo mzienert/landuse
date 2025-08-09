@@ -245,8 +245,8 @@ pip install mlx flask flask-cors chromadb sentence-transformers tqdm numpy sse-s
 - Context window: aim for 8K–16K tokens; tune prompt/packing accordingly
 
 ## Service Topology
-- Keep `search_api.py` as-is (retrieval/search)
-- Add a new `rag_api.py` that:
+- Search API at `apis/search/search_api.py` (retrieval/search service)
+- RAG API at `apis/rag/rag_api.py` that:
   - Loads the model via MLX
   - Exposes `/rag/answer` (JSON POST) and `/rag/answer/stream` (SSE) for streamed tokens
   - Orchestrates: retrieve → heuristic rerank → pack → generate → verify → respond with citations

@@ -4,12 +4,13 @@ This document describes the Retrieval-Augmented Generation (RAG) service that ru
 
 ### Overview
 
-- Service: `rag_api.py` (Flask, port 8001)
+- Service: `apis/rag/rag_api.py` (Flask, port 8001)
 - Script: `scripts/run_rag.sh` (start/stop/status/logs)
 - Components:
-  - `rag/inference.py`: MLX model manager for loading and generating
-  - `rag/retrieval.py`: Calls existing search service to fetch top-K context, builds prompt with SOURCES
-  - `rag_api.py`: Endpoints to load model and answer questions (streaming/non-streaming)
+  - `apis/rag/inference.py`: MLX model manager for loading and generating
+  - `apis/rag/retrieval.py`: Calls existing search service to fetch top-K context, builds prompt with SOURCES
+  - `apis/rag/verify.py`: Citation verification and support checking
+  - `apis/rag/rag_api.py`: Endpoints to load model and answer questions (streaming/non-streaming)
 - Dependencies: MLX, MLX-LM, Flask, Flask-CORS, Requests (for retrieval calls)
 
 Notes:
@@ -236,19 +237,316 @@ curl -X POST http://localhost:8001/rag/answer \
 
 ---
 
+---
+
+## 🎛️ RAG System Tuning Parameters
+
+This section documents all configurable parameters ("knobs") that can be adjusted to optimize the RAG system for accuracy, performance, and reliability.
+
+### 🔍 Retrieval Stage Parameters
+
+#### Collection Selection
+```python
+# Which collections to search
+collections = ["la_plata_county_code", "la_plata_assessor"]  # Both
+collections = ["la_plata_county_code"]  # Legal only
+collections = ["la_plata_assessor"]     # Property only
+```
+
+**Impact**: Broader search increases recall but may reduce precision
+
+#### Retrieval Count (K)
+```python
+num_results = 12  # Default: retrieve top-12 chunks per collection
+```
+
+**Tuning Guidelines:**
+- **Lower (6-8)**: Faster, more precise, risk missing relevant content
+- **Higher (15-20)**: Better recall, slower, more noise for reranker
+- **Sweet spot**: 10-15 for legal queries, 8-12 for property queries
+
+#### Distance Threshold
+```python
+max_distance = 0.8  # Only retrieve chunks with similarity > 0.2
+```
+
+**Tuning Guidelines:**
+- **Stricter (0.6-0.7)**: Higher precision, may miss relevant but dissimilar content
+- **Looser (0.8-0.9)**: Better recall, more noise
+- **Sweet spot**: 0.75 for legal text, 0.8 for property data
+
+### 📊 Reranking Stage Parameters
+
+#### Heuristic Reranking (Current)
+```python
+# Scoring weights
+similarity_weight = 0.6      # Base cosine similarity score
+freshness_weight = 0.1       # Newer content bonus (if timestamps available)
+diversity_weight = 0.2       # Cross-source diversity bonus
+length_weight = 0.1          # Optimal chunk length bonus
+
+# Diversity constraints
+max_chunks_per_source = 2    # Limit chunks from same document
+min_source_diversity = 0.3   # Minimum difference between chunks
+diversity_threshold = 0.8    # Jaccard similarity threshold for deduplication
+```
+
+#### Deduplication
+```python
+# Remove near-duplicate chunks
+dedup_threshold = 0.85      # Cosine similarity threshold for duplicates
+dedup_method = "embedding"  # Options: "embedding", "text", "hybrid"
+```
+
+**Tuning Guidelines:**
+- **Stricter (0.90+)**: Only removes very similar chunks
+- **Looser (0.75-0.80)**: Removes more duplicates, risk losing nuanced differences
+- **Sweet spot**: 0.85 for legal text, 0.80 for property data
+
+### 📦 Context Packing Parameters
+
+#### Chunk Selection
+```python
+max_chunks_in_context = 6    # Number of chunks to include in prompt (top_k)
+target_context_length = 4000 # Target token count for all chunks
+max_context_length = 6000    # Hard limit to avoid truncation
+max_chunk_chars = 1200       # Characters per chunk fed to model
+```
+
+**Tuning Guidelines:**
+- **Fewer chunks (3-4)**: More focused, faster, risk missing supporting evidence
+- **More chunks (8-10)**: Comprehensive coverage, slower, potential confusion
+- **Sweet spot**: 5-7 chunks for complex legal queries
+
+#### Context Organization
+```python
+# How to arrange chunks in prompt
+context_order = "relevance"  # Options: "relevance", "source", "chronological"
+include_metadata = True      # Include section numbers, account IDs, etc.
+source_separation = True     # Clear separators between different sources
+```
+
+### 🤖 Generation Stage Parameters
+
+#### Model Configuration
+```python
+# Model selection
+model_name = "Llama3-LegalLM"        # Preferred legal-tuned model
+fallback_model = "mlx-community/Llama-3.1-8B-Instruct-4bit" # Tested fallback
+quantization = "4bit"                # Options: "4bit", "8bit", "fp16"
+```
+
+#### Generation Parameters
+```python
+# Core generation settings
+temperature = 0.3           # Lower = more deterministic, higher = more creative
+top_p = 0.9                # Nucleus sampling threshold
+max_tokens = 800           # Maximum response length
+min_tokens = 100           # Minimum response length (prevent truncation)
+```
+
+**Tuning Guidelines:**
+
+##### Temperature
+- **Low (0.1-0.3)**: Precise, factual, deterministic - ideal for legal queries
+- **Medium (0.4-0.6)**: Balanced creativity and accuracy
+- **High (0.7-1.0)**: Creative but less reliable - avoid for legal content
+
+##### Token Limits
+- **Conservative (400-600)**: Concise answers, may miss details
+- **Generous (800-1200)**: Comprehensive but verbose
+- **Sweet spot**: 600-800 tokens for legal explanations
+
+### ✅ Verification Stage Parameters
+
+#### Citation Validation
+```python
+# Citation checking
+require_citations = True
+min_citations_per_claim = 1     # Each factual claim needs ≥1 citation
+citation_similarity_threshold = 0.7  # How similar claim must be to source
+
+# Unsupported content handling
+unsupported_action = "soften"   # Options: "remove", "soften", "flag", "allow"
+uncertainty_phrases = ["may", "typically", "generally", "often"]
+```
+
+#### Verification Parameters (Current Implementation)
+```python
+# Lexical support checking
+jaccard_threshold = 0.15    # Minimum token overlap for sentence support
+support_check_enabled = True
+auto_citation_enabled = True  # Add citations to supported sentences
+```
+
+### 🔧 Performance vs. Accuracy Tradeoffs
+
+#### High Accuracy Configuration
+```python
+# Maximizes accuracy, slower performance
+num_results = 15
+max_chunks_in_context = 8
+temperature = 0.2
+diversity_threshold = 0.9  # More aggressive deduplication
+citation_similarity_threshold = 0.8
+```
+
+#### Balanced Configuration (Recommended)
+```python
+# Good accuracy with reasonable speed
+num_results = 12
+max_chunks_in_context = 6
+temperature = 0.3
+diversity_threshold = 0.8
+citation_similarity_threshold = 0.7
+```
+
+#### High Performance Configuration
+```python
+# Faster responses, slightly lower accuracy
+num_results = 8
+max_chunks_in_context = 4
+temperature = 0.4
+diversity_threshold = 0.75
+citation_similarity_threshold = 0.6
+```
+
+### 🎯 Quick Tuning Recipes
+
+#### For Legal Queries (High Precision)
+```python
+config = {
+    "collection": "la_plata_county_code",
+    "num_results": 12,
+    "max_chunks_in_context": 6,
+    "temperature": 0.2,
+    "diversity_threshold": 0.85,
+    "citation_similarity_threshold": 0.8
+}
+```
+
+#### For Property Searches (High Recall)  
+```python
+config = {
+    "collection": "la_plata_assessor",
+    "num_results": 15,
+    "max_chunks_in_context": 8,
+    "temperature": 0.3,
+    "diversity_threshold": 0.8,
+    "citation_similarity_threshold": 0.7
+}
+```
+
+#### For General Questions (Balanced)
+```python
+config = {
+    "collection": "la_plata_county_code",  # or both collections
+    "num_results": 10,
+    "max_chunks_in_context": 5,
+    "temperature": 0.35,
+    "diversity_threshold": 0.8,
+    "citation_similarity_threshold": 0.7
+}
+```
+
+### 🔍 Debugging Parameter Issues
+
+#### Common Issues and Parameter Adjustments
+
+**Issue: Responses lack relevant information**
+- ↑ Increase `num_results` (8 → 12)
+- ↓ Lower distance threshold in search API
+- ↓ Reduce `diversity_threshold` (0.8 → 0.75) to allow more similar chunks
+
+**Issue: Responses are too generic**
+- ↓ Decrease `temperature` (0.4 → 0.2)
+- ↑ Increase `citation_similarity_threshold` (0.7 → 0.8)
+- ↓ Reduce `max_chunks_in_context` (8 → 5)
+
+**Issue: Missing citations**
+- Enable `auto_citation_enabled`
+- ↓ Lower `jaccard_threshold` (0.15 → 0.10)
+- ↓ Lower `citation_similarity_threshold` (0.7 → 0.6)
+
+**Issue: Slow response times**
+- ↓ Reduce `num_results` (12 → 8)
+- ↓ Lower `max_tokens` (800 → 600)
+- ↓ Reduce `max_chunks_in_context` (6 → 4)
+- Use 4-bit quantization instead of 8-bit
+
+**Issue: Inconsistent quality**
+- ↓ Lower `temperature` for consistency (0.3 → 0.2)
+- ↑ Increase `diversity_threshold` to reduce redundant chunks
+- Enable stricter verification settings
+
+**Issue: Too many duplicate/similar sources**
+- ↑ Increase `diversity_threshold` (0.8 → 0.85)
+- ↓ Reduce `max_chunks_per_source` (default → 1)
+- Enable `min_source_diversity` constraint
+
+### 📊 Configuration Management
+
+#### Environment-Based Configs
+```python
+# config/development.json
+{
+    "retrieval": {"num_results": 15},
+    "generation": {"temperature": 0.2},
+    "verification": {"strict_mode": True}
+}
+
+# config/production.json  
+{
+    "retrieval": {"num_results": 10},
+    "generation": {"temperature": 0.3},
+    "verification": {"strict_mode": False}
+}
+```
+
+---
+
+## 🚀 Prototype → Production Path
+
+The system is designed for gradual migration from local development to cloud production:
+
+### Phase 1: Current (Local)
+- Search API → ChromaDB
+- RAG API → MLX
+
+### Phase 2: Hybrid  
+- Search API → Pinecone (cloud)
+- RAG API → MLX (still local)
+
+### Phase 3: Full Cloud
+- Search API → Pinecone
+- RAG API → Bedrock
+
+**Benefits of Phased Approach:**
+- **Independent migration** - Move services separately without dependencies
+- **Risk mitigation** - Test cloud integration incrementally  
+- **Cost optimization** - Optimize each service's cloud architecture individually
+- **Development velocity** - Continue local development while migrating production
+
+**Architecture Considerations:**
+- Current HTTP APIs translate directly to cloud service boundaries
+- Separate Flask apps provide deployment flexibility (ECS, Lambda, App Runner)
+- Clean interfaces enable gradual backend swapping without API changes
+
+---
+
 ## Future Enhancements (Notes)
 
 - UI comparison mode: When a UI is available, display the baseline (previous step) answer side-by-side with the augmented (RAG) answer for comparison.
-- Heuristic reranker: Reorder candidates via short-window cosine boosts, redundancy penalties, and source diversity.
+- Cross-encoder reranking: Add small transformer for (query, passage) relevance scoring
 - Strict citation policy: Enforce that claims are supported by SOURCES; add inline markers [1], [2] and a sources section.
-- Lightweight verification: Post-generate support check; remove or soften unsupported statements.
-- Configurable parameters: Expose K, chunk sizes, and generation controls in the UI.
+- Advanced verification: Post-generate support check; remove or soften unsupported statements.
+- Configurable parameters: Expose all tuning knobs in the UI and config files.
 - Sessioning and feedback: Store conversations and thumbs up/down; learn from feedback.
 - Caching: Retrieval and prompt+sources generation caches.
 - Evaluation harness: Gold Q&A set with metrics (hit@k, citation precision, supported-claims ratio, latency, token usage).
 - Observability: Structured logs and dashboards for latency and usage.
 - Retrieval quality:
-  - Filter out “Reserved” sections during retrieval to reduce noise before reranking.
+  - Filter out "Reserved" sections during retrieval to reduce noise before reranking.
   - Add a small post-processor to clean incomplete/dangling citation tokens (e.g., a trailing "[4").
 
 

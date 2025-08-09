@@ -275,3 +275,8 @@ INFO:werkzeug: * Debugger PIN: 114-241-345
 INFO:werkzeug:127.0.0.1 - - [07/Aug/2025 22:32:39] "GET /search/simple?query=dog+leash&collection=la_plata_county_code&num_results=6 HTTP/1.1" 200 -
 Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 10.73it/s]
 INFO:werkzeug:127.0.0.1 - - [07/Aug/2025 22:34:33] "GET /search/simple?query=cows&collection=la_plata_county_code&num_results=6 HTTP/1.1" 200 -
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 16.33it/s]
+INFO:werkzeug:127.0.0.1 - - [07/Aug/2025 22:38:48] "GET /search/simple?query=cows&collection=la_plata_county_code&num_results=6 HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/Users/matthewzienert/Documents/landuse/apis/rag/rag_api.py', reloading
+INFO:werkzeug: * Restarting with stat
+/opt/homebrew/Cellar/python@3.13/3.13.1/Frameworks/Python.framework/Versions/3.13/Resources/Python.app/Contents/MacOS/Python: can't open file '/Users/matthewzienert/Documents/landuse/search_api.py': [Errno 2] No such file or directory
