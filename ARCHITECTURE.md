@@ -26,7 +26,7 @@ This document summarizes the current system and the proposed RAG extension that 
   - NextAuth credentials auth; Postgres via Drizzle (`app/db.ts`)
 
 - Scripts
-  - `create_embeddings.py`, `create_assessor_embeddings.py`
+  - `apis/search/embeddings/create_legal_embeddings.py`, `apis/search/embeddings/create_assessor_embeddings.py`
   - `scripts/api.sh` for starting/stopping Flask API
   - Scrapers for code and assessor site (Selenium)
 

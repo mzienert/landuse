@@ -45,7 +45,7 @@ start_api() {
     # Check if ChromaDB exists
     if [ ! -d "chroma_db" ]; then
         echo "Error: ChromaDB not found at ./chroma_db"
-        echo "Please run: python create_embeddings.py"
+        echo "Please run: python apis/search/embeddings/create_legal_embeddings.py"
         return 1
     fi
     

@@ -532,7 +532,7 @@ pkill -f "search_api.py"
 cp -r chroma_db chroma_db_backup
 
 # Regenerate embeddings (this takes time)
-python create_embeddings.py
+python apis/search/embeddings/create_legal_embeddings.py
 
 # Test with fresh database
 curl "http://localhost:8000/search/simple?query=test&num_results=3"

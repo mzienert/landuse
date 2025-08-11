@@ -50,7 +50,7 @@ print('MLX model loaded successfully')
 
 ## Step 3: Create the Embedding Script
 
-Create `create_embeddings.py`:
+Create `apis/search/embeddings/create_legal_embeddings.py`:
 
 ```python
 
@@ -60,7 +60,7 @@ Create `create_embeddings.py`:
 
 ```bash
 # Execute the embedding creation script
-python create_embeddings.py
+python apis/search/embeddings/create_legal_embeddings.py
 ```
 
 Expected output:
@@ -180,7 +180,7 @@ curl "http://localhost:8000/search/simple?query=building%20permits&num_results=3
 
 **Memory problems during embedding generation:**
 ```bash
-# Reduce batch size in create_embeddings.py
+# Reduce batch size in apis/search/embeddings/create_legal_embeddings.py
 BATCH_SIZE = 16  # Instead of 32
 ```
 
@@ -193,7 +193,7 @@ pip install sentence-transformers
 **ChromaDB issues:**
 ```bash
 rm -rf ./chroma_db
-python create_embeddings.py  # Recreate embeddings
+python apis/search/embeddings/create_legal_embeddings.py  # Recreate embeddings
 ```
 
 ### API Issues
@@ -214,7 +214,7 @@ cd /path/to/landuse
 ## Performance Optimization
 
 **For lower memory systems:**
-- Reduce `BATCH_SIZE` in `create_embeddings.py` to 16 or 8
+- Reduce `BATCH_SIZE` in `apis/search/embeddings/create_legal_embeddings.py` to 16 or 8
 - Monitor Activity Monitor during processing
 
 **For faster processing:**

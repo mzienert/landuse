@@ -14,7 +14,7 @@ from tqdm import tqdm
 import chromadb
 from sentence_transformers import SentenceTransformer
 
-def run_mdb_export(mdb_path, table_name, output_dir="assessor_csv"):
+def run_mdb_export(mdb_path, table_name, output_dir="../../../assessor_csv"):
     """Export a table from MDB to CSV"""
     os.makedirs(output_dir, exist_ok=True)
     csv_path = f"{output_dir}/{table_name}.csv"
@@ -212,7 +212,7 @@ def create_embeddings(property_descriptions, model, batch_size=50):
     print(f"Generated {len(all_embeddings)} embeddings")
     return accounts, all_embeddings
 
-def setup_chroma_db(db_path="./chroma_db"):
+def setup_chroma_db(db_path="../../../chroma_db"):
     """Initialize ChromaDB for vector storage"""
     print(f"Setting up ChromaDB at {db_path}...")
     
@@ -259,7 +259,7 @@ def store_embeddings(collection, accounts, embeddings, property_descriptions):
     print(f"Stored {collection.count()} documents in ChromaDB")
 
 def main():
-    mdb_path = "./LPC-Assessor-Data-Files/AssessorData.mdb"
+    mdb_path = "../../../LPC-Assessor-Data-Files/AssessorData.mdb"
     
     if not os.path.exists(mdb_path):
         print(f"❌ MDB file not found: {mdb_path}")
@@ -323,7 +323,7 @@ def main():
     print("\n✅ Assessor embeddings created successfully!")
     print(f"📊 Total properties processed: {len(property_descriptions)}")
     print(f"🔢 Vector dimensions: 768D (all-mpnet-base-v2)")
-    print(f"🗂️  Database location: ./chroma_db")
+    print(f"🗂️  Database location: ../../../chroma_db")
     print(f"🔍 Collection: la_plata_assessor")
     print("Ready for semantic search queries on property data!")
 

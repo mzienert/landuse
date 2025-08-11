@@ -16,12 +16,12 @@ A comprehensive semantic search platform for La Plata County data, enabling natu
    
    **Land Use Code (1,298 sections):**
    ```bash
-   python create_embeddings.py
+   python apis/search/embeddings/create_legal_embeddings.py
    ```
    
    **Property Assessor Data (46,230 properties):**
    ```bash
-   python create_assessor_embeddings.py
+   python apis/search/embeddings/create_assessor_embeddings.py
    ```
    
    **Note**: Both processes use optimized models and take 2-6 minutes each.
@@ -116,8 +116,8 @@ landuse/
 │   ├── la_plata_code/             # Land Use Code source data
 │   └── LPC-Assessor-Data-Files/   # Property Assessor source data (MDB)
 ├── chroma_db/                      # Multi-collection vector database
-├── create_embeddings.py           # Land Use Code embeddings (1024D)
-├── create_assessor_embeddings.py  # Property Assessor embeddings (768D)
+├── apis/search/embeddings/create_legal_embeddings.py     # Land Use Code embeddings (1024D)
+├── apis/search/embeddings/create_assessor_embeddings.py # Property Assessor embeddings (768D)
 ├── components/                     # Next.js UI components
 │   ├── search-form.tsx            # Collection-aware search form
 │   └── search-results.tsx         # Unified results display
@@ -250,14 +250,14 @@ Open in your browser:
 
 3. **Update model in scripts** (if changing models)
    ```bash
-   # Edit create_embeddings.py and search_api.py
+   # Edit apis/search/embeddings/create_legal_embeddings.py and apis/search/search_api.py
    # Change: SentenceTransformer('intfloat/e5-large-v2')
    # To your preferred model from the table above
    ```
 
 4. **Generate new embeddings**
    ```bash
-   python create_embeddings.py
+   python apis/search/embeddings/create_legal_embeddings.py
    ```
 
 5. **Restart API server**

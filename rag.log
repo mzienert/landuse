@@ -49,3 +49,8 @@ Auto-loading default model: mlx-community/Qwen3-4B-Thinking-2507-8bit
  * Debugger PIN: 114-241-345
 127.0.0.1 - - [09/Aug/2025 16:08:22] "POST /rag/answer HTTP/1.1" 200 -
 127.0.0.1 - - [09/Aug/2025 16:11:21] "POST /rag/answer HTTP/1.1" 200 -
+127.0.0.1 - - [10/Aug/2025 21:10:44] "GET /rag/health HTTP/1.1" 200 -
+127.0.0.1 - - [10/Aug/2025 21:12:06] "GET /rag/health HTTP/1.1" 200 -
+127.0.0.1 - - [10/Aug/2025 21:12:06] "GET /rag/health HTTP/1.1" 200 -
+127.0.0.1 - - [10/Aug/2025 21:19:35] "GET /rag/health HTTP/1.1" 200 -
+127.0.0.1 - - [10/Aug/2025 21:19:35] "GET /rag/health HTTP/1.1" 200 -

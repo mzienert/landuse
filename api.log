@@ -13,7 +13,7 @@ INFO:__main__:Starting Flask server...
 INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
  * Running on all addresses (0.0.0.0)
  * Running on http://127.0.0.1:8000
- * Running on http://10.2.32.179:8000
+ * Running on http://192.168.1.17:8000
 INFO:werkzeug:[33mPress CTRL+C to quit[0m
 INFO:werkzeug: * Restarting with stat
 INFO:__main__:Connecting to ChromaDB...
@@ -28,45 +28,13 @@ INFO:__main__:Successfully initialized 2 collections
 INFO:__main__:Starting Flask server...
 WARNING:werkzeug: * Debugger is active!
 INFO:werkzeug: * Debugger PIN: 114-241-345
+INFO:werkzeug:127.0.0.1 - - [10/Aug/2025 21:11:59] "GET /health HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Aug/2025 21:12:06] "GET /health HTTP/1.1" 200 -
 Batches:   0%|          | 0/1 [00:00<?, ?it/s]/Users/matthewzienert/Documents/landuse/env/lib/python3.13/site-packages/torch/nn/modules/module.py:1762: FutureWarning: `encoder_attention_mask` is deprecated and will be removed in version 4.55.0 for `BertSdpaSelfAttention.forward`.
   return forward_call(*args, **kwargs)
-Batches: 100%|██████████| 1/1 [00:00<00:00,  3.46it/s]Batches: 100%|██████████| 1/1 [00:00<00:00,  3.45it/s]
-INFO:werkzeug:127.0.0.1 - - [09/Aug/2025 15:40:28] "GET /search/simple?query=What+are+the+requirements+for+a+minor+subdivision+in+La+Plata+County?&collection=la_plata_county_code&num_results=5 HTTP/1.1" 200 -
-Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 30.76it/s]
-INFO:werkzeug:127.0.0.1 - - [09/Aug/2025 15:40:28] "GET /search/simple?query=section+66-21&collection=la_plata_county_code&num_results=4 HTTP/1.1" 200 -
-Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 76.42it/s]
-INFO:werkzeug:127.0.0.1 - - [09/Aug/2025 15:40:28] "GET /search/simple?query=section+66-7&collection=la_plata_county_code&num_results=4 HTTP/1.1" 200 -
-Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 31.83it/s]
-INFO:werkzeug:127.0.0.1 - - [09/Aug/2025 15:40:28] "GET /search/simple?query=section+65&collection=la_plata_county_code&num_results=4 HTTP/1.1" 200 -
-Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 15.61it/s]
-INFO:werkzeug:127.0.0.1 - - [09/Aug/2025 15:49:29] "GET /search/simple?query=minor+subdivision+requirements&collection=la_plata_county_code&num_results=5 HTTP/1.1" 200 -
-Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 79.22it/s]
-INFO:werkzeug:127.0.0.1 - - [09/Aug/2025 15:49:29] "GET /search/simple?query=section+65&collection=la_plata_county_code&num_results=4 HTTP/1.1" 200 -
-Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 81.90it/s]
-INFO:werkzeug:127.0.0.1 - - [09/Aug/2025 15:49:29] "GET /search/simple?query=section+67&collection=la_plata_county_code&num_results=4 HTTP/1.1" 200 -
-Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 66.12it/s]
-INFO:werkzeug:127.0.0.1 - - [09/Aug/2025 15:49:29] "GET /search/simple?query=section+73-2&collection=la_plata_county_code&num_results=4 HTTP/1.1" 200 -
-Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 16.39it/s]
-INFO:werkzeug:127.0.0.1 - - [09/Aug/2025 15:52:37] "GET /search/simple?query=can+I+have+geese+on+my+land?&collection=la_plata_county_code&num_results=5 HTTP/1.1" 200 -
-Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 69.35it/s]
-INFO:werkzeug:127.0.0.1 - - [09/Aug/2025 15:52:37] "GET /search/simple?query=section+70-3&collection=la_plata_county_code&num_results=4 HTTP/1.1" 200 -
-Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 73.59it/s]
-INFO:werkzeug:127.0.0.1 - - [09/Aug/2025 15:52:37] "GET /search/simple?query=section+66-21&collection=la_plata_county_code&num_results=4 HTTP/1.1" 200 -
-Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 92.42it/s]
-INFO:werkzeug:127.0.0.1 - - [09/Aug/2025 15:52:37] "GET /search/simple?query=section+78&collection=la_plata_county_code&num_results=4 HTTP/1.1" 200 -
-Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00,  4.78it/s]Batches: 100%|██████████| 1/1 [00:00<00:00,  4.77it/s]
-INFO:werkzeug:127.0.0.1 - - [09/Aug/2025 16:07:59] "GET /search/simple?query=a+minor+subdivision+requirements&collection=la_plata_county_code&num_results=5 HTTP/1.1" 200 -
-Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 61.09it/s]
-INFO:werkzeug:127.0.0.1 - - [09/Aug/2025 16:07:59] "GET /search/simple?query=section+67&collection=la_plata_county_code&num_results=4 HTTP/1.1" 200 -
-Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 54.01it/s]
-INFO:werkzeug:127.0.0.1 - - [09/Aug/2025 16:07:59] "GET /search/simple?query=section+66-13&collection=la_plata_county_code&num_results=4 HTTP/1.1" 200 -
-Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 74.23it/s]
-INFO:werkzeug:127.0.0.1 - - [09/Aug/2025 16:07:59] "GET /search/simple?query=section+67-3&collection=la_plata_county_code&num_results=4 HTTP/1.1" 200 -
-Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 13.94it/s]
-INFO:werkzeug:127.0.0.1 - - [09/Aug/2025 16:10:49] "GET /search/simple?query=building+a+deck+without+a+permit+regulations&collection=la_plata_county_code&num_results=5 HTTP/1.1" 200 -
-Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 63.26it/s]
-INFO:werkzeug:127.0.0.1 - - [09/Aug/2025 16:10:49] "GET /search/simple?query=section+70-4&collection=la_plata_county_code&num_results=4 HTTP/1.1" 200 -
-Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 85.07it/s]
-INFO:werkzeug:127.0.0.1 - - [09/Aug/2025 16:10:49] "GET /search/simple?query=section+90&collection=la_plata_county_code&num_results=4 HTTP/1.1" 200 -
-Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 81.82it/s]
-INFO:werkzeug:127.0.0.1 - - [09/Aug/2025 16:10:49] "GET /search/simple?query=section+67&collection=la_plata_county_code&num_results=4 HTTP/1.1" 200 -
+Batches: 100%|██████████| 1/1 [00:00<00:00,  3.13it/s]Batches: 100%|██████████| 1/1 [00:00<00:00,  3.13it/s]
+INFO:werkzeug:127.0.0.1 - - [10/Aug/2025 21:12:06] "GET /search/simple?query=building&num_results=1 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Aug/2025 21:19:28] "GET /health HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Aug/2025 21:19:35] "GET /health HTTP/1.1" 200 -
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 23.11it/s]
+INFO:werkzeug:127.0.0.1 - - [10/Aug/2025 21:19:35] "GET /search/simple?query=building&num_results=1 HTTP/1.1" 200 -

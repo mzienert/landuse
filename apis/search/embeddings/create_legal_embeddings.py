@@ -86,7 +86,7 @@ def create_embeddings(chunks, model, micro_batch_size=1):
     print(f"Generated {len(all_embeddings)} embeddings")
     return all_embeddings
 
-def setup_chroma_db(db_path="./chroma_db"):
+def setup_chroma_db(db_path="../../../chroma_db"):
     """Initialize ChromaDB for vector storage"""
     print(f"Setting up ChromaDB at {db_path}...")
     
@@ -134,7 +134,7 @@ def store_embeddings(collection, chunks, embeddings):
 
 def main():
     # Configuration for ultra-aggressive memory management
-    JSON_FILE = "./la_plata_code/full_code.json"
+    JSON_FILE = "../../../la_plata_code/full_code.json"
     MICRO_BATCH_SIZE = 1  # Single item processing for 1536D embeddings
     
     print("🚀 Starting embedding generation with ULTRA-aggressive memory management")
@@ -160,7 +160,7 @@ def main():
     print("✅ Vector embeddings created successfully!")
     print(f"📊 Total sections processed: {len(chunks)}")
     print(f"🔢 Vector dimensions: 1024D (e5-large-v2)")
-    print(f"🗂️  Database location: ./chroma_db")
+    print(f"🗂️  Database location: ../../../chroma_db")
     print(f"🔍 Ready for semantic search queries")
 
 if __name__ == "__main__":
