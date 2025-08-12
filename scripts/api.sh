@@ -53,7 +53,7 @@ start_api() {
     source env/bin/activate
     
     # Start server in background
-    nohup python apis/search/search_api.py > "$LOG_FILE" 2>&1 &
+    nohup python -m apis.search.search_api > "$LOG_FILE" 2>&1 &
     local pid=$!
     
     # Save PID
