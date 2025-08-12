@@ -2,7 +2,7 @@ from flask import Flask
 from flask_cors import CORS
 import logging
 from .search_engine import SearchEngine
-from .routes import register_routes
+from .routes import register_blueprints
 
 # Setup logging
 logging.basicConfig(level=logging.INFO)
@@ -15,8 +15,11 @@ CORS(app)  # Enable CORS for all routes
 # Initialize search engine
 search_engine = SearchEngine()
 
-# Register routes
-register_routes(app, search_engine)
+# Store search engine in app config for blueprints to access
+app.config['SEARCH_ENGINE'] = search_engine
+
+# Register blueprints
+register_blueprints(app)
 
 if __name__ == '__main__':
     # Initialize search system
