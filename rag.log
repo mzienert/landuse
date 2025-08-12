@@ -1,56 +1,20 @@
 Auto-loading default model: mlx-community/Qwen3-4B-Thinking-2507-8bit
-Fetching 11 files:   0%|          | 0/11 [00:00<?, ?it/s]Fetching 11 files: 100%|██████████| 11/11 [00:00<00:00, 254902.45it/s]
+Fetching 11 files:   0%|          | 0/11 [00:00<?, ?it/s]Fetching 11 files: 100%|██████████| 11/11 [00:00<00:00, 334328.58it/s]
 ✅ Default model loaded successfully
  * Serving Flask app 'rag_api'
  * Debug mode: on
 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
  * Running on all addresses (0.0.0.0)
  * Running on http://127.0.0.1:8001
- * Running on http://10.2.32.179:8001
+ * Running on http://192.168.1.17:8001
 [33mPress CTRL+C to quit[0m
- * Restarting with stat
-Auto-loading default model: mlx-community/Qwen3-4B-Thinking-2507-8bit
-Fetching 11 files:   0%|          | 0/11 [00:00<?, ?it/s]Fetching 11 files: 100%|██████████| 11/11 [00:00<00:00, 249391.05it/s]
- * Debugger is active!
- * Debugger PIN: 114-241-345
-127.0.0.1 - - [09/Aug/2025 15:39:46] "GET /rag/health HTTP/1.1" 200 -
-✅ Default model loaded successfully
-Fetching 11 files:   0%|          | 0/11 [00:00<?, ?it/s]Fetching 11 files: 100%|██████████| 11/11 [00:00<00:00, 142840.07it/s]
-127.0.0.1 - - [09/Aug/2025 15:39:48] "POST /rag/model/load HTTP/1.1" 200 -
-127.0.0.1 - - [09/Aug/2025 15:40:56] "POST /rag/answer HTTP/1.1" 200 -
-127.0.0.1 - - [09/Aug/2025 15:49:53] "POST /rag/answer HTTP/1.1" 200 -
-127.0.0.1 - - [09/Aug/2025 15:53:04] "POST /rag/answer HTTP/1.1" 200 -
- * Detected change in '/Users/matthewzienert/Documents/landuse/apis/rag/rag_api.py', reloading
- * Restarting with stat
-Auto-loading default model: mlx-community/Qwen3-4B-Thinking-2507-8bit
-Fetching 11 files:   0%|          | 0/11 [00:00<?, ?it/s]Fetching 11 files: 100%|██████████| 11/11 [00:00<00:00, 219701.64it/s]
- * Debugger is active!
- * Debugger PIN: 114-241-345
- * Detected change in '/Users/matthewzienert/Documents/landuse/apis/rag/rag_api.py', reloading
-✅ Default model loaded successfully
  * Restarting with stat
 Auto-loading default model: mlx-community/Qwen3-4B-Thinking-2507-8bit
 Fetching 11 files:   0%|          | 0/11 [00:00<?, ?it/s]Fetching 11 files: 100%|██████████| 11/11 [00:00<00:00, 262144.00it/s]
  * Debugger is active!
  * Debugger PIN: 114-241-345
- * Detected change in '/Users/matthewzienert/Documents/landuse/apis/rag/rag_api.py', reloading
+127.0.0.1 - - [11/Aug/2025 21:30:57] "GET /rag/health HTTP/1.1" 200 -
 ✅ Default model loaded successfully
- * Restarting with stat
-Auto-loading default model: mlx-community/Qwen3-4B-Thinking-2507-8bit
-Fetching 11 files:   0%|          | 0/11 [00:00<?, ?it/s]Fetching 11 files: 100%|██████████| 11/11 [00:00<00:00, 193854.39it/s]
- * Debugger is active!
- * Debugger PIN: 114-241-345
- * Detected change in '/Users/matthewzienert/Documents/landuse/apis/rag/rag_api.py', reloading
-✅ Default model loaded successfully
- * Restarting with stat
-Auto-loading default model: mlx-community/Qwen3-4B-Thinking-2507-8bit
-Fetching 11 files:   0%|          | 0/11 [00:00<?, ?it/s]Fetching 11 files: 100%|██████████| 11/11 [00:00<00:00, 77541.75it/s]
- * Debugger is active!
- * Debugger PIN: 114-241-345
-127.0.0.1 - - [09/Aug/2025 16:08:22] "POST /rag/answer HTTP/1.1" 200 -
-127.0.0.1 - - [09/Aug/2025 16:11:21] "POST /rag/answer HTTP/1.1" 200 -
-127.0.0.1 - - [10/Aug/2025 21:10:44] "GET /rag/health HTTP/1.1" 200 -
-127.0.0.1 - - [10/Aug/2025 21:12:06] "GET /rag/health HTTP/1.1" 200 -
-127.0.0.1 - - [10/Aug/2025 21:12:06] "GET /rag/health HTTP/1.1" 200 -
-127.0.0.1 - - [10/Aug/2025 21:19:35] "GET /rag/health HTTP/1.1" 200 -
-127.0.0.1 - - [10/Aug/2025 21:19:35] "GET /rag/health HTTP/1.1" 200 -
+Fetching 11 files:   0%|          | 0/11 [00:00<?, ?it/s]Fetching 11 files: 100%|██████████| 11/11 [00:00<00:00, 366169.40it/s]
+127.0.0.1 - - [11/Aug/2025 21:30:59] "POST /rag/model/load HTTP/1.1" 200 -
+127.0.0.1 - - [11/Aug/2025 21:31:52] "POST /rag/answer HTTP/1.1" 200 -
