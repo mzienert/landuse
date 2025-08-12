@@ -18,3 +18,9 @@ Auto-loading default model: mlx-community/Qwen3-4B-Thinking-2507-8bit
 Fetching 11 files:   0%|          | 0/11 [00:00<?, ?it/s]Fetching 11 files: 100%|██████████| 11/11 [00:00<00:00, 366169.40it/s]
 127.0.0.1 - - [11/Aug/2025 21:30:59] "POST /rag/model/load HTTP/1.1" 200 -
 127.0.0.1 - - [11/Aug/2025 21:31:52] "POST /rag/answer HTTP/1.1" 200 -
+ * Detected change in '/Users/matthewzienert/Documents/landuse/apis/rag/rag_api.py', reloading
+ * Restarting with stat
+Traceback (most recent call last):
+  File "/Users/matthewzienert/Documents/landuse/apis/rag/rag_api.py", line 13, in <module>
+    from .rag_engine import RAGEngine
+ImportError: attempted relative import with no known parent package
