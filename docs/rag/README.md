@@ -12,8 +12,13 @@ This directory contains comprehensive documentation for the La Plata County RAG 
 - **[TROUBLESHOOTING.md](./TROUBLESHOOTING.md)** - Problem diagnosis and resolution
 - **[ENHANCEMENTS.md](./ENHANCEMENTS.md)** - Feature roadmap and development plans
 
-### Main Documentation Entry Point
-- **[../../RAG.md](../../RAG.md)** - Central navigation hub with overview and quick reference
+### Documentation Overview
+This directory contains all RAG system documentation. The system uses Flask's application factory pattern for better testability and configuration management.
+
+### Recent Updates
+- **Application Factory Pattern**: Environment-based configuration (development/testing/production)
+- **Enhanced Testing**: Isolated test instances with configurable model loading
+- **Environment Variables**: Full configuration via environment variables
 
 ## 🎯 Documentation Usage
 

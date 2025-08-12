@@ -167,6 +167,98 @@ curl -X POST http://localhost:8001/rag/answer \
 | `sources` | array | Source documents with full text |
 | `verification` | object | Answer support analysis |
 
+## Testing and Development
+
+### Application Factory Pattern
+
+The RAG API uses Flask's application factory pattern for better testability and configuration management:
+
+```python
+from apis.rag.app_factory import create_app
+
+# Create test instance
+test_app = create_app('testing')
+
+# Test with Flask test client
+with test_app.test_client() as client:
+    response = client.post('/rag/answer', 
+                          json={'query': 'test question'})
+    assert response.status_code == 200
+
+# Create development instance
+dev_app = create_app('development')
+
+# Create production instance
+prod_app = create_app('production')
+```
+
+### Testing Configuration
+
+Testing mode provides isolated configuration without model auto-loading:
+
+```python
+# Testing mode - no models auto-load
+test_app = create_app('testing')
+assert test_app.config['TESTING'] == True
+assert test_app.config['DEBUG'] == True
+
+# Models need to be loaded manually in tests
+with test_app.app_context():
+    rag_engine = test_app.config['RAG_ENGINE']
+    # Optionally load model for testing
+    if rag_engine.model_mgr:
+        rag_engine.model_mgr.load('test-model-id')
+```
+
+### Integration Testing Examples
+
+```python
+import unittest
+from apis.rag.app_factory import create_app
+
+class TestRAGAPI(unittest.TestCase):
+    def setUp(self):
+        self.app = create_app('testing')
+        self.client = self.app.test_client()
+        self.app_context = self.app.app_context()
+        self.app_context.push()
+
+    def tearDown(self):
+        self.app_context.pop()
+
+    def test_health_endpoint(self):
+        response = self.client.get('/rag/health')
+        self.assertEqual(response.status_code, 200)
+        data = response.get_json()
+        self.assertIn('status', data)
+
+    def test_answer_endpoint_without_model(self):
+        response = self.client.post('/rag/answer', 
+                                   json={'query': 'test'})
+        self.assertEqual(response.status_code, 200)
+        data = response.get_json()
+        self.assertIn('answer', data)
+        # Should return stub response when no model loaded
+        self.assertIn('stub', data['answer'])
+```
+
+### Environment-based Testing
+
+```bash
+# Run tests in testing mode
+export FLASK_ENV=testing
+python -m unittest discover tests/
+
+# Test with custom configuration
+export DEFAULT_MODEL_ID=test-model
+export MAX_TOKENS=500
+python test_rag_api.py
+
+# Integration test with real models (development mode)
+export FLASK_ENV=development
+python test_full_integration.py
+```
+
 ## Streaming Answers
 
 ### Basic Streaming Query

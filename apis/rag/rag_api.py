@@ -8,29 +8,19 @@ RAG API with Flask Blueprints
 Keep separate from search_api.py for separation of concerns.
 """
 
-from flask import Flask
-from flask_cors import CORS
-from .rag_engine import RAGEngine
-from .routes import register_blueprints
+import os
+from .app_factory import create_app
 
-app = Flask(__name__)
-CORS(app)
-
-# Initialize RAG engine
-rag_engine = RAGEngine()
-
-# Store RAG engine in app config for blueprints to access
-app.config['RAG_ENGINE'] = rag_engine
-
-# Register blueprints
-register_blueprints(app)
-
+# Create app using factory pattern
+app = create_app()
 
 if __name__ == "__main__":
-    # Initialize RAG engine
-    rag_engine.initialize()
-    # Auto-load default model on startup
-    rag_engine.auto_load_default_model()
-    app.run(host="0.0.0.0", port=8001, debug=True)
+    # Get configuration values
+    config_name = os.environ.get('FLASK_ENV', 'development')
+    host = app.config.get('HOST', '0.0.0.0')
+    port = app.config.get('PORT', 8001)
+    debug = app.config.get('DEBUG', True)
+    
+    app.run(host=host, port=port, debug=debug)
 
 

@@ -54,21 +54,71 @@ Expected response:
 }
 ```
 
-### 4. Start RAG API
+### 4. Configuration Management
+
+The RAG API uses environment-based configuration with three modes:
+
+#### Environment Variables
+
+```bash
+# Core settings (with defaults)
+export FLASK_ENV=development           # development|testing|production
+export DEFAULT_MODEL_ID=mlx-community/Qwen3-4B-Thinking-2507-8bit
+export SECRET_KEY=your-secret-key      # Required for production
+export PORT=8001                       # API port
+export HOST=0.0.0.0                   # Bind address
+
+# API defaults
+export MAX_TOKENS=1200                 # Default response length
+export DEFAULT_TEMPERATURE=0.2         # Default generation temperature
+export DEFAULT_NUM_RESULTS=5          # Default retrieval count
+export DEFAULT_COLLECTION=la_plata_county_code
+```
+
+#### Configuration Modes
+
+**Development Mode (default)**:
+```bash
+export FLASK_ENV=development
+# Debug enabled, models auto-load on startup
+```
+
+**Testing Mode**:
+```bash
+export FLASK_ENV=testing
+# No model auto-loading, isolated configuration
+```
+
+**Production Mode**:
+```bash
+export FLASK_ENV=production
+export SECRET_KEY=your-production-secret
+# File logging enabled, debug disabled
+```
+
+### 5. Start RAG API
 
 Launch the RAG service:
 
 ```bash
-# Start RAG API (port 8001)
+# Start with default (development) configuration
 ./scripts/run_rag.sh start
+
+# Or with specific environment
+export FLASK_ENV=production
+./scripts/run_rag.sh start
+
+# Or direct Python execution
+python -m apis.rag.rag_api
 ```
 
 The service will:
-- Auto-load the default Qwen thinking model
+- Auto-load the default Qwen thinking model (except in testing mode)
 - Establish connection to search API
 - Configure endpoints and health checks
+- Apply environment-specific settings (logging, debug mode, etc.)
 
-### 5. Verify Installation
+### 6. Verify Installation
 
 Check that both APIs are operational:
 
