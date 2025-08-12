@@ -1,5 +1,5 @@
 Auto-loading default model: mlx-community/Qwen3-4B-Thinking-2507-8bit
-Fetching 11 files:   0%|          | 0/11 [00:00<?, ?it/s]Fetching 11 files: 100%|██████████| 11/11 [00:00<00:00, 206893.92it/s]
+Fetching 11 files:   0%|          | 0/11 [00:00<?, ?it/s]Fetching 11 files: 100%|██████████| 11/11 [00:00<00:00, 138967.90it/s]
 ✅ Default model loaded successfully
  * Serving Flask app 'apis.rag.app_factory'
  * Debug mode: on
@@ -10,9 +10,11 @@ Auto-loading default model: mlx-community/Qwen3-4B-Thinking-2507-8bit
 [33mPress CTRL+C to quit[0m
  * Restarting with stat
 Auto-loading default model: mlx-community/Qwen3-4B-Thinking-2507-8bit
-Fetching 11 files:   0%|          | 0/11 [00:00<?, ?it/s]Fetching 11 files: 100%|██████████| 11/11 [00:00<00:00, 156929.74it/s]
+Fetching 11 files:   0%|          | 0/11 [00:00<?, ?it/s]Fetching 11 files: 100%|██████████| 11/11 [00:00<00:00, 164189.84it/s]
  * Debugger is active!
  * Debugger PIN: 114-241-345
-127.0.0.1 - - [11/Aug/2025 22:55:53] "GET /rag/health HTTP/1.1" 200 -
-/opt/homebrew/Cellar/python@3.13/3.13.1/Frameworks/Python.framework/Versions/3.13/lib/python3.13/multiprocessing/resource_tracker.py:276: UserWarning: resource_tracker: There appear to be 2 leaked semaphore objects to clean up at shutdown: {'/loky-34188-brgqy8qg', '/loky-34188-zeumkclr'}
-  warnings.warn(
+127.0.0.1 - - [11/Aug/2025 23:00:12] "GET /rag/health HTTP/1.1" 200 -
+✅ Default model loaded successfully
+Fetching 11 files:   0%|          | 0/11 [00:00<?, ?it/s]Fetching 11 files: 100%|██████████| 11/11 [00:00<00:00, 268240.37it/s]
+127.0.0.1 - - [11/Aug/2025 23:00:13] "POST /rag/model/load HTTP/1.1" 200 -
+127.0.0.1 - - [11/Aug/2025 23:00:58] "POST /rag/answer HTTP/1.1" 200 -

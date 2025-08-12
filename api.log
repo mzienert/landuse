@@ -7,5 +7,28 @@ INFO:__main__:Search system initialized successfully
 INFO:__main__:Starting Flask server in development mode...
  * Serving Flask app 'apis.search.app_factory'
  * Debug mode: on
-Address already in use
-Port 8000 is in use by another program. Either identify and stop that program, or start the server with a different port.
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.1.17:8000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+Could not initialize collection 'la_plata_assessor': Collection [la_plata_assessor] does not exists
+INFO:apis.search.search_engine:Connecting to ChromaDB...
+INFO:apis.search.search_engine:Connected to collection 'la_plata_county_code': 1298 documents
+WARNING:apis.search.search_engine:Could not initialize collection 'la_plata_assessor': Collection [la_plata_assessor] does not exists
+INFO:apis.search.search_engine:Successfully initialized 1 collections
+INFO:__main__:Search system initialized successfully
+INFO:__main__:Starting Flask server in development mode...
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 114-241-345
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]/Users/matthewzienert/Documents/landuse/env/lib/python3.13/site-packages/torch/nn/modules/module.py:1762: FutureWarning: `encoder_attention_mask` is deprecated and will be removed in version 4.55.0 for `BertSdpaSelfAttention.forward`.
+  return forward_call(*args, **kwargs)
+Batches: 100%|██████████| 1/1 [00:00<00:00,  2.68it/s]Batches: 100%|██████████| 1/1 [00:00<00:00,  2.67it/s]
+INFO:werkzeug:127.0.0.1 - - [11/Aug/2025 23:00:24] "GET /search/simple?query=what+are+subdivision+requirements?&collection=la_plata_county_code&num_results=5 HTTP/1.1" 200 -
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 24.67it/s]
+INFO:werkzeug:127.0.0.1 - - [11/Aug/2025 23:00:24] "GET /search/simple?query=section+66-11&collection=la_plata_county_code&num_results=4 HTTP/1.1" 200 -
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 67.67it/s]
+INFO:werkzeug:127.0.0.1 - - [11/Aug/2025 23:00:24] "GET /search/simple?query=section+66-13&collection=la_plata_county_code&num_results=4 HTTP/1.1" 200 -
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 80.34it/s]
+INFO:werkzeug:127.0.0.1 - - [11/Aug/2025 23:00:24] "GET /search/simple?query=section+67-6&collection=la_plata_county_code&num_results=4 HTTP/1.1" 200 -
