@@ -405,6 +405,120 @@ for result in results:
     print(f"Content: {result['text'][:200]}...\n")
 ```
 
+## Testing and Development
+
+### Application Factory Pattern
+
+The Search API uses Flask's application factory pattern for better testability and configuration management:
+
+```python
+from apis.search.app_factory import create_app
+
+# Create test instance (in-memory database)
+test_app = create_app('testing')
+
+# Test with Flask test client
+with test_app.test_client() as client:
+    response = client.get('/health')
+    assert response.status_code == 200
+
+# Create development instance
+dev_app = create_app('development')
+
+# Create production instance
+prod_app = create_app('production')
+```
+
+### Testing Configuration
+
+Testing mode provides isolated configuration with in-memory ChromaDB:
+
+```python
+# Testing mode - uses in-memory database
+test_app = create_app('testing')
+assert test_app.config['TESTING'] == True
+assert test_app.config['CHROMA_DB_PATH'] == ':memory:'
+
+# Search engine initializes but doesn't auto-load collections
+search_engine = test_app.config['SEARCH_ENGINE']
+```
+
+### Integration Testing Examples
+
+```python
+import unittest
+from apis.search.app_factory import create_app
+
+class TestSearchAPI(unittest.TestCase):
+    def setUp(self):
+        self.app = create_app('testing')
+        self.client = self.app.test_client()
+        self.app_context = self.app.app_context()
+        self.app_context.push()
+
+    def tearDown(self):
+        self.app_context.pop()
+
+    def test_health_endpoint(self):
+        response = self.client.get('/health')
+        self.assertEqual(response.status_code, 200)
+        data = response.get_json()
+        self.assertIn('status', data)
+
+    def test_collections_endpoint(self):
+        response = self.client.get('/collections')
+        self.assertEqual(response.status_code, 200)
+        data = response.get_json()
+        self.assertIn('collections', data)
+
+    def test_simple_search_no_collections(self):
+        # In testing mode, collections aren't auto-loaded
+        response = self.client.get('/search/simple?query=test')
+        # Should handle gracefully when no collections available
+        self.assertIn(response.status_code, [200, 503])
+```
+
+### Environment-based Testing
+
+```bash
+# Run tests in testing mode (in-memory ChromaDB)
+export FLASK_ENV=testing
+python -m unittest discover tests/
+
+# Test with custom configuration
+export CHROMA_DB_PATH=/tmp/test_chroma
+export DEFAULT_SEARCH_LIMIT=3
+python test_search_api.py
+
+# Integration test with real collections (development mode)
+export FLASK_ENV=development
+python test_full_integration.py
+```
+
+### Mock Testing for ChromaDB
+
+```python
+import unittest.mock
+from apis.search.app_factory import create_app
+
+class TestSearchAPIMocked(unittest.TestCase):
+    @unittest.mock.patch('apis.search.search_engine.chromadb.Client')
+    def test_search_with_mock_db(self, mock_client):
+        # Mock ChromaDB responses
+        mock_collection = unittest.mock.Mock()
+        mock_collection.query.return_value = {
+            'documents': [['test document']],
+            'distances': [[0.5]],
+            'ids': [['test_id']]
+        }
+        mock_client.return_value.get_collection.return_value = mock_collection
+        
+        app = create_app('testing')
+        with app.test_client() as client:
+            response = client.get('/search/simple?query=test')
+            # Should work with mocked data
+```
+
 ## Error Handling
 
 ### Common Error Responses

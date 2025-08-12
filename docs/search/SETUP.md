@@ -82,9 +82,50 @@ python apis/search/embeddings/create_assessor_embeddings.py
 
 ## Service Configuration
 
+### Application Factory Pattern
+
+The Search API uses environment-based configuration with three modes:
+
+#### Environment Variables
+
+```bash
+# Core settings (with defaults)
+export FLASK_ENV=development           # development|testing|production
+export SECRET_KEY=your-secret-key      # Required for production
+export PORT=8000                       # API port
+export HOST=0.0.0.0                   # Bind address
+
+# Search Engine settings
+export EMBEDDING_MODEL=intfloat/e5-large-v2  # Embedding model
+export CHROMA_DB_PATH=./chroma_db      # Vector database path
+export DEFAULT_SEARCH_LIMIT=10         # Default result limit
+export MAX_SEARCH_LIMIT=50            # Maximum result limit
+```
+
+#### Configuration Modes
+
+**Development Mode (default)**:
+```bash
+export FLASK_ENV=development
+# Debug enabled, uses file-based ChromaDB
+```
+
+**Testing Mode**:
+```bash
+export FLASK_ENV=testing
+# In-memory ChromaDB, isolated configuration
+```
+
+**Production Mode**:
+```bash
+export FLASK_ENV=production
+export SECRET_KEY=your-production-secret
+# File logging enabled, debug disabled
+```
+
 ### Default Configuration
 
-The search API is pre-configured with these settings:
+The search API is pre-configured with these collections:
 
 ```python
 AVAILABLE_COLLECTIONS = {
@@ -123,7 +164,11 @@ export MAX_RESULTS_LIMIT="50"
 ### Using Management Script (Recommended)
 
 ```bash
-# Start search API (port 8000)
+# Start with default (development) configuration
+./scripts/api.sh start
+
+# Or with specific environment
+export FLASK_ENV=production
 ./scripts/api.sh start
 ```
 
@@ -143,15 +188,25 @@ Starting La Plata County Search API...
 # Run directly from project root
 cd /Users/matthewzienert/Documents/landuse
 python apis/search/search_api.py
+
+# Or with specific environment
+export FLASK_ENV=testing
+python -m apis.search.search_api
+
+# Or production mode
+export FLASK_ENV=production
+export SECRET_KEY=your-secret
+python apis/search/search_api.py
 ```
 
 **Expected Output**:
 ```
+INFO:__main__:Starting Flask server in development mode...
 INFO:__main__:Connecting to ChromaDB...
 INFO:__main__:Loading model: intfloat/e5-large-v2
 INFO:__main__:Model loaded: intfloat/e5-large-v2 (1024 dimensions)
 INFO:__main__:Connected to collection 'la_plata_county_code': 1298 documents
-INFO:__main__:Successfully initialized 1 collections
+INFO:__main__:Search system initialized successfully
 INFO:__main__:Starting Flask server...
  * Running on http://127.0.0.1:8000
 ```

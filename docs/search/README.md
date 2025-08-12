@@ -16,6 +16,12 @@ The Search API provides semantic search across:
 - **Legal Code Collection**: 1,298+ La Plata County municipal code sections
 - **Property Assessment Collection**: 46,230+ property records with ownership data
 
+### Recent Updates
+- **Application Factory Pattern**: Environment-based configuration (development/testing/production)
+- **Enhanced Testing**: In-memory ChromaDB for isolated test instances
+- **Environment Variables**: Full configuration via environment variables
+- **Production Logging**: Automatic file logging in production mode
+
 ## 🎯 Documentation Usage
 
 ### By Role
@@ -219,8 +225,31 @@ results = client.search("building permits", num_results=5)
 
 ### Development Status
 - **Current Version**: 2.0 (Production Ready)
+- **Recent Updates**: Application factory pattern implementation for better testability
 - **Stability**: High reliability with automated error recovery
 - **Performance**: Optimized for local deployment
 - **Scalability**: Cloud migration strategies documented
+
+### Application Factory Pattern Benefits
+The Search API now uses Flask's application factory pattern, providing:
+- **Environment-based Configuration**: Separate settings for development, testing, and production
+- **Enhanced Testability**: Easy creation of test instances with in-memory ChromaDB
+- **Better Deployment**: Environment variable driven configuration for production
+- **Maintainable Growth**: Structured foundation for adding middleware, logging, and security features
+
+**Factory Usage Examples**:
+```python
+# Development instance (file-based ChromaDB)
+dev_app = create_app('development')
+
+# Testing instance (in-memory ChromaDB)
+test_app = create_app('testing')
+
+# Production instance (with logging)
+prod_app = create_app('production')
+
+# Environment-driven (uses FLASK_ENV)
+app = create_app()  # Respects environment variables
+```
 
 This comprehensive documentation system provides everything needed to understand, deploy, use, and maintain the La Plata County Search API for semantic search across legal and property data.

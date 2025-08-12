@@ -61,15 +61,20 @@ The La Plata County Search API provides semantic search capabilities across muni
 
 ## Core Components
 
-### 1. Flask API Layer (`search_api.py`)
-- **Role**: HTTP interface for search operations
+### 1. Flask API Layer (`search_api.py` + `app_factory.py`)
+- **Role**: HTTP interface for search operations using application factory pattern
 - **Responsibilities**:
   - Request handling and validation
   - Parameter parsing and sanitization
   - Response formatting and error handling
   - System health monitoring
+  - Environment-based configuration management
 
 **Key Features**:
+- **Application Factory Pattern**: Environment-specific configurations (development/testing/production)
+- **Configuration Management**: Environment variables for all settings
+- **Testing Support**: In-memory ChromaDB for isolated testing
+- **Production Logging**: Automatic file logging in production mode
 - CORS support for web applications
 - Multiple endpoint formats (GET/POST, simple/full)
 - Collection-specific search with validation
