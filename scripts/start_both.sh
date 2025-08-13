@@ -93,20 +93,19 @@ start_both() {
         return 1
     fi
     
-    # Load model automatically
-    print_status $YELLOW "Loading RAG model..."
-    local model_id="mlx-community/Qwen3-4B-Thinking-2507-8bit"
+    # Load default model automatically from config
+    print_status $YELLOW "Loading default RAG model from config..."
     local model_response=$(curl -s -X POST "http://localhost:8001/rag/model/load" \
         -H 'Content-Type: application/json' \
-        -d "{\"model_id\":\"$model_id\"}" 2>/dev/null)
+        -d '{}' 2>/dev/null)
     
     if [[ $model_response == *'"loaded":true'* ]]; then
-        print_status $GREEN "✅ Model loaded successfully: $model_id"
+        print_status $GREEN "✅ Default model loaded successfully"
     else
         print_status $YELLOW "⚠️  Model load may have issues. Check with: curl http://localhost:8001/rag/health"
         echo "   Response: $model_response"
         echo "   You can manually load a model with:"
-        echo "   curl -X POST http://localhost:8001/rag/model/load -H 'Content-Type: application/json' -d '{\"model_id\":\"$model_id\"}'"
+        echo "   curl -X POST http://localhost:8001/rag/model/load -H 'Content-Type: application/json' -d '{}'"
     fi
     
     echo ""
@@ -241,7 +240,7 @@ test_both() {
             print_status $GREEN "✅ RAG model loaded and ready"
         else
             print_status $YELLOW "⚠️  RAG API responding but no model loaded"
-            echo "Load a model with: curl -X POST http://localhost:8001/rag/model/load -H 'Content-Type: application/json' -d '{\"model_id\":\"mlx-community/Qwen3-4B-Thinking-2507-8bit\"}'"
+            echo "Load a model with: curl -X POST http://localhost:8001/rag/model/load -H 'Content-Type: application/json' -d '{}'"
         fi
     else
         print_status $RED "❌ RAG API not responding"

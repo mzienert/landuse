@@ -1,5 +1,5 @@
-Auto-loading default model: mlx-community/Qwen3-4B-Thinking-2507-8bit
-Fetching 11 files:   0%|          | 0/11 [00:00<?, ?it/s]Fetching 11 files: 100%|██████████| 11/11 [00:00<00:00, 138967.90it/s]
+Auto-loading default model: mlx-community/Qwen3-4B-Instruct-2507-4bit
+Fetching 11 files:   0%|          | 0/11 [00:00<?, ?it/s]Fetching 11 files: 100%|██████████| 11/11 [00:00<00:00, 97541.95it/s]
 ✅ Default model loaded successfully
  * Serving Flask app 'apis.rag.app_factory'
  * Debug mode: on
@@ -9,12 +9,409 @@ Auto-loading default model: mlx-community/Qwen3-4B-Thinking-2507-8bit
  * Running on http://192.168.1.17:8001
 [33mPress CTRL+C to quit[0m
  * Restarting with stat
-Auto-loading default model: mlx-community/Qwen3-4B-Thinking-2507-8bit
-Fetching 11 files:   0%|          | 0/11 [00:00<?, ?it/s]Fetching 11 files: 100%|██████████| 11/11 [00:00<00:00, 164189.84it/s]
+Auto-loading default model: mlx-community/Qwen3-4B-Instruct-2507-4bit
+Fetching 11 files:   0%|          | 0/11 [00:00<?, ?it/s]Fetching 11 files: 100%|██████████| 11/11 [00:00<00:00, 281325.27it/s]
  * Debugger is active!
  * Debugger PIN: 114-241-345
-127.0.0.1 - - [11/Aug/2025 23:00:12] "GET /rag/health HTTP/1.1" 200 -
+127.0.0.1 - - [12/Aug/2025 21:32:36] "GET /rag/health HTTP/1.1" 200 -
+127.0.0.1 - - [12/Aug/2025 21:32:36] "[31m[1mPOST /rag/model/load HTTP/1.1[0m" 400 -
+127.0.0.1 - - [12/Aug/2025 21:32:55] "GET /rag/health HTTP/1.1" 200 -
+127.0.0.1 - - [12/Aug/2025 21:32:55] "[33mGET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1[0m" 404 -
 ✅ Default model loaded successfully
-Fetching 11 files:   0%|          | 0/11 [00:00<?, ?it/s]Fetching 11 files: 100%|██████████| 11/11 [00:00<00:00, 268240.37it/s]
-127.0.0.1 - - [11/Aug/2025 23:00:13] "POST /rag/model/load HTTP/1.1" 200 -
-127.0.0.1 - - [11/Aug/2025 23:00:58] "POST /rag/answer HTTP/1.1" 200 -
+================================================================================
+PROMPT BEING SENT TO MODEL:
+SYSTEM:
+You are a helpful assistant that answers questions about La Plata County code and regulations. Use the provided sources to answer the user's question accurately and concisely. Include citation markers [n] in your response to reference the sources you use. If the sources don't contain enough information to answer the question, say so.
+
+QUESTION:
+What are subdivision requirements?
+
+SOURCES:
+[1] (collection=la_plata_county_code, id=3159)
+Chapter 67 Division of Land
+Sec. 67-4 Minor subdivisions
+I.
+Applicability.
+The minor subdivision procedures shall be applicable to all land divisions into three (3) or fewer lots.
+II.
+Procedures. Figure 67-4: Summary of Minor Subdivision Procedures
+provides an overview of the application steps that apply to the review of minor subdivisions.
+III.
+Approval criteria.
+The approval criteria for minor subdivisions are the general approval criteria for land use permits outlined in section 66-16.
+IV.
+Effect of approval.
+An approved minor subdivision shall be approved as a site specific development plan according to subsection 66-13.III (vested rights). If the approved minor subdivision plat is not recorded with the county clerk and recorder within three (3) years of the date of approval of the minor subdivision plat, the minor subdivision plat shall be of no further force and effect.
+(
+Res. No.
+2020-30
+, § 67-4, 09/15/2020
+)
+Effective on: 10/1/2020
+
+[2] (collection=la_plata_county_code, id=3165)
+Chapter 67 Division of Land
+Sec. 67-6 Agricultural exemption subdivision
+I.
+Applicability.
+The agricultural exemption subdivision procedures shall be applicable to land divisions where the following conditions exist:
+A.
+The applicant is not seeking any variances or waivers to any required standards contained in this code.
+B.
+The lot was created prior to May 5, 1972, or the lot is seventy (70) acres or larger in size.
+C.
+The lot has been taxed agriculturally for the five (5) years preceding agricultural exemption subdivision review.
+D.
+The proposed land division results in the creation of no more than a total of two (2) new lots out of the original lot, not counting the remainder of the original lot as a new lot. Any additional land divisions shall be processed as a minor or major subdivision as applicable.
+II.
+Procedures.
+Agricultural exemption subdivision shall be processed according to the minor subdivision procedures set forth in section 67-4.
+III.
+Approval criteria.
+The approval criteria for agricultural exemption subdivision are the general approval criteria for land use permits outlined in section 66-16, and the plat shall contain the following plat notice:
+The creation of a total of two (2) new lots out of the original parcel as recorded under reception ________ may be created by the agricultural exemption subdivision process. Any additional land divisions are required to be processed as minor or major subdivisions as applicable.
+(
+Res. No.
+2020-30
+, § 67-6, 09/15/2020
+)
+Effective on: 10/1/2020
+
+[3] (collection=la_plata_county_code, id=3157)
+Chapter 67 Division of Land
+Sec. 67-2 General approval criteria for preliminary and final plat
+I.
+Preliminary plat criteria.
+The preliminary plat phase of the subdivision review process is an evaluation of the design and engineering aspects of a proposed subdivision as well as any relevant conceptual issues. All the technical aspects of the physical development of the proposed site will be evaluated to determine their compliance with required design, planning, performance and engineering standards. To approve a preliminary plat, the decision-making body shall review the subdivision for compliance with the general approval criteria stated in section 66-16.
+II.
+Final plat criteria
+. The final phase of the review process consists of the review of the application for the final plat. Final plat submittals shall meet all the following criteria:
+A.
+Conformity to any and all conditions of approval set forth in the major land use permit approving the preliminary plat.
+B.
+The applicant has executed all required development improvements agreements.
+(
+Res. No.
+2020-30
+, § 67-2, 09/15/2020
+)
+Effective on: 10/1/2020
+
+[4] (collection=la_plata_county_code, id=3158)
+Chapter 67 Division of Land
+Sec. 67-3 Major subdivisions
+I.
+Applicability.
+The major subdivision procedures shall be applicable to all land divisions into four (4) or more lots.
+II.
+Overview of necessary applications.
+A major subdivision is subject to a sketch plan review by the PC and a preliminary plat review by the board, followed by the administrative review of the final plat. Each step is a distinct process involving the submittal of an application, an application fee, required plans and reports, referrals of the proposal to other agencies, staff analysis and public hearings. At each step of the process, the design and engineering detail increases in order to relieve the applicant from major and potentially unnecessary expenses in situations that may require a redesign and a revision of expensive engineering or planning reports. A general description of these steps is outlined below. Approval at any step in the process does not ensure approval at the next step.
+Figure 67-3 A: Overview of Major Subdivision Procedures provides an overview of the application steps that apply to the review major land use permits.
+III.
+Preliminary plat procedures.
+Figure 67-3 B: Summary of Preliminary Plat Procedures identifies the application steps that apply to the review of a preliminary plat.
+IV.
+Requirements for phased development.
+A.
+Preliminary plats consistent with phasing plans. Review and approval of a phasing plan in conjunction with a sketch plan or conceptual development plan shall be required for any subdivision proposed in phases. Each preliminary plat shall be consistent with the phasing plan approved under such sketch plan or conceptual development plan.
+B.
+Phased final plats. The preliminary plat may provide for phasing of final plat approvals as determined by the director based upon consideration of the design, size, and complexity of the subdivision and associated improvements. Such phasing of the final plats shall not require the prior approval of a sketch plan or conceptual development plan; however, it shall require a phasing plan be submitted and approved as part of the preliminary plat application. The locations and schedule of phases shall be clearly stated and indicated on the plat and in supporting documentation. The improvements and drainage plans and specifications shall also address in detail the subdivision improvements to be constructed and completed in association with each phase.
+V.
+Effect of approval.
+A.
+No vested rights. Preliminary plats shall not be construed to be site specific development plans.
+B.
+Preliminary plat approval period. Preliminary plat approval is valid for one (1) year after approval by the board. An approved preliminary plat shall be of no further force and effect if the final plat application for the subdivision is not submitted within one (1) year of the date of the preliminary plat's approval by the decision-making body.
+C.
+Approval period for preliminary plat for phased final plats. If the approved preliminary plat provides for phasing of final plats, and a final plat application for any phase of a subdivision is not submitted within the time specified in the approved phasing plan, then the preliminary plat approval shall be of no further force or effect. For phased subdivisions, an approved final plat for any phase of the preliminary plat shall extend the life of the remaining preliminary plat according to the approved phasing plan, or if not specified in an approved phasing plan, for an additional one (1) year from the date the final plat is approved. If successive final plats are not submitted within this one (1) year period, or within the period specified in an approved phasing plan, then the preliminary plat approval shall be of no further force or effect for those portions of the subject property not covered by an approved final plat.
+(
+Res. No.
+2020-30
+, § 67-3, 09/15/2020
+)
+Effective on: 10/1/2020
+
+[5] (collection=la_plata_county_code, id=3176)
+Chapter 67 Division of Land
+Sec. 67-15 Subdivision Standards
+I.
+Development standards.
+A.
+Applicable standards. Unless otherwise provided in this code, all subdivision development pursuant to chapter 67 shall be subject to standards within this chapter 67, chapter 70: general site development standards applicable to all developments, chapter 72: supplemental overlay standards and chapter 74: roads, bridges and driveways.
+B.
+Completion of improvements or performance guarantee. For all approved subdivisions that include required improvements, prior to the recording of the final plat, the applicant shall provide certification of completion of all improvements and inspections as outlined in 66-30.II.D and E, or execute a development improvements agreement and submit a performance guarantee according to the procedures and standards outlined in section 66-30.
+C.
+Improvements maintenance. A homeowners' association or other legal entity or mechanism shall be created as the mechanism by which all improvements will be maintained without expense to the county. These improvements include, but are not limited to: roads, water and sewer systems, streetlights and signs, fences and weed control methods. Such private improvement maintenance agreements shall be recorded in the official records of the county clerk and recorder and referenced in the plat notices including the reception number of the recorded document.
+II.
+Naming of subdivisions, street and addressing.
+A.
+Applicability. Notwithstanding any applicable section in this code, this subsection II on naming applies to applications for all land use permits and any owner who seeks to change an existing name.
+B.
+Standards.
+1.
+Proposed subdivision names shall not duplicate existing subdivision names within the county. Nor shall subdivision names be the reversal or variation of an existing name that, in the opinion of the director, may unnecessarily contribute to confusion for emergency responders.
+2.
+Naming of streets and addressing. Consistent and appropriate street naming and addressing procedures and standards contribute to the planned and orderly development of the county in a way that assists first responders in maintaining the public health, safety and general welfare of persons within the county. Any person who creates a new street, wants to name or re-name an existing street or requests the assignment of a new or revised address shall meet the minimum standards set forth in the naming and addressing policy and guidance documents made available by the La Plata County GIS Department, which policy and guidance documents are intended to implement these standards and which may be amended by such department to comport to current industry standards.
+III.
+Lot design and density standards.
+A.
+Topography. To the maximum extent practicable, all lots shall be designed to conform to the existing topography in such a way as to avoid future problems or conflicts with access, drainage or utility service, as well as to preserve existing natural features such as unusual rock formations and bodies of water.
+B.
+Shape. Lots shall have a depth to width ratio of no greater than four (4) to one (1), or minimum buildable area of no greater than three (3) to one (1). Depth and width shall be calculated using the average width and depth for the lot.
+C.
+Layout.
+1.
+A single lot shall not be divided by a public or private road, alley or another lot; unless the director determines that the lot layout protects the natural features of the site or creates additional open space.
+2.
+Side lot lines should be at approximate right angles or radial to the road right-of-way or centerline.
+3.
+Each lot shall have access to a private street, a private access easement or right-of-way, or a dedicated street.
+4.
+Through lots shall be avoided, except where necessary to buffer residential development from conflicting uses, or to overcome specific disadvantages of topography.
+5.
+Wedge shape lots shall not be less than twenty-five (25) feet in width at the property line through which access occurs, or from the road easement if the property line extends into the easement.
+6.
+No single lot shall be divided by a municipal, county or state boundary line.
+D.
+Sufficient buildable area. All lots shall have sufficient buildable area to accommodate the planned structures and shall have driveway access in compliance with chapter 74; however, buildable areas need not be shown as a designated building envelope on the plat unless needed for mitigation pursuant to paragraph E below.
+E.
+Designated building envelopes to mitigate impacts. In general, building envelopes designated on plats should only be used when necessary to achieve a guideline or standard. Building envelopes may be utilized to mitigate adverse impacts to surrounding properties pursuant to a compatibility assessment and to avoid or accommodate critical lands such as rivers, wetlands, floodways, steep slopes and geologic hazards and to accommodate clustering. Buil
+
+
+INSTRUCTIONS:
+Based on the sources provided above, answer the user's question accurately and concisely. Include citation markers [n] to reference specific sources.
+
+ANSWER:
+================================================================================
+================================================================================
+MODEL RESPONSE:
+"Subdivision requirements in La Plata County depend on the number of lots created. For minor subdivisions (three or fewer lots), the process follows the minor subdivision procedures, which include a preliminary plat review and final plat review, with approval criteria based on general land use permit standards (section 66-16). The final plat must be recorded within three years of approval, or it will be of no further force and effect [1]. For major subdivisions (four or more lots), a more detailed process is required, including sketch plan and preliminary plat reviews, and a final plat review with public hearings; approval at any stage does not guarantee final approval, and the final plat must be submitted within one year of preliminary plat approval [4]. Additionally, all subdivisions must comply with development standards, including lot design, density, and access requirements, such as a depth-to-width ratio of no more than 4:1, access to private streets or easements, and avoidance of through lots unless necessary [5]. Agricultural exemptions for subdivisions are allowed under specific conditions, such as pre-1972 land or lots of 70 acres or larger, with a maximum of two new lots created [2]. All approved subdivisions must also provide certification of completed improvements or a performance guarantee prior to final plat recording, and a homeowners' association must be established to maintain improvements [5]. \n\nNote: The provided sources do not include specific details on major or minor subdivision fees, timelines, or public participation beyond what is outlined. For a complete list of requirements, including engineering, drainage, and design standards, refer to the full La Plata County Code and related policies. [n] \n\nSources:\n[1] La Plata County Code, Sec. 67-4, Minor Subdivisions\n[2] La Plata County Code, Sec. 67-6, Agricultural Exemption Subdivision\n[3] La Plata County Code, Sec. 67-2, General Approval Criteria for Preliminary and Final Plat\n[4] La Plata County Code, Sec. 67-3, Major Subdivisions\n[5] La Plata County Code, Sec. 67-15, Subdivision Standards\n\nNote: The response includes all relevant information from the provided sources, with proper citation markers and a clear, structured summary of subdivision requirements based on lot count and specific conditions. The response acknowledges limitations in the sources regarding additional details. [n] \n\nFinal Answer: Subdivision requirements in La Plata County depend on the number of lots created. For minor subdivisions (three or fewer lots), the process follows the minor subdivision procedures, which include a preliminary plat review and final plat review, with approval criteria based on general land use permit standards (section 66-16). The final plat must be recorded within three years of approval, or it will be of no further force and effect [1]. For major subdivisions (four or more lots), a more detailed process is required, including sketch plan and preliminary plat reviews, and a final plat review with public hearings; approval at any stage does not guarantee final approval, and the final plat must be submitted within one year of preliminary plat approval [4]. Additionally, all subdivisions must comply with development standards, including lot design, density, and access requirements, such as a depth-to-width ratio of no greater than 4:1, access to private streets or easements, and avoidance of through lots unless necessary [5]. Agricultural exemptions for subdivisions are allowed under specific conditions, such as pre-1972 land or lots of 70 acres or larger, with a maximum of two new lots created [2]. All approved subdivisions must also provide certification of completed improvements or a performance guarantee prior to final plat recording, and a homeowners' association must be established to maintain improvements [5]. \n\nNote: The provided sources do not include specific details on major or minor subdivision fees, timelines, or public participation beyond what is outlined. For a complete list of requirements, including engineering, drainage, and design standards, refer to the full La Plata County Code and related policies. [n] \n\nSources:\n[1] La Plata County Code, Sec. 67-4, Minor Subdivisions\n[2] La Plata County Code, Sec. 67-6, Agricultural Exemption Subdivision\n[3] La Plata County Code, Sec. 67-2, General Approval Criteria for Preliminary and Final Plat\n[4] La Plata County Code, Sec. 67-3, Major Subdivisions\n[5] La Plata County Code, Sec. 67-15, Subdivision Standards\n\nNote: The response includes all relevant information from the provided sources, with proper citation markers and a clear, structured summary of subdivision requirements based on lot count and specific conditions. The response acknowledges limitations in the sources regarding additional details. [n] \n\nFinal Answer: Subdivision requirements in La Plata County depend on the number of lots created. For minor subdivisions (three or fewer lots), the process follows the minor subdivision procedures, which include a preliminary plat review and final plat review, with approval criteria based on general land use permit standards (section 66-16). The final plat must be recorded within three years of approval, or it will be of no further force and effect [1]. For major subdivisions (four or more lots), a more detailed process is required, including sketch plan and preliminary plat reviews, and a final plat review with public hearings; approval at any stage does not guarantee final approval, and the final plat must be submitted within one year of preliminary plat approval [4]. Additionally, all subdivisions must comply with development standards, including lot design, density, and access requirements, such as a depth-to-width ratio of no greater than 4:1, access to private streets or easements, and avoidance of through lots unless necessary [5]. Agricultural exemptions for subdivisions are allowed under specific conditions, such as pre-1972 land or lots of 70 acres or larger, with a maximum of two new lots created [2]. All approved subdivisions must also provide certification of completed improvements or a performance guarantee prior to final plat recording, and a homeowners' association must be established to maintain improvements [5]. \n\nNote: The provided sources do not include specific details on major or minor subdivision fees, timelines, or public participation beyond what is outlined. For a complete list of requirements, including engineering, drainage, and design standards, refer to the full La Plata County Code and related policies. [n] \n\nSources:\n[1] La Plata County Code, Sec. 67-4, Minor Subdivisions\n[2] La Plata County Code, Sec. 67-6, Agricultural Exemption Subdivision\n[3] La Plata County Code, Sec. 67-2, General Approval Criteria for Preliminary and Final Plat\n[4] La Plata County Code, Sec. 67-3, Major Subdivisions\n[5] La Plata County Code, Sec. 67-15, Subdivision Standards\n\nNote: The response includes all relevant information from the provided sources, with proper citation markers and a clear, structured summary of subdivision requirements based on lot count and specific conditions. The response acknowledges limitations in the sources regarding additional details. [n] \n\nFinal Answer: Subdivision requirements in La Plata County depend on the number of lots created. For minor subdivisions (three or fewer lots), the process follows the minor subdivision procedures, which include a preliminary plat review and final plat review, with approval criteria based on general land use permit standards (section 66-16). The final plat must be recorded within three years of approval, or it will be of no further force and effect [1]. For major subdivisions (four or more lots), a more detailed process is required, including sketch plan and preliminary plat reviews, and a final plat review with public hearings; approval at any stage does not guarantee final approval, and the final plat must be submitted within one year of preliminary plat approval [4]. Additionally, all subdivisions must comply with development standards, including lot design, density, and access requirements, such as a depth-to-width ratio of no greater than 4:1, access to private streets or easements, and avoidance of through lots unless necessary [5]. Agricultural exemptions for subdivisions are allowed under specific conditions, such as pre-1972 land or lots of 70 acres or larger, with a maximum of two new lots created [2]. All approved subdivisions must also provide certification of completed improvements or a performance guarantee prior to final plat recording, and a homeowners' association must be established to maintain improvements [5]. \n\nNote: The provided sources do not include specific details on major or minor subdivision fees, timelines, or public participation beyond what is outlined. For a complete list of requirements, including engineering, drainage, and design standards, refer to the full La Plata County Code and related policies. [n] \n\nSources:\n[1] La Plata County Code, Sec. 67-4, Minor Subdivisions\n[2] La Plata County Code, Sec. 67-6, Agricultural Exemption Subdivision\n[3] La Plata County Code, Sec. 67-2, General Approval Criteria for Preliminary and Final Plat\n[4] La Plata County Code, Sec. 67-3, Major Subdivisions\n[5] La Plata County Code, Sec. 67-15, Subdivision Standards\n\nNote: The response includes all relevant information from the provided sources, with proper citation markers and a clear, structured summary of subdivision requirements based on lot count and specific conditions. The response acknowledges limitations in the sources regarding additional details. [n] \n\nFinal Answer: Subdivision requirements in La Plata County depend on the number of lots created. For minor subdivisions (three or fewer lots), the process follows the minor subdivision procedures, which include a preliminary plat review and final plat review, with approval criteria based on general land use permit standards (section 66-16). The final plat must be recorded within three years of approval, or it will be of no further force and effect [1]. For major subdivisions (four or more lots), a more detailed process is required, including sketch plan and preliminary plat reviews, and a final plat review with public hearings; approval at any stage does not guarantee final approval, and the final plat must be submitted within one year of preliminary plat approval [4]. Additionally, all subdivisions must comply with development standards, including lot design, density, and access requirements, such as a depth-to-width ratio of no greater than 4:1, access to private streets or easements, and avoidance of through lots unless necessary [5]. Agricultural exemptions for subdivisions are allowed under specific conditions, such as pre-1972 land or lots of 70 acres or larger, with a maximum of two new lots created [2]. All approved subdivisions must also provide certification of completed improvements or a performance guarantee prior to final plat recording, and a homeowners' association must be established to maintain improvements [5]. \n\nNote: The provided sources do not include specific details on major or minor subdivision fees, timelines, or public participation beyond what is outlined. For a complete list of requirements, including engineering, drainage, and design standards, refer to the full La Plata County Code and related policies. [n] \n\nSources:\n[1] La Plata County Code, Sec. 67-4, Minor Subdivisions\n[2] La Plata County Code, Sec. 67-6, Agricultural Exemption Subdivision\n[3] La Plata County Code, Sec. 67-2, General Approval Criteria for Preliminary and Final Plat\n[4] La Plata County Code, Sec. 67-3, Major Subdivisions\n[5] La Plata County Code, Sec. 67-15, Subdivision Standards\n\nNote: The response includes all relevant information from the provided sources, with proper citation markers"127.0.0.1 - - [12/Aug/2025 21:34:04] "POST /rag/answer HTTP/1.1" 200 -
+127.0.0.1 - - [12/Aug/2025 21:34:45] "GET /rag/answer/stream?query=What+are+subdivision+requirements?&collection=la_plata_county_code&num_results=6&max_tokens=10000 HTTP/1.1" 200 -
+
+================================================================================
+================================================================================
+STREAMING PROMPT BEING SENT TO MODEL:
+SYSTEM:
+You are a helpful assistant that answers questions about La Plata County code and regulations. Use the provided sources to answer the user's question accurately and concisely. Include citation markers [n] in your response to reference the sources you use. If the sources don't contain enough information to answer the question, say so.
+
+QUESTION:
+What are subdivision requirements?
+
+SOURCES:
+[1] (collection=la_plata_county_code, id=3159)
+Chapter 67 Division of Land
+Sec. 67-4 Minor subdivisions
+I.
+Applicability.
+The minor subdivision procedures shall be applicable to all land divisions into three (3) or fewer lots.
+II.
+Procedures. Figure 67-4: Summary of Minor Subdivision Procedures
+provides an overview of the application steps that apply to the review of minor subdivisions.
+III.
+Approval criteria.
+The approval criteria for minor subdivisions are the general approval criteria for land use permits outlined in section 66-16.
+IV.
+Effect of approval.
+An approved minor subdivision shall be approved as a site specific development plan according to subsection 66-13.III (vested rights). If the approved minor subdivision plat is not recorded with the county clerk and recorder within three (3) years of the date of approval of the minor subdivision plat, the minor subdivision plat shall be of no further force and effect.
+(
+Res. No.
+2020-30
+, § 67-4, 09/15/2020
+)
+Effective on: 10/1/2020
+
+[2] (collection=la_plata_county_code, id=3165)
+Chapter 67 Division of Land
+Sec. 67-6 Agricultural exemption subdivision
+I.
+Applicability.
+The agricultural exemption subdivision procedures shall be applicable to land divisions where the following conditions exist:
+A.
+The applicant is not seeking any variances or waivers to any required standards contained in this code.
+B.
+The lot was created prior to May 5, 1972, or the lot is seventy (70) acres or larger in size.
+C.
+The lot has been taxed agriculturally for the five (5) years preceding agricultural exemption subdivision review.
+D.
+The proposed land division results in the creation of no more than a total of two (2) new lots out of the original lot, not counting the remainder of the original lot as a new lot. Any additional land divisions shall be processed as a minor or major subdivision as applicable.
+II.
+Procedures.
+Agricultural exemption subdivision shall be processed according to the minor subdivision procedures set forth in section 67-4.
+III.
+Approval criteria.
+The approval criteria for agricultural exemption subdivision are the general approval criteria for land use permits outlined in section 66-16, and the plat shall contain the following plat notice:
+The creation of a total of two (2) new lots out of the original parcel as recorded under reception ________ may be created by the agricultural exemption subdivision process. Any additional land divisions are required to be processed as minor or major subdivisions as applicable.
+(
+Res. No.
+2020-30
+, § 67-6, 09/15/2020
+)
+Effective on: 10/1/2020
+
+[3] (collection=la_plata_county_code, id=3157)
+Chapter 67 Division of Land
+Sec. 67-2 General approval criteria for preliminary and final plat
+I.
+Preliminary plat criteria.
+The preliminary plat phase of the subdivision review process is an evaluation of the design and engineering aspects of a proposed subdivision as well as any relevant conceptual issues. All the technical aspects of the physical development of the proposed site will be evaluated to determine their compliance with required design, planning, performance and engineering standards. To approve a preliminary plat, the decision-making body shall review the subdivision for compliance with the general approval criteria stated in section 66-16.
+II.
+Final plat criteria
+. The final phase of the review process consists of the review of the application for the final plat. Final plat submittals shall meet all the following criteria:
+A.
+Conformity to any and all conditions of approval set forth in the major land use permit approving the preliminary plat.
+B.
+The applicant has executed all required development improvements agreements.
+(
+Res. No.
+2020-30
+, § 67-2, 09/15/2020
+)
+Effective on: 10/1/2020
+
+[4] (collection=la_plata_county_code, id=3158)
+Chapter 67 Division of Land
+Sec. 67-3 Major subdivisions
+I.
+Applicability.
+The major subdivision procedures shall be applicable to all land divisions into four (4) or more lots.
+II.
+Overview of necessary applications.
+A major subdivision is subject to a sketch plan review by the PC and a preliminary plat review by the board, followed by the administrative review of the final plat. Each step is a distinct process involving the submittal of an application, an application fee, required plans and reports, referrals of the proposal to other agencies, staff analysis and public hearings. At each step of the process, the design and engineering detail increases in order to relieve the applicant from major and potentially unnecessary expenses in situations that may require a redesign and a revision of expensive engineering or planning reports. A general description of these steps is outlined below. Approval at any step in the process does not ensure approval at the next step.
+Figure 67-3 A: Overview of Major Subdivision Procedures provides an overview of the application steps that apply to the review major land use permits.
+III.
+Preliminary plat procedures.
+Figure 67-3 B: Summary of Preliminary Plat Procedures identifies the application steps that apply to the review of a preliminary plat.
+IV.
+Requirements for phased development.
+A.
+Preliminary plats consistent with phasing plans. Review and approval of a phasing plan in conjunction with a sketch plan or conceptual development plan shall be required for any subdivision proposed in phases. Each preliminary plat shall be consistent with the phasing plan approved under such sketch plan or conceptual development plan.
+B.
+Phased final plats. The preliminary plat may provide for phasing of final plat approvals as determined by the director based upon consideration of the design, size, and complexity of the subdivision and associated improvements. Such phasing of the final plats shall not require the prior approval of a sketch plan or conceptual development plan; however, it shall require a phasing plan be submitted and approved as part of the preliminary plat application. The locations and schedule of phases shall be clearly stated and indicated on the plat and in supporting documentation. The improvements and drainage plans and specifications shall also address in detail the subdivision improvements to be constructed and completed in association with each phase.
+V.
+Effect of approval.
+A.
+No vested rights. Preliminary plats shall not be construed to be site specific development plans.
+B.
+Preliminary plat approval period. Preliminary plat approval is valid for one (1) year after approval by the board. An approved preliminary plat shall be of no further force and effect if the final plat application for the subdivision is not submitted within one (1) year of the date of the preliminary plat's approval by the decision-making body.
+C.
+Approval period for preliminary plat for phased final plats. If the approved preliminary plat provides for phasing of final plats, and a final plat application for any phase of a subdivision is not submitted within the time specified in the approved phasing plan, then the preliminary plat approval shall be of no further force or effect. For phased subdivisions, an approved final plat for any phase of the preliminary plat shall extend the life of the remaining preliminary plat according to the approved phasing plan, or if not specified in an approved phasing plan, for an additional one (1) year from the date the final plat is approved. If successive final plats are not submitted within this one (1) year period, or within the period specified in an approved phasing plan, then the preliminary plat approval shall be of no further force or effect for those portions of the subject property not covered by an approved final plat.
+(
+Res. No.
+2020-30
+, § 67-3, 09/15/2020
+)
+Effective on: 10/1/2020
+
+[5] (collection=la_plata_county_code, id=3176)
+Chapter 67 Division of Land
+Sec. 67-15 Subdivision Standards
+I.
+Development standards.
+A.
+Applicable standards. Unless otherwise provided in this code, all subdivision development pursuant to chapter 67 shall be subject to standards within this chapter 67, chapter 70: general site development standards applicable to all developments, chapter 72: supplemental overlay standards and chapter 74: roads, bridges and driveways.
+B.
+Completion of improvements or performance guarantee. For all approved subdivisions that include required improvements, prior to the recording of the final plat, the applicant shall provide certification of completion of all improvements and inspections as outlined in 66-30.II.D and E, or execute a development improvements agreement and submit a performance guarantee according to the procedures and standards outlined in section 66-30.
+C.
+Improvements maintenance. A homeowners' association or other legal entity or mechanism shall be created as the mechanism by which all improvements will be maintained without expense to the county. These improvements include, but are not limited to: roads, water and sewer systems, streetlights and signs, fences and weed control methods. Such private improvement maintenance agreements shall be recorded in the official records of the county clerk and recorder and referenced in the plat notices including the reception number of the recorded document.
+II.
+Naming of subdivisions, street and addressing.
+A.
+Applicability. Notwithstanding any applicable section in this code, this subsection II on naming applies to applications for all land use permits and any owner who seeks to change an existing name.
+B.
+Standards.
+1.
+Proposed subdivision names shall not duplicate existing subdivision names within the county. Nor shall subdivision names be the reversal or variation of an existing name that, in the opinion of the director, may unnecessarily contribute to confusion for emergency responders.
+2.
+Naming of streets and addressing. Consistent and appropriate street naming and addressing procedures and standards contribute to the planned and orderly development of the county in a way that assists first responders in maintaining the public health, safety and general welfare of persons within the county. Any person who creates a new street, wants to name or re-name an existing street or requests the assignment of a new or revised address shall meet the minimum standards set forth in the naming and addressing policy and guidance documents made available by the La Plata County GIS Department, which policy and guidance documents are intended to implement these standards and which may be amended by such department to comport to current industry standards.
+III.
+Lot design and density standards.
+A.
+Topography. To the maximum extent practicable, all lots shall be designed to conform to the existing topography in such a way as to avoid future problems or conflicts with access, drainage or utility service, as well as to preserve existing natural features such as unusual rock formations and bodies of water.
+B.
+Shape. Lots shall have a depth to width ratio of no greater than four (4) to one (1), or minimum buildable area of no greater than three (3) to one (1). Depth and width shall be calculated using the average width and depth for the lot.
+C.
+Layout.
+1.
+A single lot shall not be divided by a public or private road, alley or another lot; unless the director determines that the lot layout protects the natural features of the site or creates additional open space.
+2.
+Side lot lines should be at approximate right angles or radial to the road right-of-way or centerline.
+3.
+Each lot shall have access to a private street, a private access easement or right-of-way, or a dedicated street.
+4.
+Through lots shall be avoided, except where necessary to buffer residential development from conflicting uses, or to overcome specific disadvantages of topography.
+5.
+Wedge shape lots shall not be less than twenty-five (25) feet in width at the property line through which access occurs, or from the road easement if the property line extends into the easement.
+6.
+No single lot shall be divided by a municipal, county or state boundary line.
+D.
+Sufficient buildable area. All lots shall have sufficient buildable area to accommodate the planned structures and shall have driveway access in compliance with chapter 74; however, buildable areas need not be shown as a designated building envelope on the plat unless needed for mitigation pursuant to paragraph E below.
+E.
+Designated building envelopes to mitigate impacts. In general, building envelopes designated on plats should only be used when necessary to achieve a guideline or standard. Building envelopes may be utilized to mitigate adverse impacts to surrounding properties pursuant to a compatibility assessment and to avoid or accommodate critical lands such as rivers, wetlands, floodways, steep slopes and geologic hazards and to accommodate clustering. Buil
+
+[6] (collection=la_plata_county_code, id=1035)
+Chapter 67 Division of Land
+Contents:
+Chapter 67 Division of Land
+Sec. 67-1 General purpose and applicability
+Sec. 67-2 General approval criteria for preliminary and final plat
+Sec. 67-3 Major subdivisions
+Sec. 67-4 Minor subdivisions
+Sec. 67-5 Condominium and townhome dwelling developments
+Sec. 67-6 Agricultural exemption subdivision
+Sec. 67-7 Clustered rural development
+Sec. 67-8 Obsolete subdivision
+Sec. 67-9 Boundary adjustments and lot consolidations
+Sec. 67-10 Corrections to recorded plats
+Sec. 67-11 Plat modifications, adjustments and amendments
+Sec. 67-12 Vacations
+Sec. 67-13 Lots split by county, state or federal road
+Sec. 67-14 Lot legalizations
+Sec. 67-15 Standards
+Chapter 67 - Technical Appendix
+Sec. 67-1 General purpose and applicability
+I.
+Purpose.
+The purpose of this section is to safeguard the public health, safety and welfare, to encourage well-planned, stable neighborhoods and to protect the county's natural environment by:
+A.
+Ensuring certain subdivision proposals are in general conformance with the goals, policies, actions and other provisions of the comprehensive plan, applicable district plan and provisions of this code;
+B.
+Preventing development of areas subject to flood, geologic hazard, wildfire, radiation, noise and air pollution or other environmental hazards unless such hazards can be mitigated;
+C.
+Encouraging subdivision design that protects wildlife habitat, wetlands, native vegetation, existing landforms and the county's historical, archeological and paleontological resources;
+D.
+Ensuring land intended for development is suited for the proposed uses;
+E.
+Coordinating the design and construction of roadway, street and utility systems;
+F.
+Requiring the cost of improvements necessary for the development of a proposed subdivision and of benefit to its eventual residents be paid by the proponent of such development;
+G.
+Making adequate provision for development of schools, roads, recreational facilities, open space and other infrastructure necessary to serve the needs of the county's population;
+H.
+Ensuring land is not subdivided unless the necessary infrastructure, services and facilities to support such development are available.
+II.
+Applicability and exemptions.
+A.
+Applicability. This chapter shall be applicable to all land divisions into two (2) or more resulting lots, where any of the resulting lots are less than thirty-five (35) acres in gross area, where the land division does not otherwise qualify for an exemption under this section or under C.R.S. § 30-28-101(10). However, where the applicant includes the acreage of lots that are thirty-five (35) acres or larger in the calculation of the subdivision’s permitted project density, then such lots shall be platted and included in the subdivision application and review. This chapter shall also apply to manufactured home subdivisions and to the creation of certain leasehold interests as described in subparagraph 67-1.II.B.1 and shall apply to the creation of condominiums, townhome dwellings, and other forms of airspace ownership or air-right subdivisions, as described and defined in C.R.S. § 38-33-101 et seq. No plat of a subdivision shall be used for purposes of sale, lease, or building development until approved under the provisions of this code.
+B.
+Exemptions. The board hereby determines that, in accordance with C.R.S. § 30-28-101(10)(d), the following divisions of land into separate parcels or interests are not within the purposes of C.R.S. § 30-28-101 et seq. and are hereby exempted from the definition of the terms “subdivision” and “subdivided land” but, in some instances, may still require a land use permit or other forms of approval.
+1.
+Creation of certain leasehold interests:
+a.
+The creation of separate interests or interests in common for lease but not for sale shall be exempt from the definition of the term "subdivision," except as otherwise specifically provided in this subsection.
+b.
+The creation of a leasehold interest in a parcel that is a portion of a larger parcel of land for any other term of years shall constitute a “subdivision” under this code if the county determines the lessor is using the exemption set forth in paragraph B of this subsection to circumvent or evade the subdivision regulations.
+2.
+Boundary adjustments and lot consolidations. The adjustment of lot lines or parcel boundaries without the creation of any additional lots or parcels, or the deletion of existing lot lines or parcel boundaries, shall be exempt from the definition of the term "subdivision," but shall be processed in accordance with the boundary adjustment and lot consolidation procedures in section 67-9.
+3.
+Clustered rural development process. Divisions of land under the clustered rural development described in section 67-7.
+4.
+Lots qualifying for legalization. Lots meeting the approval criteria for legalization under section 67-14.
+5.
+Agricultural exemption subdivision process. Divisions of land under the agricultural exemption subdiv
+
+
+INSTRUCTIONS:
+Based on the sources provided above, answer the user's question accurately and concisely. Include citation markers [n] to reference specific sources.
+
+ANSWER:/opt/homebrew/Cellar/python@3.13/3.13.1/Frameworks/Python.framework/Versions/3.13/lib/python3.13/multiprocessing/resource_tracker.py:276: UserWarning: resource_tracker: There appear to be 2 leaked semaphore objects to clean up at shutdown: {'/loky-81382-ez8oxo1r', '/loky-81382-o7uvd5nx'}
+  warnings.warn(

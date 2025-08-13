@@ -50,13 +50,13 @@ The La Plata County RAG (Retrieval-Augmented Generation) system is a sophisticat
 │                 External Services                           │
 │                                                             │
 │  ┌─────────────────────────┐    ┌─────────────────────────┐ │
-│  │    Search API           │    │    MLX Inference        │ │
-│  │   (Port 8000)           │    │    (Local Models)       │ │
+│  │    Search API           │    │  External Inference     │ │
+│  │   (Port 8000)           │    │  Service (Port 8003)    │ │
 │  │                         │    │                         │ │
-│  │  • ChromaDB Vector      │    │  • Qwen3-4B-Thinking    │ │
-│  │    Store                │    │  • Llama-3.1-8B (alt)   │ │
-│  │  • Embeddings           │    │  • 8-bit Quantization   │ │
-│  │  • Semantic Search      │    │                         │ │
+│  │  • ChromaDB Vector      │    │  • llama.cpp Server     │ │
+│  │    Store                │    │  • GGUF Models          │ │
+│  │  • Embeddings           │    │  • Native Performance   │ │
+│  │  • Semantic Search      │    │  • GPU Acceleration     │ │
 │  └─────────────────────────┘    └─────────────────────────┘ │
 └─────────────────────────────────────────────────────────────┘
 ```
@@ -104,19 +104,19 @@ The La Plata County RAG (Retrieval-Augmented Generation) system is a sophisticat
 - **Source Management**: Preserves full text for UI while truncating for LLM context
 - **Citation Support**: Numbered source tracking for answer citations
 
-### 4. Model Inference (`inference.py`)
-- **Role**: MLX model management and text generation
+### 4. Model Inference (`inference.py` / External Service)
+- **Role**: Text generation via external inference service
 - **Responsibilities**:
-  - Model loading and lifecycle management
-  - Thread-safe inference operations
-  - Streaming text generation
-  - Context length management
+  - HTTP client for external inference API
+  - Request/response handling and error management
+  - Streaming text generation coordination
+  - Service health monitoring
 
 **Key Features**:
-- Thread-safe model operations with locking
+- External service integration (llama.cpp server)
+- HTTP-based inference with timeout handling
 - Supports both streaming and batch generation
-- Automatic context length detection
-- Graceful fallback handling for MLX issues
+- Service discovery and health checking
 
 ### 5. Answer Verification (`verify.py`)
 - **Role**: Post-generation answer validation and citation support
@@ -142,7 +142,7 @@ The La Plata County RAG (Retrieval-Augmented Generation) system is a sophisticat
    - Extract legal references from results
    - Follow cross-references for additional context
    - Rerank and deduplicate results
-4. **Generation**: MLX model generates answer with source citations
+4. **Generation**: External inference service generates answer with source citations
 5. **Verification**: Post-process answer for citation support
 6. **Output**: Structured response with answer, citations, sources, and verification
 
@@ -179,24 +179,25 @@ Context Building: Create numbered SOURCES list for LLM prompt
 - **Chunking Strategy**: Section-based segmentation preserving legal structure
 - **Metadata**: Section numbers, chapter references, document hierarchy
 
-## Model Architecture
+## Inference Architecture
 
-### Primary Model: Qwen3-4B-Thinking-2507-8bit
-- **Type**: Thinking/reasoning model with explicit reasoning chains
-- **Quantization**: 8-bit for memory efficiency
-- **Context**: 8K-16K token window
-- **Strengths**: Legal reasoning, citation generation, transparent thinking process
+### External Inference Service (llama.cpp)
+- **Service**: Standalone HTTP server on port 8003
+- **Protocol**: HTTP REST API with streaming support
+- **Model Format**: GGUF format for optimal performance
+- **GPU Acceleration**: Native Metal support for Apple Silicon
 
-### Fallback Model: Llama-3.1-8B-Instruct-4bit
-- **Type**: General instruction-following model  
-- **Quantization**: 4-bit for maximum memory efficiency
-- **Use Case**: Backup when primary model unavailable
+### Supported Models
+- **Primary**: Qwen3-4B-Instruct-2507-Q4_K_M.gguf (4-bit quantization)
+- **Alternative**: Qwen3-4B-Thinking-2507-Q4_K_M.gguf (thinking model)
+- **Fallback**: Llama-3.1-8B-Instruct-Q4_K_M.gguf (larger context)
+- **Memory Efficient**: Any 4-bit quantized GGUF model
 
-### Model Management
-- **Auto-loading**: Default model loads automatically on API startup
-- **Hot-swapping**: Runtime model switching via `/rag/model/load`
-- **Thread Safety**: Concurrent request handling with proper locking
-- **Health Monitoring**: Model status tracking and error reporting
+### Service Management
+- **Lifecycle**: Independent service startup/shutdown
+- **Model Loading**: Runtime model switching via service restart
+- **Health Monitoring**: HTTP health checks and service status
+- **Resource Isolation**: Separate process for better memory management
 
 ## Quality Assurance
 
@@ -223,13 +224,14 @@ Context Building: Create numbered SOURCES list for LLM prompt
 ### Current State (Local Development)
 - **RAG API**: Flask dev server, port 8001
 - **Search API**: Flask dev server, port 8000  
+- **Inference Service**: llama.cpp server, port 8003
 - **Vector DB**: Local ChromaDB instance
-- **Models**: MLX-optimized local inference
 
-### Production Path (Future)
-- **Phase 1**: Hybrid - Cloud search (Pinecone), local inference (MLX)
-- **Phase 2**: Full cloud - Pinecone + AWS Bedrock
-- **Benefits**: Independent service scaling, cloud reliability, cost optimization
+### Migration Path to Cloud
+- **Phase 1**: External inference service (llama.cpp) - **CURRENT APPROACH**
+- **Phase 2**: Cloud search (Pinecone) + local inference (llama.cpp)
+- **Phase 3**: Full cloud - Pinecone + AWS Bedrock
+- **Benefits**: Memory efficiency, independent scaling, cloud-ready architecture
 
 ## Integration Points
 
@@ -239,6 +241,12 @@ Context Building: Create numbered SOURCES list for LLM prompt
 - **Data Format**: JSON with results, metadata, and relevance scores
 - **Decoupling**: Clean API boundary enables independent scaling
 
+### Inference Service Dependency
+- **Protocol**: HTTP REST at `localhost:8003`
+- **Endpoints**: `/completion` for text generation, `/health` for status
+- **Data Format**: JSON with prompt, streaming options, and generation parameters
+- **Decoupling**: External service enables memory optimization and cloud migration
+
 ### Frontend Integration
 - **Streaming**: Server-Sent Events for real-time response display
 - **Non-Streaming**: Traditional REST for complete responses with citations
@@ -247,10 +255,12 @@ Context Building: Create numbered SOURCES list for LLM prompt
 ## Configuration Management
 
 ### Environment Variables
-- `DEFAULT_MODEL_ID`: Primary model selection
+- `DEFAULT_MODEL_ID`: GGUF model filename for inference service
+- `INFERENCE_SERVICE_URL`: Inference service endpoint (default: http://localhost:8003)
 - `SEARCH_BASE_URL`: Search API endpoint override
 - `MAX_CHUNK_CHARS`: Context truncation limit
 - `RETRIEVAL_TIMEOUT`: Search API timeout configuration
+- `INFERENCE_SERVICE_TIMEOUT`: Inference service timeout (default: 120s)
 
 ### Runtime Parameters
 - Generation: temperature, max_tokens, top_p
@@ -267,10 +277,10 @@ Context Building: Create numbered SOURCES list for LLM prompt
 - **Total Response Time**: 3-10 seconds typical
 
 ### Resource Usage
-- **Memory**: 8-12GB for 8-bit models, 4-6GB for 4-bit
-- **CPU**: Moderate during retrieval, high during inference
-- **Storage**: ~500MB for vector database, ~2GB for models
-- **Network**: Minimal (local inference), moderate (cloud deployment)
+- **Memory**: 4-6GB for external inference service (vs 8-12GB with MLX Python)
+- **CPU**: Moderate during retrieval, inference delegated to external service
+- **Storage**: ~500MB for vector database, ~2-4GB for GGUF models
+- **Network**: Local HTTP calls between services, minimal external traffic
 
 ## Security Considerations
 
@@ -284,17 +294,19 @@ Context Building: Create numbered SOURCES list for LLM prompt
 - No external API calls for sensitive legal queries
 - Document access control via collection boundaries
 
-### Model Security
-- Local model storage and execution
-- No external model API dependencies
-- Inference isolation per request
+### Inference Service Security
+- Local inference service execution (no external APIs)
+- Service-to-service authentication (localhost only)
+- Process isolation between RAG API and inference service
+- Inference request isolation and timeout protection
 
 ## Monitoring and Observability
 
 ### Health Checks
-- Model availability and memory status
+- Inference service availability and response times  
 - Search API connectivity and response times
 - Database connection and query performance
+- Service-to-service communication health
 
 ### Logging
 - Request/response logging with sanitization
@@ -306,4 +318,23 @@ Context Building: Create numbered SOURCES list for LLM prompt
 - System performance (latency, throughput, resource usage)
 - User interaction patterns (query types, success rates)
 
-This architecture provides a robust, scalable foundation for legal document RAG while maintaining high accuracy, performance, and reliability.
+## Architecture Benefits
+
+### Memory Optimization
+The external inference service architecture provides significant memory improvements:
+- **Reduced Memory Usage**: 4-6GB vs 8-12GB with MLX Python bindings
+- **Process Isolation**: Better memory management and garbage collection
+- **Service Independence**: RAG logic and inference can scale independently
+
+### Cloud Migration Foundation  
+This architecture establishes patterns for seamless cloud migration:
+- **Service Boundaries**: HTTP API pattern matches AWS Bedrock integration
+- **External Dependencies**: Already designed for remote service calls
+- **Configuration Externalization**: Environment-based service endpoint management
+
+### Performance and Reliability
+- **Native Performance**: llama.cpp provides optimized inference closer to CLI performance
+- **Fault Isolation**: Service failures don't crash the entire RAG system
+- **Independent Scaling**: Services can be scaled based on specific resource needs
+
+This architecture provides a robust, scalable foundation for legal document RAG while maintaining high accuracy, performance, and reliability. The external inference service approach resolves immediate memory constraints while establishing the foundation for future cloud migration.

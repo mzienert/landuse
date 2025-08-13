@@ -53,14 +53,29 @@ def rag_answer_stream():
                     prompt = f"User question:\n{query}\n\nAnswer concisely."
             else:
                 prompt = f"User question:\n{query}\n\nAnswer concisely."
+            # DEBUG: Log the prompt being sent to model
+            print("=" * 80)
+            print("STREAMING PROMPT BEING SENT TO MODEL:")
+            print(prompt)
+            print("=" * 80)
+            
             try:
+                tokens = []
                 for t in model_mgr.stream_generate(
                     prompt,
                     max_tokens=int(data.get("max_tokens", 1200)),
                     temperature=float(data.get("temperature", 0.2)),
                     top_p=float(data.get("top_p", 0.9)),
                 ):
+                    tokens.append(t)
                     yield _sse({"event": "token", "text": t})
+                
+                # DEBUG: Log the complete model response
+                complete_response = "".join(tokens)
+                print("=" * 80)
+                print("STREAMING MODEL RESPONSE:")
+                print(repr(complete_response))
+                print("=" * 80)
             except Exception as e:
                 yield _sse({"event": "error", "message": str(e)})
         else:

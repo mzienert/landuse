@@ -35,7 +35,7 @@ def build_prompt_with_sources(
     question: str,
     results: List[Dict[str, Any]],
     *,
-    max_chunk_chars: int = 3000,
+    max_chunk_chars: int = 5000,
 ) -> Tuple[str, List[Dict[str, Any]]]:
     """Construct a grounded prompt with enumerated sources and return (prompt, sources_meta).
 
@@ -44,11 +44,10 @@ def build_prompt_with_sources(
     lines: List[str] = []
 
     system = (
-        "You are a legal assistant for La Plata County. Answer only using the SOURCES "
-        "provided below. If the sources are insufficient, explicitly state that you don't have "
-        "enough information. Include citations using [1], [2], etc., that refer to the SOURCES list. "
-        "CRITICAL: Only use citation numbers that correspond to actual SOURCES provided. "
-        "Do not invent citation numbers beyond the sources given."
+        "You are a helpful assistant that answers questions about La Plata County code and regulations. "
+        "Use the provided sources to answer the user's question accurately and concisely. "
+        "Include citation markers [n] in your response to reference the sources you use. "
+        "If the sources don't contain enough information to answer the question, say so."
     )
 
     lines.append(f"SYSTEM:\n{system}\n")
@@ -73,13 +72,12 @@ def build_prompt_with_sources(
             }
         )
 
-    lines.append(
-        "INSTRUCTIONS:\nProvide a concise answer. After each material claim or paragraph, include at least one citation "
-        "in the format [n] that references the SOURCES list. Do not invent citations. If a claim "
-        "cannot be supported by the sources, say that the information is insufficient."
-    )
-    lines.append("ANSWER:")
 
+    # Add explicit instruction to generate an answer
+    lines.append("\nINSTRUCTIONS:")
+    lines.append("Based on the sources provided above, answer the user's question accurately and concisely. Include citation markers [n] to reference specific sources.")
+    lines.append("\nANSWER:")
+    
     prompt = "\n".join(lines)
     return prompt, sources_meta
 
@@ -288,7 +286,7 @@ def expand_query_with_references(
 
 
 def auto_cite_answer(answer_text: str, sources_meta: List[Dict[str, Any]], *,
-                     min_jaccard: float = 0.05) -> Tuple[str, List[Dict[str, Any]], List[Dict[str, Any]]]:
+                     min_jaccard: float = 0.2) -> Tuple[str, List[Dict[str, Any]], List[Dict[str, Any]]]:
     """Best-effort citation insertion when the model omits [n] markers.
 
     - Splits the answer into lines; for each non-empty line, assigns the best-matching

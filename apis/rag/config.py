@@ -2,7 +2,7 @@ import os
 
 # Configuration for the RAG API
 
-DEFAULT_MODEL_ID = "mlx-community/Qwen3-4B-Thinking-2507-8bit"
+DEFAULT_MODEL_ID = "mlx-community/Qwen3-4B-Instruct-2507-4bit"
 
 class Config:
     """Base configuration class"""
@@ -14,7 +14,7 @@ class Config:
     DEFAULT_MODEL_ID = os.environ.get('DEFAULT_MODEL_ID') or DEFAULT_MODEL_ID
     
     # API settings
-    MAX_TOKENS = int(os.environ.get('MAX_TOKENS', '1200'))
+    MAX_TOKENS = int(os.environ.get('MAX_TOKENS', '2500'))
     DEFAULT_TEMPERATURE = float(os.environ.get('DEFAULT_TEMPERATURE', '0.2'))
     DEFAULT_TOP_P = float(os.environ.get('DEFAULT_TOP_P', '0.9'))
     DEFAULT_NUM_RESULTS = int(os.environ.get('DEFAULT_NUM_RESULTS', '5'))

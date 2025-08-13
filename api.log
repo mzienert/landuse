@@ -24,11 +24,21 @@ WARNING:werkzeug: * Debugger is active!
 INFO:werkzeug: * Debugger PIN: 114-241-345
 Batches:   0%|          | 0/1 [00:00<?, ?it/s]/Users/matthewzienert/Documents/landuse/env/lib/python3.13/site-packages/torch/nn/modules/module.py:1762: FutureWarning: `encoder_attention_mask` is deprecated and will be removed in version 4.55.0 for `BertSdpaSelfAttention.forward`.
   return forward_call(*args, **kwargs)
-Batches: 100%|██████████| 1/1 [00:00<00:00,  2.68it/s]Batches: 100%|██████████| 1/1 [00:00<00:00,  2.67it/s]
-INFO:werkzeug:127.0.0.1 - - [11/Aug/2025 23:00:24] "GET /search/simple?query=what+are+subdivision+requirements?&collection=la_plata_county_code&num_results=5 HTTP/1.1" 200 -
-Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 24.67it/s]
-INFO:werkzeug:127.0.0.1 - - [11/Aug/2025 23:00:24] "GET /search/simple?query=section+66-11&collection=la_plata_county_code&num_results=4 HTTP/1.1" 200 -
-Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 67.67it/s]
-INFO:werkzeug:127.0.0.1 - - [11/Aug/2025 23:00:24] "GET /search/simple?query=section+66-13&collection=la_plata_county_code&num_results=4 HTTP/1.1" 200 -
-Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 80.34it/s]
-INFO:werkzeug:127.0.0.1 - - [11/Aug/2025 23:00:24] "GET /search/simple?query=section+67-6&collection=la_plata_county_code&num_results=4 HTTP/1.1" 200 -
+Batches: 100%|██████████| 1/1 [00:00<00:00,  8.38it/s]Batches: 100%|██████████| 1/1 [00:00<00:00,  8.37it/s]
+INFO:werkzeug:127.0.0.1 - - [12/Aug/2025 21:33:04] "GET /search/simple?query=what+are+subdivision+requirements?&collection=la_plata_county_code&num_results=5 HTTP/1.1" 200 -
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 22.69it/s]
+INFO:werkzeug:127.0.0.1 - - [12/Aug/2025 21:33:04] "GET /search/simple?query=section+70-5&collection=la_plata_county_code&num_results=4 HTTP/1.1" 200 -
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 23.83it/s]
+INFO:werkzeug:127.0.0.1 - - [12/Aug/2025 21:33:04] "GET /search/simple?query=section+65&collection=la_plata_county_code&num_results=4 HTTP/1.1" 200 -
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 74.00it/s]
+INFO:werkzeug:127.0.0.1 - - [12/Aug/2025 21:33:04] "GET /search/simple?query=section+23-41&collection=la_plata_county_code&num_results=4 HTTP/1.1" 200 -
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 20.32it/s]
+INFO:werkzeug:127.0.0.1 - - [12/Aug/2025 21:34:45] "GET /search/simple?query=what+are+subdivision+requirements?&collection=la_plata_county_code&num_results=6 HTTP/1.1" 200 -
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 65.50it/s]
+INFO:werkzeug:127.0.0.1 - - [12/Aug/2025 21:34:45] "GET /search/simple?query=section+70-5&collection=la_plata_county_code&num_results=4 HTTP/1.1" 200 -
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 79.99it/s]
+INFO:werkzeug:127.0.0.1 - - [12/Aug/2025 21:34:45] "GET /search/simple?query=section+67-11&collection=la_plata_county_code&num_results=4 HTTP/1.1" 200 -
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 84.45it/s]
+INFO:werkzeug:127.0.0.1 - - [12/Aug/2025 21:34:45] "GET /search/simple?query=section+30-28&collection=la_plata_county_code&num_results=4 HTTP/1.1" 200 -
+/opt/homebrew/Cellar/python@3.13/3.13.1/Frameworks/Python.framework/Versions/3.13/lib/python3.13/multiprocessing/resource_tracker.py:276: UserWarning: resource_tracker: There appear to be 2 leaked semaphore objects to clean up at shutdown: {'/loky-81356-7h1kdyu9', '/loky-81356-ncodpn12'}
+  warnings.warn(

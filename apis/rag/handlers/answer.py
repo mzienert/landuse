@@ -32,11 +32,17 @@ def rag_answer():
                 )
             else:
                 prompt, sources_meta = f"User question:\n{query}\n\nAnswer concisely.", []
+            # DEBUG: Log the prompt being sent to model
+            print("=" * 80)
+            print("PROMPT BEING SENT TO MODEL:")
+            print(prompt)
+            print("=" * 80)
+            
             tokens = []
             try:
                 for t in model_mgr.stream_generate(
                     prompt,
-                    max_tokens=int(data.get("max_tokens", 1200)),
+                    max_tokens=int(data.get("max_tokens", 2500)),
                     temperature=float(data.get("temperature", 0.2)),
                     top_p=float(data.get("top_p", 0.9)),
                 ):
@@ -44,14 +50,23 @@ def rag_answer():
             except Exception as e:
                 return jsonify({"error": str(e)}), 500
             answer_text = "".join(tokens).strip()
+            
+            # DEBUG: Log the model's response
+            print("=" * 80)
+            print("MODEL RESPONSE:")
+            print(repr(answer_text))
+            print("=" * 80)
+            
             citations, used_sources = rag_engine.extract_citations(answer_text, sources_meta)
             if not citations and sources_meta:
                 # Best-effort auto-citation fallback
                 answer_text, citations, used_sources = rag_engine.auto_cite_answer(answer_text, sources_meta)
 
             # Lightweight verification report
-            annotated_answer, verification = rag_engine.verify_answer_support(answer_text, used_sources)
-            answer_text = annotated_answer
+            # TEMPORARILY DISABLED FOR DEBUGGING
+            # annotated_answer, verification = rag_engine.verify_answer_support(answer_text, used_sources)
+            # answer_text = annotated_answer
+            verification = None
         else:
             answer_text = (
                 "[stub] Model not loaded. Load via POST /rag/model/load with {\"model_id\": \"...\"}."
