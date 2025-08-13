@@ -2,7 +2,7 @@ import os
 
 # Configuration for the RAG API
 
-DEFAULT_MODEL_ID = "mlx-community/Qwen3-4B-Instruct-2507-4bit"
+DEFAULT_MODEL_ID = "qwen2.5-3b-instruct"  # llama.cpp server model
 
 class Config:
     """Base configuration class"""
@@ -12,6 +12,9 @@ class Config:
     
     # RAG Engine settings
     DEFAULT_MODEL_ID = os.environ.get('DEFAULT_MODEL_ID') or DEFAULT_MODEL_ID
+    
+    # llama.cpp Inference Service settings
+    INFERENCE_SERVICE_URL = os.environ.get('INFERENCE_SERVICE_URL', 'http://localhost:8003')
     
     # API settings
     MAX_TOKENS = int(os.environ.get('MAX_TOKENS', '2500'))
@@ -79,10 +82,10 @@ RAG_CONFIG = {
     "version": "0.1.0",
     "model": {
         "default": DEFAULT_MODEL_ID,
-        "target": "Qwen3-4B-Thinking for legal reasoning",
-        "fallback": "Llama 3 Instruct or legal LoRA",
-        "quantization": "8-bit preferred; fallback to 4-bit",
-        "context_window": "8K–16K tokens",
+        "inference": "llama.cpp external service",
+        "format": "GGUF",
+        "quantization": "Q4_K_M (4-bit)",
+        "context_window": "4K tokens",
     },
     "retrieval": {
         "store": "ChromaDB",
