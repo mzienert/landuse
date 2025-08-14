@@ -1,7 +1,8 @@
 from __future__ import annotations
 
-from typing import Any, Dict, List, Tuple
+from typing import Any, Dict, List, Tuple, Optional
 import requests
+from flask import current_app
 import re
 
 
@@ -35,12 +36,15 @@ def build_prompt_with_sources(
     question: str,
     results: List[Dict[str, Any]],
     *,
-    max_chunk_chars: int = 5000,
+    max_chunk_chars: Optional[int] = None,
 ) -> Tuple[str, List[Dict[str, Any]]]:
     """Construct a grounded prompt with enumerated sources and return (prompt, sources_meta).
 
     sources_meta preserves mapping for UI: index, collection, section/account, and small preview.
     """
+    if max_chunk_chars is None:
+        max_chunk_chars = getattr(current_app.config, 'MAX_CHUNK_CHARS', 5000)
+    
     lines: List[str] = []
 
     system = (
@@ -75,7 +79,7 @@ def build_prompt_with_sources(
 
     # Add explicit instruction to generate an answer
     lines.append("\nINSTRUCTIONS:")
-    lines.append("Based on the sources provided above, answer the user's question accurately and concisely. Include citation markers [n] to reference specific sources.")
+    lines.append("Based on the sources provided above, answer the user's question accurately and concisely. Include citation markers [n] to reference specific sources. Provide a complete answer and then stop.")
     lines.append("\nANSWER:")
     
     prompt = "\n".join(lines)

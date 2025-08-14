@@ -6,7 +6,7 @@ import { askRag, streamRag, openRagEventStream, type RagSource, type RagCitation
 export default function RagPage() {
   const [query, setQuery] = useState("");
   const [collection, setCollection] = useState("la_plata_county_code");
-  const [numResults, setNumResults] = useState(6);
+  const [numResults, setNumResults] = useState(4);
   const [isStreaming, setIsStreaming] = useState(false);
   const [error, setError] = useState<string | null>(null);
   const [answer, setAnswer] = useState("");
@@ -106,7 +106,7 @@ export default function RagPage() {
                     className="w-full border rounded-md p-2"
                     disabled={isStreaming}
                   >
-                    {[3,4,5,6,8,10].map((k) => (
+                    {[3,4,5,6].map((k) => (
                       <option key={k} value={k}>{k}</option>
                     ))}
                   </select>

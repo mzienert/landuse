@@ -17,10 +17,14 @@ class Config:
     INFERENCE_SERVICE_URL = os.environ.get('INFERENCE_SERVICE_URL', 'http://localhost:8003')
     
     # API settings
-    MAX_TOKENS = int(os.environ.get('MAX_TOKENS', '2500'))
-    DEFAULT_TEMPERATURE = float(os.environ.get('DEFAULT_TEMPERATURE', '0.2'))
+    MAX_TOKENS = int(os.environ.get('MAX_TOKENS', '1200'))  # Good balance of detail vs repetition prevention
+    DEFAULT_TEMPERATURE = float(os.environ.get('DEFAULT_TEMPERATURE', '0.3'))  # Slightly higher for less repetition
     DEFAULT_TOP_P = float(os.environ.get('DEFAULT_TOP_P', '0.9'))
-    DEFAULT_NUM_RESULTS = int(os.environ.get('DEFAULT_NUM_RESULTS', '5'))
+    DEFAULT_NUM_RESULTS = int(os.environ.get('DEFAULT_NUM_RESULTS', '4'))  # Fewer sources for faster processing
+    
+    # Inference service settings
+    INFERENCE_SERVICE_TIMEOUT = int(os.environ.get('INFERENCE_SERVICE_TIMEOUT', '300'))  # 5 minutes
+    MAX_CHUNK_CHARS = int(os.environ.get('MAX_CHUNK_CHARS', '3000'))  # Limit source text length for better performance
     
     # Retrieval settings
     DEFAULT_COLLECTION = os.environ.get('DEFAULT_COLLECTION') or 'la_plata_county_code'

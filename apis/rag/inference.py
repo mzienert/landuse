@@ -3,6 +3,7 @@ from __future__ import annotations
 from typing import Generator, Optional
 import requests
 import os
+from flask import current_app
 
 
 class ModelManager:
@@ -83,9 +84,11 @@ class ModelManager:
                     "n_predict": max_tokens,
                     "temperature": temperature,
                     "top_p": top_p,
+                    "repeat_penalty": 1.3,  # Stronger penalty to prevent repetition
+                    "repeat_last_n": 128,   # Consider more tokens for repetition detection
                     "stream": False  # Get complete response
                 },
-                timeout=120  # 2 minute timeout
+                timeout=getattr(current_app.config, 'INFERENCE_SERVICE_TIMEOUT', 300)
             )
             
             response.raise_for_status()

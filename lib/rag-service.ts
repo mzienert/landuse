@@ -40,7 +40,7 @@ export async function askRag(
   const res = await fetch(`${RAG_BASE_URL}/rag/answer`, {
     method: 'POST',
     headers: { 'Content-Type': 'application/json' },
-    body: JSON.stringify({ query, collection, num_results: numResults, max_tokens: opts?.maxTokens ?? 10000 }),
+    body: JSON.stringify({ query, collection, num_results: numResults, max_tokens: opts?.maxTokens ?? 1200 }),
   });
   if (!res.ok) {
     const text = await res.text();
@@ -67,7 +67,7 @@ export async function* streamRag(
     query,
     collection,
     num_results: String(numResults),
-    max_tokens: String(opts?.maxTokens ?? 10000),
+    max_tokens: String(opts?.maxTokens ?? 1200),
   });
   const res = await fetch(`${RAG_BASE_URL}/rag/answer/stream?${params.toString()}`, {
     method: 'GET',
@@ -113,7 +113,7 @@ export function openRagEventStream(
     query,
     collection,
     num_results: String(numResults),
-    max_tokens: String(opts?.maxTokens ?? 10000),
+    max_tokens: String(opts?.maxTokens ?? 1200),
   });
   const es = new EventSource(`${RAG_BASE_URL}/rag/answer/stream?${params.toString()}`);
   es.onmessage = (e) => {
