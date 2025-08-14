@@ -124,6 +124,108 @@ htop  # or Activity Monitor on macOS
 
 ### ⚠️ Quality Issues (Service Running, Poor Results)
 
+#### Response Inconsistency (Different Results for Same Query)
+
+**Symptoms**:
+- Identical queries produce vastly different answers on each run
+- Same semantic search results but varying LLM outputs
+- Response quality fluctuates unpredictably
+- Cannot reproduce specific answers
+
+**Example**:
+```bash
+# Running this query multiple times produces different responses each time
+curl -X POST http://localhost:8001/rag/answer \
+  -H 'Content-Type: application/json' \
+  -d '{"query": "What are minor subdivision requirements?"}'
+
+# Response 1: "Minor subdivision procedures apply to divisions of 3 or fewer lots..."
+# Response 2: "According to La Plata County Code, minor subdivisions require..."  
+# Response 3: "The requirements for minor subdivisions include..."
+```
+
+**Root Cause**: Non-deterministic model generation due to:
+- Random sampling with temperature > 0
+- No fixed seed causing different KV cache behavior in llama.cpp
+- Model inference variations between runs
+
+**Diagnosis**:
+```bash
+# Test consistency by running same query multiple times
+for i in {1..3}; do
+  echo "=== Run $i ==="
+  curl -s -X POST http://localhost:8001/rag/answer \
+    -H 'Content-Type: application/json' \
+    -d '{"query": "What are minor subdivision requirements?"}' | jq -r '.answer' | head -n 3
+  echo
+done
+```
+
+**Solution - Hybrid Deterministic Approach**:
+
+The solution combines multiple techniques for consistent responses while maintaining quality:
+
+1. **Fixed Seed**: Set deterministic seed in `inference.py:89`
+2. **Temperature Capping**: Limit randomness via `inference.py:85`  
+3. **Structured Prompts**: Enhanced prompt engineering in `retrieval.py:53`
+
+**Implementation Details**:
+
+```python
+# In apis/rag/inference.py (lines 85-89)
+"temperature": min(temperature, 0.1),  # Cap at 0.1 for consistency
+"repeat_penalty": 1.3,                 # Prevent repetition
+"repeat_last_n": 128,                  # Consider more tokens for repetition
+"seed": 42,                            # Fixed seed for reproducible results
+```
+
+```python
+# In apis/rag/retrieval.py (lines 53-54)
+"Structure your response clearly with the key information first, followed by supporting details. "
+"Include citation markers [n] in your response to reference the sources you use. "
+```
+
+**Configuration Parameters**:
+- `seed: 42` - Fixed seed for reproducible generation
+- `temperature: ≤ 0.1` - Minimal randomness while preserving quality
+- `repeat_penalty: 1.3` - Prevent repetitive text generation
+- Enhanced prompt structure for consistent formatting
+
+**Testing Consistency**:
+```bash
+# Verify the fix works by running identical queries
+query='{"query": "What are minor subdivision requirements?", "collection": "la_plata_county_code", "num_results": 4}'
+
+echo "=== Test 1 ==="
+curl -s -X POST http://localhost:8001/rag/answer -H 'Content-Type: application/json' -d "$query" | jq -r '.answer'
+
+echo -e "\n=== Test 2 ==="  
+curl -s -X POST http://localhost:8001/rag/answer -H 'Content-Type: application/json' -d "$query" | jq -r '.answer'
+
+echo -e "\n=== Test 3 ==="
+curl -s -X POST http://localhost:8001/rag/answer -H 'Content-Type: application/json' -d "$query" | jq -r '.answer'
+
+# All three responses should be identical
+```
+
+**Performance Impact**:
+- Minimal impact on response quality (maintains detail and accuracy)
+- Slight reduction in creative variation (intentional for legal use cases)
+- Same response times (~4-5 seconds)
+- Deterministic behavior across all identical queries
+
+**When to Adjust**:
+- **Increase seed variation**: For A/B testing different response styles
+- **Raise temperature cap**: If responses become too rigid (unlikely for legal content)
+- **Modify prompt structure**: To adjust response formatting consistency
+
+**Reverting to Non-Deterministic Behavior** (if needed):
+```python
+# In apis/rag/inference.py, remove/modify these lines:
+"temperature": temperature,  # Remove min() cap
+# "seed": 42,                # Comment out fixed seed
+```
+
 #### No Citations or Empty Responses
 
 **Symptoms**:

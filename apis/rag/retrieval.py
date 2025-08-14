@@ -50,6 +50,7 @@ def build_prompt_with_sources(
     system = (
         "You are a helpful assistant that answers questions about La Plata County code and regulations. "
         "Use the provided sources to answer the user's question accurately and concisely. "
+        "Structure your response clearly with the key information first, followed by supporting details. "
         "Include citation markers [n] in your response to reference the sources you use. "
         "If the sources don't contain enough information to answer the question, say so."
     )

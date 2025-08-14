@@ -82,10 +82,11 @@ class ModelManager:
                 json={
                     "prompt": prompt,
                     "n_predict": max_tokens,
-                    "temperature": temperature,
+                    "temperature": min(temperature, 0.1),  # Cap temperature for consistency
                     "top_p": top_p,
                     "repeat_penalty": 1.3,  # Stronger penalty to prevent repetition
                     "repeat_last_n": 128,   # Consider more tokens for repetition detection
+                    "seed": 42,             # Fixed seed for reproducible results
                     "stream": False  # Get complete response
                 },
                 timeout=getattr(current_app.config, 'INFERENCE_SERVICE_TIMEOUT', 300)
