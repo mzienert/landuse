@@ -61,6 +61,83 @@ The La Plata County RAG (Retrieval-Augmented Generation) system is a sophisticat
 └─────────────────────────────────────────────────────────────┘
 ```
 
+## Next Evolution: LangChain Integration Architecture
+
+### Planned LangChain Abstraction Layer
+
+The next major evolution will introduce LangChain as an abstraction layer for LLM providers, enabling seamless switching between local and cloud inference while maintaining current performance characteristics.
+
+```
+┌─────────────────────────────────────────────────────────────┐
+│                    Client Application                        │
+│                   (Next.js Frontend)                        │
+└─────────────────────┬───────────────────────────────────────┘
+                      │ HTTP Requests
+                      ▼
+┌─────────────────────────────────────────────────────────────┐
+│                   RAG API Layer                             │
+│                  (rag_api.py)                               │
+└─────────────────────┬───────────────────────────────────────┘
+                      │
+                      ▼
+┌─────────────────────────────────────────────────────────────┐
+│             LangChain Abstraction Layer                     │
+│                                                             │
+│  ┌─────────────────────────────────────────────────────────┐ │
+│  │            Environment-Based Provider Selection          │ │
+│  │                                                         │ │
+│  │  if env == "local":                                     │ │
+│  │    ChatOpenAI(base_url="http://localhost:8003/v1")      │ │
+│  │  elif env == "staging":                                 │ │
+│  │    ChatBedrock(model="claude-3-haiku")                  │ │
+│  │  elif env == "prod":                                    │ │
+│  │    ChatBedrock(model="claude-3-sonnet")                 │ │
+│  └─────────────────────────────────────────────────────────┘ │
+└─────────────────────┬───────────────────────────────────────┘
+                      │
+                      ▼
+┌─────────────────────────────────────────────────────────────┐
+│                 LLM Providers                               │
+│                                                             │
+│  ┌──────────────┐  ┌──────────────┐  ┌──────────────────┐   │
+│  │   Local      │  │   Staging    │  │   Production     │   │
+│  │ llama.cpp    │  │AWS Bedrock   │  │  AWS Bedrock     │   │
+│  │   HTTP       │  │  Claude-3    │  │  Claude-3        │   │
+│  │   (8003)     │  │   Haiku      │  │   Sonnet         │   │
+│  └──────────────┘  └──────────────┘  └──────────────────────┘   │
+└─────────────────────────────────────────────────────────────┘
+```
+
+### Migration Benefits
+
+1. **Zero Performance Regression**: HTTP-based calls maintain current optimizations
+2. **Provider Flexibility**: Easy switching between local and cloud models  
+3. **Cost Optimization**: Use cheaper models for dev/test environments
+4. **Consistency Preservation**: Seed=42, temperature≤0.1 maintained across providers
+5. **Future-Proof**: Foundation for advanced LangChain features (chains, agents)
+
+### Implementation Strategy
+
+**Phase 1**: LangChain + llama.cpp HTTP
+- Replace direct HTTP calls with `ChatOpenAI` pointing to llama.cpp server
+- Maintain all current parameters (seed, temperature cap, repeat penalty)
+- Add environment variable configuration
+
+**Phase 2**: Multi-Environment Support  
+- Add staging environment with AWS Bedrock
+- Implement provider switching logic
+- Environment-specific parameter mapping
+
+**Phase 3**: Production Deployment
+- Production AWS Bedrock integration
+- Advanced monitoring and error handling
+- Cost and performance optimization
+
+**Phase 4**: Advanced Features
+- LangChain prompt templates for better maintainability
+- Conversation memory for multi-turn interactions
+- Agent-based reasoning for complex legal queries
+
 ## Core Components
 
 ### 1. RAG API Layer (`rag_api.py`)
@@ -117,6 +194,9 @@ The La Plata County RAG (Retrieval-Augmented Generation) system is a sophisticat
 - HTTP-based inference with timeout handling
 - Supports both streaming and batch generation
 - Service discovery and health checking
+- **Deterministic generation**: Fixed seed (42), temperature capping (≤0.1), repeat penalty (1.3)
+
+**⚠️ Evolution in Progress**: Migration to LangChain abstraction layer planned for environment-based provider switching (local llama.cpp → staging/prod AWS Bedrock).
 
 ### 5. Answer Verification (`verify.py`)
 - **Role**: Post-generation answer validation and citation support

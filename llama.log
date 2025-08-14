@@ -647,3 +647,91 @@ prompt eval time =      19.25 ms /     1 tokens (   19.25 ms per token,    51.95
       total time =    4398.46 ms /   252 tokens
 srv  update_slots: all slots are idle
 srv  log_server_r: request: POST /completion 127.0.0.1 200
+srv  log_server_r: request: GET /health 127.0.0.1 200
+srv  log_server_r: request: GET /health 127.0.0.1 200
+srv  log_server_r: request: GET /health 127.0.0.1 200
+slot launch_slot_: id  0 | task 30365 | processing task
+slot update_slots: id  0 | task 30365 | new prompt, n_ctx_slot = 4096, n_keep = 0, n_prompt_tokens = 1831
+slot update_slots: id  0 | task 30365 | need to evaluate at least 1 token for each active slot, n_past = 1831, n_prompt_tokens = 1831
+slot update_slots: id  0 | task 30365 | kv cache rm [1830, end)
+slot update_slots: id  0 | task 30365 | prompt processing progress, n_past = 1831, n_tokens = 1, progress = 0.000546
+slot update_slots: id  0 | task 30365 | prompt done, n_past = 1831, n_tokens = 1
+slot      release: id  0 | task 30365 | stop processing: n_past = 2081, truncated = 0
+slot print_timing: id  0 | task 30365 | 
+prompt eval time =      18.97 ms /     1 tokens (   18.97 ms per token,    52.70 tokens per second)
+       eval time =    4349.72 ms /   251 tokens (   17.33 ms per token,    57.70 tokens per second)
+      total time =    4368.69 ms /   252 tokens
+srv  update_slots: all slots are idle
+srv  log_server_r: request: POST /completion 127.0.0.1 200
+srv  log_server_r: request: GET /health 127.0.0.1 200
+srv  log_server_r: request: GET /health 127.0.0.1 200
+srv  log_server_r: request: GET /health 127.0.0.1 200
+slot launch_slot_: id  0 | task 30617 | processing task
+slot update_slots: id  0 | task 30617 | new prompt, n_ctx_slot = 4096, n_keep = 0, n_prompt_tokens = 1831
+slot update_slots: id  0 | task 30617 | need to evaluate at least 1 token for each active slot, n_past = 1831, n_prompt_tokens = 1831
+slot update_slots: id  0 | task 30617 | kv cache rm [1830, end)
+slot update_slots: id  0 | task 30617 | prompt processing progress, n_past = 1831, n_tokens = 1, progress = 0.000546
+slot update_slots: id  0 | task 30617 | prompt done, n_past = 1831, n_tokens = 1
+slot      release: id  0 | task 30617 | stop processing: n_past = 2081, truncated = 0
+slot print_timing: id  0 | task 30617 | 
+prompt eval time =      19.12 ms /     1 tokens (   19.12 ms per token,    52.31 tokens per second)
+       eval time =    4353.22 ms /   251 tokens (   17.34 ms per token,    57.66 tokens per second)
+      total time =    4372.34 ms /   252 tokens
+srv  update_slots: all slots are idle
+srv  log_server_r: request: POST /completion 127.0.0.1 200
+srv  log_server_r: request: GET /health 127.0.0.1 200
+srv  log_server_r: request: GET /v1/models 127.0.0.1 200
+srv  params_from_: Chat format: Content-only
+slot launch_slot_: id  0 | task 30869 | processing task
+slot update_slots: id  0 | task 30869 | new prompt, n_ctx_slot = 4096, n_keep = 0, n_prompt_tokens = 10
+slot update_slots: id  0 | task 30869 | kv cache rm [0, end)
+slot update_slots: id  0 | task 30869 | prompt processing progress, n_past = 10, n_tokens = 10, progress = 1.000000
+slot update_slots: id  0 | task 30869 | prompt done, n_past = 10, n_tokens = 10
+slot      release: id  0 | task 30869 | stop processing: n_past = 40, truncated = 0
+slot print_timing: id  0 | task 30869 | 
+prompt eval time =      68.87 ms /    10 tokens (    6.89 ms per token,   145.19 tokens per second)
+       eval time =     388.11 ms /    31 tokens (   12.52 ms per token,    79.87 tokens per second)
+      total time =     456.98 ms /    41 tokens
+srv  update_slots: all slots are idle
+srv  log_server_r: request: POST /v1/chat/completions 127.0.0.1 200
+srv  params_from_: Chat format: Content-only
+slot launch_slot_: id  0 | task 30901 | processing task
+slot update_slots: id  0 | task 30901 | new prompt, n_ctx_slot = 4096, n_keep = 0, n_prompt_tokens = 13
+slot update_slots: id  0 | task 30901 | kv cache rm [3, end)
+slot update_slots: id  0 | task 30901 | prompt processing progress, n_past = 13, n_tokens = 10, progress = 0.769231
+slot update_slots: id  0 | task 30901 | prompt done, n_past = 13, n_tokens = 10
+slot      release: id  0 | task 30901 | stop processing: n_past = 23, truncated = 0
+slot print_timing: id  0 | task 30901 | 
+prompt eval time =      71.08 ms /    10 tokens (    7.11 ms per token,   140.68 tokens per second)
+       eval time =     131.31 ms /    11 tokens (   11.94 ms per token,    83.77 tokens per second)
+      total time =     202.39 ms /    21 tokens
+srv  update_slots: all slots are idle
+srv  log_server_r: request: POST /v1/chat/completions 127.0.0.1 200
+srv  params_from_: Chat format: Content-only
+slot launch_slot_: id  0 | task 30913 | processing task
+slot update_slots: id  0 | task 30913 | new prompt, n_ctx_slot = 4096, n_keep = 0, n_prompt_tokens = 13
+slot update_slots: id  0 | task 30913 | need to evaluate at least 1 token for each active slot, n_past = 13, n_prompt_tokens = 13
+slot update_slots: id  0 | task 30913 | kv cache rm [12, end)
+slot update_slots: id  0 | task 30913 | prompt processing progress, n_past = 13, n_tokens = 1, progress = 0.076923
+slot update_slots: id  0 | task 30913 | prompt done, n_past = 13, n_tokens = 1
+slot      release: id  0 | task 30913 | stop processing: n_past = 23, truncated = 0
+slot print_timing: id  0 | task 30913 | 
+prompt eval time =      29.07 ms /     1 tokens (   29.07 ms per token,    34.40 tokens per second)
+       eval time =     131.58 ms /    11 tokens (   11.96 ms per token,    83.60 tokens per second)
+      total time =     160.65 ms /    12 tokens
+srv  update_slots: all slots are idle
+srv  log_server_r: request: POST /v1/chat/completions 127.0.0.1 200
+srv  log_server_r: request: GET /v1/models 127.0.0.1 200
+srv  params_from_: Chat format: Content-only
+slot launch_slot_: id  0 | task 30925 | processing task
+slot update_slots: id  0 | task 30925 | new prompt, n_ctx_slot = 4096, n_keep = 0, n_prompt_tokens = 36
+slot update_slots: id  0 | task 30925 | kv cache rm [1, end)
+slot update_slots: id  0 | task 30925 | prompt processing progress, n_past = 36, n_tokens = 35, progress = 0.972222
+slot update_slots: id  0 | task 30925 | prompt done, n_past = 36, n_tokens = 35
+slot      release: id  0 | task 30925 | stop processing: n_past = 235, truncated = 0
+slot print_timing: id  0 | task 30925 | 
+prompt eval time =     100.77 ms /    35 tokens (    2.88 ms per token,   347.34 tokens per second)
+       eval time =    2629.50 ms /   200 tokens (   13.15 ms per token,    76.06 tokens per second)
+      total time =    2730.27 ms /   235 tokens
+srv  update_slots: all slots are idle
+srv  log_server_r: request: POST /v1/chat/completions 127.0.0.1 200

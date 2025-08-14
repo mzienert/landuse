@@ -166,25 +166,84 @@ change_tracking = {
 }
 ```
 
-### Phase 4: Production Architecture
+### Phase 4: LangChain Integration and Production Architecture
 
-#### 1. Cloud Migration Strategy
-**Current**: Local ChromaDB + MLX inference
+#### 1. LangChain Abstraction Layer (Next Evolution)
+**Current**: Direct HTTP calls to llama.cpp server
 
-**Phase 2**: Hybrid Cloud
+**Planned**: LangChain provider abstraction with environment-based switching
+
+**Strategic Benefits**:
+- **Clean abstraction**: Unified interface for all LLM providers
+- **Environment flexibility**: Easy switching between local/staging/production models
+- **AWS Bedrock preparation**: Foundation for cloud migration
+- **Maintained performance**: HTTP-based calls preserve current optimizations
+
+**Implementation Architecture**:
+```python
+# Environment-based provider selection
+def get_llm_provider():
+    env = os.getenv("DEPLOYMENT_ENV", "local")
+    
+    if env == "local":
+        return ChatOpenAI(
+            base_url="http://localhost:8003/v1",  # llama.cpp OpenAI-compatible API
+            api_key="dummy",
+            temperature=0.1,
+            max_tokens=1200,
+            seed=42  # Maintain consistency
+        )
+    elif env == "staging":
+        return ChatBedrock(
+            model_id="anthropic.claude-3-haiku-20240307",
+            region="us-west-2"
+        )
+    elif env == "prod":
+        return ChatBedrock(
+            model_id="anthropic.claude-3-sonnet-20240229",
+            region="us-west-2"
+        )
+```
+
+**Migration Strategy**:
+1. **Phase 1**: Integrate LangChain with llama.cpp HTTP (maintain current performance)
+2. **Phase 2**: Add staging environment with AWS Bedrock  
+3. **Phase 3**: Production deployment with environment switching
+4. **Phase 4**: Advanced LangChain features (chains, agents, memory)
+
+**Key Advantages**:
+- **Zero performance regression**: HTTP calls avoid Python binding memory issues
+- **Consistent parameters**: Seed=42, temperature≤0.1 preserved across providers
+- **Environment isolation**: Dev/staging/prod model separation
+- **Cost optimization**: Use cheaper models for development and testing
+
+**Technical Requirements**:
+- llama.cpp server OpenAI API compatibility verification
+- LangChain prompt template migration
+- Environment variable configuration management
+- Parameter consistency across providers (seed, temperature, repeat_penalty)
+
+#### 2. Cloud Migration Strategy
+**Current**: Local ChromaDB + llama.cpp HTTP inference
+
+**Phase 2**: LangChain + Hybrid Cloud
 - **Search**: Migrate to Pinecone for scalability
-- **Inference**: Keep MLX local for control and latency
+- **Inference**: LangChain abstraction with local/cloud switching
+- **Benefits**: Provider flexibility while maintaining performance
 
-**Phase 3**: Full Cloud
+**Phase 3**: Full Cloud with LangChain
 - **Search**: Pinecone with advanced indexing
-- **Inference**: AWS Bedrock with Claude or GPT-4
+- **Inference**: AWS Bedrock via LangChain with environment switching
+- **Benefits**: Full scalability with seamless provider management
 
 **Migration Benefits**:
-| Aspect | Local | Hybrid | Full Cloud |
+| Aspect | Current (Direct HTTP) | LangChain + Local | LangChain + Cloud |
 |--------|--------|---------|------------|
-| **Scalability** | Limited | High | Very High |
-| **Latency** | Low | Medium | Medium-High |
-| **Cost** | Low | Medium | Variable |
+| **Abstraction** | Low | High | High |
+| **Provider Flexibility** | None | High | Very High |
+| **Scalability** | Limited | Medium | Very High |
+| **Latency** | Low | Low | Medium |
+| **Cost** | Low | Low | Variable |
 | **Maintenance** | High | Medium | Low |
 
 #### 2. Advanced Monitoring
@@ -279,10 +338,10 @@ conversation_memory = {
 ## 🎯 Implementation Priorities
 
 ### High Priority (Next 1-2 Months)
-1. **Better embeddings during Pinecone migration**
-2. **Cross-encoder reranking for improved accuracy**
-3. **Advanced monitoring and alerting**
-4. **Security hardening for production**
+1. **LangChain integration with llama.cpp HTTP** (maintains current performance)
+2. **Environment-based provider switching** (local/staging/prod)
+3. **Better embeddings during Pinecone migration**
+4. **Cross-encoder reranking for improved accuracy**
 
 ### Medium Priority (3-6 Months)  
 1. **Multi-step reasoning agents**
