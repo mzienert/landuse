@@ -15,10 +15,10 @@ class RAGEngine:
         
     def initialize(self):
         """Initialize the RAG engine with all dependencies"""
-        # Optional: MLX model manager (loaded on demand)
+        # LangChain inference manager (loaded on demand)
         try:
-            from .inference import ModelManager
-            self.model_mgr = ModelManager()
+            from .langchain_inference import LangChainInferenceManager
+            self.model_mgr = LangChainInferenceManager()
         except Exception:
             self.model_mgr = None
 
@@ -52,7 +52,8 @@ class RAGEngine:
             try:
                 print(f"Auto-loading default model: {DEFAULT_MODEL_ID}")
                 self.model_mgr.load_model(DEFAULT_MODEL_ID)
-                print(f"✅ Default model loaded successfully")
+                provider_name = type(self.model_mgr.provider).__name__ if hasattr(self.model_mgr, 'provider') else 'Unknown'
+                print(f"✅ Default model loaded successfully using {provider_name}")
             except Exception as e:
                 print(f"⚠️  Failed to auto-load default model: {e}")
                 print(f"   Model can be loaded manually via /rag/model/load endpoint")

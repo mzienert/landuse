@@ -5150,3 +5150,30 @@ Auto-loading default model: qwen2.5-3b-instruct
  * Restarting with stat
  * Debugger is active!
  * Debugger PIN: 114-241-345
+ * Detected change in '/Users/matthewzienert/Documents/landuse/apis/rag/rag_engine.py', reloading
+Auto-loading default model: qwen2.5-3b-instruct
+✅ Default model loaded successfully
+ * Restarting with stat
+[2025-08-17 21:49:06,117] INFO in langchain_inference: Loaded LLM provider: LocalLlamaCppProvider
+ * Debugger is active!
+ * Debugger PIN: 114-241-345
+ * Detected change in '/Users/matthewzienert/Documents/landuse/apis/rag/rag_engine.py', reloading
+ * Restarting with stat
+[2025-08-17 21:49:22,377] INFO in langchain_inference: Loaded LLM provider: LocalLlamaCppProvider
+ * Debugger is active!
+ * Debugger PIN: 114-241-345
+ * Detected change in '/Users/matthewzienert/Documents/landuse/apis/rag/rag_engine.py', reloading
+ * Restarting with stat
+[2025-08-17 21:49:44,800] INFO in langchain_inference: Loaded LLM provider: LocalLlamaCppProvider
+ * Debugger is active!
+ * Debugger PIN: 114-241-345
+ * Detected change in '/Users/matthewzienert/Documents/landuse/apis/rag/handlers/health.py', reloading
+ * Restarting with stat
+[2025-08-17 21:50:12,358] INFO in langchain_inference: Loaded LLM provider: LocalLlamaCppProvider
+ * Debugger is active!
+ * Debugger PIN: 114-241-345
+ * Detected change in '/Users/matthewzienert/Documents/landuse/apis/rag/handlers/health.py', reloading
+ * Restarting with stat
+[2025-08-17 21:50:28,502] INFO in langchain_inference: Loaded LLM provider: LocalLlamaCppProvider
+ * Debugger is active!
+ * Debugger PIN: 114-241-345
