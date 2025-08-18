@@ -24,419 +24,47 @@ WARNING:werkzeug: * Debugger is active!
 INFO:werkzeug: * Debugger PIN: 114-241-345
 Batches:   0%|          | 0/1 [00:00<?, ?it/s]/Users/matthewzienert/Documents/landuse/env/lib/python3.13/site-packages/torch/nn/modules/module.py:1762: FutureWarning: `encoder_attention_mask` is deprecated and will be removed in version 4.55.0 for `BertSdpaSelfAttention.forward`.
   return forward_call(*args, **kwargs)
-Batches: 100%|██████████| 1/1 [00:00<00:00,  8.48it/s]Batches: 100%|██████████| 1/1 [00:00<00:00,  8.47it/s]
-INFO:werkzeug:127.0.0.1 - - [13/Aug/2025 20:24:47] "GET /search/simple?query=what+are+subdivision+requirements?&collection=la_plata_county_code&num_results=6 HTTP/1.1" 200 -
-Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 23.61it/s]
-INFO:werkzeug:127.0.0.1 - - [13/Aug/2025 20:24:47] "GET /search/simple?query=section+70-3&collection=la_plata_county_code&num_results=4 HTTP/1.1" 200 -
-Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 23.56it/s]
-INFO:werkzeug:127.0.0.1 - - [13/Aug/2025 20:24:47] "GET /search/simple?query=section+65&collection=la_plata_county_code&num_results=4 HTTP/1.1" 200 -
-Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 80.59it/s]
-INFO:werkzeug:127.0.0.1 - - [13/Aug/2025 20:24:47] "GET /search/simple?query=section+67-2&collection=la_plata_county_code&num_results=4 HTTP/1.1" 200 -
-INFO:werkzeug: * Detected change in '/Users/matthewzienert/Documents/landuse/apis/rag/inference.py', reloading
-INFO:werkzeug: * Restarting with stat
-Could not initialize collection 'la_plata_assessor': Collection [la_plata_assessor] does not exists
-INFO:apis.search.search_engine:Connecting to ChromaDB...
-INFO:apis.search.search_engine:Connected to collection 'la_plata_county_code': 1298 documents
-WARNING:apis.search.search_engine:Could not initialize collection 'la_plata_assessor': Collection [la_plata_assessor] does not exists
-INFO:apis.search.search_engine:Successfully initialized 1 collections
-INFO:__main__:Search system initialized successfully
-INFO:__main__:Starting Flask server in development mode...
-WARNING:werkzeug: * Debugger is active!
-INFO:werkzeug: * Debugger PIN: 114-241-345
-INFO:werkzeug: * Detected change in '/Users/matthewzienert/Documents/landuse/apis/rag/config.py', reloading
-INFO:werkzeug: * Restarting with stat
-Could not initialize collection 'la_plata_assessor': Collection [la_plata_assessor] does not exists
-INFO:apis.search.search_engine:Connecting to ChromaDB...
-INFO:apis.search.search_engine:Connected to collection 'la_plata_county_code': 1298 documents
-WARNING:apis.search.search_engine:Could not initialize collection 'la_plata_assessor': Collection [la_plata_assessor] does not exists
-INFO:apis.search.search_engine:Successfully initialized 1 collections
-INFO:__main__:Search system initialized successfully
-INFO:__main__:Starting Flask server in development mode...
-WARNING:werkzeug: * Debugger is active!
-INFO:werkzeug: * Debugger PIN: 114-241-345
-INFO:werkzeug: * Detected change in '/Users/matthewzienert/Documents/landuse/apis/rag/inference.py', reloading
-INFO:werkzeug: * Restarting with stat
-Could not initialize collection 'la_plata_assessor': Collection [la_plata_assessor] does not exists
-INFO:apis.search.search_engine:Connecting to ChromaDB...
-INFO:apis.search.search_engine:Connected to collection 'la_plata_county_code': 1298 documents
-WARNING:apis.search.search_engine:Could not initialize collection 'la_plata_assessor': Collection [la_plata_assessor] does not exists
-INFO:apis.search.search_engine:Successfully initialized 1 collections
-INFO:__main__:Search system initialized successfully
-INFO:__main__:Starting Flask server in development mode...
-WARNING:werkzeug: * Debugger is active!
-INFO:werkzeug: * Debugger PIN: 114-241-345
-INFO:werkzeug: * Detected change in '/Users/matthewzienert/Documents/landuse/apis/rag/inference.py', reloading
-INFO:werkzeug: * Restarting with stat
-Could not initialize collection 'la_plata_assessor': Collection [la_plata_assessor] does not exists
-INFO:apis.search.search_engine:Connecting to ChromaDB...
-INFO:apis.search.search_engine:Connected to collection 'la_plata_county_code': 1298 documents
-WARNING:apis.search.search_engine:Could not initialize collection 'la_plata_assessor': Collection [la_plata_assessor] does not exists
-INFO:apis.search.search_engine:Successfully initialized 1 collections
-INFO:__main__:Search system initialized successfully
-INFO:__main__:Starting Flask server in development mode...
-WARNING:werkzeug: * Debugger is active!
-INFO:werkzeug: * Debugger PIN: 114-241-345
-INFO:werkzeug: * Detected change in '/Users/matthewzienert/Documents/landuse/apis/rag/retrieval.py', reloading
-INFO:werkzeug: * Restarting with stat
-Could not initialize collection 'la_plata_assessor': Collection [la_plata_assessor] does not exists
-INFO:apis.search.search_engine:Connecting to ChromaDB...
-INFO:apis.search.search_engine:Connected to collection 'la_plata_county_code': 1298 documents
-WARNING:apis.search.search_engine:Could not initialize collection 'la_plata_assessor': Collection [la_plata_assessor] does not exists
-INFO:apis.search.search_engine:Successfully initialized 1 collections
-INFO:__main__:Search system initialized successfully
-INFO:__main__:Starting Flask server in development mode...
-WARNING:werkzeug: * Debugger is active!
-INFO:werkzeug: * Debugger PIN: 114-241-345
-INFO:werkzeug: * Detected change in '/Users/matthewzienert/Documents/landuse/apis/rag/retrieval.py', reloading
-INFO:werkzeug: * Restarting with stat
-Could not initialize collection 'la_plata_assessor': Collection [la_plata_assessor] does not exists
-INFO:apis.search.search_engine:Connecting to ChromaDB...
-INFO:apis.search.search_engine:Connected to collection 'la_plata_county_code': 1298 documents
-WARNING:apis.search.search_engine:Could not initialize collection 'la_plata_assessor': Collection [la_plata_assessor] does not exists
-INFO:apis.search.search_engine:Successfully initialized 1 collections
-INFO:__main__:Search system initialized successfully
-INFO:__main__:Starting Flask server in development mode...
-WARNING:werkzeug: * Debugger is active!
-INFO:werkzeug: * Debugger PIN: 114-241-345
-INFO:werkzeug: * Detected change in '/Users/matthewzienert/Documents/landuse/apis/rag/retrieval.py', reloading
-INFO:werkzeug: * Restarting with stat
-Could not initialize collection 'la_plata_assessor': Collection [la_plata_assessor] does not exists
-INFO:apis.search.search_engine:Connecting to ChromaDB...
-INFO:apis.search.search_engine:Connected to collection 'la_plata_county_code': 1298 documents
-WARNING:apis.search.search_engine:Could not initialize collection 'la_plata_assessor': Collection [la_plata_assessor] does not exists
-INFO:apis.search.search_engine:Successfully initialized 1 collections
-INFO:__main__:Search system initialized successfully
-INFO:__main__:Starting Flask server in development mode...
-WARNING:werkzeug: * Debugger is active!
-INFO:werkzeug: * Debugger PIN: 114-241-345
-Batches:   0%|          | 0/1 [00:00<?, ?it/s]/Users/matthewzienert/Documents/landuse/env/lib/python3.13/site-packages/torch/nn/modules/module.py:1762: FutureWarning: `encoder_attention_mask` is deprecated and will be removed in version 4.55.0 for `BertSdpaSelfAttention.forward`.
-  return forward_call(*args, **kwargs)
-Batches: 100%|██████████| 1/1 [00:00<00:00,  5.02it/s]Batches: 100%|██████████| 1/1 [00:00<00:00,  5.02it/s]
-INFO:werkzeug:127.0.0.1 - - [13/Aug/2025 20:31:02] "GET /search/simple?query=what+are+the+detailed+building+permit+requirements+and+permit+process?&collection=la_plata_county_code&num_results=3 HTTP/1.1" 200 -
-Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 21.46it/s]
-INFO:werkzeug:127.0.0.1 - - [13/Aug/2025 20:31:02] "GET /search/simple?query=section+79-3&collection=la_plata_county_code&num_results=4 HTTP/1.1" 200 -
-Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 70.45it/s]
-INFO:werkzeug:127.0.0.1 - - [13/Aug/2025 20:31:02] "GET /search/simple?query=section+66-4&collection=la_plata_county_code&num_results=4 HTTP/1.1" 200 -
-Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 22.63it/s]
-INFO:werkzeug:127.0.0.1 - - [13/Aug/2025 20:31:02] "GET /search/simple?query=section+67&collection=la_plata_county_code&num_results=4 HTTP/1.1" 200 -
-Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 14.07it/s]
-INFO:werkzeug:127.0.0.1 - - [13/Aug/2025 20:31:56] "GET /search/simple?query=what+are+building+permit+requirements?&collection=la_plata_county_code&num_results=2 HTTP/1.1" 200 -
-Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 62.97it/s]
-INFO:werkzeug:127.0.0.1 - - [13/Aug/2025 20:31:56] "GET /search/simple?query=section+98-2&collection=la_plata_county_code&num_results=4 HTTP/1.1" 200 -
-Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 71.41it/s]
-INFO:werkzeug:127.0.0.1 - - [13/Aug/2025 20:31:56] "GET /search/simple?query=section+18&collection=la_plata_county_code&num_results=4 HTTP/1.1" 200 -
-INFO:werkzeug: * Detected change in '/Users/matthewzienert/Documents/landuse/apis/rag/config.py', reloading
-INFO:werkzeug: * Restarting with stat
-Could not initialize collection 'la_plata_assessor': Collection [la_plata_assessor] does not exists
-INFO:apis.search.search_engine:Connecting to ChromaDB...
-INFO:apis.search.search_engine:Connected to collection 'la_plata_county_code': 1298 documents
-WARNING:apis.search.search_engine:Could not initialize collection 'la_plata_assessor': Collection [la_plata_assessor] does not exists
-INFO:apis.search.search_engine:Successfully initialized 1 collections
-INFO:__main__:Search system initialized successfully
-INFO:__main__:Starting Flask server in development mode...
-WARNING:werkzeug: * Debugger is active!
-INFO:werkzeug: * Debugger PIN: 114-241-345
-INFO:werkzeug: * Detected change in '/Users/matthewzienert/Documents/landuse/apis/rag/config.py', reloading
-INFO:werkzeug: * Restarting with stat
-Could not initialize collection 'la_plata_assessor': Collection [la_plata_assessor] does not exists
-INFO:apis.search.search_engine:Connecting to ChromaDB...
-INFO:apis.search.search_engine:Connected to collection 'la_plata_county_code': 1298 documents
-WARNING:apis.search.search_engine:Could not initialize collection 'la_plata_assessor': Collection [la_plata_assessor] does not exists
-INFO:apis.search.search_engine:Successfully initialized 1 collections
-INFO:__main__:Search system initialized successfully
-INFO:__main__:Starting Flask server in development mode...
-WARNING:werkzeug: * Debugger is active!
-INFO:werkzeug: * Debugger PIN: 114-241-345
-Batches:   0%|          | 0/1 [00:00<?, ?it/s]/Users/matthewzienert/Documents/landuse/env/lib/python3.13/site-packages/torch/nn/modules/module.py:1762: FutureWarning: `encoder_attention_mask` is deprecated and will be removed in version 4.55.0 for `BertSdpaSelfAttention.forward`.
-  return forward_call(*args, **kwargs)
-Batches: 100%|██████████| 1/1 [00:00<00:00,  8.96it/s]Batches: 100%|██████████| 1/1 [00:00<00:00,  8.94it/s]
-INFO:werkzeug:127.0.0.1 - - [13/Aug/2025 20:34:41] "GET /search/simple?query=what+are+minor+subdivision+requirements?&collection=la_plata_county_code&num_results=5 HTTP/1.1" 200 -
-Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 22.51it/s]
-INFO:werkzeug:127.0.0.1 - - [13/Aug/2025 20:34:41] "GET /search/simple?query=section+66-16&collection=la_plata_county_code&num_results=4 HTTP/1.1" 200 -
-Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 75.80it/s]
-INFO:werkzeug:127.0.0.1 - - [13/Aug/2025 20:34:41] "GET /search/simple?query=section+67-3&collection=la_plata_county_code&num_results=4 HTTP/1.1" 200 -
-Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 72.47it/s]
-INFO:werkzeug:127.0.0.1 - - [13/Aug/2025 20:34:41] "GET /search/simple?query=section+67-5&collection=la_plata_county_code&num_results=4 HTTP/1.1" 200 -
-Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 20.32it/s]
-INFO:werkzeug:127.0.0.1 - - [13/Aug/2025 20:37:11] "GET /search/simple?query=what+are+minor+subdivision+requirements?&collection=la_plata_county_code&num_results=6 HTTP/1.1" 200 -
-Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 66.53it/s]
-INFO:werkzeug:127.0.0.1 - - [13/Aug/2025 20:37:11] "GET /search/simple?query=section+66-19&collection=la_plata_county_code&num_results=4 HTTP/1.1" 200 -
-Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 22.99it/s]
-INFO:werkzeug:127.0.0.1 - - [13/Aug/2025 20:37:11] "GET /search/simple?query=section+65&collection=la_plata_county_code&num_results=4 HTTP/1.1" 200 -
-Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 76.39it/s]
-INFO:werkzeug:127.0.0.1 - - [13/Aug/2025 20:37:11] "GET /search/simple?query=section+66-11&collection=la_plata_county_code&num_results=4 HTTP/1.1" 200 -
-Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 27.15it/s]
-INFO:werkzeug:127.0.0.1 - - [13/Aug/2025 20:43:13] "GET /search/simple?query=what+are+minor+subdivision+requirements?&collection=la_plata_county_code&num_results=4 HTTP/1.1" 200 -
-Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 76.90it/s]
-INFO:werkzeug:127.0.0.1 - - [13/Aug/2025 20:43:13] "GET /search/simple?query=section+66-16&collection=la_plata_county_code&num_results=4 HTTP/1.1" 200 -
-Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 80.76it/s]
-INFO:werkzeug:127.0.0.1 - - [13/Aug/2025 20:43:13] "GET /search/simple?query=section+67-3&collection=la_plata_county_code&num_results=4 HTTP/1.1" 200 -
-Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 78.06it/s]
-INFO:werkzeug:127.0.0.1 - - [13/Aug/2025 20:43:13] "GET /search/simple?query=section+67&collection=la_plata_county_code&num_results=4 HTTP/1.1" 200 -
-Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 12.33it/s]
-INFO:werkzeug:127.0.0.1 - - [13/Aug/2025 20:50:48] "GET /search/simple?query=minimum+subdivision+requirements&collection=la_plata_county_code&num_results=4 HTTP/1.1" 200 -
-Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 56.91it/s]
-INFO:werkzeug:127.0.0.1 - - [13/Aug/2025 20:50:48] "GET /search/simple?query=section+66-16&collection=la_plata_county_code&num_results=4 HTTP/1.1" 200 -
-Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 56.98it/s]
-INFO:werkzeug:127.0.0.1 - - [13/Aug/2025 20:50:48] "GET /search/simple?query=section+67-3&collection=la_plata_county_code&num_results=4 HTTP/1.1" 200 -
-Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 67.44it/s]
-INFO:werkzeug:127.0.0.1 - - [13/Aug/2025 20:50:48] "GET /search/simple?query=section+67&collection=la_plata_county_code&num_results=4 HTTP/1.1" 200 -
-INFO:werkzeug: * Detected change in '/Users/matthewzienert/Documents/landuse/apis/rag/inference.py', reloading
-INFO:werkzeug: * Restarting with stat
-Could not initialize collection 'la_plata_assessor': Collection [la_plata_assessor] does not exists
-INFO:apis.search.search_engine:Connecting to ChromaDB...
-INFO:apis.search.search_engine:Connected to collection 'la_plata_county_code': 1298 documents
-WARNING:apis.search.search_engine:Could not initialize collection 'la_plata_assessor': Collection [la_plata_assessor] does not exists
-INFO:apis.search.search_engine:Successfully initialized 1 collections
-INFO:__main__:Search system initialized successfully
-INFO:__main__:Starting Flask server in development mode...
-WARNING:werkzeug: * Debugger is active!
-INFO:werkzeug: * Debugger PIN: 114-241-345
-INFO:werkzeug: * Detected change in '/Users/matthewzienert/Documents/landuse/apis/rag/retrieval.py', reloading
-INFO:werkzeug: * Restarting with stat
-Could not initialize collection 'la_plata_assessor': Collection [la_plata_assessor] does not exists
-INFO:apis.search.search_engine:Connecting to ChromaDB...
-INFO:apis.search.search_engine:Connected to collection 'la_plata_county_code': 1298 documents
-WARNING:apis.search.search_engine:Could not initialize collection 'la_plata_assessor': Collection [la_plata_assessor] does not exists
-INFO:apis.search.search_engine:Successfully initialized 1 collections
-INFO:__main__:Search system initialized successfully
-INFO:__main__:Starting Flask server in development mode...
-WARNING:werkzeug: * Debugger is active!
-INFO:werkzeug: * Debugger PIN: 114-241-345
-Batches:   0%|          | 0/1 [00:00<?, ?it/s]/Users/matthewzienert/Documents/landuse/env/lib/python3.13/site-packages/torch/nn/modules/module.py:1762: FutureWarning: `encoder_attention_mask` is deprecated and will be removed in version 4.55.0 for `BertSdpaSelfAttention.forward`.
-  return forward_call(*args, **kwargs)
-Batches: 100%|██████████| 1/1 [00:00<00:00,  9.26it/s]Batches: 100%|██████████| 1/1 [00:00<00:00,  9.25it/s]
-INFO:werkzeug:127.0.0.1 - - [13/Aug/2025 20:53:41] "GET /search/simple?query=what+are+minor+subdivision+requirements?&collection=la_plata_county_code&num_results=4 HTTP/1.1" 200 -
-Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 22.51it/s]
-INFO:werkzeug:127.0.0.1 - - [13/Aug/2025 20:53:41] "GET /search/simple?query=section+66-16&collection=la_plata_county_code&num_results=4 HTTP/1.1" 200 -
-Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 22.91it/s]
-INFO:werkzeug:127.0.0.1 - - [13/Aug/2025 20:53:41] "GET /search/simple?query=section+67&collection=la_plata_county_code&num_results=4 HTTP/1.1" 200 -
-Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 77.34it/s]
-INFO:werkzeug:127.0.0.1 - - [13/Aug/2025 20:53:41] "GET /search/simple?query=section+66-13&collection=la_plata_county_code&num_results=4 HTTP/1.1" 200 -
-INFO:werkzeug: * Detected change in '/Users/matthewzienert/Documents/landuse/apis/rag/config.py', reloading
-INFO:werkzeug: * Restarting with stat
-Could not initialize collection 'la_plata_assessor': Collection [la_plata_assessor] does not exists
-INFO:apis.search.search_engine:Connecting to ChromaDB...
-INFO:apis.search.search_engine:Connected to collection 'la_plata_county_code': 1298 documents
-WARNING:apis.search.search_engine:Could not initialize collection 'la_plata_assessor': Collection [la_plata_assessor] does not exists
-INFO:apis.search.search_engine:Successfully initialized 1 collections
-INFO:__main__:Search system initialized successfully
-INFO:__main__:Starting Flask server in development mode...
-WARNING:werkzeug: * Debugger is active!
-INFO:werkzeug: * Debugger PIN: 114-241-345
-INFO:werkzeug: * Detected change in '/Users/matthewzienert/Documents/landuse/apis/rag/config.py', reloading
-INFO:werkzeug: * Restarting with stat
-Could not initialize collection 'la_plata_assessor': Collection [la_plata_assessor] does not exists
-INFO:apis.search.search_engine:Connecting to ChromaDB...
-INFO:apis.search.search_engine:Connected to collection 'la_plata_county_code': 1298 documents
-WARNING:apis.search.search_engine:Could not initialize collection 'la_plata_assessor': Collection [la_plata_assessor] does not exists
-INFO:apis.search.search_engine:Successfully initialized 1 collections
-INFO:__main__:Search system initialized successfully
-INFO:__main__:Starting Flask server in development mode...
-WARNING:werkzeug: * Debugger is active!
-INFO:werkzeug: * Debugger PIN: 114-241-345
-Batches:   0%|          | 0/1 [00:00<?, ?it/s]/Users/matthewzienert/Documents/landuse/env/lib/python3.13/site-packages/torch/nn/modules/module.py:1762: FutureWarning: `encoder_attention_mask` is deprecated and will be removed in version 4.55.0 for `BertSdpaSelfAttention.forward`.
-  return forward_call(*args, **kwargs)
-Batches: 100%|██████████| 1/1 [00:00<00:00,  9.32it/s]Batches: 100%|██████████| 1/1 [00:00<00:00,  9.31it/s]
-INFO:werkzeug:127.0.0.1 - - [13/Aug/2025 20:55:57] "GET /search/simple?query=what+are+the+detailed+building+permit+requirements+and+permit+process?&collection=la_plata_county_code&num_results=4 HTTP/1.1" 200 -
-Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 22.15it/s]
-INFO:werkzeug:127.0.0.1 - - [13/Aug/2025 20:55:57] "GET /search/simple?query=section+73-7&collection=la_plata_county_code&num_results=4 HTTP/1.1" 200 -
-Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 74.66it/s]
-INFO:werkzeug:127.0.0.1 - - [13/Aug/2025 20:55:57] "GET /search/simple?query=section+66-8&collection=la_plata_county_code&num_results=4 HTTP/1.1" 200 -
-Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 74.83it/s]
-INFO:werkzeug:127.0.0.1 - - [13/Aug/2025 20:55:57] "GET /search/simple?query=section+79-3&collection=la_plata_county_code&num_results=4 HTTP/1.1" 200 -
-INFO:werkzeug: * Detected change in '/Users/matthewzienert/Documents/landuse/apis/rag/inference.py', reloading
-INFO:werkzeug: * Restarting with stat
-Could not initialize collection 'la_plata_assessor': Collection [la_plata_assessor] does not exists
-INFO:apis.search.search_engine:Connecting to ChromaDB...
-INFO:apis.search.search_engine:Connected to collection 'la_plata_county_code': 1298 documents
-WARNING:apis.search.search_engine:Could not initialize collection 'la_plata_assessor': Collection [la_plata_assessor] does not exists
-INFO:apis.search.search_engine:Successfully initialized 1 collections
-INFO:__main__:Search system initialized successfully
-INFO:__main__:Starting Flask server in development mode...
-WARNING:werkzeug: * Debugger is active!
-INFO:werkzeug: * Debugger PIN: 114-241-345
-Batches:   0%|          | 0/1 [00:00<?, ?it/s]/Users/matthewzienert/Documents/landuse/env/lib/python3.13/site-packages/torch/nn/modules/module.py:1762: FutureWarning: `encoder_attention_mask` is deprecated and will be removed in version 4.55.0 for `BertSdpaSelfAttention.forward`.
-  return forward_call(*args, **kwargs)
-Batches: 100%|██████████| 1/1 [00:00<00:00, 10.25it/s]
-INFO:werkzeug:127.0.0.1 - - [13/Aug/2025 20:57:05] "GET /search/simple?query=what+are+minor+subdivision+requirements?&collection=la_plata_county_code&num_results=4 HTTP/1.1" 200 -
-Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 23.28it/s]
-INFO:werkzeug:127.0.0.1 - - [13/Aug/2025 20:57:05] "GET /search/simple?query=section+67-3&collection=la_plata_county_code&num_results=4 HTTP/1.1" 200 -
-Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 71.26it/s]
-INFO:werkzeug:127.0.0.1 - - [13/Aug/2025 20:57:05] "GET /search/simple?query=section+66-13&collection=la_plata_county_code&num_results=4 HTTP/1.1" 200 -
-Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 73.71it/s]
-INFO:werkzeug:127.0.0.1 - - [13/Aug/2025 20:57:05] "GET /search/simple?query=section+67-6&collection=la_plata_county_code&num_results=4 HTTP/1.1" 200 -
-Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 21.32it/s]
-INFO:werkzeug:127.0.0.1 - - [13/Aug/2025 20:57:45] "GET /search/simple?query=what+are+minor+subdivision+requirements?&collection=la_plata_county_code&num_results=4 HTTP/1.1" 200 -
-Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 66.41it/s]
-INFO:werkzeug:127.0.0.1 - - [13/Aug/2025 20:57:45] "GET /search/simple?query=section+67-3&collection=la_plata_county_code&num_results=4 HTTP/1.1" 200 -
-Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 74.03it/s]
-INFO:werkzeug:127.0.0.1 - - [13/Aug/2025 20:57:45] "GET /search/simple?query=section+66-13&collection=la_plata_county_code&num_results=4 HTTP/1.1" 200 -
-Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 79.25it/s]
-INFO:werkzeug:127.0.0.1 - - [13/Aug/2025 20:57:45] "GET /search/simple?query=section+67-6&collection=la_plata_county_code&num_results=4 HTTP/1.1" 200 -
-Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 23.39it/s]
-INFO:werkzeug:127.0.0.1 - - [13/Aug/2025 21:47:53] "GET /search/simple?query=what+are+minor+subdivision+requirements?&collection=la_plata_county_code&num_results=6 HTTP/1.1" 200 -
-Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 61.01it/s]
-INFO:werkzeug:127.0.0.1 - - [13/Aug/2025 21:47:53] "GET /search/simple?query=section+66-19&collection=la_plata_county_code&num_results=4 HTTP/1.1" 200 -
-Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 75.01it/s]
-INFO:werkzeug:127.0.0.1 - - [13/Aug/2025 21:47:53] "GET /search/simple?query=section+66-29&collection=la_plata_county_code&num_results=4 HTTP/1.1" 200 -
-Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 77.94it/s]
-INFO:werkzeug:127.0.0.1 - - [13/Aug/2025 21:47:53] "GET /search/simple?query=section+73-21&collection=la_plata_county_code&num_results=4 HTTP/1.1" 200 -
-Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 21.27it/s]
-INFO:werkzeug:127.0.0.1 - - [13/Aug/2025 21:48:16] "GET /search/simple?query=what+are+minor+subdivision+requirements?&collection=la_plata_county_code&num_results=4 HTTP/1.1" 200 -
-Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 65.36it/s]
-INFO:werkzeug:127.0.0.1 - - [13/Aug/2025 21:48:16] "GET /search/simple?query=section+67-3&collection=la_plata_county_code&num_results=4 HTTP/1.1" 200 -
-Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 72.39it/s]
-INFO:werkzeug:127.0.0.1 - - [13/Aug/2025 21:48:16] "GET /search/simple?query=section+66-13&collection=la_plata_county_code&num_results=4 HTTP/1.1" 200 -
-Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 72.09it/s]
-INFO:werkzeug:127.0.0.1 - - [13/Aug/2025 21:48:16] "GET /search/simple?query=section+67-6&collection=la_plata_county_code&num_results=4 HTTP/1.1" 200 -
-Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 21.99it/s]
-INFO:werkzeug:127.0.0.1 - - [13/Aug/2025 21:53:30] "GET /search/simple?query=what+are+minor+subdivision+requirements?&collection=la_plata_county_code&num_results=4 HTTP/1.1" 200 -
-Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 66.41it/s]
-INFO:werkzeug:127.0.0.1 - - [13/Aug/2025 21:53:30] "GET /search/simple?query=section+67-3&collection=la_plata_county_code&num_results=4 HTTP/1.1" 200 -
-Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 76.41it/s]
-INFO:werkzeug:127.0.0.1 - - [13/Aug/2025 21:53:30] "GET /search/simple?query=section+66-13&collection=la_plata_county_code&num_results=4 HTTP/1.1" 200 -
-Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 82.16it/s]
-INFO:werkzeug:127.0.0.1 - - [13/Aug/2025 21:53:30] "GET /search/simple?query=section+67-6&collection=la_plata_county_code&num_results=4 HTTP/1.1" 200 -
-Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 19.73it/s]
-INFO:werkzeug:127.0.0.1 - - [13/Aug/2025 21:53:51] "GET /search/simple?query=what+are+minor+subdivision+requirements?&collection=la_plata_county_code&num_results=4 HTTP/1.1" 200 -
-Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 68.30it/s]
-INFO:werkzeug:127.0.0.1 - - [13/Aug/2025 21:53:51] "GET /search/simple?query=section+67-3&collection=la_plata_county_code&num_results=4 HTTP/1.1" 200 -
-Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 72.10it/s]
-INFO:werkzeug:127.0.0.1 - - [13/Aug/2025 21:53:51] "GET /search/simple?query=section+66-13&collection=la_plata_county_code&num_results=4 HTTP/1.1" 200 -
-Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 78.86it/s]
-INFO:werkzeug:127.0.0.1 - - [13/Aug/2025 21:53:51] "GET /search/simple?query=section+67-6&collection=la_plata_county_code&num_results=4 HTTP/1.1" 200 -
-Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 21.88it/s]
-INFO:werkzeug:127.0.0.1 - - [13/Aug/2025 21:54:15] "GET /search/simple?query=what+are+minor+subdivision+requirements?&collection=la_plata_county_code&num_results=4 HTTP/1.1" 200 -
-Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 64.98it/s]
-INFO:werkzeug:127.0.0.1 - - [13/Aug/2025 21:54:15] "GET /search/simple?query=section+67-3&collection=la_plata_county_code&num_results=4 HTTP/1.1" 200 -
-Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 76.44it/s]
-INFO:werkzeug:127.0.0.1 - - [13/Aug/2025 21:54:15] "GET /search/simple?query=section+66-13&collection=la_plata_county_code&num_results=4 HTTP/1.1" 200 -
-Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 83.91it/s]
-INFO:werkzeug:127.0.0.1 - - [13/Aug/2025 21:54:15] "GET /search/simple?query=section+67-6&collection=la_plata_county_code&num_results=4 HTTP/1.1" 200 -
-INFO:werkzeug:127.0.0.1 - - [13/Aug/2025 21:58:01] "OPTIONS /search/simple?query=What+are+minor+subdivision+requirements?&num_results=5&collection=la_plata_county_code HTTP/1.1" 200 -
-Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 18.99it/s]
-INFO:werkzeug:127.0.0.1 - - [13/Aug/2025 21:58:01] "GET /search/simple?query=What+are+minor+subdivision+requirements?&num_results=5&collection=la_plata_county_code HTTP/1.1" 200 -
-Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 21.02it/s]
-INFO:werkzeug:127.0.0.1 - - [13/Aug/2025 21:58:05] "GET /search/simple?query=What+are+minor+subdivision+requirements?&num_results=5&collection=la_plata_county_code HTTP/1.1" 200 -
-Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 25.23it/s]
-INFO:werkzeug:127.0.0.1 - - [13/Aug/2025 21:58:06] "GET /search/simple?query=What+are+minor+subdivision+requirements?&num_results=5&collection=la_plata_county_code HTTP/1.1" 200 -
-INFO:werkzeug:127.0.0.1 - - [13/Aug/2025 21:58:07] "OPTIONS /search/simple?query=What+are+minor+subdivision+requirements?&num_results=5&collection=la_plata_county_code HTTP/1.1" 200 -
-Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 34.57it/s]
-INFO:werkzeug:127.0.0.1 - - [13/Aug/2025 21:58:07] "GET /search/simple?query=What+are+minor+subdivision+requirements?&num_results=5&collection=la_plata_county_code HTTP/1.1" 200 -
-Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 32.43it/s]
-INFO:werkzeug:127.0.0.1 - - [13/Aug/2025 21:58:08] "GET /search/simple?query=What+are+minor+subdivision+requirements?&num_results=5&collection=la_plata_county_code HTTP/1.1" 200 -
-INFO:werkzeug: * Detected change in '/Users/matthewzienert/Documents/landuse/apis/rag/inference.py', reloading
-INFO:werkzeug: * Restarting with stat
-Could not initialize collection 'la_plata_assessor': Collection [la_plata_assessor] does not exists
-INFO:apis.search.search_engine:Connecting to ChromaDB...
-INFO:apis.search.search_engine:Connected to collection 'la_plata_county_code': 1298 documents
-WARNING:apis.search.search_engine:Could not initialize collection 'la_plata_assessor': Collection [la_plata_assessor] does not exists
-INFO:apis.search.search_engine:Successfully initialized 1 collections
-INFO:__main__:Search system initialized successfully
-INFO:__main__:Starting Flask server in development mode...
-WARNING:werkzeug: * Debugger is active!
-INFO:werkzeug: * Debugger PIN: 114-241-345
-INFO:werkzeug: * Detected change in '/Users/matthewzienert/Documents/landuse/apis/rag/retrieval.py', reloading
-INFO:werkzeug: * Restarting with stat
-Could not initialize collection 'la_plata_assessor': Collection [la_plata_assessor] does not exists
-INFO:apis.search.search_engine:Connecting to ChromaDB...
-INFO:apis.search.search_engine:Connected to collection 'la_plata_county_code': 1298 documents
-WARNING:apis.search.search_engine:Could not initialize collection 'la_plata_assessor': Collection [la_plata_assessor] does not exists
-INFO:apis.search.search_engine:Successfully initialized 1 collections
-INFO:__main__:Search system initialized successfully
-INFO:__main__:Starting Flask server in development mode...
-WARNING:werkzeug: * Debugger is active!
-INFO:werkzeug: * Debugger PIN: 114-241-345
-Batches:   0%|          | 0/1 [00:00<?, ?it/s]/Users/matthewzienert/Documents/landuse/env/lib/python3.13/site-packages/torch/nn/modules/module.py:1762: FutureWarning: `encoder_attention_mask` is deprecated and will be removed in version 4.55.0 for `BertSdpaSelfAttention.forward`.
-  return forward_call(*args, **kwargs)
-Batches: 100%|██████████| 1/1 [00:00<00:00,  7.69it/s]Batches: 100%|██████████| 1/1 [00:00<00:00,  7.68it/s]
-INFO:werkzeug:127.0.0.1 - - [13/Aug/2025 22:05:48] "GET /search/simple?query=what+are+minor+subdivision+requirements?&collection=la_plata_county_code&num_results=4 HTTP/1.1" 200 -
-Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 21.22it/s]
-INFO:werkzeug:127.0.0.1 - - [13/Aug/2025 22:05:48] "GET /search/simple?query=section+66-16&collection=la_plata_county_code&num_results=4 HTTP/1.1" 200 -
-Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 69.82it/s]
-INFO:werkzeug:127.0.0.1 - - [13/Aug/2025 22:05:48] "GET /search/simple?query=section+67-4&collection=la_plata_county_code&num_results=4 HTTP/1.1" 200 -
-Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 22.95it/s]
-INFO:werkzeug:127.0.0.1 - - [13/Aug/2025 22:05:48] "GET /search/simple?query=section+67&collection=la_plata_county_code&num_results=4 HTTP/1.1" 200 -
-Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 27.89it/s]
-INFO:werkzeug:127.0.0.1 - - [13/Aug/2025 22:07:05] "GET /search/simple?query=what+are+minor+subdivision+requirements?&collection=la_plata_county_code&num_results=4 HTTP/1.1" 200 -
-Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 68.72it/s]
-INFO:werkzeug:127.0.0.1 - - [13/Aug/2025 22:07:05] "GET /search/simple?query=section+66-16&collection=la_plata_county_code&num_results=4 HTTP/1.1" 200 -
-Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 68.20it/s]
-INFO:werkzeug:127.0.0.1 - - [13/Aug/2025 22:07:05] "GET /search/simple?query=section+67-4&collection=la_plata_county_code&num_results=4 HTTP/1.1" 200 -
-Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 69.64it/s]
-INFO:werkzeug:127.0.0.1 - - [13/Aug/2025 22:07:05] "GET /search/simple?query=section+67&collection=la_plata_county_code&num_results=4 HTTP/1.1" 200 -
-Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 26.28it/s]
-INFO:werkzeug:127.0.0.1 - - [13/Aug/2025 22:07:16] "GET /search/simple?query=what+are+minor+subdivision+requirements?&collection=la_plata_county_code&num_results=4 HTTP/1.1" 200 -
-Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 68.13it/s]
-INFO:werkzeug:127.0.0.1 - - [13/Aug/2025 22:07:16] "GET /search/simple?query=section+66-16&collection=la_plata_county_code&num_results=4 HTTP/1.1" 200 -
-Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 69.56it/s]
-INFO:werkzeug:127.0.0.1 - - [13/Aug/2025 22:07:16] "GET /search/simple?query=section+67-4&collection=la_plata_county_code&num_results=4 HTTP/1.1" 200 -
-Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 68.52it/s]
-INFO:werkzeug:127.0.0.1 - - [13/Aug/2025 22:07:16] "GET /search/simple?query=section+67&collection=la_plata_county_code&num_results=4 HTTP/1.1" 200 -
-INFO:werkzeug:127.0.0.1 - - [13/Aug/2025 22:08:15] "OPTIONS /search/simple?query=What+are+minor+subdivision+requirements?&num_results=5&collection=la_plata_county_code HTTP/1.1" 200 -
+Batches: 100%|██████████| 1/1 [00:00<00:00,  7.33it/s]Batches: 100%|██████████| 1/1 [00:00<00:00,  7.32it/s]
+INFO:werkzeug:127.0.0.1 - - [17/Aug/2025 22:25:47] "GET /search/simple?query=what+are+subdivision+requirements?&collection=la_plata_county_code&num_results=5 HTTP/1.1" 200 -
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 23.25it/s]
+INFO:werkzeug:127.0.0.1 - - [17/Aug/2025 22:25:48] "GET /search/simple?query=section+66-30&collection=la_plata_county_code&num_results=4 HTTP/1.1" 200 -
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 69.50it/s]
+INFO:werkzeug:127.0.0.1 - - [17/Aug/2025 22:25:48] "GET /search/simple?query=section+67-6&collection=la_plata_county_code&num_results=4 HTTP/1.1" 200 -
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 63.68it/s]
+INFO:werkzeug:127.0.0.1 - - [17/Aug/2025 22:25:48] "GET /search/simple?query=section+23-41&collection=la_plata_county_code&num_results=4 HTTP/1.1" 200 -
 Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 19.79it/s]
-INFO:werkzeug:127.0.0.1 - - [13/Aug/2025 22:08:15] "GET /search/simple?query=What+are+minor+subdivision+requirements?&num_results=5&collection=la_plata_county_code HTTP/1.1" 200 -
-Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 21.52it/s]
-INFO:werkzeug:127.0.0.1 - - [13/Aug/2025 22:08:24] "GET /search/simple?query=what+are+minor+subdivision+requirements?&collection=la_plata_county_code&num_results=4 HTTP/1.1" 200 -
-Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 62.39it/s]
-INFO:werkzeug:127.0.0.1 - - [13/Aug/2025 22:08:24] "GET /search/simple?query=section+66-16&collection=la_plata_county_code&num_results=4 HTTP/1.1" 200 -
-Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 68.80it/s]
-INFO:werkzeug:127.0.0.1 - - [13/Aug/2025 22:08:24] "GET /search/simple?query=section+67-4&collection=la_plata_county_code&num_results=4 HTTP/1.1" 200 -
-Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 73.48it/s]
-INFO:werkzeug:127.0.0.1 - - [13/Aug/2025 22:08:24] "GET /search/simple?query=section+67&collection=la_plata_county_code&num_results=4 HTTP/1.1" 200 -
-Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 20.08it/s]
-INFO:werkzeug:127.0.0.1 - - [13/Aug/2025 22:09:05] "GET /search/simple?query=what+are+minor+subdivision+requirements?&collection=la_plata_county_code&num_results=4 HTTP/1.1" 200 -
-Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 62.71it/s]
-INFO:werkzeug:127.0.0.1 - - [13/Aug/2025 22:09:05] "GET /search/simple?query=section+66-16&collection=la_plata_county_code&num_results=4 HTTP/1.1" 200 -
-Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 72.56it/s]
-INFO:werkzeug:127.0.0.1 - - [13/Aug/2025 22:09:05] "GET /search/simple?query=section+67-4&collection=la_plata_county_code&num_results=4 HTTP/1.1" 200 -
-Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 75.74it/s]
-INFO:werkzeug:127.0.0.1 - - [13/Aug/2025 22:09:05] "GET /search/simple?query=section+67&collection=la_plata_county_code&num_results=4 HTTP/1.1" 200 -
-Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 20.73it/s]
-INFO:werkzeug:127.0.0.1 - - [13/Aug/2025 22:13:38] "GET /search/simple?query=what+are+minor+subdivision+requirements?&collection=la_plata_county_code&num_results=4 HTTP/1.1" 200 -
-Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 65.46it/s]
-INFO:werkzeug:127.0.0.1 - - [13/Aug/2025 22:13:38] "GET /search/simple?query=section+66-16&collection=la_plata_county_code&num_results=4 HTTP/1.1" 200 -
-Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 72.93it/s]
-INFO:werkzeug:127.0.0.1 - - [13/Aug/2025 22:13:38] "GET /search/simple?query=section+67-4&collection=la_plata_county_code&num_results=4 HTTP/1.1" 200 -
-Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 75.77it/s]
-INFO:werkzeug:127.0.0.1 - - [13/Aug/2025 22:13:38] "GET /search/simple?query=section+67&collection=la_plata_county_code&num_results=4 HTTP/1.1" 200 -
-Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 23.24it/s]
-INFO:werkzeug:127.0.0.1 - - [13/Aug/2025 22:13:47] "GET /search/simple?query=what+are+minor+subdivision+requirements?&collection=la_plata_county_code&num_results=4 HTTP/1.1" 200 -
-Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 66.10it/s]
-INFO:werkzeug:127.0.0.1 - - [13/Aug/2025 22:13:47] "GET /search/simple?query=section+66-16&collection=la_plata_county_code&num_results=4 HTTP/1.1" 200 -
-Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 71.42it/s]
-INFO:werkzeug:127.0.0.1 - - [13/Aug/2025 22:13:47] "GET /search/simple?query=section+67-4&collection=la_plata_county_code&num_results=4 HTTP/1.1" 200 -
-Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 67.40it/s]
-INFO:werkzeug:127.0.0.1 - - [13/Aug/2025 22:13:47] "GET /search/simple?query=section+67&collection=la_plata_county_code&num_results=4 HTTP/1.1" 200 -
-Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00,  5.98it/s]Batches: 100%|██████████| 1/1 [00:00<00:00,  5.98it/s]
-INFO:werkzeug:127.0.0.1 - - [14/Aug/2025 08:52:55] "GET /search/simple?query=what+are+minor+subdivision+requirements?&collection=la_plata_county_code&num_results=4 HTTP/1.1" 200 -
-Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 60.12it/s]
-INFO:werkzeug:127.0.0.1 - - [14/Aug/2025 08:52:55] "GET /search/simple?query=section+66-16&collection=la_plata_county_code&num_results=4 HTTP/1.1" 200 -
-Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 63.26it/s]
-INFO:werkzeug:127.0.0.1 - - [14/Aug/2025 08:52:55] "GET /search/simple?query=section+67-4&collection=la_plata_county_code&num_results=4 HTTP/1.1" 200 -
-Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 75.81it/s]
-INFO:werkzeug:127.0.0.1 - - [14/Aug/2025 08:52:55] "GET /search/simple?query=section+67&collection=la_plata_county_code&num_results=4 HTTP/1.1" 200 -
-INFO:werkzeug:127.0.0.1 - - [14/Aug/2025 09:06:08] "OPTIONS /search/simple?query=Dogs&num_results=5&collection=la_plata_county_code HTTP/1.1" 200 -
-Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00,  5.14it/s]Batches: 100%|██████████| 1/1 [00:00<00:00,  5.14it/s]
-INFO:werkzeug:127.0.0.1 - - [14/Aug/2025 09:06:08] "GET /search/simple?query=Dogs&num_results=5&collection=la_plata_county_code HTTP/1.1" 200 -
-Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 12.02it/s]
-INFO:werkzeug:127.0.0.1 - - [14/Aug/2025 09:07:11] "GET /search/simple?query=what+are+the+guidelines+for+building+permit?&collection=la_plata_county_code&num_results=4 HTTP/1.1" 200 -
-Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 62.30it/s]
-INFO:werkzeug:127.0.0.1 - - [14/Aug/2025 09:07:11] "GET /search/simple?query=section+98-2&collection=la_plata_county_code&num_results=4 HTTP/1.1" 200 -
-Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 61.97it/s]
-INFO:werkzeug:127.0.0.1 - - [14/Aug/2025 09:07:11] "GET /search/simple?query=section+18-42&collection=la_plata_county_code&num_results=4 HTTP/1.1" 200 -
-Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 71.58it/s]
-INFO:werkzeug:127.0.0.1 - - [14/Aug/2025 09:07:11] "GET /search/simple?query=section+74&collection=la_plata_county_code&num_results=4 HTTP/1.1" 200 -
-Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00,  3.99it/s]Batches: 100%|██████████| 1/1 [00:00<00:00,  3.99it/s]
-INFO:werkzeug:127.0.0.1 - - [14/Aug/2025 20:50:57] "GET /search/simple?query=what+are+the+guidelines+for+building+permit?&collection=la_plata_county_code&num_results=4 HTTP/1.1" 200 -
-Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 49.60it/s]
-INFO:werkzeug:127.0.0.1 - - [14/Aug/2025 20:50:57] "GET /search/simple?query=section+98-2&collection=la_plata_county_code&num_results=4 HTTP/1.1" 200 -
-Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 51.17it/s]
-INFO:werkzeug:127.0.0.1 - - [14/Aug/2025 20:50:57] "GET /search/simple?query=section+18-42&collection=la_plata_county_code&num_results=4 HTTP/1.1" 200 -
-Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 55.17it/s]
-INFO:werkzeug:127.0.0.1 - - [14/Aug/2025 20:50:57] "GET /search/simple?query=section+74&collection=la_plata_county_code&num_results=4 HTTP/1.1" 200 -
-INFO:werkzeug: * Detected change in '/Users/matthewzienert/Documents/landuse/apis/rag/config.py', reloading
+INFO:werkzeug:127.0.0.1 - - [17/Aug/2025 22:27:49] "GET /search/simple?query=what+are+subdivision+requirements?&collection=la_plata_county_code&num_results=5 HTTP/1.1" 200 -
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 70.42it/s]
+INFO:werkzeug:127.0.0.1 - - [17/Aug/2025 22:27:49] "GET /search/simple?query=section+66-30&collection=la_plata_county_code&num_results=4 HTTP/1.1" 200 -
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 74.67it/s]
+INFO:werkzeug:127.0.0.1 - - [17/Aug/2025 22:27:49] "GET /search/simple?query=section+67-6&collection=la_plata_county_code&num_results=4 HTTP/1.1" 200 -
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 82.09it/s]
+INFO:werkzeug:127.0.0.1 - - [17/Aug/2025 22:27:49] "GET /search/simple?query=section+23-41&collection=la_plata_county_code&num_results=4 HTTP/1.1" 200 -
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 22.36it/s]
+INFO:werkzeug:127.0.0.1 - - [17/Aug/2025 22:28:03] "GET /search/simple?query=what+are+subdivision+requirements?&collection=la_plata_county_code&num_results=5 HTTP/1.1" 200 -
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 73.55it/s]
+INFO:werkzeug:127.0.0.1 - - [17/Aug/2025 22:28:03] "GET /search/simple?query=section+66-30&collection=la_plata_county_code&num_results=4 HTTP/1.1" 200 -
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 82.65it/s]
+INFO:werkzeug:127.0.0.1 - - [17/Aug/2025 22:28:03] "GET /search/simple?query=section+67-6&collection=la_plata_county_code&num_results=4 HTTP/1.1" 200 -
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 82.04it/s]
+INFO:werkzeug:127.0.0.1 - - [17/Aug/2025 22:28:03] "GET /search/simple?query=section+23-41&collection=la_plata_county_code&num_results=4 HTTP/1.1" 200 -
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 20.20it/s]
+INFO:werkzeug:127.0.0.1 - - [17/Aug/2025 22:33:09] "GET /search/simple?query=2%2B2+definition&collection=la_plata_county_code&num_results=5 HTTP/1.1" 200 -
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 22.43it/s]
+INFO:werkzeug:127.0.0.1 - - [17/Aug/2025 22:33:09] "GET /search/simple?query=section+38&collection=la_plata_county_code&num_results=4 HTTP/1.1" 200 -
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 73.41it/s]
+INFO:werkzeug:127.0.0.1 - - [17/Aug/2025 22:33:09] "GET /search/simple?query=section+24-32&collection=la_plata_county_code&num_results=4 HTTP/1.1" 200 -
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 82.78it/s]
+INFO:werkzeug:127.0.0.1 - - [17/Aug/2025 22:33:09] "GET /search/simple?query=section+42&collection=la_plata_county_code&num_results=4 HTTP/1.1" 200 -
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 22.10it/s]
+INFO:werkzeug:127.0.0.1 - - [17/Aug/2025 22:33:24] "GET /search/simple?query=what+are+subdivision+requirements?&collection=la_plata_county_code&num_results=5 HTTP/1.1" 200 -
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 72.94it/s]
+INFO:werkzeug:127.0.0.1 - - [17/Aug/2025 22:33:24] "GET /search/simple?query=section+74&collection=la_plata_county_code&num_results=4 HTTP/1.1" 200 -
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 74.49it/s]
+INFO:werkzeug:127.0.0.1 - - [17/Aug/2025 22:33:24] "GET /search/simple?query=section+38-51&collection=la_plata_county_code&num_results=4 HTTP/1.1" 200 -
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 81.03it/s]
+INFO:werkzeug:127.0.0.1 - - [17/Aug/2025 22:33:25] "GET /search/simple?query=section+66-30&collection=la_plata_county_code&num_results=4 HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/Users/matthewzienert/Documents/landuse/apis/rag/langchain_inference.py', reloading
 INFO:werkzeug: * Restarting with stat
 Could not initialize collection 'la_plata_assessor': Collection [la_plata_assessor] does not exists
 INFO:apis.search.search_engine:Connecting to ChromaDB...
@@ -447,7 +75,7 @@ INFO:__main__:Search system initialized successfully
 INFO:__main__:Starting Flask server in development mode...
 WARNING:werkzeug: * Debugger is active!
 INFO:werkzeug: * Debugger PIN: 114-241-345
-INFO:werkzeug: * Detected change in '/Users/matthewzienert/Documents/landuse/apis/rag/config.py', reloading
+INFO:werkzeug: * Detected change in '/Users/matthewzienert/Documents/landuse/apis/rag/langchain_inference.py', reloading
 INFO:werkzeug: * Restarting with stat
 Could not initialize collection 'la_plata_assessor': Collection [la_plata_assessor] does not exists
 INFO:apis.search.search_engine:Connecting to ChromaDB...
@@ -458,7 +86,25 @@ INFO:__main__:Search system initialized successfully
 INFO:__main__:Starting Flask server in development mode...
 WARNING:werkzeug: * Debugger is active!
 INFO:werkzeug: * Debugger PIN: 114-241-345
-INFO:werkzeug: * Detected change in '/Users/matthewzienert/Documents/landuse/apis/rag/llm_provider.py', reloading
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]/Users/matthewzienert/Documents/landuse/env/lib/python3.13/site-packages/torch/nn/modules/module.py:1762: FutureWarning: `encoder_attention_mask` is deprecated and will be removed in version 4.55.0 for `BertSdpaSelfAttention.forward`.
+  return forward_call(*args, **kwargs)
+Batches: 100%|██████████| 1/1 [00:00<00:00,  9.15it/s]Batches: 100%|██████████| 1/1 [00:00<00:00,  9.14it/s]
+INFO:werkzeug:127.0.0.1 - - [17/Aug/2025 22:36:10] "GET /search/simple?query=2%2B2+definition&collection=la_plata_county_code&num_results=5 HTTP/1.1" 200 -
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 24.08it/s]
+INFO:werkzeug:127.0.0.1 - - [17/Aug/2025 22:36:10] "GET /search/simple?query=section+42&collection=la_plata_county_code&num_results=4 HTTP/1.1" 200 -
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 77.87it/s]
+INFO:werkzeug:127.0.0.1 - - [17/Aug/2025 22:36:10] "GET /search/simple?query=section+38&collection=la_plata_county_code&num_results=4 HTTP/1.1" 200 -
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 69.30it/s]
+INFO:werkzeug:127.0.0.1 - - [17/Aug/2025 22:36:10] "GET /search/simple?query=section+94-16&collection=la_plata_county_code&num_results=4 HTTP/1.1" 200 -
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 22.50it/s]
+INFO:werkzeug:127.0.0.1 - - [17/Aug/2025 22:37:12] "GET /search/simple?query=2%2B2+definition&collection=la_plata_county_code&num_results=5 HTTP/1.1" 200 -
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 63.67it/s]
+INFO:werkzeug:127.0.0.1 - - [17/Aug/2025 22:37:12] "GET /search/simple?query=section+42&collection=la_plata_county_code&num_results=4 HTTP/1.1" 200 -
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 73.15it/s]
+INFO:werkzeug:127.0.0.1 - - [17/Aug/2025 22:37:12] "GET /search/simple?query=section+38&collection=la_plata_county_code&num_results=4 HTTP/1.1" 200 -
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 71.55it/s]
+INFO:werkzeug:127.0.0.1 - - [17/Aug/2025 22:37:12] "GET /search/simple?query=section+94-16&collection=la_plata_county_code&num_results=4 HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/Users/matthewzienert/Documents/landuse/apis/rag/langchain_inference.py', reloading
 INFO:werkzeug: * Restarting with stat
 Could not initialize collection 'la_plata_assessor': Collection [la_plata_assessor] does not exists
 INFO:apis.search.search_engine:Connecting to ChromaDB...
@@ -469,258 +115,3 @@ INFO:__main__:Search system initialized successfully
 INFO:__main__:Starting Flask server in development mode...
 WARNING:werkzeug: * Debugger is active!
 INFO:werkzeug: * Debugger PIN: 114-241-345
-INFO:werkzeug: * Detected change in '/Users/matthewzienert/Documents/landuse/apis/rag/validate_migration.py', reloading
-INFO:werkzeug: * Restarting with stat
-Could not initialize collection 'la_plata_assessor': Collection [la_plata_assessor] does not exists
-INFO:apis.search.search_engine:Connecting to ChromaDB...
-INFO:apis.search.search_engine:Connected to collection 'la_plata_county_code': 1298 documents
-WARNING:apis.search.search_engine:Could not initialize collection 'la_plata_assessor': Collection [la_plata_assessor] does not exists
-INFO:apis.search.search_engine:Successfully initialized 1 collections
-INFO:__main__:Search system initialized successfully
-INFO:__main__:Starting Flask server in development mode...
-WARNING:werkzeug: * Debugger is active!
-INFO:werkzeug: * Debugger PIN: 114-241-345
-INFO:werkzeug: * Detected change in '/Users/matthewzienert/Documents/landuse/apis/rag/validate_migration.py', reloading
-INFO:werkzeug: * Restarting with stat
-Could not initialize collection 'la_plata_assessor': Collection [la_plata_assessor] does not exists
-INFO:apis.search.search_engine:Connecting to ChromaDB...
-INFO:apis.search.search_engine:Connected to collection 'la_plata_county_code': 1298 documents
-WARNING:apis.search.search_engine:Could not initialize collection 'la_plata_assessor': Collection [la_plata_assessor] does not exists
-INFO:apis.search.search_engine:Successfully initialized 1 collections
-INFO:__main__:Search system initialized successfully
-INFO:__main__:Starting Flask server in development mode...
-WARNING:werkzeug: * Debugger is active!
-INFO:werkzeug: * Debugger PIN: 114-241-345
-INFO:werkzeug: * Detected change in '/Users/matthewzienert/Documents/landuse/apis/rag/validate_migration.py', reloading
-INFO:werkzeug: * Restarting with stat
-Could not initialize collection 'la_plata_assessor': Collection [la_plata_assessor] does not exists
-INFO:apis.search.search_engine:Connecting to ChromaDB...
-INFO:apis.search.search_engine:Connected to collection 'la_plata_county_code': 1298 documents
-WARNING:apis.search.search_engine:Could not initialize collection 'la_plata_assessor': Collection [la_plata_assessor] does not exists
-INFO:apis.search.search_engine:Successfully initialized 1 collections
-INFO:__main__:Search system initialized successfully
-INFO:__main__:Starting Flask server in development mode...
-WARNING:werkzeug: * Debugger is active!
-INFO:werkzeug: * Debugger PIN: 114-241-345
-INFO:werkzeug: * Detected change in '/Users/matthewzienert/Documents/landuse/apis/rag/validate_migration.py', reloading
-INFO:werkzeug: * Restarting with stat
-Could not initialize collection 'la_plata_assessor': Collection [la_plata_assessor] does not exists
-INFO:apis.search.search_engine:Connecting to ChromaDB...
-INFO:apis.search.search_engine:Connected to collection 'la_plata_county_code': 1298 documents
-WARNING:apis.search.search_engine:Could not initialize collection 'la_plata_assessor': Collection [la_plata_assessor] does not exists
-INFO:apis.search.search_engine:Successfully initialized 1 collections
-INFO:__main__:Search system initialized successfully
-INFO:__main__:Starting Flask server in development mode...
-WARNING:werkzeug: * Debugger is active!
-INFO:werkzeug: * Debugger PIN: 114-241-345
-INFO:werkzeug: * Detected change in '/Users/matthewzienert/Documents/landuse/apis/rag/validate_migration.py', reloading
-INFO:werkzeug: * Restarting with stat
-Could not initialize collection 'la_plata_assessor': Collection [la_plata_assessor] does not exists
-INFO:apis.search.search_engine:Connecting to ChromaDB...
-INFO:apis.search.search_engine:Connected to collection 'la_plata_county_code': 1298 documents
-WARNING:apis.search.search_engine:Could not initialize collection 'la_plata_assessor': Collection [la_plata_assessor] does not exists
-INFO:apis.search.search_engine:Successfully initialized 1 collections
-INFO:__main__:Search system initialized successfully
-INFO:__main__:Starting Flask server in development mode...
-WARNING:werkzeug: * Debugger is active!
-INFO:werkzeug: * Debugger PIN: 114-241-345
-INFO:werkzeug: * Detected change in '/Users/matthewzienert/Documents/landuse/apis/rag/test_langchain_migration.py', reloading
-INFO:werkzeug: * Restarting with stat
-Could not initialize collection 'la_plata_assessor': Collection [la_plata_assessor] does not exists
-INFO:apis.search.search_engine:Connecting to ChromaDB...
-INFO:apis.search.search_engine:Connected to collection 'la_plata_county_code': 1298 documents
-WARNING:apis.search.search_engine:Could not initialize collection 'la_plata_assessor': Collection [la_plata_assessor] does not exists
-INFO:apis.search.search_engine:Successfully initialized 1 collections
-INFO:__main__:Search system initialized successfully
-INFO:__main__:Starting Flask server in development mode...
-WARNING:werkzeug: * Debugger is active!
-INFO:werkzeug: * Debugger PIN: 114-241-345
-INFO:werkzeug: * Detected change in '/Users/matthewzienert/Documents/landuse/apis/rag/test_langchain_migration.py', reloading
-INFO:werkzeug: * Restarting with stat
-Could not initialize collection 'la_plata_assessor': Collection [la_plata_assessor] does not exists
-INFO:apis.search.search_engine:Connecting to ChromaDB...
-INFO:apis.search.search_engine:Connected to collection 'la_plata_county_code': 1298 documents
-WARNING:apis.search.search_engine:Could not initialize collection 'la_plata_assessor': Collection [la_plata_assessor] does not exists
-INFO:apis.search.search_engine:Successfully initialized 1 collections
-INFO:__main__:Search system initialized successfully
-INFO:__main__:Starting Flask server in development mode...
-WARNING:werkzeug: * Debugger is active!
-INFO:werkzeug: * Debugger PIN: 114-241-345
-INFO:werkzeug: * Detected change in '/Users/matthewzienert/Documents/landuse/apis/rag/test_langchain_migration.py', reloading
-INFO:werkzeug: * Restarting with stat
-Could not initialize collection 'la_plata_assessor': Collection [la_plata_assessor] does not exists
-INFO:apis.search.search_engine:Connecting to ChromaDB...
-INFO:apis.search.search_engine:Connected to collection 'la_plata_county_code': 1298 documents
-WARNING:apis.search.search_engine:Could not initialize collection 'la_plata_assessor': Collection [la_plata_assessor] does not exists
-INFO:apis.search.search_engine:Successfully initialized 1 collections
-INFO:__main__:Search system initialized successfully
-INFO:__main__:Starting Flask server in development mode...
-WARNING:werkzeug: * Debugger is active!
-INFO:werkzeug: * Debugger PIN: 114-241-345
-INFO:werkzeug: * Detected change in '/Users/matthewzienert/Documents/landuse/apis/rag/test_langchain_migration.py', reloading
-INFO:werkzeug: * Restarting with stat
-Could not initialize collection 'la_plata_assessor': Collection [la_plata_assessor] does not exists
-INFO:apis.search.search_engine:Connecting to ChromaDB...
-INFO:apis.search.search_engine:Connected to collection 'la_plata_county_code': 1298 documents
-WARNING:apis.search.search_engine:Could not initialize collection 'la_plata_assessor': Collection [la_plata_assessor] does not exists
-INFO:apis.search.search_engine:Successfully initialized 1 collections
-INFO:__main__:Search system initialized successfully
-INFO:__main__:Starting Flask server in development mode...
-WARNING:werkzeug: * Debugger is active!
-INFO:werkzeug: * Debugger PIN: 114-241-345
-INFO:werkzeug: * Detected change in '/Users/matthewzienert/Documents/landuse/apis/rag/test_langchain_migration.py', reloading
-INFO:werkzeug: * Restarting with stat
-Could not initialize collection 'la_plata_assessor': Collection [la_plata_assessor] does not exists
-INFO:apis.search.search_engine:Connecting to ChromaDB...
-INFO:apis.search.search_engine:Connected to collection 'la_plata_county_code': 1298 documents
-WARNING:apis.search.search_engine:Could not initialize collection 'la_plata_assessor': Collection [la_plata_assessor] does not exists
-INFO:apis.search.search_engine:Successfully initialized 1 collections
-INFO:__main__:Search system initialized successfully
-INFO:__main__:Starting Flask server in development mode...
-WARNING:werkzeug: * Debugger is active!
-INFO:werkzeug: * Debugger PIN: 114-241-345
-INFO:werkzeug: * Detected change in '/Users/matthewzienert/Documents/landuse/apis/rag/test_langchain_migration.py', reloading
-INFO:werkzeug: * Restarting with stat
-Could not initialize collection 'la_plata_assessor': Collection [la_plata_assessor] does not exists
-INFO:apis.search.search_engine:Connecting to ChromaDB...
-INFO:apis.search.search_engine:Connected to collection 'la_plata_county_code': 1298 documents
-WARNING:apis.search.search_engine:Could not initialize collection 'la_plata_assessor': Collection [la_plata_assessor] does not exists
-INFO:apis.search.search_engine:Successfully initialized 1 collections
-INFO:__main__:Search system initialized successfully
-INFO:__main__:Starting Flask server in development mode...
-WARNING:werkzeug: * Debugger is active!
-INFO:werkzeug: * Debugger PIN: 114-241-345
-INFO:werkzeug: * Detected change in '/Users/matthewzienert/Documents/landuse/apis/rag/test_langchain_migration.py', reloading
-INFO:werkzeug: * Restarting with stat
-Could not initialize collection 'la_plata_assessor': Collection [la_plata_assessor] does not exists
-INFO:apis.search.search_engine:Connecting to ChromaDB...
-INFO:apis.search.search_engine:Connected to collection 'la_plata_county_code': 1298 documents
-WARNING:apis.search.search_engine:Could not initialize collection 'la_plata_assessor': Collection [la_plata_assessor] does not exists
-INFO:apis.search.search_engine:Successfully initialized 1 collections
-INFO:__main__:Search system initialized successfully
-INFO:__main__:Starting Flask server in development mode...
-WARNING:werkzeug: * Debugger is active!
-INFO:werkzeug: * Debugger PIN: 114-241-345
-INFO:werkzeug: * Detected change in '/Users/matthewzienert/Documents/landuse/apis/rag/test_langchain_migration.py', reloading
-INFO:werkzeug: * Restarting with stat
-Could not initialize collection 'la_plata_assessor': Collection [la_plata_assessor] does not exists
-INFO:apis.search.search_engine:Connecting to ChromaDB...
-INFO:apis.search.search_engine:Connected to collection 'la_plata_county_code': 1298 documents
-WARNING:apis.search.search_engine:Could not initialize collection 'la_plata_assessor': Collection [la_plata_assessor] does not exists
-INFO:apis.search.search_engine:Successfully initialized 1 collections
-INFO:__main__:Search system initialized successfully
-INFO:__main__:Starting Flask server in development mode...
-WARNING:werkzeug: * Debugger is active!
-INFO:werkzeug: * Debugger PIN: 114-241-345
-INFO:werkzeug: * Detected change in '/Users/matthewzienert/Documents/landuse/apis/rag/test_langchain_migration.py', reloading
-INFO:werkzeug: * Restarting with stat
-Could not initialize collection 'la_plata_assessor': Collection [la_plata_assessor] does not exists
-INFO:apis.search.search_engine:Connecting to ChromaDB...
-INFO:apis.search.search_engine:Connected to collection 'la_plata_county_code': 1298 documents
-WARNING:apis.search.search_engine:Could not initialize collection 'la_plata_assessor': Collection [la_plata_assessor] does not exists
-INFO:apis.search.search_engine:Successfully initialized 1 collections
-INFO:__main__:Search system initialized successfully
-INFO:__main__:Starting Flask server in development mode...
-WARNING:werkzeug: * Debugger is active!
-INFO:werkzeug: * Debugger PIN: 114-241-345
-INFO:werkzeug: * Detected change in '/Users/matthewzienert/Documents/landuse/apis/rag/test_langchain_migration.py', reloading
-INFO:werkzeug: * Restarting with stat
-Could not initialize collection 'la_plata_assessor': Collection [la_plata_assessor] does not exists
-INFO:apis.search.search_engine:Connecting to ChromaDB...
-INFO:apis.search.search_engine:Connected to collection 'la_plata_county_code': 1298 documents
-WARNING:apis.search.search_engine:Could not initialize collection 'la_plata_assessor': Collection [la_plata_assessor] does not exists
-INFO:apis.search.search_engine:Successfully initialized 1 collections
-INFO:__main__:Search system initialized successfully
-INFO:__main__:Starting Flask server in development mode...
-WARNING:werkzeug: * Debugger is active!
-INFO:werkzeug: * Debugger PIN: 114-241-345
-INFO:werkzeug: * Detected change in '/Users/matthewzienert/Documents/landuse/apis/rag/test_langchain_migration.py', reloading
-INFO:werkzeug: * Restarting with stat
-Could not initialize collection 'la_plata_assessor': Collection [la_plata_assessor] does not exists
-INFO:apis.search.search_engine:Connecting to ChromaDB...
-INFO:apis.search.search_engine:Connected to collection 'la_plata_county_code': 1298 documents
-WARNING:apis.search.search_engine:Could not initialize collection 'la_plata_assessor': Collection [la_plata_assessor] does not exists
-INFO:apis.search.search_engine:Successfully initialized 1 collections
-INFO:__main__:Search system initialized successfully
-INFO:__main__:Starting Flask server in development mode...
-WARNING:werkzeug: * Debugger is active!
-INFO:werkzeug: * Debugger PIN: 114-241-345
-INFO:werkzeug: * Detected change in '/Users/matthewzienert/Documents/landuse/apis/rag/test_langchain_migration.py', reloading
-INFO:werkzeug: * Restarting with stat
-Could not initialize collection 'la_plata_assessor': Collection [la_plata_assessor] does not exists
-INFO:apis.search.search_engine:Connecting to ChromaDB...
-INFO:apis.search.search_engine:Connected to collection 'la_plata_county_code': 1298 documents
-WARNING:apis.search.search_engine:Could not initialize collection 'la_plata_assessor': Collection [la_plata_assessor] does not exists
-INFO:apis.search.search_engine:Successfully initialized 1 collections
-INFO:__main__:Search system initialized successfully
-INFO:__main__:Starting Flask server in development mode...
-WARNING:werkzeug: * Debugger is active!
-INFO:werkzeug: * Debugger PIN: 114-241-345
-INFO:werkzeug: * Detected change in '/Users/matthewzienert/Documents/landuse/apis/rag/test_langchain_migration.py', reloading
-INFO:werkzeug: * Restarting with stat
-Could not initialize collection 'la_plata_assessor': Collection [la_plata_assessor] does not exists
-INFO:apis.search.search_engine:Connecting to ChromaDB...
-INFO:apis.search.search_engine:Connected to collection 'la_plata_county_code': 1298 documents
-WARNING:apis.search.search_engine:Could not initialize collection 'la_plata_assessor': Collection [la_plata_assessor] does not exists
-INFO:apis.search.search_engine:Successfully initialized 1 collections
-INFO:__main__:Search system initialized successfully
-INFO:__main__:Starting Flask server in development mode...
-WARNING:werkzeug: * Debugger is active!
-INFO:werkzeug: * Debugger PIN: 114-241-345
-INFO:werkzeug: * Detected change in '/Users/matthewzienert/Documents/landuse/apis/rag/rag_engine.py', reloading
-INFO:werkzeug: * Restarting with stat
-Could not initialize collection 'la_plata_assessor': Collection [la_plata_assessor] does not exists
-INFO:apis.search.search_engine:Connecting to ChromaDB...
-INFO:apis.search.search_engine:Connected to collection 'la_plata_county_code': 1298 documents
-WARNING:apis.search.search_engine:Could not initialize collection 'la_plata_assessor': Collection [la_plata_assessor] does not exists
-INFO:apis.search.search_engine:Successfully initialized 1 collections
-INFO:__main__:Search system initialized successfully
-INFO:__main__:Starting Flask server in development mode...
-WARNING:werkzeug: * Debugger is active!
-INFO:werkzeug: * Debugger PIN: 114-241-345
-INFO:werkzeug: * Detected change in '/Users/matthewzienert/Documents/landuse/apis/rag/rag_engine.py', reloading
-INFO:werkzeug: * Restarting with stat
-Could not initialize collection 'la_plata_assessor': Collection [la_plata_assessor] does not exists
-INFO:apis.search.search_engine:Connecting to ChromaDB...
-INFO:apis.search.search_engine:Connected to collection 'la_plata_county_code': 1298 documents
-WARNING:apis.search.search_engine:Could not initialize collection 'la_plata_assessor': Collection [la_plata_assessor] does not exists
-INFO:apis.search.search_engine:Successfully initialized 1 collections
-INFO:__main__:Search system initialized successfully
-INFO:__main__:Starting Flask server in development mode...
-WARNING:werkzeug: * Debugger is active!
-INFO:werkzeug: * Debugger PIN: 114-241-345
-INFO:werkzeug: * Detected change in '/Users/matthewzienert/Documents/landuse/apis/rag/rag_engine.py', reloading
-INFO:werkzeug: * Restarting with stat
-Could not initialize collection 'la_plata_assessor': Collection [la_plata_assessor] does not exists
-INFO:apis.search.search_engine:Connecting to ChromaDB...
-INFO:apis.search.search_engine:Connected to collection 'la_plata_county_code': 1298 documents
-WARNING:apis.search.search_engine:Could not initialize collection 'la_plata_assessor': Collection [la_plata_assessor] does not exists
-INFO:apis.search.search_engine:Successfully initialized 1 collections
-INFO:__main__:Search system initialized successfully
-INFO:__main__:Starting Flask server in development mode...
-WARNING:werkzeug: * Debugger is active!
-INFO:werkzeug: * Debugger PIN: 114-241-345
-INFO:werkzeug: * Detected change in '/Users/matthewzienert/Documents/landuse/apis/rag/handlers/health.py', reloading
-INFO:werkzeug: * Restarting with stat
-Could not initialize collection 'la_plata_assessor': Collection [la_plata_assessor] does not exists
-INFO:apis.search.search_engine:Connecting to ChromaDB...
-INFO:apis.search.search_engine:Connected to collection 'la_plata_county_code': 1298 documents
-WARNING:apis.search.search_engine:Could not initialize collection 'la_plata_assessor': Collection [la_plata_assessor] does not exists
-INFO:apis.search.search_engine:Successfully initialized 1 collections
-INFO:__main__:Search system initialized successfully
-INFO:__main__:Starting Flask server in development mode...
-WARNING:werkzeug: * Debugger is active!
-INFO:werkzeug: * Debugger PIN: 114-241-345
-INFO:werkzeug: * Detected change in '/Users/matthewzienert/Documents/landuse/apis/rag/handlers/health.py', reloading
-INFO:werkzeug: * Restarting with stat
-Could not initialize collection 'la_plata_assessor': Collection [la_plata_assessor] does not exists
-INFO:apis.search.search_engine:Connecting to ChromaDB...
-INFO:apis.search.search_engine:Connected to collection 'la_plata_county_code': 1298 documents
-WARNING:apis.search.search_engine:Could not initialize collection 'la_plata_assessor': Collection [la_plata_assessor] does not exists
-INFO:apis.search.search_engine:Successfully initialized 1 collections
-INFO:__main__:Search system initialized successfully
-INFO:__main__:Starting Flask server in development mode...
-WARNING:werkzeug: * Debugger is active!
-INFO:werkzeug: * Debugger PIN: 114-241-345
-/opt/homebrew/Cellar/python@3.13/3.13.1/Frameworks/Python.framework/Versions/3.13/lib/python3.13/multiprocessing/resource_tracker.py:276: UserWarning: resource_tracker: There appear to be 1 leaked semaphore objects to clean up at shutdown: {'/loky-47290-9nw7ll4_'}
-  warnings.warn(

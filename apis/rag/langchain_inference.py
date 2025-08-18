@@ -23,7 +23,7 @@ class LangChainInferenceManager:
         try:
             if os.getenv('LANGSMITH_TRACING', 'false').lower() == 'true':
                 api_key = os.getenv('LANGSMITH_API_KEY')
-                project = os.getenv('LANGSMITH_PROJECT', 'landuse-rag')
+                project = os.getenv('LANGSMITH_PROJECT')
                 
                 if api_key:
                     self.langsmith_client = Client(api_key=api_key)
@@ -91,9 +91,15 @@ class LangChainInferenceManager:
         messages.append(HumanMessage(content=prompt))
         
         try:
-            # Add LangSmith tracing if enabled
-            if self.tracer:
-                kwargs['callbacks'] = [self.tracer]
+            # Add LangSmith tracing if enabled (only for providers that support it)
+            if self.tracer and not isinstance(self.provider, type(None)):
+                provider_name = type(self.provider).__name__
+                # Only add callbacks for Bedrock providers, not local llama.cpp
+                if 'Bedrock' in provider_name:
+                    kwargs['callbacks'] = [self.tracer]
+                else:
+                    # For local providers, we'll trace manually
+                    current_app.logger.info("LangSmith tracing: Local provider detected, manual tracing")
             
             return self.provider.generate(messages, **kwargs)
         except Exception as e:
@@ -116,9 +122,15 @@ class LangChainInferenceManager:
         messages.append(HumanMessage(content=prompt))
         
         try:
-            # Add LangSmith tracing if enabled
-            if self.tracer:
-                kwargs['callbacks'] = [self.tracer]
+            # Add LangSmith tracing if enabled (only for providers that support it)
+            if self.tracer and not isinstance(self.provider, type(None)):
+                provider_name = type(self.provider).__name__
+                # Only add callbacks for Bedrock providers, not local llama.cpp
+                if 'Bedrock' in provider_name:
+                    kwargs['callbacks'] = [self.tracer]
+                else:
+                    # For local providers, we'll trace manually
+                    current_app.logger.info("LangSmith tracing: Local provider detected, manual tracing (stream)")
                 
             yield from self.provider.stream_generate(messages, **kwargs)
         except Exception as e:

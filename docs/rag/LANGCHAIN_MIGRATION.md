@@ -789,6 +789,46 @@ RAG_ENV=production ./scripts/run_rag.sh start
 
 The system will automatically switch to AWS Bedrock providers when credentials are available, with local llama.cpp as fallback.
 
+## 🔍 **LangSmith Observability Setup**
+
+LangSmith provides comprehensive tracing and monitoring for LLM operations.
+
+### Step 1: Get LangSmith API Key
+1. Sign up at [LangSmith](https://smith.langchain.com/)
+2. Get your API key from settings
+
+### Step 2: Configure Environment Variables
+```bash
+# Add to your environment file (.env.local, .env.staging, .env.production)
+LANGSMITH_API_KEY=your_api_key_here
+LANGSMITH_TRACING=true
+LANGSMITH_PROJECT=landuse-rag-local  # or staging/production
+```
+
+### Step 3: Restart Services
+```bash
+# Load environment and restart
+./scripts/switch_env.sh local
+./scripts/run_rag.sh restart
+```
+
+### Step 4: Verify LangSmith Status
+```bash
+# Check LangSmith configuration
+curl http://localhost:8001/rag/health | jq .langsmith
+
+# Should show:
+# {
+#   "tracing_enabled": true,
+#   "project": "landuse-rag-local"
+# }
+```
+
+### LangSmith Tracing Behavior
+- **Local llama.cpp**: Manual tracing mode (logged, callbacks disabled for compatibility)
+- **AWS Bedrock**: Full LangSmith tracing with callbacks
+- **Health endpoint**: Always shows LangSmith configuration status
+
 ---
 
-This streamlined migration strategy provides a clean transition from direct HTTP calls to LangChain abstraction, with full AWS Bedrock readiness and robust fallback capabilities.
+This streamlined migration strategy provides a clean transition from direct HTTP calls to LangChain abstraction, with full AWS Bedrock readiness, robust fallback capabilities, and comprehensive observability through LangSmith.
