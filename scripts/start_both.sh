@@ -56,7 +56,8 @@ check_all_status() {
 
 # Function to start all services
 start_all() {
-    print_status $YELLOW "🚀 Starting La Plata County API Suite..."
+    local env_type=${RAG_ENV:-local}
+    print_status $YELLOW "🚀 Starting La Plata County API Suite (Environment: $env_type)..."
     echo ""
     
     # Start Search API first
@@ -81,8 +82,9 @@ start_all() {
     # Wait a moment for services to fully start
     sleep 3
     
-    # Start RAG API
-    print_status $YELLOW "3/3 Starting RAG API (port 8001)..."
+    # Start RAG API with environment
+    print_status $YELLOW "3/3 Starting RAG API (port 8001) with environment: $env_type..."
+    export RAG_ENV="$env_type"
     if ! "$RAG_SCRIPT" start; then
         print_status $RED "❌ Failed to start RAG API"
         print_status $YELLOW "Other services are still running. Use './scripts/start_both.sh stop' to stop all."
@@ -335,7 +337,8 @@ show_help() {
     echo "  ./scripts/run_rag.sh {start|stop|status} # RAG API only"
     echo ""
     echo "Examples:"
-    echo "  $0 start                    # Start all services"
+    echo "  $0 start                    # Start all services (local environment)"
+    echo "  RAG_ENV=staging $0 start    # Start with staging environment"
     echo "  $0 status                   # Check if all are running"
     echo "  $0 test                     # Test all services"
     echo ""

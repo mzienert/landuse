@@ -36,9 +36,22 @@ start_api() {
     return 1
   fi
 
+  # Set up environment configuration
+  local env_type=${RAG_ENV:-local}
+  echo "Setting up environment: $env_type"
+  
+  if [ ! -f ".env.$env_type" ]; then
+    echo "⚠️  Environment file .env.$env_type not found, using defaults"
+    echo "   You can create environment files with: ./scripts/switch_env.sh $env_type"
+  else
+    echo "📁 Loading configuration from .env.$env_type"
+    cp ".env.$env_type" .env
+  fi
+
   source env/bin/activate
 
   echo "Starting RAG API on port $API_PORT..."
+  echo "Environment: $env_type"
   nohup python -m apis.rag.rag_api > "$LOG_FILE" 2>&1 &
   local pid=$!
   echo "$pid" > "$PID_FILE"
@@ -47,6 +60,7 @@ start_api() {
   if is_running; then
     echo "✅ RAG API started (PID: $pid)"
     echo "URL: http://localhost:$API_PORT"
+    echo "Environment: $env_type"
     echo "Logs: $LOG_FILE"
   else
     echo "❌ Failed to start RAG API"
@@ -112,6 +126,16 @@ case "${1:-help}" in
   help|--help|-h)
     echo "RAG API management"
     echo "Usage: $0 {start|stop|restart|status|logs|help}"
+    echo ""
+    echo "Environment Control:"
+    echo "  RAG_ENV=local ./scripts/run_rag.sh start      # Use local environment"
+    echo "  RAG_ENV=staging ./scripts/run_rag.sh start    # Use staging environment"
+    echo "  RAG_ENV=production ./scripts/run_rag.sh start # Use production environment"
+    echo ""
+    echo "Environment Setup:"
+    echo "  ./scripts/switch_env.sh local      # Configure for local development"
+    echo "  ./scripts/switch_env.sh staging    # Configure for staging deployment"
+    echo "  ./scripts/switch_env.sh production # Configure for production deployment"
     ;;
   *)
     echo "Unknown command: $1" ;;
