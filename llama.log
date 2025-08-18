@@ -781,3 +781,5 @@ prompt eval time =      40.94 ms /     1 tokens (   40.94 ms per token,    24.42
       total time =    5915.70 ms /   326 tokens
 srv  update_slots: all slots are idle
 srv  log_server_r: request: POST /completion 127.0.0.1 200
+srv  log_server_r: request: GET /health 127.0.0.1 200
+srv  log_server_r: request: GET /health 127.0.0.1 200

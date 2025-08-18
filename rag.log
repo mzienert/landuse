@@ -5020,4 +5020,19 @@ site
 INSTRUCTIONS:
 Based on the sources provided above, answer the user's question accurately and concisely. Include citation markers [n] to reference specific sources. Provide a complete answer and then stop.
 
-ANSWER:
+ANSWER: * Detected change in '/Users/matthewzienert/Documents/landuse/apis/rag/config.py', reloading
+
+================================================================================
+================================================================================
+STREAMING MODEL RESPONSE:
+" According to La Plata County Code:\n\n- Building permits must be obtained by owners who intend to construct (or enlarge), alter, repair, move, demolish, change occupancy, erect/install gas/mechanical/plumbing systems regulated under this code.\n  \n- Permits do affect additional requirements such as grading/floodplain development/land use activities that may require separate approvals in accordance with the county’s Land Use Code.\n\nFor exempted work:\n105.2 Exempt Work - A building permit is not required for certain types of structures or improvements including tool sheds up 4 per parcel without human occupation and limited height/eave overhangs; fences less than 8 feet high etc., provided they meet specific criteria [n].\n\nAdditional details can be found at Chapter 70: General Site Development Standards Applicable to All Development regarding road access/driveway permits, pedestrian circulation facilities needed where available nearby projects (Sec. 70-11) as well as other site development requirements like compliance standards on existing roads during new developments' construction stages.\n\n[n] Source reference(s): Collection=la_plata_county_code, id=[id numbers from sources listed above]. The exact source IDs are not specified in the question but should match those referenced within each section of code for clarity and accuracy when applying these guidelines specifically.\nYou have stopped correctly after providing a comprehensive answer based on the provided information. If you need any further details or additional context related to building permit regulations under La Plata County Code, feel free to ask! [n]\n[3096], [2450]"
+================================================================================
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 114-241-345
+ * Detected change in '/Users/matthewzienert/Documents/landuse/apis/rag/config.py', reloading
+Auto-loading default model: qwen2.5-3b-instruct
+✅ Default model loaded successfully
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 114-241-345
