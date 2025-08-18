@@ -34,8 +34,8 @@ class LocalLlamaCppProvider(LLMProvider):
             model="gpt-3.5-turbo",  # Placeholder, ignored by llama.cpp
             temperature=0.1,  # Capped for consistency
             max_tokens=1200,
+            seed=42,  # Fixed seed for reproducible results
             model_kwargs={
-                "seed": 42,  # Fixed seed for reproducible results
                 "repeat_penalty": 1.3,  # Prevent repetition
                 "repeat_last_n": 128  # Repetition detection window
             }
