@@ -216,8 +216,12 @@ class Config:
     GENERATION_REPEAT_PENALTY = float(os.environ.get('GENERATION_REPEAT_PENALTY', '1.3'))
     
     # Provider Selection Strategy
-    PROVIDER_FALLBACK_ENABLED = os.environ.get('PROVIDER_FALLBACK_ENABLED', 'true').lower() == 'true'
     PROVIDER_HEALTH_CHECK_TIMEOUT = int(os.environ.get('PROVIDER_HEALTH_CHECK_TIMEOUT', '5'))
+    
+    # LangSmith Configuration
+    LANGSMITH_API_KEY = os.environ.get('LANGSMITH_API_KEY')
+    LANGSMITH_PROJECT = os.environ.get('LANGSMITH_PROJECT', 'landuse-rag')
+    LANGSMITH_TRACING = os.environ.get('LANGSMITH_TRACING', 'false').lower() == 'true'
 ```
 
 ### Environment Variables Configuration
@@ -226,19 +230,23 @@ class Config:
 # .env.local
 DEPLOYMENT_ENV=local
 LLAMA_CPP_BASE_URL=http://localhost:8003/v1
-PROVIDER_FALLBACK_ENABLED=true
+LANGSMITH_TRACING=false  # Optional for local development
 
 # .env.staging  
 DEPLOYMENT_ENV=staging
 AWS_REGION=us-west-2
 BEDROCK_STAGING_MODEL=anthropic.claude-3-haiku-20240307
-PROVIDER_FALLBACK_ENABLED=true
+LANGSMITH_API_KEY=your_langsmith_api_key
+LANGSMITH_PROJECT=landuse-rag-staging
+LANGSMITH_TRACING=true
 
 # .env.production
 DEPLOYMENT_ENV=production
 AWS_REGION=us-west-2
 BEDROCK_PRODUCTION_MODEL=anthropic.claude-3-sonnet-20240229
-PROVIDER_FALLBACK_ENABLED=false  # Strict production mode
+LANGSMITH_API_KEY=your_langsmith_api_key
+LANGSMITH_PROJECT=landuse-rag-production
+LANGSMITH_TRACING=true
 ```
 
 ### Integration with Current RAG Pipeline
@@ -247,15 +255,40 @@ PROVIDER_FALLBACK_ENABLED=false  # Strict production mode
 # apis/rag/langchain_inference.py - New inference module
 from typing import Generator, Optional
 from langchain_core.messages import HumanMessage, SystemMessage
+from langchain_core.tracers.langchain import LangChainTracer
+from langsmith import Client
 from .llm_provider import LLMProviderFactory
 from flask import current_app
+import os
 
 class LangChainInferenceManager:
     """LangChain-based inference manager replacing direct HTTP calls"""
     
     def __init__(self):
         self.provider = None
+        self.langsmith_client = None
+        self.tracer = None
+        self._setup_langsmith()
         self._load_provider()
+    
+    def _setup_langsmith(self):
+        """Setup LangSmith tracing if enabled"""
+        try:
+            if os.getenv('LANGSMITH_TRACING', 'false').lower() == 'true':
+                api_key = os.getenv('LANGSMITH_API_KEY')
+                project = os.getenv('LANGSMITH_PROJECT', 'landuse-rag')
+                
+                if api_key:
+                    self.langsmith_client = Client(api_key=api_key)
+                    self.tracer = LangChainTracer(
+                        project_name=project,
+                        client=self.langsmith_client
+                    )
+                    current_app.logger.info(f"LangSmith tracing enabled for project: {project}")
+                else:
+                    current_app.logger.warning("LANGSMITH_API_KEY not set, tracing disabled")
+        except Exception as e:
+            current_app.logger.error(f"Failed to setup LangSmith: {e}")
     
     def _load_provider(self):
         """Load and cache the appropriate LLM provider"""
@@ -287,6 +320,10 @@ class LangChainInferenceManager:
         messages.append(HumanMessage(content=prompt))
         
         try:
+            # Add LangSmith tracing if enabled
+            if self.tracer:
+                kwargs['callbacks'] = [self.tracer]
+            
             return self.provider.generate(messages, **kwargs)
         except Exception as e:
             current_app.logger.error(f"Text generation failed: {e}")
@@ -308,6 +345,10 @@ class LangChainInferenceManager:
         messages.append(HumanMessage(content=prompt))
         
         try:
+            # Add LangSmith tracing if enabled
+            if self.tracer:
+                kwargs['callbacks'] = [self.tracer]
+                
             yield from self.provider.stream_generate(messages, **kwargs)
         except Exception as e:
             current_app.logger.error(f"Text streaming failed: {e}")
@@ -353,6 +394,10 @@ def health():
                 "type": provider_type,
                 "environment": env
             },
+            "langsmith": {
+                "tracing_enabled": inference_manager.tracer is not None,
+                "project": os.getenv("LANGSMITH_PROJECT", "landuse-rag")
+            },
             "timestamp": datetime.utcnow().isoformat(),
             "version": "0.2.0-langchain"
         })
@@ -383,14 +428,20 @@ def health():
 - **Logging and observability**: Centralized provider logging
 
 ### 4. **Migration Safety**
-- **Gradual transition**: Can be implemented alongside existing direct HTTP calls
-- **Rollback capability**: Easy to revert to direct HTTP if needed
+- **Clean architecture**: Direct replacement without complexity
+- **Environment isolation**: Clear separation between local/staging/production
 - **Testing flexibility**: Can test different providers in same environment
 
 ### 5. **Cost Optimization**
 - **Development**: Free local inference
 - **Staging**: Cheaper Claude Haiku for testing
 - **Production**: Premium Claude Sonnet for quality
+
+### 6. **Observability with LangSmith**
+- **Request tracing**: Full visibility into LLM calls and responses
+- **Performance monitoring**: Latency, token usage, and error tracking
+- **Debugging**: Detailed logs for troubleshooting inference issues
+- **Analytics**: Usage patterns and model performance insights
 
 This architecture provides a robust foundation for the current LangChain migration while establishing the framework for future cloud deployment and multi-provider scenarios.
 
@@ -401,14 +452,15 @@ This architecture provides a robust foundation for the current LangChain migrati
 #### Step 1.1: Install Dependencies
 ```bash
 # Add LangChain dependencies to requirements
-pip install langchain-openai langchain-aws langchain-core
+pip install langchain-openai langchain-aws langchain-core langsmith
 ```
 
 #### Step 1.2: Create Provider Architecture
 - [ ] Create `apis/rag/llm_provider.py` with provider classes
 - [ ] Create `apis/rag/langchain_inference.py` with inference manager
-- [ ] Update `apis/rag/config.py` with LangChain settings
+- [ ] Update `apis/rag/config.py` with LangChain and LangSmith settings
 - [ ] Add environment configuration files (`.env.local`, `.env.staging`, `.env.production`)
+- [ ] Configure LangSmith tracing and monitoring
 
 #### Step 1.3: Testing Infrastructure
 ```python
@@ -443,7 +495,7 @@ def test_consistency_parameters():
     assert response1 == response2
 ```
 
-### Phase 2: Parallel Implementation (Week 2)
+### Phase 2: Implementation (Week 2)
 
 #### Step 2.1: Create LangChain Inference Module
 - [ ] Implement `LangChainInferenceManager` class
@@ -451,146 +503,47 @@ def test_consistency_parameters():
 - [ ] Add comprehensive error handling and logging
 - [ ] Implement health checks and provider switching
 
-#### Step 2.2: Parallel Testing
-```python
-# apis/rag/migration_test.py
-def test_response_consistency():
-    """Compare direct HTTP vs LangChain responses"""
-    # Current direct HTTP approach
-    from .inference import ModelManager
-    current_manager = ModelManager()
-    current_response = current_manager.stream_generate("What are minor subdivision requirements?")
-    
-    # New LangChain approach
-    from .langchain_inference import LangChainInferenceManager
-    new_manager = LangChainInferenceManager()
-    new_response = new_manager.generate_text("What are minor subdivision requirements?")
-    
-    # Compare key characteristics
-    assert len(current_response) > 0
-    assert len(new_response) > 0
-    # Responses should have similar structure and content
-    assert "subdivision" in new_response.lower()
-    assert "requirements" in new_response.lower()
-
-def test_performance_comparison():
-    """Compare performance between approaches"""
-    import time
-    
-    # Time current approach
-    start = time.time()
-    current_response = current_manager.stream_generate("Test query")
-    current_time = time.time() - start
-    
-    # Time LangChain approach  
-    start = time.time()
-    new_response = new_manager.generate_text("Test query")
-    new_time = time.time() - start
-    
-    # Performance should be similar (within 20%)
-    assert abs(new_time - current_time) / current_time < 0.2
-```
-
-#### Step 2.3: Update Health Endpoints
+#### Step 2.2: Update Health Endpoints
 - [ ] Modify `/rag/health` to include provider status
 - [ ] Add `/rag/provider/status` endpoint for detailed provider info
-- [ ] Add `/rag/provider/switch` endpoint for testing different providers
 
-### Phase 3: Gradual Migration (Week 3)
+### Phase 3: Direct Migration (Week 3)
 
-#### Step 3.1: Feature Flag Implementation
-```python
-# apis/rag/config.py
-class Config:
-    # Migration control
-    USE_LANGCHAIN = os.environ.get('USE_LANGCHAIN', 'false').lower() == 'true'
-    LANGCHAIN_FALLBACK = os.environ.get('LANGCHAIN_FALLBACK', 'true').lower() == 'true'
-```
-
-#### Step 3.2: Hybrid Implementation
-```python
-# apis/rag/inference.py - Updated for hybrid approach
-class HybridInferenceManager:
-    """Hybrid manager supporting both direct HTTP and LangChain"""
-    
-    def __init__(self):
-        self.use_langchain = current_app.config.get('USE_LANGCHAIN', False)
-        self.fallback_enabled = current_app.config.get('LANGCHAIN_FALLBACK', True)
-        
-        if self.use_langchain:
-            try:
-                from .langchain_inference import LangChainInferenceManager
-                self.langchain_manager = LangChainInferenceManager()
-            except Exception as e:
-                current_app.logger.error(f"Failed to initialize LangChain: {e}")
-                if not self.fallback_enabled:
-                    raise
-                self.use_langchain = False
-        
-        if not self.use_langchain:
-            self.direct_manager = ModelManager()  # Current implementation
-    
-    def stream_generate(self, prompt: str, **kwargs):
-        """Generate with fallback logic"""
-        if self.use_langchain:
-            try:
-                return self.langchain_manager.stream_text(prompt, **kwargs)
-            except Exception as e:
-                current_app.logger.error(f"LangChain generation failed: {e}")
-                if self.fallback_enabled:
-                    current_app.logger.info("Falling back to direct HTTP")
-                    return self.direct_manager.stream_generate(prompt, **kwargs)
-                raise
-        else:
-            return self.direct_manager.stream_generate(prompt, **kwargs)
-```
-
-#### Step 3.3: Gradual Rollout
-- [ ] Enable LangChain for 10% of requests (feature flag)
-- [ ] Monitor error rates and performance metrics
-- [ ] Compare response quality between approaches
-- [ ] Gradually increase LangChain usage to 50%, then 100%
-
-### Phase 4: Full Migration (Week 4)
-
-#### Step 4.1: Replace Direct HTTP Calls
+#### Step 3.1: Replace Direct HTTP Calls
 - [ ] Update `rag_api.py` to use `LangChainInferenceManager`
 - [ ] Remove `inference.py` ModelManager class
 - [ ] Update all imports and references
 - [ ] Remove direct HTTP request code
 
-#### Step 4.2: Cleanup and Optimization
+#### Step 3.2: Clean Integration
 ```python
-# Remove old code
-# apis/rag/inference.py - DEPRECATED
-# Direct HTTP request implementations
-
 # Update all imports
 # From: from .inference import ModelManager
 # To:   from .langchain_inference import LangChainInferenceManager
+
+# Replace instantiation
+# From: manager = ModelManager()
+# To:   manager = LangChainInferenceManager()
 ```
 
-#### Step 4.3: Environment Testing
+#### Step 3.3: Environment Testing
 - [ ] Test local environment with llama.cpp provider
 - [ ] Set up staging environment with AWS Bedrock (if available)
 - [ ] Verify environment switching works correctly
-- [ ] Test failover scenarios
 
-### Phase 5: Production Deployment (Week 5)
+### Phase 4: Production Deployment (Week 4)
 
-#### Step 5.1: Deployment Preparation
+#### Step 4.1: Deployment Preparation
 - [ ] Update deployment scripts to include LangChain dependencies
 - [ ] Configure environment variables for production
 - [ ] Set up monitoring for new provider architecture
-- [ ] Create rollback procedures
 
-#### Step 5.2: Production Rollout
+#### Step 4.2: Production Rollout
 - [ ] Deploy to staging environment first
 - [ ] Run comprehensive integration tests
-- [ ] Monitor performance and error rates
-- [ ] Deploy to production with gradual traffic increase
+- [ ] Deploy to production
 
-#### Step 5.3: Post-Migration Optimization
+#### Step 4.3: Post-Migration Optimization
 - [ ] Monitor provider performance across environments
 - [ ] Optimize configuration for each environment
 - [ ] Set up alerts for provider failures
@@ -614,51 +567,28 @@ class HybridInferenceManager:
 #### Operational Requirements ✅
 - [ ] Environment-based configuration working
 - [ ] Provider switching functional
-- [ ] Graceful degradation on provider failure
 - [ ] Comprehensive logging and monitoring
 - [ ] Documentation updated
-
-### Risk Mitigation
-
-#### High-Risk Items and Mitigation
-1. **Response Quality Regression**
-   - **Mitigation**: Extensive A/B testing between direct HTTP and LangChain
-   - **Rollback**: Feature flag allows immediate revert to direct HTTP
-
-2. **Performance Degradation**
-   - **Mitigation**: Parallel performance testing throughout migration
-   - **Rollback**: Hybrid implementation allows fallback to direct HTTP
-
-3. **Provider Availability Issues**
-   - **Mitigation**: Multiple provider support with automatic fallback
-   - **Rollback**: Local llama.cpp always available as fallback
-
-4. **Configuration Complexity**
-   - **Mitigation**: Clear environment separation and validation
-   - **Rollback**: Simple environment variable changes to revert
 
 ### Success Metrics
 
 #### Technical Metrics
 - Response time: ≤110% of current baseline
 - Memory usage: ≤105% of current baseline  
-- Error rate: ≤1% for provider switching
 - Consistency: 100% identical responses for same query with seed=42
 
 #### Operational Metrics
 - Deployment time: ≤current deployment time
 - Environment switch time: ≤5 minutes
-- Provider failover time: ≤30 seconds
 - Documentation completeness: 100%
 
 ### Timeline Summary
 
-| Week | Phase | Key Deliverables | Risk Level |
-|------|-------|------------------|------------|
-| 1 | Foundation | Provider architecture, testing | Low |
-| 2 | Parallel Testing | LangChain implementation, validation | Medium |
-| 3 | Gradual Migration | Hybrid approach, feature flags | Medium |
-| 4 | Full Migration | Replace direct HTTP, cleanup | High |
-| 5 | Production Deploy | Staging/prod deployment | High |
+| Week | Phase | Key Deliverables |
+|------|-------|------------------|
+| 1 | Foundation | Provider architecture, testing |
+| 2 | Implementation | LangChain implementation, validation |
+| 3 | Direct Migration | Replace direct HTTP, cleanup |
+| 4 | Production Deploy | Staging/prod deployment |
 
-This comprehensive migration strategy ensures a smooth transition from direct HTTP calls to LangChain abstraction while maintaining all current performance characteristics and adding powerful new capabilities for future cloud deployment.
+This streamlined migration strategy provides a clean transition from direct HTTP calls to LangChain abstraction, focusing on the architectural benefits of provider abstraction without unnecessary complexity.

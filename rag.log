@@ -4580,4 +4580,444 @@ Effective on: 10/1/2020
 INSTRUCTIONS:
 Based on the sources provided above, answer the user's question accurately and concisely. Include citation markers [n] to reference specific sources. Provide a complete answer and then stop.
 
+ANSWER:127.0.0.1 - - [14/Aug/2025 08:52:55] "GET /rag/answer/stream?query=What+are+minor+subdivision+requirements?&collection=la_plata_county_code&num_results=4&max_tokens=1200 HTTP/1.1" 200 -
+
+================================================================================
+================================================================================
+STREAMING MODEL RESPONSE:
+' Minor subdivision requirements are as follows:\n\nI. Applicability - The procedures apply only when land is divided into three (3) or fewer lots according to section n of chapter 67 Division of Land in La Plata County Code.\nII. Procedures – A summary can be found at Figure 67-4 which outlines an overview for applying minor subdivisions including steps such as application submission fees, required plans/reports referrals etc., staff analysis public hearings; each step being distinct with increasing design/engagement detail from initial sketch plan review through preliminary plat approval up until final plat administration [n1].\nIII. Approval criteria - These follow the general standards outlined by Section 66-16 and include specific requirements like ensuring compliance with applicable conditions set forth on major land use permits approving preliminaries plats.\n\nIV. Effect of approval: Approved minors must become site-specific development according to subsection n.III (vested rights) if not recorded within three years after date approved or they lose their force & effect entirely.\n[Note] The sources provided are for La Plata County Code, effective October 20th, 2020; hence references will be based off this document collection as per instructions given [n1].'
+================================================================================
+================================================================================
+STREAMING PROMPT BEING SENT TO MODEL:
+SYSTEM:
+You are a helpful assistant that answers questions about La Plata County code and regulations. Use the provided sources to answer the user's question accurately and concisely. Structure your response clearly with the key information first, followed by supporting details. Include citation markers [n] in your response to reference the sources you use. If the sources don't contain enough information to answer the question, say so.
+
+QUESTION:
+What are minor subdivision requirements?
+
+SOURCES:
+[1] (collection=la_plata_county_code, id=3159)
+Chapter 67 Division of Land
+Sec. 67-4 Minor subdivisions
+I.
+Applicability.
+The minor subdivision procedures shall be applicable to all land divisions into three (3) or fewer lots.
+II.
+Procedures. Figure 67-4: Summary of Minor Subdivision Procedures
+provides an overview of the application steps that apply to the review of minor subdivisions.
+III.
+Approval criteria.
+The approval criteria for minor subdivisions are the general approval criteria for land use permits outlined in section 66-16.
+IV.
+Effect of approval.
+An approved minor subdivision shall be approved as a site specific development plan according to subsection 66-13.III (vested rights). If the approved minor subdivision plat is not recorded with the county clerk and recorder within three (3) years of the date of approval of the minor subdivision plat, the minor subdivision plat shall be of no further force and effect.
+(
+Res. No.
+2020-30
+, § 67-4, 09/15/2020
+)
+Effective on: 10/1/2020
+
+[2] (collection=la_plata_county_code, id=3165)
+Chapter 67 Division of Land
+Sec. 67-6 Agricultural exemption subdivision
+I.
+Applicability.
+The agricultural exemption subdivision procedures shall be applicable to land divisions where the following conditions exist:
+A.
+The applicant is not seeking any variances or waivers to any required standards contained in this code.
+B.
+The lot was created prior to May 5, 1972, or the lot is seventy (70) acres or larger in size.
+C.
+The lot has been taxed agriculturally for the five (5) years preceding agricultural exemption subdivision review.
+D.
+The proposed land division results in the creation of no more than a total of two (2) new lots out of the original lot, not counting the remainder of the original lot as a new lot. Any additional land divisions shall be processed as a minor or major subdivision as applicable.
+II.
+Procedures.
+Agricultural exemption subdivision shall be processed according to the minor subdivision procedures set forth in section 67-4.
+III.
+Approval criteria.
+The approval criteria for agricultural exemption subdivision are the general approval criteria for land use permits outlined in section 66-16, and the plat shall contain the following plat notice:
+The creation of a total of two (2) new lots out of the original parcel as recorded under reception ________ may be created by the agricultural exemption subdivision process. Any additional land divisions are required to be processed as minor or major subdivisions as applicable.
+(
+Res. No.
+2020-30
+, § 67-6, 09/15/2020
+)
+Effective on: 10/1/2020
+
+[3] (collection=la_plata_county_code, id=3158)
+Chapter 67 Division of Land
+Sec. 67-3 Major subdivisions
+I.
+Applicability.
+The major subdivision procedures shall be applicable to all land divisions into four (4) or more lots.
+II.
+Overview of necessary applications.
+A major subdivision is subject to a sketch plan review by the PC and a preliminary plat review by the board, followed by the administrative review of the final plat. Each step is a distinct process involving the submittal of an application, an application fee, required plans and reports, referrals of the proposal to other agencies, staff analysis and public hearings. At each step of the process, the design and engineering detail increases in order to relieve the applicant from major and potentially unnecessary expenses in situations that may require a redesign and a revision of expensive engineering or planning reports. A general description of these steps is outlined below. Approval at any step in the process does not ensure approval at the next step.
+Figure 67-3 A: Overview of Major Subdivision Procedures provides an overview of the application steps that apply to the review major land use permits.
+III.
+Preliminary plat procedures.
+Figure 67-3 B: Summary of Preliminary Plat Procedures identifies the application steps that apply to the review of a preliminary plat.
+IV.
+Requirements for phased development.
+A.
+Preliminary plats consistent with phasing plans. Review and approval of a phasing plan in conjunction with a sketch plan or conceptual development plan shall be required for any subdivision proposed in phases. Each preliminary plat shall be consistent with the phasing plan approved under such sketch plan or conceptual development plan.
+B.
+Phased final plats. The preliminary plat may provide for phasing of final plat approvals as determined by the director based upon consideration of the design, size, and complexity of the subdivision and associated improvements. Such phasing of the final plats shall not require the prior approval of a sketch plan or conceptual development plan; however, it shall require a phasing plan be submitted and approved as part of the preliminary plat application. The locations and schedule of phases shall be clearly stated and indicated on the plat and in supporting documentation. The improvements and drainage plans and specifications shall also address in detail the subdivision improvements to be constructed and completed in association with each phase.
+V.
+Effect of approval.
+A.
+No vested rights. Preliminary plats shall not be construed to be site specific development plans.
+B.
+Preliminary plat approval period. Preliminary plat approval is valid for one (1) year after approval by the board. An approved preliminary plat shall be of no further force and effect if the final plat application for the subdivision is not submitted within one (1) year of the date of the preliminary plat's approval by the decision-making body.
+C.
+Approval period for preliminary plat for phased final plats. If the approved preliminary plat provides for phasing of final plats, and a final plat application for any phase of a subdivision is not submitted within the time specified in the approved phasing plan, then the preliminary plat approval shall be of no further force or effect. For phased subdivisions, an approved final plat for any phase of the preliminary plat shall extend the life of the remaining preliminary plat according to the approved phasing plan, or if not specified in an approved phasing plan, for an additional one (1) year from the date the final plat is approved. If successive final plats are not submitted within this one (1) year period, or within the period specified in an approved phasing plan, then the preliminary plat approval shall be of no further force or effect for those portions of the subject property not covered by an approved final plat.
+(
+Res. No.
+2020-30
+, § 67-3, 09/15/2020
+)
+Effective on: 10/1/2020
+
+[4] (collection=la_plata_county_code, id=3157)
+Chapter 67 Division of Land
+Sec. 67-2 General approval criteria for preliminary and final plat
+I.
+Preliminary plat criteria.
+The preliminary plat phase of the subdivision review process is an evaluation of the design and engineering aspects of a proposed subdivision as well as any relevant conceptual issues. All the technical aspects of the physical development of the proposed site will be evaluated to determine their compliance with required design, planning, performance and engineering standards. To approve a preliminary plat, the decision-making body shall review the subdivision for compliance with the general approval criteria stated in section 66-16.
+II.
+Final plat criteria
+. The final phase of the review process consists of the review of the application for the final plat. Final plat submittals shall meet all the following criteria:
+A.
+Conformity to any and all conditions of approval set forth in the major land use permit approving the preliminary plat.
+B.
+The applicant has executed all required development improvements agreements.
+(
+Res. No.
+2020-30
+, § 67-2, 09/15/2020
+)
+Effective on: 10/1/2020
+
+
+INSTRUCTIONS:
+Based on the sources provided above, answer the user's question accurately and concisely. Include citation markers [n] to reference specific sources. Provide a complete answer and then stop.
+
+ANSWER:127.0.0.1 - - [14/Aug/2025 09:07:11] "GET /rag/answer/stream?query=What+are+the+guidelines+for+building+permits?&collection=la_plata_county_code&num_results=4&max_tokens=1200 HTTP/1.1" 200 -
+
+================================================================================
+================================================================================
+STREAMING MODEL RESPONSE:
+' Minor subdivision requirements are as follows:\n\nI. Applicability - The procedures apply only when land is divided into three (3) or fewer lots according to section n of chapter 67 Division of Land in La Plata County Code.\nII. Procedures – A summary can be found at Figure 67-4 which outlines an overview for applying minor subdivisions including steps such as application submission fees, required plans/reports referrals etc., staff analysis public hearings; each step being distinct with increasing design/engagement detail from initial sketch plan review through preliminary plat approval up until final plat administration [n1].\nIII. Approval criteria - These follow the general standards outlined by Section 66-16 and include specific requirements like ensuring compliance with applicable conditions set forth on major land use permits approving preliminaries plats.\n\nIV. Effect after approval: Approved minors are considered site-specific development according to subsection n of section 66-13.III (vested rights). If not recorded within three years post-plat approval it becomes void without further force or effect, unless otherwise specified in approved phasing plans for phased subdivisions which may extend validity periods accordingly.\n[n] refers specifically to source information provided above as per collection=la_plata_county_code [n1].'
+================================================================================
+================================================================================
+STREAMING PROMPT BEING SENT TO MODEL:
+SYSTEM:
+You are a helpful assistant that answers questions about La Plata County code and regulations. Use the provided sources to answer the user's question accurately and concisely. Structure your response clearly with the key information first, followed by supporting details. Include citation markers [n] in your response to reference the sources you use. If the sources don't contain enough information to answer the question, say so.
+
+QUESTION:
+What are the guidelines for building permits?
+
+SOURCES:
+[1] (collection=la_plata_county_code, id=2493)
+Chapter 18 BUILDINGS AND BUILDING REGULATIONS
+ARTICLE IV. Attachments: Chapter 18 Buildings and Building Regulations
+1.
+Minimum Foundation Standards
+2.
+Manufactured / Mobile Homes
+3.
+Construction Standards for the Construction of a Residence in a Geologic Hazard Area
+Effective on: 12/11/2017
+
+[2] (collection=la_plata_county_code, id=2434)
+Chapter 18 BUILDINGS AND BUILDING REGULATIONS
+Article III. Building Codes and standards: Amendments, additions and deletions to the international codes
+Sec. 18-45.
+Appendix H Signs - Appendix H of the International Building Code
+Appendix H of the International Building Code is hereby amended to include the following:
+A building permit is not required for the construction or improvement of signs, but all signs constructed in the unincorporated portions of the County shall comply with Chapters 74 and 93, and section 98-2 of the La Plata County Code, and any subsequent amendments, revisions, or additions to those or other provisions of the La Plata County Code.
+(Res. No. 2017-33,  10-10-2017)
+Effective on: 12/11/2017
+
+[3] (collection=la_plata_county_code, id=3096)
+Chapter 70: General Site Development Standards Applicable to All Development
+Sec. 70-11 Road access and driveway permits
+I.
+Access
+. Legal access to public roads shall be provided to all lots and parcels via public or private right-of-way or perpetual access easements. Access onto state highways is under the jurisdiction of the state division of highways. An access permit may be required by the state for any new accesses, change of existing access, or change of use of a property. Access shall be according to state requirements and specifications. Unless exempt, all driveways shall require a county driveway permit and shall meet road and bridge standards within chapter 74.
+II.
+Road improvements and service levels.
+New developments shall be required to construct improvements to existing roads on-site and off-site in accordance with their projected impact on those roads. This may include adding travel lanes, turn lanes, larger bridges or improvements to the road surface in order to mitigate the impacts of a development in both the construction and completed stages. Development is prohibited unless the road providing access meets, or will be improved to meet, the applicable standards as detailed in chapter 74.
+III.
+Pedestrian circulation
+. Developments are required to provide internal pedestrian circulation facilities. Where improved sidewalks or walkways exist adjacent to a project, and along the right-of-way, the project shall connect with sidewalks or walkways of equal or greater quality. Such facilities shall extend along property frontage for the entire distance of a lot or parcel which is the site of the project.
+(
+Res. No.
+2020-30
+, § 70-11, 09/15/2020
+)
+Effective on: 10/1/2020
+
+[4] (collection=la_plata_county_code, id=2450)
+Chapter 18 BUILDINGS AND BUILDING REGULATIONS
+Article II general provisions
+Sec. 18-35  Scope and Administration
+Chapter 1 of the 2015 International Residential Code and Chapter 1 of the 2015 International Building Code are deleted in their entirety and replaced with the following:
+(
+Res. No. 2004-15, § 1 (Exh. A), 05/24/2004; Res. No. 2017-33, § 18-35, 10/10/2017; Res. No. 2023-15, § 18-35, 06/06/2023
+)
+Section 105
+Permits
+105.1 Permits required. Any
+owner
+or authorized
+agent
+who intends to construct, enlarge,
+alter
+, repair, move, demolish, or change the occupancy of a
+building
+or
+structure
+subject to this
+Code
+, or to erect, install, enlarge, alter, repair, remove, convert, or replace any gas, mechanical, or plumbing system, the installation of which is regulated by this Code, or to cause any such work to be done, shall first make application to the
+building official
+and obtain all required permits.  The issuance of a
+building permit
+does not affect or otherwise supersede the requirement to obtain additional permits for grading, temporary uses/structures,
+floodplain
+development
+, land
+use
+, and activities of interest pursuant to the La Plata
+County
+Code. Nothing in this Code shall preclude the building official from refusing to
+grant
+a building permit for an illegally sold or illegally subdivided
+lot
+or
+parcel
+at any time.  Building permits shall not be issued for work to be conducted on any parcel or lot which has been created or developed in a manner that does not fully comply with the La Plata County
+Land Use Code
+.
+105.2 Exempted work. A building permit is not required for the following:
+105.2.1 General.
+One-story, detached
+accessory
+buildings used solely as tool and storage sheds, well houses, and similar uses, not for human occupancy, provided the exterior wall dimensions do not exceed 200 square feet of floor area, the building height does not exceed 12 feet in height to the peak of the roof, and eave overhangs are no greater than 16 inches. These exempt accessory buildings are limited in number to four (4) per parcel of land.
+Utility
+connections will be limited to electrical connections for simple
+lighting
+.
+1.
+Fences
+not over 8 feet high.
+2. Retaining walls, except when acting as an integral part of the building or structure, or less than 4 feet above finish grade.
+3. Open platforms, walks, decks not over thirty (30) inches above
+finished grade
+at any point, which do not support any type of roof structure or cover.
+4. Oil-gas and water production derricks.
+5. Painting, papering, tiling, carpeting, cabinets, counter tops, and similar finish work.
+6.
+Residential
+swimming pools not within a structure or enclosure.
+Public
+swimming pools and
+mineral
+baths must comply with Colorado
+Department
+of Public Health and Environment regulations, 5 CCR 1003-5 et seq.
+7. Swings and other playground
+equipment
+accessory to single or two-family
+dwelling units
+.
+8. Window awnings supported by an exterior wall of Group R, Division 3, and Group U occupancies when projecting not more than 50 inches.
+9.
+Membrane structures
+used as accessories to residential or
+agricultural
+uses that are less than 200 square feet, not attached to the primary structure, and meet the requirements of the La Plata County Land Use Code. Utility connections will be limited to electrical connections for simple lighting.
+10. Agricultural exempt structures, which are buildings or structures used solely for agricultural uses. Pursuant to C.R.S. § 30-28-201, such agricultural buildings shall be used for the sole purpose of providing shelter for agricultural implements, farm products,
+livestock
+, or poultry, and shall not be used for any residential purpose including, but not limited to, storing household items, personal
+vehicles
+, or outdoor sports or
+recreational vehicles
+.  If structures are constructed as agricultural exempt structures then, at the time the agricultural use is discontinued, the building must be reconstructed to comply with all applicable provisions of this Code. Plumbing and electrical systems in an agricultural building are limited to electrical connections for simple lighting and plumbing connections for frost free water spigots. An agricultural exempt building permit with accompanying affidavit will be required prior to constructing an agricultural exempt building. The affidavit will be maintained among the Building Department’s records pursuant to section
+18-35
+(104.7). Agricultural buildings with residential occupancies must comply with all requirements of this Code.
+11.
+Animal
+loafing sheds not exceeding 200 square feet, which are open on at least one side.
+12. Shipping containers used for temporary storage at a permitted
+construction
+site
+.
+13. Shipping containers used solely for storage, less than 200 square feet in size, which are not used to store hazardous materials, and which are not modified or stacked on top of one another, which have no utility connections for heat or water, and which are not used for human occup
+
+
+INSTRUCTIONS:
+Based on the sources provided above, answer the user's question accurately and concisely. Include citation markers [n] to reference specific sources. Provide a complete answer and then stop.
+
+ANSWER:127.0.0.1 - - [14/Aug/2025 20:50:57] "GET /rag/answer/stream?query=What+are+the+guidelines+for+building+permits?&collection=la_plata_county_code&num_results=4&max_tokens=1200 HTTP/1.1" 200 -
+
+================================================================================
+================================================================================
+STREAMING MODEL RESPONSE:
+' According to La Plata County Code:\n\n- Building permits must be obtained by owners who intend to construct (or enlarge), alter, repair, move, demolish, change occupancy, erect/install gas/mechanical/plumbing systems regulated under this code.\n  \n[1]\nMinimum Foundation Standards apply specifically in Chapter 18 of Article IV regarding building regulations concerning foundations standards that need compliance with minimum foundation requirements as per effective date December 2017.\n\nFor signs:\nSec. 18-45 states no permit is required for construction or improvement unless the sign complies with Chapters 74 & 93 and section 98-2 within La Plata County Code which are amendments made on Decembeber 2017 to include these provisions related to signage regulation without requiring a separate Building Permit [2].\n\nRegarding road access, driveways require permits under Sec. 70-11 Road Access and Driveway Permits (effective October 2020) where new accesses need approval from state division of highways if they change existing ones; all must meet county standards in Chapter 74.\n\nFor residential swimming pools:\nSec. 18-56 states no permit is required for "Residential Swimming Pools not Within Structures or Enclosures" but public/pool facilities have specific requirements as per Colorado Department regulations on water quality compliance which are effective since the year mentioned above.\n[3]\n\nLastly regarding agricultural structures exemption: Agricultural buildings used solely for agriculture purposes, exempted under Sec. 18-59 with certain conditions and limitations including size restrictions (less than 200 square feet), utility connections limited to simple lighting [n].\n\nThis information covers key guidelines related specifically to building permits in La Plata County Code based off provided sources.\n\nSTOP'
+================================================================================
+================================================================================
+STREAMING PROMPT BEING SENT TO MODEL:
+SYSTEM:
+You are a helpful assistant that answers questions about La Plata County code and regulations. Use the provided sources to answer the user's question accurately and concisely. Structure your response clearly with the key information first, followed by supporting details. Include citation markers [n] in your response to reference the sources you use. If the sources don't contain enough information to answer the question, say so.
+
+QUESTION:
+What are the guidelines for building permits?
+
+SOURCES:
+[1] (collection=la_plata_county_code, id=2493)
+Chapter 18 BUILDINGS AND BUILDING REGULATIONS
+ARTICLE IV. Attachments: Chapter 18 Buildings and Building Regulations
+1.
+Minimum Foundation Standards
+2.
+Manufactured / Mobile Homes
+3.
+Construction Standards for the Construction of a Residence in a Geologic Hazard Area
+Effective on: 12/11/2017
+
+[2] (collection=la_plata_county_code, id=2434)
+Chapter 18 BUILDINGS AND BUILDING REGULATIONS
+Article III. Building Codes and standards: Amendments, additions and deletions to the international codes
+Sec. 18-45.
+Appendix H Signs - Appendix H of the International Building Code
+Appendix H of the International Building Code is hereby amended to include the following:
+A building permit is not required for the construction or improvement of signs, but all signs constructed in the unincorporated portions of the County shall comply with Chapters 74 and 93, and section 98-2 of the La Plata County Code, and any subsequent amendments, revisions, or additions to those or other provisions of the La Plata County Code.
+(Res. No. 2017-33,  10-10-2017)
+Effective on: 12/11/2017
+
+[3] (collection=la_plata_county_code, id=3096)
+Chapter 70: General Site Development Standards Applicable to All Development
+Sec. 70-11 Road access and driveway permits
+I.
+Access
+. Legal access to public roads shall be provided to all lots and parcels via public or private right-of-way or perpetual access easements. Access onto state highways is under the jurisdiction of the state division of highways. An access permit may be required by the state for any new accesses, change of existing access, or change of use of a property. Access shall be according to state requirements and specifications. Unless exempt, all driveways shall require a county driveway permit and shall meet road and bridge standards within chapter 74.
+II.
+Road improvements and service levels.
+New developments shall be required to construct improvements to existing roads on-site and off-site in accordance with their projected impact on those roads. This may include adding travel lanes, turn lanes, larger bridges or improvements to the road surface in order to mitigate the impacts of a development in both the construction and completed stages. Development is prohibited unless the road providing access meets, or will be improved to meet, the applicable standards as detailed in chapter 74.
+III.
+Pedestrian circulation
+. Developments are required to provide internal pedestrian circulation facilities. Where improved sidewalks or walkways exist adjacent to a project, and along the right-of-way, the project shall connect with sidewalks or walkways of equal or greater quality. Such facilities shall extend along property frontage for the entire distance of a lot or parcel which is the site of the project.
+(
+Res. No.
+2020-30
+, § 70-11, 09/15/2020
+)
+Effective on: 10/1/2020
+
+[4] (collection=la_plata_county_code, id=2450)
+Chapter 18 BUILDINGS AND BUILDING REGULATIONS
+Article II general provisions
+Sec. 18-35  Scope and Administration
+Chapter 1 of the 2015 International Residential Code and Chapter 1 of the 2015 International Building Code are deleted in their entirety and replaced with the following:
+(
+Res. No. 2004-15, § 1 (Exh. A), 05/24/2004; Res. No. 2017-33, § 18-35, 10/10/2017; Res. No. 2023-15, § 18-35, 06/06/2023
+)
+Section 105
+Permits
+105.1 Permits required. Any
+owner
+or authorized
+agent
+who intends to construct, enlarge,
+alter
+, repair, move, demolish, or change the occupancy of a
+building
+or
+structure
+subject to this
+Code
+, or to erect, install, enlarge, alter, repair, remove, convert, or replace any gas, mechanical, or plumbing system, the installation of which is regulated by this Code, or to cause any such work to be done, shall first make application to the
+building official
+and obtain all required permits.  The issuance of a
+building permit
+does not affect or otherwise supersede the requirement to obtain additional permits for grading, temporary uses/structures,
+floodplain
+development
+, land
+use
+, and activities of interest pursuant to the La Plata
+County
+Code. Nothing in this Code shall preclude the building official from refusing to
+grant
+a building permit for an illegally sold or illegally subdivided
+lot
+or
+parcel
+at any time.  Building permits shall not be issued for work to be conducted on any parcel or lot which has been created or developed in a manner that does not fully comply with the La Plata County
+Land Use Code
+.
+105.2 Exempted work. A building permit is not required for the following:
+105.2.1 General.
+One-story, detached
+accessory
+buildings used solely as tool and storage sheds, well houses, and similar uses, not for human occupancy, provided the exterior wall dimensions do not exceed 200 square feet of floor area, the building height does not exceed 12 feet in height to the peak of the roof, and eave overhangs are no greater than 16 inches. These exempt accessory buildings are limited in number to four (4) per parcel of land.
+Utility
+connections will be limited to electrical connections for simple
+lighting
+.
+1.
+Fences
+not over 8 feet high.
+2. Retaining walls, except when acting as an integral part of the building or structure, or less than 4 feet above finish grade.
+3. Open platforms, walks, decks not over thirty (30) inches above
+finished grade
+at any point, which do not support any type of roof structure or cover.
+4. Oil-gas and water production derricks.
+5. Painting, papering, tiling, carpeting, cabinets, counter tops, and similar finish work.
+6.
+Residential
+swimming pools not within a structure or enclosure.
+Public
+swimming pools and
+mineral
+baths must comply with Colorado
+Department
+of Public Health and Environment regulations, 5 CCR 1003-5 et seq.
+7. Swings and other playground
+equipment
+accessory to single or two-family
+dwelling units
+.
+8. Window awnings supported by an exterior wall of Group R, Division 3, and Group U occupancies when projecting not more than 50 inches.
+9.
+Membrane structures
+used as accessories to residential or
+agricultural
+uses that are less than 200 square feet, not attached to the primary structure, and meet the requirements of the La Plata County Land Use Code. Utility connections will be limited to electrical connections for simple lighting.
+10. Agricultural exempt structures, which are buildings or structures used solely for agricultural uses. Pursuant to C.R.S. § 30-28-201, such agricultural buildings shall be used for the sole purpose of providing shelter for agricultural implements, farm products,
+livestock
+, or poultry, and shall not be used for any residential purpose including, but not limited to, storing household items, personal
+vehicles
+, or outdoor sports or
+recreational vehicles
+.  If structures are constructed as agricultural exempt structures then, at the time the agricultural use is discontinued, the building must be reconstructed to comply with all applicable provisions of this Code. Plumbing and electrical systems in an agricultural building are limited to electrical connections for simple lighting and plumbing connections for frost free water spigots. An agricultural exempt building permit with accompanying affidavit will be required prior to constructing an agricultural exempt building. The affidavit will be maintained among the Building Department’s records pursuant to section
+18-35
+(104.7). Agricultural buildings with residential occupancies must comply with all requirements of this Code.
+11.
+Animal
+loafing sheds not exceeding 200 square feet, which are open on at least one side.
+12. Shipping containers used for temporary storage at a permitted
+construction
+site
+.
+13. Shipping containers used solely for storage, less than 200 square feet in size, which are not used to store hazardous materials, and which are not modified or stacked on top of one another, which have no utility connections for heat or water, and which are not used for human occup
+
+
+INSTRUCTIONS:
+Based on the sources provided above, answer the user's question accurately and concisely. Include citation markers [n] to reference specific sources. Provide a complete answer and then stop.
+
 ANSWER:
