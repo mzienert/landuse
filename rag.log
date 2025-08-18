@@ -5177,3 +5177,5 @@ Auto-loading default model: qwen2.5-3b-instruct
 [2025-08-17 21:50:28,502] INFO in langchain_inference: Loaded LLM provider: LocalLlamaCppProvider
  * Debugger is active!
  * Debugger PIN: 114-241-345
+/opt/homebrew/Cellar/python@3.13/3.13.1/Frameworks/Python.framework/Versions/3.13/lib/python3.13/multiprocessing/resource_tracker.py:276: UserWarning: resource_tracker: There appear to be 1 leaked semaphore objects to clean up at shutdown: {'/mp-wt97c3ow'}
+  warnings.warn(

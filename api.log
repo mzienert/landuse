@@ -722,3 +722,5 @@ INFO:__main__:Search system initialized successfully
 INFO:__main__:Starting Flask server in development mode...
 WARNING:werkzeug: * Debugger is active!
 INFO:werkzeug: * Debugger PIN: 114-241-345
+/opt/homebrew/Cellar/python@3.13/3.13.1/Frameworks/Python.framework/Versions/3.13/lib/python3.13/multiprocessing/resource_tracker.py:276: UserWarning: resource_tracker: There appear to be 1 leaked semaphore objects to clean up at shutdown: {'/loky-47290-9nw7ll4_'}
+  warnings.warn(

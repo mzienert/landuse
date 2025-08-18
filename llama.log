@@ -826,3 +826,5 @@ srv  log_server_r: request: GET /health 127.0.0.1 200
 srv  log_server_r: request: GET /health 127.0.0.1 200
 srv  log_server_r: request: GET /health 127.0.0.1 200
 srv  log_server_r: request: GET /health 127.0.0.1 200
+srv    operator(): operator(): cleaning up before exit...
+ggml_metal_free: deallocating
