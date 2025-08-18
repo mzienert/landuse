@@ -35,10 +35,8 @@ class LocalLlamaCppProvider(LLMProvider):
             temperature=0.1,  # Capped for consistency
             max_tokens=1200,
             seed=42,  # Fixed seed for reproducible results
-            model_kwargs={
-                "repeat_penalty": 1.3,  # Prevent repetition
-                "repeat_last_n": 128  # Repetition detection window
-            }
+            # Note: repeat_penalty not supported in OpenAI-compatible API
+            # llama.cpp server should be configured with these parameters
         )
     
     def generate(self, messages: list[BaseMessage], **kwargs) -> str:
@@ -90,7 +88,7 @@ class StagingBedrockProvider(LLMProvider):
         try:
             # Simple test call with minimal content
             test_messages = [HumanMessage(content="Hi")]
-            response = self.llm.invoke(test_messages, max_tokens=1)
+            self.llm.invoke(test_messages, max_tokens=1)
             return True
         except:
             return False
@@ -124,7 +122,7 @@ class ProductionBedrockProvider(LLMProvider):
         try:
             # Simple test call with minimal content
             test_messages = [HumanMessage(content="Hi")]
-            response = self.llm.invoke(test_messages, max_tokens=1)
+            self.llm.invoke(test_messages, max_tokens=1)
             return True
         except:
             return False
