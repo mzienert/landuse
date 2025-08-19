@@ -253,3 +253,9 @@ MODEL RESPONSE:
 [2025-08-18 21:08:11,559] INFO in langchain_inference: Loaded LLM provider: LocalLlamaCppProvider
  * Debugger is active!
  * Debugger PIN: 114-241-345
+ * Detected change in '/Users/matthewzienert/Documents/landuse/apis/rag/providers/__init__.py', reloading
+ * Restarting with stat
+[2025-08-18 22:16:16,406] INFO in langchain_inference: LangSmith tracing enabled for project: Landuse
+[2025-08-18 22:16:16,550] INFO in langchain_inference: Loaded LLM provider: LocalLlamaCppProvider
+ * Debugger is active!
+ * Debugger PIN: 114-241-345
