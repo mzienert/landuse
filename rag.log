@@ -259,3 +259,33 @@ MODEL RESPONSE:
 [2025-08-18 22:16:16,550] INFO in langchain_inference: Loaded LLM provider: LocalLlamaCppProvider
  * Debugger is active!
  * Debugger PIN: 114-241-345
+ * Detected change in '/Users/matthewzienert/Documents/landuse/apis/rag/langchain_inference.py', reloading
+ * Restarting with stat
+[2025-08-18 22:17:15,162] INFO in langchain_inference: LangSmith tracing enabled for project: Landuse
+[2025-08-18 22:17:15,310] INFO in langchain_inference: Loaded LLM provider: LocalLlamaCppProvider
+ * Debugger is active!
+ * Debugger PIN: 114-241-345
+ * Detected change in '/Users/matthewzienert/Documents/landuse/apis/rag/test_langchain_migration.py', reloading
+ * Restarting with stat
+[2025-08-18 22:17:21,216] INFO in langchain_inference: LangSmith tracing enabled for project: Landuse
+[2025-08-18 22:17:21,319] INFO in langchain_inference: Loaded LLM provider: LocalLlamaCppProvider
+ * Debugger is active!
+ * Debugger PIN: 114-241-345
+ * Detected change in '/Users/matthewzienert/Documents/landuse/apis/rag/validate_migration.py', reloading
+ * Restarting with stat
+[2025-08-18 22:17:32,305] INFO in langchain_inference: LangSmith tracing enabled for project: Landuse
+[2025-08-18 22:17:32,414] INFO in langchain_inference: Loaded LLM provider: LocalLlamaCppProvider
+ * Debugger is active!
+ * Debugger PIN: 114-241-345
+ * Detected change in '/Users/matthewzienert/Documents/landuse/apis/rag/validate_migration.py', reloading
+ * Restarting with stat
+[2025-08-18 22:17:35,273] INFO in langchain_inference: LangSmith tracing enabled for project: Landuse
+[2025-08-18 22:17:35,378] INFO in langchain_inference: Loaded LLM provider: LocalLlamaCppProvider
+ * Debugger is active!
+ * Debugger PIN: 114-241-345
+ * Detected change in '/Users/matthewzienert/Documents/landuse/apis/rag/validate_migration.py', reloading
+ * Restarting with stat
+[2025-08-18 22:18:37,509] INFO in langchain_inference: LangSmith tracing enabled for project: Landuse
+[2025-08-18 22:18:37,667] INFO in langchain_inference: Loaded LLM provider: LocalLlamaCppProvider
+ * Debugger is active!
+ * Debugger PIN: 114-241-345

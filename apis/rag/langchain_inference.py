@@ -2,7 +2,7 @@ from typing import Generator, Optional
 from langchain_core.messages import HumanMessage, SystemMessage
 from langchain_core.tracers.langchain import LangChainTracer
 from langsmith import Client
-from .llm_provider import LLMProviderFactory
+from .providers import LLMProviderFactory
 from flask import current_app
 import os
 

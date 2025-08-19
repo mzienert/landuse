@@ -6,7 +6,7 @@ from unittest.mock import patch, MagicMock
 # Add the project root to the Python path
 sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), '../..')))
 
-from apis.rag.llm_provider import LLMProviderFactory, LocalLlamaCppProvider, BedrockProvider
+from apis.rag.providers import LLMProviderFactory, LocalLlamaCppProvider, BedrockProvider
 from apis.rag.config import Config
 from apis.rag.langchain_inference import LangChainInferenceManager
 

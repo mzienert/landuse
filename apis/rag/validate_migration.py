@@ -28,7 +28,7 @@ def test_imports():
         print("  ✅ LangChain dependencies available")
         
         # Test local module imports
-        from apis.rag.llm_provider import LLMProviderFactory, LocalLlamaCppProvider
+        from apis.rag.providers import LLMProviderFactory, LocalLlamaCppProvider
         from apis.rag.langchain_inference import LangChainInferenceManager
         from apis.rag.config import Config
         print("  ✅ Local modules importable")
@@ -43,7 +43,7 @@ def test_provider_factory():
     print("🔍 Testing provider factory...")
     
     try:
-        from apis.rag.llm_provider import LLMProviderFactory, LocalLlamaCppProvider, BedrockProvider
+        from apis.rag.providers import LLMProviderFactory, LocalLlamaCppProvider, BedrockProvider
         from apis.rag.config import Config
         
         # Test local environment
@@ -115,7 +115,7 @@ def test_consistency_parameters():
     print("🔍 Testing parameter consistency...")
     
     try:
-        from apis.rag.llm_provider import LocalLlamaCppProvider, BedrockProvider
+        from apis.rag.providers import LocalLlamaCppProvider, BedrockProvider
         from apis.rag.config import Config
         
         # Test local provider
