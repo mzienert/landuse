@@ -8,11 +8,11 @@ import os
 sys.path.insert(0, os.path.join(os.path.dirname(__file__), '../..'))
 
 def test_inference_factory():
-    """Test the inference manager factory."""
+    """Test the inference manager factory public API."""
     print("Testing Inference Manager Factory...")
     
     try:
-        from apis.rag.inference import InferenceManagerFactory, InferenceManagerBase
+        from apis.rag.inference import InferenceManagerFactory
         print("✅ Successfully imported InferenceManagerFactory")
         
         # Test getting factory info
@@ -23,15 +23,15 @@ def test_inference_factory():
         manager = InferenceManagerFactory.get_available_manager()
         print(f"✅ Created manager: {type(manager).__name__}")
         
-        # Test that it implements the interface
-        assert isinstance(manager, InferenceManagerBase)
-        print("✅ Manager implements InferenceManagerBase interface")
-        
-        # Test interface methods exist
+        # Test public interface methods exist
         assert hasattr(manager, 'is_available')
-        assert hasattr(manager, 'generate')
+        assert hasattr(manager, 'generate') 
         assert hasattr(manager, 'stream_generate')
-        print("✅ Manager has all required interface methods")
+        print("✅ Manager has all required public interface methods")
+        
+        # Test manager is available
+        assert manager.is_available
+        print("✅ Manager reports as available")
         
         return True
         

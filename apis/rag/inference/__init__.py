@@ -2,14 +2,13 @@
 
 This package provides inference managers that handle text generation
 through different strategies (LangChain providers, direct HTTP calls, etc.).
+
+Public API:
+    InferenceManagerFactory: Factory for creating inference managers
 """
 
 from .factory import InferenceManagerFactory
-from .base import InferenceManagerBase
-from .langchain_manager import LangChainInferenceManager
 
 __all__ = [
-    "InferenceManagerFactory",
-    "InferenceManagerBase", 
-    "LangChainInferenceManager"
+    "InferenceManagerFactory"
 ]
