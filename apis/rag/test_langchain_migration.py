@@ -6,7 +6,8 @@ from unittest.mock import patch, MagicMock
 # Add the project root to the Python path
 sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), '../..')))
 
-from apis.rag.llm_provider import LLMProviderFactory, LocalLlamaCppProvider, StagingBedrockProvider, ProductionBedrockProvider
+from apis.rag.llm_provider import LLMProviderFactory, LocalLlamaCppProvider, BedrockProvider
+from apis.rag.config import Config
 from apis.rag.langchain_inference import LangChainInferenceManager
 
 class TestLLMProviders:
@@ -165,10 +166,10 @@ class TestConsistencyParameters:
     def test_temperature_consistency(self):
         """Test that temperature is capped at 0.1 across all providers"""
         local_provider = LocalLlamaCppProvider()
-        staging_provider = StagingBedrockProvider()
-        production_provider = ProductionBedrockProvider()
+        staging_provider = BedrockProvider(Config.BEDROCK_STAGING_MODEL)
+        production_provider = BedrockProvider(Config.BEDROCK_PRODUCTION_MODEL)
         
-        assert local_provider.llm.temperature == 0.1
+        assert local_provider.llm.temperature == Config.GENERATION_TEMPERATURE
         # Note: Bedrock providers store config in model_kwargs during creation
         # but may not expose it the same way as ChatOpenAI
     
@@ -180,10 +181,10 @@ class TestConsistencyParameters:
     def test_max_tokens_consistency(self):
         """Test that max_tokens=1200 across all providers"""
         local_provider = LocalLlamaCppProvider()
-        staging_provider = StagingBedrockProvider()
-        production_provider = ProductionBedrockProvider()
+        staging_provider = BedrockProvider(Config.BEDROCK_STAGING_MODEL)
+        production_provider = BedrockProvider(Config.BEDROCK_PRODUCTION_MODEL)
         
-        assert local_provider.llm.max_tokens == 1200
+        assert local_provider.llm.max_tokens == Config.GENERATION_MAX_TOKENS
         # Note: Bedrock providers configured with max_tokens in model_kwargs
         # but internal storage may vary
     

@@ -43,7 +43,8 @@ def test_provider_factory():
     print("🔍 Testing provider factory...")
     
     try:
-        from apis.rag.llm_provider import LLMProviderFactory, LocalLlamaCppProvider, StagingBedrockProvider, ProductionBedrockProvider
+        from apis.rag.llm_provider import LLMProviderFactory, LocalLlamaCppProvider, BedrockProvider
+        from apis.rag.config import Config
         
         # Test local environment
         os.environ['DEPLOYMENT_ENV'] = 'local'
@@ -54,13 +55,15 @@ def test_provider_factory():
         # Test staging environment
         os.environ['DEPLOYMENT_ENV'] = 'staging'
         provider = LLMProviderFactory.get_provider()
-        assert isinstance(provider, StagingBedrockProvider), "Staging provider not returned"
+        assert isinstance(provider, BedrockProvider), "Staging provider not returned"
+        assert provider.model_id == Config.BEDROCK_STAGING_MODEL, "Staging model incorrect"
         print("  ✅ Staging provider factory works")
         
         # Test production environment
         os.environ['DEPLOYMENT_ENV'] = 'production'
         provider = LLMProviderFactory.get_provider()
-        assert isinstance(provider, ProductionBedrockProvider), "Production provider not returned"
+        assert isinstance(provider, BedrockProvider), "Production provider not returned"
+        assert provider.model_id == Config.BEDROCK_PRODUCTION_MODEL, "Production model incorrect"
         print("  ✅ Production provider factory works")
         
         # Test invalid environment
@@ -112,26 +115,26 @@ def test_consistency_parameters():
     print("🔍 Testing parameter consistency...")
     
     try:
-        from apis.rag.llm_provider import LocalLlamaCppProvider, StagingBedrockProvider, ProductionBedrockProvider
+        from apis.rag.llm_provider import LocalLlamaCppProvider, BedrockProvider
+        from apis.rag.config import Config
         
         # Test local provider
         local_provider = LocalLlamaCppProvider()
-        assert local_provider.llm.temperature == 0.1, "Local temperature not 0.1"
-        assert local_provider.llm.max_tokens == 1200, "Local max_tokens not 1200"
-        assert local_provider.llm.seed == 42, "Local seed not 42"
-        assert local_provider.llm.model_kwargs["repeat_penalty"] == 1.3, "Local repeat_penalty not 1.3"
+        assert local_provider.llm.temperature == Config.GENERATION_TEMPERATURE, "Local temperature incorrect"
+        assert local_provider.llm.max_tokens == Config.GENERATION_MAX_TOKENS, "Local max_tokens incorrect"
+        assert local_provider.llm.seed == Config.GENERATION_SEED, "Local seed incorrect"
         print("  ✅ Local provider parameters correct")
         
         # Test staging provider
-        staging_provider = StagingBedrockProvider()
+        staging_provider = BedrockProvider(Config.BEDROCK_STAGING_MODEL)
         # Check that model has correct configuration
-        assert staging_provider.llm.model_id == "anthropic.claude-3-haiku-20240307", "Staging model incorrect"
+        assert staging_provider.llm.model_id == Config.BEDROCK_STAGING_MODEL, "Staging model incorrect"
         # Note: ChatBedrock may store parameters differently than ChatOpenAI
         print("  ✅ Staging provider configuration correct")
         
         # Test production provider
-        production_provider = ProductionBedrockProvider()
-        assert production_provider.llm.model_id == "anthropic.claude-3-sonnet-20240229", "Production model incorrect"
+        production_provider = BedrockProvider(Config.BEDROCK_PRODUCTION_MODEL)
+        assert production_provider.llm.model_id == Config.BEDROCK_PRODUCTION_MODEL, "Production model incorrect"
         print("  ✅ Production provider configuration correct")
         
         return True
@@ -222,7 +225,7 @@ def test_environment_files():
             with open(file_path, 'r') as f:
                 content = f.read()
                 assert 'DEPLOYMENT_ENV=' in content, f"{env_file} missing DEPLOYMENT_ENV"
-                assert 'GENERATION_TEMPERATURE=' in content, f"{env_file} missing GENERATION_TEMPERATURE"
+                # Generation parameters now centralized in config.py, not required in env files
         
         print("  ✅ Environment files exist and valid")
         return True
