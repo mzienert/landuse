@@ -6,7 +6,7 @@ from unittest.mock import patch, MagicMock
 # Add the project root to the Python path
 sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), '../..')))
 
-from apis.rag.providers import LLMProviderFactory, LocalLlamaCppProvider, BedrockProvider
+from apis.rag.providers import LLMProviderFactory
 from apis.rag.config import Config
 from apis.rag.langchain_inference import LangChainInferenceManager
 
@@ -17,19 +17,25 @@ class TestLLMProviders:
         """Test provider factory returns correct provider for local environment"""
         with patch.dict(os.environ, {'DEPLOYMENT_ENV': 'local'}):
             provider = LLMProviderFactory.get_provider()
-            assert isinstance(provider, LocalLlamaCppProvider)
+            assert type(provider).__name__ == 'LocalLlamaCppProvider'
+            assert hasattr(provider, 'base_url')
+            assert provider.base_url.endswith('/v1')
     
     def test_provider_factory_staging(self):
         """Test provider factory returns correct provider for staging environment"""
         with patch.dict(os.environ, {'DEPLOYMENT_ENV': 'staging'}):
             provider = LLMProviderFactory.get_provider()
-            assert isinstance(provider, StagingBedrockProvider)
+            assert type(provider).__name__ == 'BedrockProvider'
+            assert hasattr(provider, 'model_id')
+            assert provider.model_id == Config.BEDROCK_STAGING_MODEL
     
     def test_provider_factory_production(self):
         """Test provider factory returns correct provider for production environment"""
         with patch.dict(os.environ, {'DEPLOYMENT_ENV': 'production'}):
             provider = LLMProviderFactory.get_provider()
-            assert isinstance(provider, ProductionBedrockProvider)
+            assert type(provider).__name__ == 'BedrockProvider'
+            assert hasattr(provider, 'model_id')
+            assert provider.model_id == Config.BEDROCK_PRODUCTION_MODEL
     
     def test_provider_factory_invalid_env(self):
         """Test provider factory raises error for invalid environment"""
@@ -44,7 +50,7 @@ class TestLLMProviders:
         mock_response.status_code = 200
         mock_get.return_value = mock_response
         
-        provider = LocalLlamaCppProvider()
+        provider = LLMProviderFactory.get_provider('local')
         assert provider.is_available() == True
         
         # Mock failed health check

@@ -28,7 +28,7 @@ def test_imports():
         print("  ✅ LangChain dependencies available")
         
         # Test local module imports
-        from apis.rag.providers import LLMProviderFactory, LocalLlamaCppProvider
+        from apis.rag.providers import LLMProviderFactory
         from apis.rag.langchain_inference import LangChainInferenceManager
         from apis.rag.config import Config
         print("  ✅ Local modules importable")
@@ -43,26 +43,26 @@ def test_provider_factory():
     print("🔍 Testing provider factory...")
     
     try:
-        from apis.rag.providers import LLMProviderFactory, LocalLlamaCppProvider, BedrockProvider
+        from apis.rag.providers import LLMProviderFactory
         from apis.rag.config import Config
         
         # Test local environment
         os.environ['DEPLOYMENT_ENV'] = 'local'
         provider = LLMProviderFactory.get_provider()
-        assert isinstance(provider, LocalLlamaCppProvider), "Local provider not returned"
+        assert type(provider).__name__ == 'LocalLlamaCppProvider', "Local provider not returned"
         print("  ✅ Local provider factory works")
         
         # Test staging environment
         os.environ['DEPLOYMENT_ENV'] = 'staging'
         provider = LLMProviderFactory.get_provider()
-        assert isinstance(provider, BedrockProvider), "Staging provider not returned"
+        assert type(provider).__name__ == 'BedrockProvider', "Staging provider not returned"
         assert provider.model_id == Config.BEDROCK_STAGING_MODEL, "Staging model incorrect"
         print("  ✅ Staging provider factory works")
         
         # Test production environment
         os.environ['DEPLOYMENT_ENV'] = 'production'
         provider = LLMProviderFactory.get_provider()
-        assert isinstance(provider, BedrockProvider), "Production provider not returned"
+        assert type(provider).__name__ == 'BedrockProvider', "Production provider not returned"
         assert provider.model_id == Config.BEDROCK_PRODUCTION_MODEL, "Production model incorrect"
         print("  ✅ Production provider factory works")
         
@@ -115,25 +115,25 @@ def test_consistency_parameters():
     print("🔍 Testing parameter consistency...")
     
     try:
-        from apis.rag.providers import LocalLlamaCppProvider, BedrockProvider
+        from apis.rag.providers import LLMProviderFactory
         from apis.rag.config import Config
         
         # Test local provider
-        local_provider = LocalLlamaCppProvider()
+        local_provider = LLMProviderFactory.get_provider('local')
         assert local_provider.llm.temperature == Config.GENERATION_TEMPERATURE, "Local temperature incorrect"
         assert local_provider.llm.max_tokens == Config.GENERATION_MAX_TOKENS, "Local max_tokens incorrect"
         assert local_provider.llm.seed == Config.GENERATION_SEED, "Local seed incorrect"
         print("  ✅ Local provider parameters correct")
         
         # Test staging provider
-        staging_provider = BedrockProvider(Config.BEDROCK_STAGING_MODEL)
+        staging_provider = LLMProviderFactory.get_provider('staging')
         # Check that model has correct configuration
         assert staging_provider.llm.model_id == Config.BEDROCK_STAGING_MODEL, "Staging model incorrect"
         # Note: ChatBedrock may store parameters differently than ChatOpenAI
         print("  ✅ Staging provider configuration correct")
         
         # Test production provider
-        production_provider = BedrockProvider(Config.BEDROCK_PRODUCTION_MODEL)
+        production_provider = LLMProviderFactory.get_provider('production')
         assert production_provider.llm.model_id == Config.BEDROCK_PRODUCTION_MODEL, "Production model incorrect"
         print("  ✅ Production provider configuration correct")
         

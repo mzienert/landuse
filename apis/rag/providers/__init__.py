@@ -4,14 +4,12 @@
 from .base import LLMProvider
 from .factory import LLMProviderFactory
 
-# Individual providers available for direct import if needed
-from .local_llamacpp import LocalLlamaCppProvider
-from .bedrock import BedrockProvider
-
-# Public API exports
+# Public API exports - only expose what consumers actually need
 __all__ = [
     'LLMProvider',
-    'LLMProviderFactory', 
-    'LocalLlamaCppProvider',
-    'BedrockProvider'
+    'LLMProviderFactory'
 ]
+
+# Individual providers can still be imported directly when needed:
+# from apis.rag.providers.local_llamacpp import LocalLlamaCppProvider
+# from apis.rag.providers.bedrock import BedrockProvider

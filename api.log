@@ -269,3 +269,124 @@ INFO:__main__:Search system initialized successfully
 INFO:__main__:Starting Flask server in development mode...
 WARNING:werkzeug: * Debugger is active!
 INFO:werkzeug: * Debugger PIN: 114-241-345
+INFO:werkzeug: * Detected change in '/Users/matthewzienert/Documents/landuse/apis/rag/providers/__init__.py', reloading
+INFO:werkzeug: * Restarting with stat
+Could not initialize collection 'la_plata_assessor': Collection [la_plata_assessor] does not exists
+INFO:apis.search.search_engine:Connecting to ChromaDB...
+INFO:apis.search.search_engine:Connected to collection 'la_plata_county_code': 1298 documents
+WARNING:apis.search.search_engine:Could not initialize collection 'la_plata_assessor': Collection [la_plata_assessor] does not exists
+INFO:apis.search.search_engine:Successfully initialized 1 collections
+INFO:__main__:Search system initialized successfully
+INFO:__main__:Starting Flask server in development mode...
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 114-241-345
+INFO:werkzeug: * Detected change in '/Users/matthewzienert/Documents/landuse/apis/rag/test_langchain_migration.py', reloading
+INFO:werkzeug: * Restarting with stat
+Could not initialize collection 'la_plata_assessor': Collection [la_plata_assessor] does not exists
+INFO:apis.search.search_engine:Connecting to ChromaDB...
+INFO:apis.search.search_engine:Connected to collection 'la_plata_county_code': 1298 documents
+WARNING:apis.search.search_engine:Could not initialize collection 'la_plata_assessor': Collection [la_plata_assessor] does not exists
+INFO:apis.search.search_engine:Successfully initialized 1 collections
+INFO:__main__:Search system initialized successfully
+INFO:__main__:Starting Flask server in development mode...
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 114-241-345
+INFO:werkzeug: * Detected change in '/Users/matthewzienert/Documents/landuse/apis/rag/test_langchain_migration.py', reloading
+INFO:werkzeug: * Restarting with stat
+Could not initialize collection 'la_plata_assessor': Collection [la_plata_assessor] does not exists
+INFO:apis.search.search_engine:Connecting to ChromaDB...
+INFO:apis.search.search_engine:Connected to collection 'la_plata_county_code': 1298 documents
+WARNING:apis.search.search_engine:Could not initialize collection 'la_plata_assessor': Collection [la_plata_assessor] does not exists
+INFO:apis.search.search_engine:Successfully initialized 1 collections
+INFO:__main__:Search system initialized successfully
+INFO:__main__:Starting Flask server in development mode...
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 114-241-345
+INFO:werkzeug: * Detected change in '/Users/matthewzienert/Documents/landuse/apis/rag/test_langchain_migration.py', reloading
+INFO:werkzeug: * Restarting with stat
+Could not initialize collection 'la_plata_assessor': Collection [la_plata_assessor] does not exists
+INFO:apis.search.search_engine:Connecting to ChromaDB...
+INFO:apis.search.search_engine:Connected to collection 'la_plata_county_code': 1298 documents
+WARNING:apis.search.search_engine:Could not initialize collection 'la_plata_assessor': Collection [la_plata_assessor] does not exists
+INFO:apis.search.search_engine:Successfully initialized 1 collections
+INFO:__main__:Search system initialized successfully
+INFO:__main__:Starting Flask server in development mode...
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 114-241-345
+INFO:werkzeug: * Detected change in '/Users/matthewzienert/Documents/landuse/apis/rag/test_langchain_migration.py', reloading
+INFO:werkzeug: * Restarting with stat
+Could not initialize collection 'la_plata_assessor': Collection [la_plata_assessor] does not exists
+INFO:apis.search.search_engine:Connecting to ChromaDB...
+INFO:apis.search.search_engine:Connected to collection 'la_plata_county_code': 1298 documents
+WARNING:apis.search.search_engine:Could not initialize collection 'la_plata_assessor': Collection [la_plata_assessor] does not exists
+INFO:apis.search.search_engine:Successfully initialized 1 collections
+INFO:__main__:Search system initialized successfully
+INFO:__main__:Starting Flask server in development mode...
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 114-241-345
+INFO:werkzeug: * Detected change in '/Users/matthewzienert/Documents/landuse/apis/rag/validate_migration.py', reloading
+INFO:werkzeug: * Restarting with stat
+Could not initialize collection 'la_plata_assessor': Collection [la_plata_assessor] does not exists
+INFO:apis.search.search_engine:Connecting to ChromaDB...
+INFO:apis.search.search_engine:Connected to collection 'la_plata_county_code': 1298 documents
+WARNING:apis.search.search_engine:Could not initialize collection 'la_plata_assessor': Collection [la_plata_assessor] does not exists
+INFO:apis.search.search_engine:Successfully initialized 1 collections
+INFO:__main__:Search system initialized successfully
+INFO:__main__:Starting Flask server in development mode...
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 114-241-345
+INFO:werkzeug: * Detected change in '/Users/matthewzienert/Documents/landuse/apis/rag/validate_migration.py', reloading
+INFO:werkzeug: * Restarting with stat
+Could not initialize collection 'la_plata_assessor': Collection [la_plata_assessor] does not exists
+INFO:apis.search.search_engine:Connecting to ChromaDB...
+INFO:apis.search.search_engine:Connected to collection 'la_plata_county_code': 1298 documents
+WARNING:apis.search.search_engine:Could not initialize collection 'la_plata_assessor': Collection [la_plata_assessor] does not exists
+INFO:apis.search.search_engine:Successfully initialized 1 collections
+INFO:__main__:Search system initialized successfully
+INFO:__main__:Starting Flask server in development mode...
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 114-241-345
+INFO:werkzeug: * Detected change in '/Users/matthewzienert/Documents/landuse/apis/rag/validate_migration.py', reloading
+INFO:werkzeug: * Restarting with stat
+Could not initialize collection 'la_plata_assessor': Collection [la_plata_assessor] does not exists
+INFO:apis.search.search_engine:Connecting to ChromaDB...
+INFO:apis.search.search_engine:Connected to collection 'la_plata_county_code': 1298 documents
+WARNING:apis.search.search_engine:Could not initialize collection 'la_plata_assessor': Collection [la_plata_assessor] does not exists
+INFO:apis.search.search_engine:Successfully initialized 1 collections
+INFO:__main__:Search system initialized successfully
+INFO:__main__:Starting Flask server in development mode...
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 114-241-345
+INFO:werkzeug: * Detected change in '/Users/matthewzienert/Documents/landuse/apis/rag/validate_migration.py', reloading
+INFO:werkzeug: * Restarting with stat
+Could not initialize collection 'la_plata_assessor': Collection [la_plata_assessor] does not exists
+INFO:apis.search.search_engine:Connecting to ChromaDB...
+INFO:apis.search.search_engine:Connected to collection 'la_plata_county_code': 1298 documents
+WARNING:apis.search.search_engine:Could not initialize collection 'la_plata_assessor': Collection [la_plata_assessor] does not exists
+INFO:apis.search.search_engine:Successfully initialized 1 collections
+INFO:__main__:Search system initialized successfully
+INFO:__main__:Starting Flask server in development mode...
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 114-241-345
+INFO:werkzeug: * Detected change in '/Users/matthewzienert/Documents/landuse/apis/rag/validate_migration.py', reloading
+INFO:werkzeug: * Restarting with stat
+Could not initialize collection 'la_plata_assessor': Collection [la_plata_assessor] does not exists
+INFO:apis.search.search_engine:Connecting to ChromaDB...
+INFO:apis.search.search_engine:Connected to collection 'la_plata_county_code': 1298 documents
+WARNING:apis.search.search_engine:Could not initialize collection 'la_plata_assessor': Collection [la_plata_assessor] does not exists
+INFO:apis.search.search_engine:Successfully initialized 1 collections
+INFO:__main__:Search system initialized successfully
+INFO:__main__:Starting Flask server in development mode...
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 114-241-345
+INFO:werkzeug: * Detected change in '/Users/matthewzienert/Documents/landuse/apis/rag/validate_migration.py', reloading
+INFO:werkzeug: * Restarting with stat
+Could not initialize collection 'la_plata_assessor': Collection [la_plata_assessor] does not exists
+INFO:apis.search.search_engine:Connecting to ChromaDB...
+INFO:apis.search.search_engine:Connected to collection 'la_plata_county_code': 1298 documents
+WARNING:apis.search.search_engine:Could not initialize collection 'la_plata_assessor': Collection [la_plata_assessor] does not exists
+INFO:apis.search.search_engine:Successfully initialized 1 collections
+INFO:__main__:Search system initialized successfully
+INFO:__main__:Starting Flask server in development mode...
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 114-241-345
