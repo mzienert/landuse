@@ -9,6 +9,19 @@ def rag_health():
     rag_engine = current_app.config['RAG_ENGINE']
     model_mgr = rag_engine.model_mgr
     
+    # Get inference manager information
+    inference_manager_info = {
+        "type": "None",
+        "status": "unhealthy",
+        "manager_type": os.getenv("INFERENCE_MANAGER_TYPE", "langchain")
+    }
+    
+    if model_mgr:
+        inference_manager_info.update({
+            "type": type(model_mgr).__name__,
+            "status": "healthy" if model_mgr.is_available else "unhealthy"
+        })
+    
     # Get provider information
     provider_info = {
         "status": "unhealthy",
@@ -35,6 +48,7 @@ def rag_health():
         "model_loaded": bool(model_mgr and model_mgr.is_loaded),
         "inference_available": bool(model_mgr and model_mgr.is_available),
         "model_id": model_mgr.model_id if model_mgr else None,
+        "inference_manager": inference_manager_info,
         "llm_provider": provider_info,
         "langsmith": langsmith_info,
         "streaming": True,
@@ -46,5 +60,5 @@ def rag_health():
             "/rag/answer/stream",
         ],
         "timestamp": datetime.now().isoformat(),
-        "version": "0.2.0-langchain"
+        "version": "0.2.0-factory"
     })

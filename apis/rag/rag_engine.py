@@ -15,10 +15,10 @@ class RAGEngine:
         
     def initialize(self):
         """Initialize the RAG engine with all dependencies"""
-        # LangChain inference manager (loaded on demand)
+        # Inference manager using factory pattern (loaded on demand)
         try:
-            from .langchain_inference import LangChainInferenceManager
-            self.model_mgr = LangChainInferenceManager()
+            from .inference import InferenceManagerFactory
+            self.model_mgr = InferenceManagerFactory.get_available_manager()
         except Exception:
             self.model_mgr = None
 

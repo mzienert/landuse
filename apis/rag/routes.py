@@ -4,6 +4,7 @@ from .handlers.model import model_bp
 from .handlers.answer import answer_bp
 from .handlers.stream import stream_bp
 from .handlers.index import index_bp
+from .handlers.factory_info import factory_info_bp
 
 def register_blueprints(app):
     """Register all blueprints with the Flask app"""
@@ -13,3 +14,4 @@ def register_blueprints(app):
     app.register_blueprint(answer_bp)
     app.register_blueprint(stream_bp)
     app.register_blueprint(index_bp)
+    app.register_blueprint(factory_info_bp)

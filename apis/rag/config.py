@@ -51,6 +51,9 @@ class Config:
     # Provider Selection Strategy
     PROVIDER_HEALTH_CHECK_TIMEOUT = int(os.environ.get('PROVIDER_HEALTH_CHECK_TIMEOUT', '5'))
     
+    # Inference Manager Configuration
+    INFERENCE_MANAGER_TYPE = os.environ.get('INFERENCE_MANAGER_TYPE', 'langchain')
+    
     # LangSmith Configuration
     LANGSMITH_API_KEY = os.environ.get('LANGSMITH_API_KEY')
     LANGSMITH_PROJECT = os.environ.get('LANGSMITH_PROJECT', 'landuse-rag')

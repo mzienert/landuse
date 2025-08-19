@@ -403,3 +403,68 @@ MODEL RESPONSE:
 [2025-08-18 23:06:09,297] INFO in langchain_inference: Loaded LLM provider: LocalLlamaCppProvider
  * Debugger is active!
  * Debugger PIN: 114-241-345
+ * Detected change in '/Users/matthewzienert/Documents/landuse/apis/rag/rag_engine.py', reloading
+ * Restarting with stat
+[2025-08-18 23:17:27,005] INFO in langchain_manager: LangSmith tracing enabled for project: Landuse
+[2025-08-18 23:17:27,121] INFO in langchain_manager: Loaded LLM provider: LocalLlamaCppProvider
+ * Debugger is active!
+ * Debugger PIN: 114-241-345
+ * Detected change in '/Users/matthewzienert/Documents/landuse/apis/rag/config.py', reloading
+ * Restarting with stat
+[2025-08-18 23:17:41,470] INFO in langchain_manager: LangSmith tracing enabled for project: Landuse
+[2025-08-18 23:17:41,573] INFO in langchain_manager: Loaded LLM provider: LocalLlamaCppProvider
+ * Debugger is active!
+ * Debugger PIN: 114-241-345
+ * Detected change in '/Users/matthewzienert/Documents/landuse/apis/rag/handlers/health.py', reloading
+ * Restarting with stat
+[2025-08-18 23:18:11,131] INFO in langchain_manager: LangSmith tracing enabled for project: Landuse
+[2025-08-18 23:18:11,246] INFO in langchain_manager: Loaded LLM provider: LocalLlamaCppProvider
+ * Debugger is active!
+ * Debugger PIN: 114-241-345
+ * Detected change in '/Users/matthewzienert/Documents/landuse/apis/rag/routes.py', reloading
+ * Restarting with stat
+[2025-08-18 23:18:47,095] INFO in langchain_manager: LangSmith tracing enabled for project: Landuse
+[2025-08-18 23:18:47,204] INFO in langchain_manager: Loaded LLM provider: LocalLlamaCppProvider
+ * Debugger is active!
+ * Debugger PIN: 114-241-345
+ * Detected change in '/Users/matthewzienert/Documents/landuse/apis/rag/inference/langchain_manager.py', reloading
+ * Restarting with stat
+Failed to create LangChain inference manager: 'LangChainInferenceManager' object has no attribute '_log_error'
+ * Debugger is active!
+ * Debugger PIN: 114-241-345
+ * Detected change in '/Users/matthewzienert/Documents/landuse/apis/rag/inference/langchain_manager.py', reloading
+ * Restarting with stat
+[2025-08-18 23:20:16,357] INFO in langchain_manager: LangSmith tracing enabled for project: Landuse
+[2025-08-18 23:20:16,505] INFO in langchain_manager: Loaded LLM provider: LocalLlamaCppProvider
+ * Debugger is active!
+ * Debugger PIN: 114-241-345
+ * Detected change in '/Users/matthewzienert/Documents/landuse/apis/rag/inference/langchain_manager.py', reloading
+ * Restarting with stat
+[2025-08-18 23:20:24,618] INFO in langchain_manager: LangSmith tracing enabled for project: Landuse
+[2025-08-18 23:20:24,740] INFO in langchain_manager: Loaded LLM provider: LocalLlamaCppProvider
+ * Debugger is active!
+ * Debugger PIN: 114-241-345
+ * Detected change in '/Users/matthewzienert/Documents/landuse/apis/rag/inference/langchain_manager.py', reloading
+ * Restarting with stat
+[2025-08-18 23:20:35,748] INFO in langchain_manager: LangSmith tracing enabled for project: Landuse
+[2025-08-18 23:20:35,899] INFO in langchain_manager: Loaded LLM provider: LocalLlamaCppProvider
+ * Debugger is active!
+ * Debugger PIN: 114-241-345
+ * Detected change in '/Users/matthewzienert/Documents/landuse/apis/rag/inference/langchain_manager.py', reloading
+ * Restarting with stat
+[2025-08-18 23:20:47,864] INFO in langchain_manager: LangSmith tracing enabled for project: Landuse
+[2025-08-18 23:20:47,979] INFO in langchain_manager: Loaded LLM provider: LocalLlamaCppProvider
+ * Debugger is active!
+ * Debugger PIN: 114-241-345
+ * Detected change in '/Users/matthewzienert/Documents/landuse/apis/rag/inference/langchain_manager.py', reloading
+ * Restarting with stat
+[2025-08-18 23:20:58,968] INFO in langchain_manager: LangSmith tracing enabled for project: Landuse
+[2025-08-18 23:20:59,085] INFO in langchain_manager: Loaded LLM provider: LocalLlamaCppProvider
+ * Debugger is active!
+ * Debugger PIN: 114-241-345
+ * Detected change in '/Users/matthewzienert/Documents/landuse/apis/rag/inference/langchain_manager.py', reloading
+ * Restarting with stat
+[2025-08-18 23:21:09,070] INFO in langchain_manager: LangSmith tracing enabled for project: Landuse
+[2025-08-18 23:21:09,222] INFO in langchain_manager: Loaded LLM provider: LocalLlamaCppProvider
+ * Debugger is active!
+ * Debugger PIN: 114-241-345
