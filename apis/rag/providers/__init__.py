@@ -1,5 +1,20 @@
-# LLM Provider Package
-# This package contains all LLM provider implementations and factory logic
+"""LLM Provider Package.
+
+This package provides a unified interface for different LLM providers through
+the Factory pattern. It supports multiple environments (local, staging, production)
+with automatic provider selection and fallback logic.
+
+Examples:
+    Basic usage:
+    >>> from apis.rag.providers import LLMProviderFactory
+    >>> provider = LLMProviderFactory.get_provider('local')
+    >>> response = provider.generate([HumanMessage(content="Hello")])
+    
+    Automatic provider selection with fallback:
+    >>> provider = LLMProviderFactory.get_available_provider('staging')
+    >>> for chunk in provider.stream_generate([HumanMessage(content="Hello")]):
+    ...     print(chunk, end='')
+"""
 
 from .factory import LLMProviderFactory
 

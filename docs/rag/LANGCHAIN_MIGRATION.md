@@ -13,181 +13,97 @@ This document outlines the migration from direct HTTP calls to LangChain abstrac
 3. **Environment Isolation**: Clear separation between local/staging/production configurations
 4. **Seamless Migration**: Gradual transition with fallback capabilities
 
-### Provider Architecture
+### Provider Architecture (Updated: Modular Package Design)
+
+The LLM provider system is now organized as a professional, modular package following Python best practices:
+
+```
+apis/rag/providers/
+├── __init__.py           # Public API exports
+├── base.py              # Abstract LLMProvider base class  
+├── local_llamacpp.py    # Local llama.cpp implementation
+├── bedrock.py           # AWS Bedrock implementation
+└── factory.py           # Provider factory with discovery logic
+```
+
+#### Usage (Simplified Public API)
 
 ```python
-# apis/rag/llm_provider.py
+# Primary usage - Factory pattern (recommended)
+from apis.rag.providers import LLMProviderFactory
+
+# Basic provider creation
+provider = LLMProviderFactory.get_provider('local')
+response = provider.generate([HumanMessage(content="Hello")])
+
+# Automatic provider selection with fallback
+provider = LLMProviderFactory.get_available_provider('staging')
+for chunk in provider.stream_generate([HumanMessage(content="Hello")]):
+    print(chunk, end='')
+
+# Environment detection (uses DEPLOYMENT_ENV or config default)
+provider = LLMProviderFactory.get_provider()  # Auto-detects environment
+```
+
+#### Internal Architecture
+
+**Base Provider Interface** (`providers/base.py`):
+```python
 from abc import ABC, abstractmethod
-from typing import Dict, Any, Iterator, Optional
-from langchain_openai import ChatOpenAI
-from langchain_aws import ChatBedrock
-from langchain_core.messages import BaseMessage, HumanMessage, SystemMessage
-import os
+from typing import Iterator
+from langchain_core.messages import BaseMessage
 
 class LLMProvider(ABC):
-    """Abstract base class for LLM providers"""
+    """Abstract base class for LLM providers."""
     
     @abstractmethod
     def generate(self, messages: list[BaseMessage], **kwargs) -> str:
-        """Generate a response from messages"""
-        pass
+        """Generate a response from messages."""
+        raise NotImplementedError
     
     @abstractmethod
     def stream_generate(self, messages: list[BaseMessage], **kwargs) -> Iterator[str]:
-        """Stream generate a response from messages"""
-        pass
+        """Stream generate a response from messages."""
+        raise NotImplementedError
     
     @abstractmethod
     def is_available(self) -> bool:
-        """Check if provider is available"""
-        pass
+        """Check if provider is available."""
+        raise NotImplementedError
+```
 
-class LocalLlamaCppProvider(LLMProvider):
-    """LangChain provider for local llama.cpp HTTP server"""
-    
-    def __init__(self, base_url: str = "http://localhost:8003/v1"):
-        self.base_url = base_url
-        self.llm = ChatOpenAI(
-            base_url=base_url,
-            api_key="dummy",  # llama.cpp doesn't validate
-            model="gpt-3.5-turbo",  # Placeholder, ignored by llama.cpp
-            temperature=0.1,  # Capped for consistency
-            max_tokens=1200,
-            model_kwargs={
-                "seed": 42,  # Fixed seed for reproducible results
-                "repeat_penalty": 1.3,  # Prevent repetition
-                "repeat_last_n": 128  # Repetition detection window
-            }
-        )
-    
-    def generate(self, messages: list[BaseMessage], **kwargs) -> str:
-        """Generate response using local llama.cpp server"""
-        response = self.llm.invoke(messages, **kwargs)
-        return response.content
-    
-    def stream_generate(self, messages: list[BaseMessage], **kwargs) -> Iterator[str]:
-        """Stream response using local llama.cpp server"""
-        for chunk in self.llm.stream(messages, **kwargs):
-            if chunk.content:
-                yield chunk.content
-    
-    def is_available(self) -> bool:
-        """Check if llama.cpp server is responding"""
-        try:
-            import requests
-            response = requests.get(f"{self.base_url.replace('/v1', '')}/health", timeout=5)
-            return response.status_code == 200
-        except:
-            return False
-
-class StagingBedrockProvider(LLMProvider):
-    """LangChain provider for AWS Bedrock staging environment"""
-    
-    def __init__(self, region: str = "us-west-2"):
-        self.llm = ChatBedrock(
-            model_id="anthropic.claude-3-haiku-20240307",  # Cheaper for staging
-            region=region,
-            model_kwargs={
-                "temperature": 0.1,  # Match local consistency
-                "max_tokens": 1200
-            }
-        )
-    
-    def generate(self, messages: list[BaseMessage], **kwargs) -> str:
-        """Generate response using AWS Bedrock staging"""
-        response = self.llm.invoke(messages, **kwargs)
-        return response.content
-    
-    def stream_generate(self, messages: list[BaseMessage], **kwargs) -> Iterator[str]:
-        """Stream response using AWS Bedrock staging"""
-        for chunk in self.llm.stream(messages, **kwargs):
-            if chunk.content:
-                yield chunk.content
-    
-    def is_available(self) -> bool:
-        """Check if AWS Bedrock is accessible"""
-        try:
-            # Simple test call with minimal content
-            test_messages = [HumanMessage(content="Hi")]
-            response = self.llm.invoke(test_messages, max_tokens=1)
-            return True
-        except:
-            return False
-
-class ProductionBedrockProvider(LLMProvider):
-    """LangChain provider for AWS Bedrock production environment"""
-    
-    def __init__(self, region: str = "us-west-2"):
-        self.llm = ChatBedrock(
-            model_id="anthropic.claude-3-sonnet-20240229",  # Higher quality for production
-            region=region,
-            model_kwargs={
-                "temperature": 0.1,  # Match local consistency
-                "max_tokens": 1200
-            }
-        )
-    
-    def generate(self, messages: list[BaseMessage], **kwargs) -> str:
-        """Generate response using AWS Bedrock production"""
-        response = self.llm.invoke(messages, **kwargs)
-        return response.content
-    
-    def stream_generate(self, messages: list[BaseMessage], **kwargs) -> Iterator[str]:
-        """Stream response using AWS Bedrock production"""
-        for chunk in self.llm.stream(messages, **kwargs):
-            if chunk.content:
-                yield chunk.content
-    
-    def is_available(self) -> bool:
-        """Check if AWS Bedrock is accessible"""
-        try:
-            # Simple test call with minimal content
-            test_messages = [HumanMessage(content="Hi")]
-            response = self.llm.invoke(test_messages, max_tokens=1)
-            return True
-        except:
-            return False
-
+**Provider Factory** (`providers/factory.py`):
+```python
 class LLMProviderFactory:
-    """Factory for creating environment-appropriate LLM providers"""
+    """Factory for creating environment-appropriate LLM providers."""
     
-    @staticmethod
-    def get_provider(env: Optional[str] = None) -> LLMProvider:
-        """Get LLM provider based on environment"""
+    @classmethod
+    def get_provider(cls, env: Optional[str] = None) -> LLMProvider:
+        """Get LLM provider based on environment."""
         if env is None:
-            env = os.getenv("DEPLOYMENT_ENV", "local")
-        
+            env = os.getenv("DEPLOYMENT_ENV", Config.DEPLOYMENT_ENV)
+            
         if env == "local":
             return LocalLlamaCppProvider()
         elif env == "staging":
-            return StagingBedrockProvider()
+            return BedrockProvider(Config.BEDROCK_STAGING_MODEL)
         elif env == "production":
-            return ProductionBedrockProvider()
+            return BedrockProvider(Config.BEDROCK_PRODUCTION_MODEL)
         else:
-            raise ValueError(f"Unknown environment: {env}")
+            raise ValueError(f"Unknown environment '{env}'")
     
-    @staticmethod
-    def get_available_provider(preferred_env: Optional[str] = None) -> LLMProvider:
-        """Get first available provider with fallback logic"""
-        if preferred_env:
-            try:
-                provider = LLMProviderFactory.get_provider(preferred_env)
-                if provider.is_available():
-                    return provider
-            except:
-                pass
-        
-        # Fallback order: local -> staging -> production
-        for env in ["local", "staging", "production"]:
-            try:
-                provider = LLMProviderFactory.get_provider(env)
-                if provider.is_available():
-                    return provider
-            except:
-                continue
-        
-        raise RuntimeError("No LLM providers are available")
+    @classmethod
+    def get_available_provider(cls, preferred_env: Optional[str] = None) -> LLMProvider:
+        """Get first available provider with fallback logic."""
+        # Tries preferred environment first, then falls back through supported environments
+        # with comprehensive logging and error handling
 ```
+
+**Configuration-Driven Design**:
+- **Single BedrockProvider**: Takes model_id as parameter instead of separate staging/production classes
+- **Centralized Config**: All parameters (temperature, tokens, models) come from `Config` class
+- **Environment-Aware**: Factory automatically detects deployment environment
+- **Professional Documentation**: Google-style docstrings with examples throughout
 
 ### Configuration Management
 
@@ -257,7 +173,7 @@ from typing import Generator, Optional
 from langchain_core.messages import HumanMessage, SystemMessage
 from langchain_core.tracers.langchain import LangChainTracer
 from langsmith import Client
-from .llm_provider import LLMProviderFactory
+from .providers import LLMProviderFactory  # Updated import path
 from flask import current_app
 import os
 
