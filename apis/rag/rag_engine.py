@@ -1,4 +1,3 @@
-from .config import DEFAULT_MODEL_ID
 
 class RAGEngine:
     def __init__(self):
@@ -47,16 +46,12 @@ class RAGEngine:
             pass
             
     def auto_load_default_model(self):
-        """Automatically load the default model on startup if none is loaded."""
-        if self.model_mgr and not self.model_mgr.is_loaded:
-            try:
-                print(f"Auto-loading default model: {DEFAULT_MODEL_ID}")
-                self.model_mgr.load_model(DEFAULT_MODEL_ID)
-                provider_name = type(self.model_mgr.provider).__name__ if hasattr(self.model_mgr, 'provider') else 'Unknown'
-                print(f"✅ Default model loaded successfully using {provider_name}")
-            except Exception as e:
-                print(f"⚠️  Failed to auto-load default model: {e}")
-                print(f"   Model can be loaded manually via /rag/model/load endpoint")
+        """Check if inference manager is available on startup."""
+        if self.model_mgr and self.model_mgr.is_available:
+            provider_name = type(self.model_mgr.provider).__name__ if hasattr(self.model_mgr, 'provider') else 'Unknown'
+            print(f"✅ Inference manager ready using {provider_name}")
+        else:
+            print(f"⚠️  Inference manager not available")
 
     def enhanced_retrieval_with_normalization(self, query: str, collection: str = "la_plata_county_code", num_results: int = 5):
         """

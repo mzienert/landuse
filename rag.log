@@ -468,3 +468,22 @@ Failed to create LangChain inference manager: 'LangChainInferenceManager' object
 [2025-08-18 23:21:09,222] INFO in langchain_manager: Loaded LLM provider: LocalLlamaCppProvider
  * Debugger is active!
  * Debugger PIN: 114-241-345
+ * Detected change in '/Users/matthewzienert/Documents/landuse/apis/rag/inference/base.py', reloading
+ * Restarting with stat
+Failed to create LangChain inference manager: Can't instantiate abstract class LangChainInferenceManager without an implementation for abstract method 'generate'
+ * Debugger is active!
+ * Debugger PIN: 114-241-345
+ * Detected change in '/Users/matthewzienert/Documents/landuse/apis/rag/inference/langchain_manager.py', reloading
+ * Restarting with stat
+Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "/Users/matthewzienert/Documents/landuse/apis/rag/rag_api.py", line 15, in <module>
+    app = create_app()
+  File "/Users/matthewzienert/Documents/landuse/apis/rag/app_factory.py", line 58, in create_app
+    rag_engine.auto_load_default_model()
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "/Users/matthewzienert/Documents/landuse/apis/rag/rag_engine.py", line 51, in auto_load_default_model
+    if self.model_mgr and not self.model_mgr.is_loaded:
+                              ^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'LangChainInferenceManager' object has no attribute 'is_loaded'

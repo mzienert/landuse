@@ -16,8 +16,8 @@ def rag_answer():
         if not query:
             return jsonify({"error": "query is required"}), 400
 
-        # If model loaded, include retrieval context with query normalization
-        if model_mgr and model_mgr.is_loaded:
+        # If inference available, include retrieval context with query normalization
+        if model_mgr and model_mgr.is_available:
             if rag_engine.fetch_simple_search and rag_engine.build_prompt_with_sources:
                 try:
                     # Use enhanced retrieval with normalization
@@ -68,18 +68,16 @@ def rag_answer():
             # answer_text = annotated_answer
             verification = None
         else:
-            answer_text = (
-                "[stub] Model not loaded. Load via POST /rag/model/load with {\"model_id\": \"...\"}."
-            )
+            answer_text = "[stub] Inference not available."
 
         return jsonify({
             "query": query,
             "collection": collection,
             "num_results": num_results,
             "answer": answer_text,
-            "citations": citations if model_mgr and model_mgr.is_loaded else [],
-            "sources": used_sources if model_mgr and model_mgr.is_loaded else [],
-            "verification": verification if model_mgr and model_mgr.is_loaded else None,
+            "citations": citations if model_mgr and model_mgr.is_available else [],
+            "sources": used_sources if model_mgr and model_mgr.is_available else [],
+            "verification": verification if model_mgr and model_mgr.is_available else None,
         })
     except Exception as e:
         return jsonify({"error": str(e)}), 500

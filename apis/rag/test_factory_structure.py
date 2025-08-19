@@ -29,8 +29,7 @@ def test_inference_factory():
         
         # Test interface methods exist
         assert hasattr(manager, 'is_available')
-        assert hasattr(manager, 'is_loaded')
-        assert hasattr(manager, 'load_model')
+        assert hasattr(manager, 'generate')
         assert hasattr(manager, 'stream_generate')
         print("✅ Manager has all required interface methods")
         

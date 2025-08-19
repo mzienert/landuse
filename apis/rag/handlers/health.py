@@ -35,30 +35,24 @@ def rag_health():
             "type": type(model_mgr.provider).__name__
         })
     
-    # Get LangSmith information
-    langsmith_info = {
-        "tracing_enabled": hasattr(model_mgr, 'tracer') and model_mgr.tracer is not None if model_mgr else False,
-        "project": os.getenv("LANGSMITH_PROJECT", "landuse-rag")
-    }
-    
     overall_status = "healthy" if (model_mgr and model_mgr.is_available) else "degraded"
     
     return jsonify({
         "status": overall_status,
-        "model_loaded": bool(model_mgr and model_mgr.is_loaded),
         "inference_available": bool(model_mgr and model_mgr.is_available),
-        "model_id": model_mgr.model_id if model_mgr else None,
         "inference_manager": inference_manager_info,
         "llm_provider": provider_info,
-        "langsmith": langsmith_info,
         "streaming": True,
         "endpoints": [
             "/rag/health",
-            "/rag/config",
-            "/rag/model/load",
+            "/rag/config", 
             "/rag/answer",
             "/rag/answer/stream",
+            "/rag/provider/switch",
+            "/rag/factory/info",
+            "/rag/factory/managers", 
+            "/rag/factory/providers"
         ],
         "timestamp": datetime.now().isoformat(),
-        "version": "0.2.0-factory"
+        "version": "0.3.0-clean-factory"
     })
