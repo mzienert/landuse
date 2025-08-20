@@ -259,14 +259,21 @@ def store_embeddings(collection, accounts, embeddings, property_descriptions):
     print(f"Stored {collection.count()} documents in ChromaDB")
 
 def main():
+    # COMMENTED OUT: MDB file processing temporarily disabled
+    # This section is commented out because it causes issues for users who don't have the MDB file
+    # Uncomment when AssessorData.mdb is available and needed
+    
+    print("🏠 La Plata County Assessor Data → Embeddings")
+    print("=" * 50)
+    print("⚠️  MDB processing is currently disabled")
+    print("To enable, uncomment the MDB processing section in this file")
+    
+    """
     mdb_path = "../../../LPC-Assessor-Data-Files/AssessorData.mdb"
     
     if not os.path.exists(mdb_path):
         print(f"❌ MDB file not found: {mdb_path}")
         return
-    
-    print("🏠 La Plata County Assessor Data → Embeddings")
-    print("=" * 50)
     
     # Key tables to export
     key_tables = ['MAILADDR', 'LEGAL', 'LIVALUE', 'ARCHYEAR', 'CLASSUSE']
@@ -326,6 +333,7 @@ def main():
     print(f"🗂️  Database location: ../../../chroma_db")
     print(f"🔍 Collection: la_plata_assessor")
     print("Ready for semantic search queries on property data!")
+    """
 
 if __name__ == "__main__":
     main()
