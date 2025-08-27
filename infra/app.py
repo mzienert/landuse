@@ -5,7 +5,6 @@ from constructs import Construct
 
 from stacks.landuse_stack import LanduseStack
 
-
 app = cdk.App()
 
 # Get environment from context - NO DEFAULT, must be explicitly set

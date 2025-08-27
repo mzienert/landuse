@@ -3,21 +3,22 @@ import aws_cdk as cdk
 from aws_cdk import (
     Stack,
     Tags,
-    Duration,
-    aws_apigateway as apigw,
     aws_bedrock as bedrock,
-    aws_lambda as _lambda,
-    aws_iam as iam,
 )
+
+# Import our custom constructs
+from landuse_constructs.search_lambda import SearchLambda
+from landuse_constructs.search_api_gateway import SearchApiGateway
 
 
 class LanduseStack(Stack):
     """
     Main CDK stack for La Plata County RAG System
     
-    Infrastructure components:
-    - API Gateway for service routing
-    - AWS Bedrock for LLM inference
+    This stack orchestrates the core search infrastructure using custom constructs:
+    - SearchLambda: Lambda function for search processing
+    - SearchApiGateway: API Gateway with search endpoints
+    - AWS Bedrock: LLM inference (configured separately)
     - Proactive resource tagging for cost analysis
     """
     
@@ -29,11 +30,20 @@ class LanduseStack(Stack):
         # Apply consistent resource tagging strategy
         self._apply_resource_tags()
         
-        # Create Search Lambda function
-        self.search_lambda = self._create_search_lambda()
+        # Create Search Lambda function using custom construct
+        self.search_lambda_construct = SearchLambda(
+            self,
+            "SearchLambda",
+            env_name=env_name
+        )
         
-        # Create API Gateway with search endpoint
-        self.api_gateway = self._create_api_gateway()
+        # Create API Gateway using custom construct
+        self.api_gateway_construct = SearchApiGateway(
+            self,
+            "SearchAPI", 
+            env_name=env_name,
+            search_lambda=self.search_lambda_construct.function
+        )
         
         # Stub: AWS Bedrock configuration (for later steps)
         self._create_bedrock_resources()
@@ -42,76 +52,6 @@ class LanduseStack(Stack):
         """Apply broad stack-level tags, specific service tags applied at resource level"""
         Tags.of(self).add("Project", "LaPlataCo-RAG")
         Tags.of(self).add("Environment", self.env_name)
-
-    def _create_search_lambda(self) -> _lambda.Function:
-        """Create the search Lambda function"""
-        
-        # Create Lambda function
-        search_lambda = _lambda.Function(
-            self, 
-            f"SearchLambda-{self.env_name}",
-            runtime=_lambda.Runtime.PYTHON_3_11,
-            handler="lambda_function.lambda_handler",
-            code=_lambda.Code.from_asset("lambda/search"),
-            timeout=Duration.seconds(30),
-            memory_size=512,
-            environment={
-                "ENVIRONMENT": self.env_name,
-                "LOG_LEVEL": "INFO"
-            },
-            function_name=f"landuse-search-{self.env_name}"
-        )
-        
-        # Add resource-level tags for cost tracking
-        Tags.of(search_lambda).add("Service", "Search")
-        Tags.of(search_lambda).add("Component", "Lambda")
-        
-        return search_lambda
-        
-    def _create_api_gateway(self) -> apigw.RestApi:
-        """Create API Gateway with search endpoint"""
-        
-        # Create REST API with explicit stage configuration
-        api = apigw.RestApi(
-            self,
-            f"LanduseAPI-{self.env_name}",
-            rest_api_name=f"landuse-api-{self.env_name}",
-            description=f"La Plata County RAG API - {self.env_name}",
-            deploy_options=apigw.StageOptions(
-                stage_name=self.env_name,
-                description=f"La Plata County RAG API - {self.env_name} stage"
-            ),
-            default_cors_preflight_options=apigw.CorsOptions(
-                allow_origins=apigw.Cors.ALL_ORIGINS,
-                allow_methods=apigw.Cors.ALL_METHODS,
-                allow_headers=["Content-Type", "Authorization"]
-            )
-        )
-        
-        # Create Lambda integration
-        search_integration = apigw.LambdaIntegration(
-            self.search_lambda,
-            request_templates={"application/json": '{"statusCode": 200}'}
-        )
-        
-        # Add /search resource and methods
-        search_resource = api.root.add_resource("search")
-        search_resource.add_method("GET", search_integration)
-        search_resource.add_method("POST", search_integration)
-        
-        # Add resource-level tags
-        Tags.of(api).add("Service", "Search")
-        Tags.of(api).add("Component", "API-Gateway")
-        
-        # Output the API endpoint URL
-        cdk.CfnOutput(
-            self,
-            f"APIEndpoint-{self.env_name}",
-            value=api.url,
-            description=f"API Gateway endpoint URL for {self.env_name} environment"
-        )
-        
-        return api
         
     def _create_bedrock_resources(self) -> None:
         """
@@ -120,3 +60,19 @@ class LanduseStack(Stack):
         # Placeholder for Bedrock configuration
         # TODO: Configure Bedrock models and access policies
         pass
+    
+    # Convenience properties for accessing construct resources
+    @property
+    def search_lambda_function(self):
+        """Get the search Lambda function"""
+        return self.search_lambda_construct.function
+    
+    @property
+    def search_api_gateway(self):
+        """Get the search API Gateway"""
+        return self.api_gateway_construct.api
+    
+    @property
+    def search_endpoint_url(self):
+        """Get the search endpoint URL"""
+        return self.api_gateway_construct.search_endpoint
