@@ -1,0 +1,601 @@
+{
+ "Description": "La Plata County RAG System - Dev Environment",
+ "Resources": {
+  "SearchLambdadevServiceRoleC60829D3": {
+   "Type": "AWS::IAM::Role",
+   "Properties": {
+    "AssumeRolePolicyDocument": {
+     "Statement": [
+      {
+       "Action": "sts:AssumeRole",
+       "Effect": "Allow",
+       "Principal": {
+        "Service": "lambda.amazonaws.com"
+       }
+      }
+     ],
+     "Version": "2012-10-17"
+    },
+    "ManagedPolicyArns": [
+     {
+      "Fn::Join": [
+       "",
+       [
+        "arn:",
+        {
+         "Ref": "AWS::Partition"
+        },
+        ":iam::aws:policy/service-role/AWSLambdaBasicExecutionRole"
+       ]
+      ]
+     }
+    ],
+    "Tags": [
+     {
+      "Key": "Component",
+      "Value": "Lambda"
+     },
+     {
+      "Key": "Environment",
+      "Value": "dev"
+     },
+     {
+      "Key": "Project",
+      "Value": "LaPlataCo-RAG"
+     },
+     {
+      "Key": "Service",
+      "Value": "Search"
+     }
+    ]
+   },
+   "Metadata": {
+    "aws:cdk:path": "LanduseStack-dev/SearchLambda-dev/ServiceRole/Resource"
+   }
+  },
+  "SearchLambdadevBA8BA442": {
+   "Type": "AWS::Lambda::Function",
+   "Properties": {
+    "Code": {
+     "S3Bucket": {
+      "Fn::Sub": "cdk-hnb659fds-assets-${AWS::AccountId}-us-west-2"
+     },
+     "S3Key": "9b220f7800c328e1d7816b6f8fd0d9aeb1c91c9b32649b70785cc46b1f4e07f8.zip"
+    },
+    "Environment": {
+     "Variables": {
+      "ENVIRONMENT": "dev",
+      "LOG_LEVEL": "INFO"
+     }
+    },
+    "FunctionName": "landuse-search-dev",
+    "Handler": "lambda_function.lambda_handler",
+    "MemorySize": 512,
+    "Role": {
+     "Fn::GetAtt": [
+      "SearchLambdadevServiceRoleC60829D3",
+      "Arn"
+     ]
+    },
+    "Runtime": "python3.11",
+    "Tags": [
+     {
+      "Key": "Component",
+      "Value": "Lambda"
+     },
+     {
+      "Key": "Environment",
+      "Value": "dev"
+     },
+     {
+      "Key": "Project",
+      "Value": "LaPlataCo-RAG"
+     },
+     {
+      "Key": "Service",
+      "Value": "Search"
+     }
+    ],
+    "Timeout": 30
+   },
+   "DependsOn": [
+    "SearchLambdadevServiceRoleC60829D3"
+   ],
+   "Metadata": {
+    "aws:cdk:path": "LanduseStack-dev/SearchLambda-dev/Resource",
+    "aws:asset:path": "asset.9b220f7800c328e1d7816b6f8fd0d9aeb1c91c9b32649b70785cc46b1f4e07f8",
+    "aws:asset:is-bundled": false,
+    "aws:asset:property": "Code"
+   }
+  },
+  "LanduseAPIdev74C538A4": {
+   "Type": "AWS::ApiGateway::RestApi",
+   "Properties": {
+    "Description": "La Plata County RAG API - dev",
+    "Name": "landuse-api-dev",
+    "Tags": [
+     {
+      "Key": "Component",
+      "Value": "API-Gateway"
+     },
+     {
+      "Key": "Environment",
+      "Value": "dev"
+     },
+     {
+      "Key": "Project",
+      "Value": "LaPlataCo-RAG"
+     },
+     {
+      "Key": "Service",
+      "Value": "Search"
+     }
+    ]
+   },
+   "Metadata": {
+    "aws:cdk:path": "LanduseStack-dev/LanduseAPI-dev/Resource"
+   }
+  },
+  "LanduseAPIdevDeploymentCEAE05F390f24bd866ad490b8be8ad8ddb5ffe73": {
+   "Type": "AWS::ApiGateway::Deployment",
+   "Properties": {
+    "Description": "La Plata County RAG API - dev",
+    "RestApiId": {
+     "Ref": "LanduseAPIdev74C538A4"
+    }
+   },
+   "DependsOn": [
+    "LanduseAPIdevOPTIONSF2BF8E0C",
+    "LanduseAPIdevsearchGET867C6C01",
+    "LanduseAPIdevsearchOPTIONSC2BD4B59",
+    "LanduseAPIdevsearchPOST564A3A41",
+    "LanduseAPIdevsearchDCB5817B"
+   ],
+   "Metadata": {
+    "aws:cdk:path": "LanduseStack-dev/LanduseAPI-dev/Deployment/Resource"
+   }
+  },
+  "LanduseAPIdevDeploymentStageprod5F2BCD81": {
+   "Type": "AWS::ApiGateway::Stage",
+   "Properties": {
+    "DeploymentId": {
+     "Ref": "LanduseAPIdevDeploymentCEAE05F390f24bd866ad490b8be8ad8ddb5ffe73"
+    },
+    "RestApiId": {
+     "Ref": "LanduseAPIdev74C538A4"
+    },
+    "StageName": "prod",
+    "Tags": [
+     {
+      "Key": "Component",
+      "Value": "API-Gateway"
+     },
+     {
+      "Key": "Environment",
+      "Value": "dev"
+     },
+     {
+      "Key": "Project",
+      "Value": "LaPlataCo-RAG"
+     },
+     {
+      "Key": "Service",
+      "Value": "Search"
+     }
+    ]
+   },
+   "Metadata": {
+    "aws:cdk:path": "LanduseStack-dev/LanduseAPI-dev/DeploymentStage.prod/Resource"
+   }
+  },
+  "LanduseAPIdevOPTIONSF2BF8E0C": {
+   "Type": "AWS::ApiGateway::Method",
+   "Properties": {
+    "ApiKeyRequired": false,
+    "AuthorizationType": "NONE",
+    "HttpMethod": "OPTIONS",
+    "Integration": {
+     "IntegrationResponses": [
+      {
+       "ResponseParameters": {
+        "method.response.header.Access-Control-Allow-Headers": "'Content-Type,Authorization'",
+        "method.response.header.Access-Control-Allow-Origin": "'*'",
+        "method.response.header.Access-Control-Allow-Methods": "'OPTIONS,GET,PUT,POST,DELETE,PATCH,HEAD'"
+       },
+       "StatusCode": "204"
+      }
+     ],
+     "RequestTemplates": {
+      "application/json": "{ statusCode: 200 }"
+     },
+     "Type": "MOCK"
+    },
+    "MethodResponses": [
+     {
+      "ResponseParameters": {
+       "method.response.header.Access-Control-Allow-Headers": true,
+       "method.response.header.Access-Control-Allow-Origin": true,
+       "method.response.header.Access-Control-Allow-Methods": true
+      },
+      "StatusCode": "204"
+     }
+    ],
+    "ResourceId": {
+     "Fn::GetAtt": [
+      "LanduseAPIdev74C538A4",
+      "RootResourceId"
+     ]
+    },
+    "RestApiId": {
+     "Ref": "LanduseAPIdev74C538A4"
+    }
+   },
+   "Metadata": {
+    "aws:cdk:path": "LanduseStack-dev/LanduseAPI-dev/Default/OPTIONS/Resource"
+   }
+  },
+  "LanduseAPIdevsearchDCB5817B": {
+   "Type": "AWS::ApiGateway::Resource",
+   "Properties": {
+    "ParentId": {
+     "Fn::GetAtt": [
+      "LanduseAPIdev74C538A4",
+      "RootResourceId"
+     ]
+    },
+    "PathPart": "search",
+    "RestApiId": {
+     "Ref": "LanduseAPIdev74C538A4"
+    }
+   },
+   "Metadata": {
+    "aws:cdk:path": "LanduseStack-dev/LanduseAPI-dev/Default/search/Resource"
+   }
+  },
+  "LanduseAPIdevsearchOPTIONSC2BD4B59": {
+   "Type": "AWS::ApiGateway::Method",
+   "Properties": {
+    "ApiKeyRequired": false,
+    "AuthorizationType": "NONE",
+    "HttpMethod": "OPTIONS",
+    "Integration": {
+     "IntegrationResponses": [
+      {
+       "ResponseParameters": {
+        "method.response.header.Access-Control-Allow-Headers": "'Content-Type,Authorization'",
+        "method.response.header.Access-Control-Allow-Origin": "'*'",
+        "method.response.header.Access-Control-Allow-Methods": "'OPTIONS,GET,PUT,POST,DELETE,PATCH,HEAD'"
+       },
+       "StatusCode": "204"
+      }
+     ],
+     "RequestTemplates": {
+      "application/json": "{ statusCode: 200 }"
+     },
+     "Type": "MOCK"
+    },
+    "MethodResponses": [
+     {
+      "ResponseParameters": {
+       "method.response.header.Access-Control-Allow-Headers": true,
+       "method.response.header.Access-Control-Allow-Origin": true,
+       "method.response.header.Access-Control-Allow-Methods": true
+      },
+      "StatusCode": "204"
+     }
+    ],
+    "ResourceId": {
+     "Ref": "LanduseAPIdevsearchDCB5817B"
+    },
+    "RestApiId": {
+     "Ref": "LanduseAPIdev74C538A4"
+    }
+   },
+   "Metadata": {
+    "aws:cdk:path": "LanduseStack-dev/LanduseAPI-dev/Default/search/OPTIONS/Resource"
+   }
+  },
+  "LanduseAPIdevsearchGETApiPermissionLanduseStackdevLanduseAPIdev0E61C1B1GETsearchC48E0081": {
+   "Type": "AWS::Lambda::Permission",
+   "Properties": {
+    "Action": "lambda:InvokeFunction",
+    "FunctionName": {
+     "Fn::GetAtt": [
+      "SearchLambdadevBA8BA442",
+      "Arn"
+     ]
+    },
+    "Principal": "apigateway.amazonaws.com",
+    "SourceArn": {
+     "Fn::Join": [
+      "",
+      [
+       "arn:aws:execute-api:us-west-2:",
+       {
+        "Ref": "AWS::AccountId"
+       },
+       ":",
+       {
+        "Ref": "LanduseAPIdev74C538A4"
+       },
+       "/",
+       {
+        "Ref": "LanduseAPIdevDeploymentStageprod5F2BCD81"
+       },
+       "/GET/search"
+      ]
+     ]
+    }
+   },
+   "Metadata": {
+    "aws:cdk:path": "LanduseStack-dev/LanduseAPI-dev/Default/search/GET/ApiPermission.LanduseStackdevLanduseAPIdev0E61C1B1.GET..search"
+   }
+  },
+  "LanduseAPIdevsearchGETApiPermissionTestLanduseStackdevLanduseAPIdev0E61C1B1GETsearch9F9D8335": {
+   "Type": "AWS::Lambda::Permission",
+   "Properties": {
+    "Action": "lambda:InvokeFunction",
+    "FunctionName": {
+     "Fn::GetAtt": [
+      "SearchLambdadevBA8BA442",
+      "Arn"
+     ]
+    },
+    "Principal": "apigateway.amazonaws.com",
+    "SourceArn": {
+     "Fn::Join": [
+      "",
+      [
+       "arn:aws:execute-api:us-west-2:",
+       {
+        "Ref": "AWS::AccountId"
+       },
+       ":",
+       {
+        "Ref": "LanduseAPIdev74C538A4"
+       },
+       "/test-invoke-stage/GET/search"
+      ]
+     ]
+    }
+   },
+   "Metadata": {
+    "aws:cdk:path": "LanduseStack-dev/LanduseAPI-dev/Default/search/GET/ApiPermission.Test.LanduseStackdevLanduseAPIdev0E61C1B1.GET..search"
+   }
+  },
+  "LanduseAPIdevsearchGET867C6C01": {
+   "Type": "AWS::ApiGateway::Method",
+   "Properties": {
+    "AuthorizationType": "NONE",
+    "HttpMethod": "GET",
+    "Integration": {
+     "IntegrationHttpMethod": "POST",
+     "RequestTemplates": {
+      "application/json": "{\"statusCode\": 200}"
+     },
+     "Type": "AWS_PROXY",
+     "Uri": {
+      "Fn::Join": [
+       "",
+       [
+        "arn:aws:apigateway:us-west-2:lambda:path/2015-03-31/functions/",
+        {
+         "Fn::GetAtt": [
+          "SearchLambdadevBA8BA442",
+          "Arn"
+         ]
+        },
+        "/invocations"
+       ]
+      ]
+     }
+    },
+    "ResourceId": {
+     "Ref": "LanduseAPIdevsearchDCB5817B"
+    },
+    "RestApiId": {
+     "Ref": "LanduseAPIdev74C538A4"
+    }
+   },
+   "Metadata": {
+    "aws:cdk:path": "LanduseStack-dev/LanduseAPI-dev/Default/search/GET/Resource"
+   }
+  },
+  "LanduseAPIdevsearchPOSTApiPermissionLanduseStackdevLanduseAPIdev0E61C1B1POSTsearch69ADBEC7": {
+   "Type": "AWS::Lambda::Permission",
+   "Properties": {
+    "Action": "lambda:InvokeFunction",
+    "FunctionName": {
+     "Fn::GetAtt": [
+      "SearchLambdadevBA8BA442",
+      "Arn"
+     ]
+    },
+    "Principal": "apigateway.amazonaws.com",
+    "SourceArn": {
+     "Fn::Join": [
+      "",
+      [
+       "arn:aws:execute-api:us-west-2:",
+       {
+        "Ref": "AWS::AccountId"
+       },
+       ":",
+       {
+        "Ref": "LanduseAPIdev74C538A4"
+       },
+       "/",
+       {
+        "Ref": "LanduseAPIdevDeploymentStageprod5F2BCD81"
+       },
+       "/POST/search"
+      ]
+     ]
+    }
+   },
+   "Metadata": {
+    "aws:cdk:path": "LanduseStack-dev/LanduseAPI-dev/Default/search/POST/ApiPermission.LanduseStackdevLanduseAPIdev0E61C1B1.POST..search"
+   }
+  },
+  "LanduseAPIdevsearchPOSTApiPermissionTestLanduseStackdevLanduseAPIdev0E61C1B1POSTsearchF12B5AF9": {
+   "Type": "AWS::Lambda::Permission",
+   "Properties": {
+    "Action": "lambda:InvokeFunction",
+    "FunctionName": {
+     "Fn::GetAtt": [
+      "SearchLambdadevBA8BA442",
+      "Arn"
+     ]
+    },
+    "Principal": "apigateway.amazonaws.com",
+    "SourceArn": {
+     "Fn::Join": [
+      "",
+      [
+       "arn:aws:execute-api:us-west-2:",
+       {
+        "Ref": "AWS::AccountId"
+       },
+       ":",
+       {
+        "Ref": "LanduseAPIdev74C538A4"
+       },
+       "/test-invoke-stage/POST/search"
+      ]
+     ]
+    }
+   },
+   "Metadata": {
+    "aws:cdk:path": "LanduseStack-dev/LanduseAPI-dev/Default/search/POST/ApiPermission.Test.LanduseStackdevLanduseAPIdev0E61C1B1.POST..search"
+   }
+  },
+  "LanduseAPIdevsearchPOST564A3A41": {
+   "Type": "AWS::ApiGateway::Method",
+   "Properties": {
+    "AuthorizationType": "NONE",
+    "HttpMethod": "POST",
+    "Integration": {
+     "IntegrationHttpMethod": "POST",
+     "RequestTemplates": {
+      "application/json": "{\"statusCode\": 200}"
+     },
+     "Type": "AWS_PROXY",
+     "Uri": {
+      "Fn::Join": [
+       "",
+       [
+        "arn:aws:apigateway:us-west-2:lambda:path/2015-03-31/functions/",
+        {
+         "Fn::GetAtt": [
+          "SearchLambdadevBA8BA442",
+          "Arn"
+         ]
+        },
+        "/invocations"
+       ]
+      ]
+     }
+    },
+    "ResourceId": {
+     "Ref": "LanduseAPIdevsearchDCB5817B"
+    },
+    "RestApiId": {
+     "Ref": "LanduseAPIdev74C538A4"
+    }
+   },
+   "Metadata": {
+    "aws:cdk:path": "LanduseStack-dev/LanduseAPI-dev/Default/search/POST/Resource"
+   }
+  },
+  "CDKMetadata": {
+   "Type": "AWS::CDK::Metadata",
+   "Properties": {
+    "Analytics": "v2:deflate64:H4sIAAAAAAAA/1WOwU7DMAyGn2X31FDKgesG4oaYugeYvNR0pk1S1Y6qquq7o2RFjNP/2b/9209QPr/A4w4nKWzTFT1fYDkp2s7gJOelR3dpEJb36K1y8Ob1y9/zkUbHIhz8ahgdLHXoKRlJVyPVGUVIBfZJjFRwiLYjPaCQwYFbVJpwhqUm0f3AeXXDNxr6MDvymrp31UmxzUduUJOEOFrKmR+k19Akc6Nfd0vOvK5/7fxYCmLfppnPqEPUf9PmOOs1+IcKygrK3bcwF2P0yo6gvukP7KqUekgBAAA="
+   },
+   "Metadata": {
+    "aws:cdk:path": "LanduseStack-dev/CDKMetadata/Default"
+   }
+  }
+ },
+ "Outputs": {
+  "LanduseAPIdevEndpointD3EB9C95": {
+   "Value": {
+    "Fn::Join": [
+     "",
+     [
+      "https://",
+      {
+       "Ref": "LanduseAPIdev74C538A4"
+      },
+      ".execute-api.us-west-2.",
+      {
+       "Ref": "AWS::URLSuffix"
+      },
+      "/",
+      {
+       "Ref": "LanduseAPIdevDeploymentStageprod5F2BCD81"
+      },
+      "/"
+     ]
+    ]
+   }
+  },
+  "APIEndpointdev": {
+   "Description": "API Gateway endpoint URL for dev environment",
+   "Value": {
+    "Fn::Join": [
+     "",
+     [
+      "https://",
+      {
+       "Ref": "LanduseAPIdev74C538A4"
+      },
+      ".execute-api.us-west-2.",
+      {
+       "Ref": "AWS::URLSuffix"
+      },
+      "/",
+      {
+       "Ref": "LanduseAPIdevDeploymentStageprod5F2BCD81"
+      },
+      "/"
+     ]
+    ]
+   }
+  }
+ },
+ "Parameters": {
+  "BootstrapVersion": {
+   "Type": "AWS::SSM::Parameter::Value<String>",
+   "Default": "/cdk-bootstrap/hnb659fds/version",
+   "Description": "Version of the CDK Bootstrap resources in this environment, automatically retrieved from SSM Parameter Store. [cdk:skip]"
+  }
+ },
+ "Rules": {
+  "CheckBootstrapVersion": {
+   "Assertions": [
+    {
+     "Assert": {
+      "Fn::Not": [
+       {
+        "Fn::Contains": [
+         [
+          "1",
+          "2",
+          "3",
+          "4",
+          "5"
+         ],
+         {
+          "Ref": "BootstrapVersion"
+         }
+        ]
+       }
+      ]
+     },
+     "AssertDescription": "CDK bootstrap stack version 6 required. Please run 'cdk bootstrap' with a recent version of the CDK CLI."
+    }
+   ]
+  }
+ }
+}

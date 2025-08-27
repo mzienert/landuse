@@ -1,0 +1,194 @@
+#!/bin/bash
+
+# La Plata County RAG System - CDK Deployment Script
+# Usage: ./deploy.sh <environment> [action]
+#   environment: staging, prod
+#   action: deploy (default), destroy, diff, synth
+
+set -e  # Exit on any error
+
+# Ensure we're in the infra directory
+SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
+INFRA_DIR="$(dirname "$SCRIPT_DIR")/infra"
+cd "$INFRA_DIR"
+
+# Colors for output
+RED='\033[0;31m'
+GREEN='\033[0;32m'
+YELLOW='\033[1;33m'
+BLUE='\033[0;34m'
+NC='\033[0m' # No Color
+
+# Function to print colored output
+print_info() {
+    echo -e "${BLUE}ℹ️  $1${NC}"
+}
+
+print_success() {
+    echo -e "${GREEN}✅ $1${NC}"
+}
+
+print_warning() {
+    echo -e "${YELLOW}⚠️  $1${NC}"
+}
+
+print_error() {
+    echo -e "${RED}❌ $1${NC}"
+}
+
+# Function to show usage
+show_usage() {
+    echo "Usage: $0 <environment> [action]"
+    echo ""
+    echo "Environments:"
+    echo "  staging  - Deploy to staging environment"
+    echo "  prod     - Deploy to production environment"
+    echo ""
+    echo "Actions:"
+    echo "  deploy   - Deploy the stack (default)"
+    echo "  destroy  - Destroy the stack"
+    echo "  diff     - Show differences between deployed and local"
+    echo "  synth    - Synthesize CloudFormation template"
+    echo ""
+    echo "Examples:"
+    echo "  $0 staging         # Deploy to staging"
+    echo "  $0 prod deploy     # Deploy to production"
+    echo "  $0 staging destroy # Destroy staging stack"
+    echo "  $0 prod diff       # Show prod differences"
+}
+
+# Validate arguments
+if [ $# -lt 1 ] || [ $# -gt 2 ]; then
+    print_error "Invalid number of arguments"
+    show_usage
+    exit 1
+fi
+
+ENVIRONMENT=$1
+ACTION=${2:-deploy}
+
+# Validate environment
+if [[ "$ENVIRONMENT" != "staging" && "$ENVIRONMENT" != "prod" ]]; then
+    print_error "Invalid environment: $ENVIRONMENT"
+    print_info "Valid environments are: staging, prod"
+    show_usage
+    exit 1
+fi
+
+# Validate action
+if [[ "$ACTION" != "deploy" && "$ACTION" != "destroy" && "$ACTION" != "diff" && "$ACTION" != "synth" ]]; then
+    print_error "Invalid action: $ACTION"
+    show_usage
+    exit 1
+fi
+
+# Set stack name
+STACK_NAME="LanduseStack-$ENVIRONMENT"
+
+print_info "🚀 La Plata County RAG System - CDK $ACTION"
+print_info "Environment: $ENVIRONMENT"
+print_info "Stack: $STACK_NAME"
+echo ""
+
+# Check if CDK is installed
+if ! command -v cdk &> /dev/null; then
+    print_error "AWS CDK CLI not found. Please install it first:"
+    echo "  npm install -g aws-cdk"
+    exit 1
+fi
+
+# Check if Python dependencies are installed
+if [ ! -d "env" ] && [ ! -d "venv" ] && [ ! -d ".venv" ]; then
+    print_warning "No Python virtual environment detected"
+    print_info "Make sure you have activated your virtual environment and installed requirements.txt"
+fi
+
+# Check AWS credentials
+if ! aws sts get-caller-identity &> /dev/null; then
+    print_error "AWS credentials not configured or invalid"
+    print_info "Please configure your AWS credentials using:"
+    echo "  aws configure"
+    echo "  # or"
+    echo "  export AWS_PROFILE=your-profile"
+    exit 1
+fi
+
+# Get AWS account info
+AWS_ACCOUNT=$(aws sts get-caller-identity --query Account --output text)
+AWS_REGION=$(aws configure get region || echo "us-west-2")
+
+print_info "AWS Account: $AWS_ACCOUNT"
+print_info "AWS Region: $AWS_REGION"
+echo ""
+
+# Acknowledge CDK notices to reduce noise
+cdk acknowledge 34892 2>/dev/null || true
+
+# Execute the requested action
+case $ACTION in
+    synth)
+        print_info "Synthesizing CloudFormation template..."
+        cdk synth --context env=$ENVIRONMENT
+        print_success "Synthesis completed"
+        ;;
+    
+    diff)
+        print_info "Showing differences..."
+        cdk diff --context env=$ENVIRONMENT
+        ;;
+    
+    deploy)
+        print_info "Starting deployment..."
+        print_warning "This will deploy AWS resources and may incur charges"
+        
+        # Ask for confirmation in production
+        if [ "$ENVIRONMENT" == "prod" ]; then
+            echo ""
+            read -p "⚠️  You are deploying to PRODUCTION. Are you sure? (yes/no): " confirm
+            if [ "$confirm" != "yes" ]; then
+                print_info "Deployment cancelled"
+                exit 0
+            fi
+        fi
+        
+        # Bootstrap if needed (this doesn't need context)
+        print_info "Checking CDK bootstrap..."
+        cdk bootstrap aws://$AWS_ACCOUNT/$AWS_REGION 2>/dev/null || true
+        
+        # Deploy
+        print_info "Deploying stack..."
+        cdk deploy --context env=$ENVIRONMENT --require-approval never
+        
+        print_success "Deployment completed!"
+        print_info "Getting stack outputs..."
+        aws cloudformation describe-stacks \
+            --stack-name $STACK_NAME \
+            --query 'Stacks[0].Outputs' \
+            --output table 2>/dev/null || print_warning "Could not retrieve stack outputs"
+        ;;
+    
+    destroy)
+        print_error "⚠️  DESTRUCTIVE ACTION: This will delete all resources in $STACK_NAME"
+        echo ""
+        
+        # Show what will be destroyed
+        print_info "Resources that will be destroyed:"
+        aws cloudformation list-stack-resources \
+            --stack-name $STACK_NAME \
+            --query 'StackResourceSummaries[].{Type:ResourceType,LogicalId:LogicalResourceId,Status:ResourceStatus}' \
+            --output table 2>/dev/null || print_warning "Stack not found or no resources"
+        
+        echo ""
+        read -p "Are you sure you want to destroy the $ENVIRONMENT environment? (yes/no): " confirm
+        if [ "$confirm" != "yes" ]; then
+            print_info "Destruction cancelled"
+            exit 0
+        fi
+        
+        print_info "Destroying stack..."
+        cdk destroy --context env=$ENVIRONMENT --force
+        print_success "Stack destroyed"
+        ;;
+esac
+
+print_success "Operation completed successfully!"
