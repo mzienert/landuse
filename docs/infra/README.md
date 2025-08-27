@@ -104,7 +104,9 @@ Each approach leverages the existing service architecture and configuration syst
 - [ ] **Plan service-to-service communication setup** - API Gateway routing between services
 
 ### Phase 3: Data Migration
-- [ ] **Plan ChromaDB → Pinecone migration strategy** - Migrate 47K+ vectors to Pinecone free tier (100K limit)
+- [x] **Create ChromaDB → Pinecone migration script** - Script to migrate county code data (1,298 vectors) to Pinecone
+- [ ] **Run county code migration** - Execute migration script with Pinecone credentials
+- [ ] **Plan ChromaDB → Pinecone migration strategy** - Complete migration of assessor data (46K+ vectors) to Pinecone free tier (100K limit)
 - [ ] **Configure Bedrock embedding models** - Setup embedding generation for both migration and runtime queries
 - [ ] **Update Search API for Lambda + Pinecone integration** - Replace SentenceTransformers + ChromaDB with Bedrock + Pinecone
 - [ ] **Setup Pinecone Local for development** - Configure in-memory emulator for local development environment

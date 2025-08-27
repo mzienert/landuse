@@ -346,3 +346,43 @@ INSTRUCTIONS:
 Based on the sources provided above, answer the user's question accurately and concisely. Include citation markers [n] to reference specific sources. Provide a complete answer and then stop.
 
 ANSWER:127.0.0.1 - - [26/Aug/2025 19:54:41] "POST /rag/answer HTTP/1.1" 200 -
+ * Detected change in '/Users/matthewzienert/Documents/landuse/scripts/migrate_chromadb_to_pinecone.py', reloading
+
+================================================================================
+================================================================================
+MODEL RESPONSE:
+'Subdivision requirements in La Plata County are outlined in Chapter 67 Division of Land, specifically in Sections 67-4, 67-6, and 67-3. \n\nFor minor subdivisions (3 or fewer lots), the procedures are detailed in Section 67-4. The key points are:\n- The procedures apply to all land divisions into three or fewer lots.\n- The application steps are outlined in Figure 67-4.\n- Approval criteria are the general approval criteria for land use permits outlined in Section 66-16.\n- An approved minor subdivision is approved as a site specific development plan according to subsection 66-13.III, and must be recorded within three years of approval.\n\nFor agricultural exemption subdivisions, Section 67-6 applies. Key points are:\n- The procedures are the same as minor subdivisions.\n- The approval criteria include general approval criteria for land use permits and a specific plat notice.\n\nFor major subdivisions (4 or more lots), Section 67-3 applies. Key points are:\n- The procedures involve sketch plan review by the PC and preliminary plat review by the board, followed by final plat review.\n- The preliminary plat phase evaluates design and engineering aspects, and the final phase reviews the application for the final plat.\n- Requirements for phased development are outlined, including phasing plans and final plats.\n\nEach type of subdivision has specific requirements and procedures, and approval does not guarantee approval at the next step in the process. [1] [2] [3]'
+================================================================================
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 114-241-345
+ * Detected change in '/Users/matthewzienert/Documents/landuse/scripts/migrate_chromadb_to_pinecone.py', reloading
+✅ Inference manager ready using LocalLlamaCppProvider
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 114-241-345
+ * Detected change in '/Users/matthewzienert/Documents/landuse/scripts/migrate_chromadb_to_pinecone.py', reloading
+✅ Inference manager ready using LocalLlamaCppProvider
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 114-241-345
+ * Detected change in '/Users/matthewzienert/Documents/landuse/scripts/migrate_chromadb_to_pinecone.py', reloading
+✅ Inference manager ready using LocalLlamaCppProvider
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 114-241-345
+ * Detected change in '/Users/matthewzienert/Documents/landuse/scripts/migrate_chromadb_to_pinecone.py', reloading
+✅ Inference manager ready using LocalLlamaCppProvider
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 114-241-345
+ * Detected change in '/Users/matthewzienert/Documents/landuse/scripts/migrate_chromadb_to_pinecone.py', reloading
+✅ Inference manager ready using LocalLlamaCppProvider
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 114-241-345
+ * Detected change in '/Users/matthewzienert/Documents/landuse/scripts/migrate_chromadb_to_pinecone.py', reloading
+✅ Inference manager ready using LocalLlamaCppProvider
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 114-241-345
