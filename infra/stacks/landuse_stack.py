@@ -71,12 +71,16 @@ class LanduseStack(Stack):
     def _create_api_gateway(self) -> apigw.RestApi:
         """Create API Gateway with search endpoint"""
         
-        # Create REST API
+        # Create REST API with explicit stage configuration
         api = apigw.RestApi(
             self,
             f"LanduseAPI-{self.env_name}",
             rest_api_name=f"landuse-api-{self.env_name}",
             description=f"La Plata County RAG API - {self.env_name}",
+            deploy_options=apigw.StageOptions(
+                stage_name=self.env_name,
+                description=f"La Plata County RAG API - {self.env_name} stage"
+            ),
             default_cors_preflight_options=apigw.CorsOptions(
                 allow_origins=apigw.Cors.ALL_ORIGINS,
                 allow_methods=apigw.Cors.ALL_METHODS,
