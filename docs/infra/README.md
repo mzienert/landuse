@@ -89,6 +89,79 @@ Each approach leverages the existing service architecture and configuration syst
 ### AI/ML Services
 - **AWS Bedrock** - Query embedding generation and LLM inference service integration
 
+## 🚀 Lambda Search Service Implementation Guide
+
+### Step-by-Step Deployment Plan
+
+This guide walks through deploying a serverless search service that replaces the current ChromaDB + SentenceTransformer setup with AWS Lambda + Bedrock + Pinecone.
+
+#### 1. Deploy Basic Lambda Function
+```bash
+# Using CDK to create:
+# - Lambda function with Python 3.11 runtime
+# - API Gateway REST API with /search endpoint
+# - Basic CORS configuration
+# - Environment variables for configuration
+```
+**Deliverable**: `GET/POST https://api-id.execute-api.region.amazonaws.com/search` returns "Hello World"
+
+#### 2. Setup Bedrock Integration
+```bash
+# Configure:
+# - IAM role with bedrock:InvokeModel permissions
+# - Access to embedding models (e5-large-v2 equivalent)
+# - Error handling and retry logic
+# - Logging with CloudWatch
+```
+**Deliverable**: Lambda can call Bedrock embedding APIs successfully
+
+#### 3. Implement Embedding Generation
+```python
+# Lambda function that:
+# - Accepts POST requests with {"query": "text to embed"}
+# - Calls Bedrock to generate embeddings
+# - Returns {"embeddings": [float array], "dimensions": 1024}
+```
+**Test**: `curl -X POST api-url/search -d '{"query":"zoning regulations"}' -H "Content-Type: application/json"`
+**Expected**: Returns 1024-dimensional embedding vector
+
+#### 4. Add Pinecone Integration
+```python
+# Extend Lambda to:
+# - Connect to Pinecone with API key from environment
+# - Query the la-plata-county-code index
+# - Return top-k semantic search results
+```
+**Test**: Same curl command now returns search results with document content
+
+#### 5. Complete Search Pipeline
+```python
+# Final Lambda handles:
+# - Query text → Bedrock embedding → Pinecone search → formatted results
+# - Error handling, logging, performance optimization
+# - Response includes: results, query metadata, timing info
+```
+**Deliverable**: Full semantic search API ready to replace current search service
+
+#### 6. Performance & Monitoring
+- CloudWatch metrics for latency, errors, costs
+- API Gateway throttling and rate limiting  
+- Lambda cold start optimization
+- Cost analysis vs current setup
+
+### Architecture Flow
+```
+curl POST /search
+  ↓
+API Gateway
+  ↓  
+Lambda Function
+  ├→ AWS Bedrock (embedding generation)
+  └→ Pinecone (vector search)
+  ↓
+JSON Response (search results)
+```
+
 ## 📋 AWS Infrastructure Planning Todo
 
 ### Phase 1: Foundation
@@ -98,10 +171,14 @@ Each approach leverages the existing service architecture and configuration syst
 - [ ] **Define environment configuration strategy** - Dev/staging/prod configs in AWS
 - [ ] **Plan monitoring and logging approach** - Observability setup
 
-### Phase 2: Service Migration
+### Phase 2: Lambda Search Service Deployment
+- [ ] **Deploy basic Lambda function** - Create and deploy minimal Lambda with API Gateway endpoint
+- [ ] **Setup Bedrock integration** - Configure Lambda IAM roles and Bedrock access for embedding generation
+- [ ] **Implement embedding generation** - Add sentence transformer functionality via Bedrock in Lambda
+- [ ] **Test embedding endpoint** - Verify curl requests return embedding vectors from Bedrock
+- [ ] **Add Pinecone integration** - Connect Lambda to Pinecone for vector search
+- [ ] **Complete semantic search pipeline** - Full curl → embedding → search → results flow
 - [ ] **Design solution for RAG API deployment** - How to containerize and deploy the orchestration service
-- [ ] **Design solution for Search API deployment** - Lambda-based service (Bedrock embedding + Pinecone search)
-- [ ] **Plan service-to-service communication setup** - API Gateway routing between services
 
 ### Phase 3: Data Migration
 - [x] **Create ChromaDB → Pinecone migration script** - Script to migrate collections from ChromaDB to Pinecone with retry validation and clear index options
