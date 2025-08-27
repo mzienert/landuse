@@ -172,7 +172,7 @@ JSON Response (search results)
 - [ ] **Plan monitoring and logging approach** - Observability setup
 
 ### Phase 2: Lambda Search Service Deployment
-- [ ] **Deploy basic Lambda function** - Create and deploy minimal Lambda with API Gateway endpoint
+- [x] **Deploy basic Lambda function** - Lambda deployed at `https://pptwusfn9i.execute-api.us-west-2.amazonaws.com/prod/search` returning "Hello World"
 - [ ] **Setup Bedrock integration** - Configure Lambda IAM roles and Bedrock access for embedding generation
 - [ ] **Implement embedding generation** - Add sentence transformer functionality via Bedrock in Lambda
 - [ ] **Test embedding endpoint** - Verify curl requests return embedding vectors from Bedrock
