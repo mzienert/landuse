@@ -276,14 +276,30 @@ slot update_slots: id  0 | task 0 | prompt processing progress, n_past = 2821, n
 slot update_slots: id  0 | task 0 | prompt done, n_past = 2821, n_tokens = 773
 slot      release: id  0 | task 0 | stop processing: n_past = 3212, truncated = 0
 slot print_timing: id  0 | task 0 | 
-prompt eval time =    3652.12 ms /  2821 tokens (    1.29 ms per token,   772.43 tokens per second)
-       eval time =    7593.86 ms /   392 tokens (   19.37 ms per token,    51.62 tokens per second)
-      total time =   11245.99 ms /  3213 tokens
+prompt eval time =    3658.65 ms /  2821 tokens (    1.30 ms per token,   771.05 tokens per second)
+       eval time =    7597.28 ms /   392 tokens (   19.38 ms per token,    51.60 tokens per second)
+      total time =   11255.93 ms /  3213 tokens
 srv  update_slots: all slots are idle
 srv  log_server_r: request: POST /v1/chat/completions 127.0.0.1 200
 srv  log_server_r: request: GET /health 127.0.0.1 200
 srv  log_server_r: request: GET /health 127.0.0.1 200
 srv  log_server_r: request: GET /health 127.0.0.1 200
+srv  log_server_r: request: GET /health 127.0.0.1 200
+srv  log_server_r: request: GET /health 127.0.0.1 200
+srv  params_from_: Chat format: Content-only
+slot launch_slot_: id  0 | task 394 | processing task
+slot update_slots: id  0 | task 394 | new prompt, n_ctx_slot = 4096, n_keep = 0, n_prompt_tokens = 2821
+slot update_slots: id  0 | task 394 | need to evaluate at least 1 token for each active slot, n_past = 2821, n_prompt_tokens = 2821
+slot update_slots: id  0 | task 394 | kv cache rm [2820, end)
+slot update_slots: id  0 | task 394 | prompt processing progress, n_past = 2821, n_tokens = 1, progress = 0.000354
+slot update_slots: id  0 | task 394 | prompt done, n_past = 2821, n_tokens = 1
+slot      release: id  0 | task 394 | stop processing: n_past = 3137, truncated = 0
+slot print_timing: id  0 | task 394 | 
+prompt eval time =      21.13 ms /     1 tokens (   21.13 ms per token,    47.33 tokens per second)
+       eval time =    6103.11 ms /   317 tokens (   19.25 ms per token,    51.94 tokens per second)
+      total time =    6124.24 ms /   318 tokens
+srv  update_slots: all slots are idle
+srv  log_server_r: request: POST /v1/chat/completions 127.0.0.1 200
 srv  log_server_r: request: GET /health 127.0.0.1 200
 srv  log_server_r: request: GET /health 127.0.0.1 200
 srv  log_server_r: request: GET /health 127.0.0.1 200

@@ -22,24 +22,33 @@ INFO:__main__:Search system initialized successfully
 INFO:__main__:Starting Flask server in development mode...
 WARNING:werkzeug: * Debugger is active!
 INFO:werkzeug: * Debugger PIN: 114-241-345
+INFO:werkzeug:127.0.0.1 - - [26/Aug/2025 19:45:49] "OPTIONS /search/simple?query=dog&num_results=5&collection=la_plata_county_code HTTP/1.1" 200 -
 Batches:   0%|          | 0/1 [00:00<?, ?it/s]/Users/matthewzienert/Documents/landuse/env/lib/python3.13/site-packages/torch/nn/modules/module.py:1762: FutureWarning: `encoder_attention_mask` is deprecated and will be removed in version 4.55.0 for `BertSdpaSelfAttention.forward`.
   return forward_call(*args, **kwargs)
-Batches: 100%|██████████| 1/1 [00:00<00:00,  8.76it/s]Batches: 100%|██████████| 1/1 [00:00<00:00,  8.75it/s]
-INFO:werkzeug:127.0.0.1 - - [26/Aug/2025 19:02:51] "GET /search/simple?query=what+are+subdivision+requirements?&collection=la_plata_county_code&num_results=5 HTTP/1.1" 200 -
-Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 26.71it/s]
-INFO:werkzeug:127.0.0.1 - - [26/Aug/2025 19:02:51] "GET /search/simple?query=section+67-3&collection=la_plata_county_code&num_results=4 HTTP/1.1" 200 -
-Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 78.00it/s]
-INFO:werkzeug:127.0.0.1 - - [26/Aug/2025 19:02:51] "GET /search/simple?query=section+70-4&collection=la_plata_county_code&num_results=4 HTTP/1.1" 200 -
-Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 79.56it/s]
-INFO:werkzeug:127.0.0.1 - - [26/Aug/2025 19:02:51] "GET /search/simple?query=section+30-10&collection=la_plata_county_code&num_results=4 HTTP/1.1" 200 -
-INFO:werkzeug: * Detected change in '/Users/matthewzienert/Documents/landuse/infra/stacks/landuse_stack.py', reloading
-INFO:werkzeug: * Restarting with stat
-Could not initialize collection 'la_plata_assessor': Collection [la_plata_assessor] does not exists
-INFO:services.search.search_engine:Connecting to ChromaDB...
-INFO:services.search.search_engine:Connected to collection 'la_plata_county_code': 1298 documents
-WARNING:services.search.search_engine:Could not initialize collection 'la_plata_assessor': Collection [la_plata_assessor] does not exists
-INFO:services.search.search_engine:Successfully initialized 1 collections
-INFO:__main__:Search system initialized successfully
-INFO:__main__:Starting Flask server in development mode...
-WARNING:werkzeug: * Debugger is active!
-INFO:werkzeug: * Debugger PIN: 114-241-345
+Batches: 100%|██████████| 1/1 [00:00<00:00,  8.91it/s]Batches: 100%|██████████| 1/1 [00:00<00:00,  8.90it/s]
+INFO:werkzeug:127.0.0.1 - - [26/Aug/2025 19:45:49] "GET /search/simple?query=dog&num_results=5&collection=la_plata_county_code HTTP/1.1" 200 -
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 15.17it/s]
+INFO:werkzeug:127.0.0.1 - - [26/Aug/2025 19:46:33] "GET /search/simple?query=what+are+subdivision+requirements?&collection=la_plata_county_code&num_results=5 HTTP/1.1" 200 -
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 25.15it/s]
+INFO:werkzeug:127.0.0.1 - - [26/Aug/2025 19:46:33] "GET /search/simple?query=section+67-4&collection=la_plata_county_code&num_results=4 HTTP/1.1" 200 -
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 25.51it/s]
+INFO:werkzeug:127.0.0.1 - - [26/Aug/2025 19:46:33] "GET /search/simple?query=section+67&collection=la_plata_county_code&num_results=4 HTTP/1.1" 200 -
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 76.83it/s]
+INFO:werkzeug:127.0.0.1 - - [26/Aug/2025 19:46:33] "GET /search/simple?query=section+38-51&collection=la_plata_county_code&num_results=4 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Aug/2025 19:53:58] "OPTIONS /search/simple?query=dog&num_results=5&collection=la_plata_county_code HTTP/1.1" 200 -
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 14.79it/s]
+INFO:werkzeug:127.0.0.1 - - [26/Aug/2025 19:53:58] "GET /search/simple?query=dog&num_results=5&collection=la_plata_county_code HTTP/1.1" 200 -
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 20.77it/s]
+INFO:werkzeug:127.0.0.1 - - [26/Aug/2025 19:54:35] "GET /search/simple?query=what+are+subdivision+requirements?&collection=la_plata_county_code&num_results=5 HTTP/1.1" 200 -
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 70.61it/s]
+INFO:werkzeug:127.0.0.1 - - [26/Aug/2025 19:54:35] "GET /search/simple?query=section+67-4&collection=la_plata_county_code&num_results=4 HTTP/1.1" 200 -
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 69.77it/s]
+INFO:werkzeug:127.0.0.1 - - [26/Aug/2025 19:54:35] "GET /search/simple?query=section+67&collection=la_plata_county_code&num_results=4 HTTP/1.1" 200 -
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 60.09it/s]
+INFO:werkzeug:127.0.0.1 - - [26/Aug/2025 19:54:35] "GET /search/simple?query=section+38-51&collection=la_plata_county_code&num_results=4 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Aug/2025 20:47:09] "OPTIONS /search/simple?query=dog&num_results=5&collection=la_plata_county_code HTTP/1.1" 200 -
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00,  9.26it/s]Batches: 100%|██████████| 1/1 [00:00<00:00,  9.25it/s]
+INFO:werkzeug:127.0.0.1 - - [26/Aug/2025 20:47:09] "GET /search/simple?query=dog&num_results=5&collection=la_plata_county_code HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Aug/2025 20:47:19] "OPTIONS /search/simple?query=horses&num_results=5&collection=la_plata_county_code HTTP/1.1" 200 -
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 23.82it/s]
+INFO:werkzeug:127.0.0.1 - - [26/Aug/2025 20:47:19] "GET /search/simple?query=horses&num_results=5&collection=la_plata_county_code HTTP/1.1" 200 -

@@ -15,16 +15,20 @@ The RAG application consists of three core services that need to be deployed:
 ## 🏗️ Current Architecture
 
 ### Local Development
-- **Search API**: Flask app with Pinecone Local (in-memory emulator)
-- **RAG API**: Flask app with LangChain abstraction layer
+- **LocalStack**: Local AWS service emulation (API Gateway, Lambda, Bedrock)
+- **Search API**: Lambda functions (same as production) via LocalStack
+- **RAG API**: Flask app with LangChain abstraction layer  
 - **Inference**: llama.cpp server with GGUF models
 - **Frontend**: Next.js (already deployed to Vercel)
-- **Note**: Pinecone Local provides ChromaDB-free local development without external API calls
+- **Vector DB**: Pinecone Local (in-memory emulator) for development
 
 ### Service Dependencies
 ```
-Frontend (Vercel) → RAG API → Search API → Pinecone (External SaaS)
+Frontend (Vercel) → RAG API → Search API (Lambda via API Gateway) → Bedrock + Pinecone
                             → Inference Service
+                            
+Local Development:
+Frontend → RAG API → LocalStack (API Gateway + Lambda) → Pinecone Local
 ```
 
 ## 💾 Critical Components
@@ -71,32 +75,38 @@ Each approach leverages the existing service architecture and configuration syst
 ## 🏗️ AWS Technology Stack
 
 ### Infrastructure as Code
-- **AWS CDK for Python** - Infrastructure definition and deployment automation
-- **Resource Tagging Strategy** - Proactive tagging for fine-grained cost analysis and insights
+- **AWS CDK for Python** - Infrastructure definition and deployment automation ✅
+  - Multi-environment support (dev/staging/prod)
+  - Stack-level tagging (Project, Environment) + resource-level tagging for granular cost analysis
+- **Resource Tagging Strategy** - Proactive tagging for fine-grained cost analysis and insights ✅
 
 ### API Management
 - **API Gateway** - Service routing and external API exposure (stub for now, routes TBD)
 
+### Compute Services
+- **AWS Lambda** - Search service compute (query embedding via Bedrock + Pinecone search)
+
 ### AI/ML Services
-- **AWS Bedrock** - LLM inference service integration
+- **AWS Bedrock** - Query embedding generation and LLM inference service integration
 
 ## 📋 AWS Infrastructure Planning Todo
 
 ### Phase 1: Foundation
-- [ ] **Setup AWS CDK for Python project structure** - Initialize CDK app with proper organization
-- [ ] **Define resource tagging strategy** - Establish consistent tagging for cost tracking and resource management
+- [x] **Setup AWS CDK for Python project structure** - Initialize CDK app with proper organization
+- [x] **Define resource tagging strategy** - Establish consistent tagging for cost tracking and resource management
+- [ ] **Setup LocalStack for local development** - Configure local AWS service emulation for dev/prod parity
 - [ ] **Define environment configuration strategy** - Dev/staging/prod configs in AWS
 - [ ] **Plan monitoring and logging approach** - Observability setup
 
 ### Phase 2: Service Migration
 - [ ] **Design solution for RAG API deployment** - How to containerize and deploy the orchestration service
-- [ ] **Design solution for Search API deployment** - Vector search service deployment approach
-- [ ] **Plan service-to-service communication setup** - Internal networking between APIs
+- [ ] **Design solution for Search API deployment** - Lambda-based service (Bedrock embedding + Pinecone search)
+- [ ] **Plan service-to-service communication setup** - API Gateway routing between services
 
 ### Phase 3: Data Migration
 - [ ] **Plan ChromaDB → Pinecone migration strategy** - Migrate 47K+ vectors to Pinecone free tier (100K limit)
-- [ ] **Define model storage and loading approach** - Where and how to store the 2-4GB models in AWS
-- [ ] **Update Search API for Pinecone integration** - Replace ChromaDB client with Pinecone client
+- [ ] **Configure Bedrock embedding models** - Setup embedding generation for both migration and runtime queries
+- [ ] **Update Search API for Lambda + Pinecone integration** - Replace SentenceTransformers + ChromaDB with Bedrock + Pinecone
 - [ ] **Setup Pinecone Local for development** - Configure in-memory emulator for local development environment
 
 ## 🔧 Service Organization Notes
