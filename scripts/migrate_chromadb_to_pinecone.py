@@ -105,7 +105,7 @@ class ChromaToPinecone:
                 metric='cosine',  # ChromaDB uses cosine distance by default
                 spec=ServerlessSpec(
                     cloud='aws',
-                    region=self.pinecone_environment or 'us-west-2'
+                    region=self.pinecone_environment or 'us-east-1'
                 )
             )
             
@@ -120,6 +120,43 @@ class ChromaToPinecone:
             
         except Exception as e:
             logger.error(f"Failed to create Pinecone index: {e}")
+            return False
+
+    def clear_pinecone_index(self) -> bool:
+        """Clear all vectors from the Pinecone index"""
+        try:
+            logger.info("Clearing all vectors from Pinecone index...")
+            
+            # Get current stats
+            stats = self.index.describe_index_stats()
+            current_count = stats['total_vector_count']
+            
+            if current_count == 0:
+                logger.info("Index is already empty")
+                return True
+            
+            logger.info(f"Deleting {current_count} existing vectors...")
+            
+            # Delete all vectors by clearing the entire index
+            self.index.delete(delete_all=True)
+            
+            # Wait for deletion to complete
+            import time
+            time.sleep(5)
+            
+            # Verify deletion
+            stats = self.index.describe_index_stats()
+            remaining_count = stats['total_vector_count']
+            
+            if remaining_count == 0:
+                logger.info("✅ Successfully cleared index")
+                return True
+            else:
+                logger.warning(f"⚠️  {remaining_count} vectors still remain after clearing")
+                return False
+                
+        except Exception as e:
+            logger.error(f"Failed to clear Pinecone index: {e}")
             return False
 
     def extract_from_chromadb(self, collection) -> List[Dict[str, Any]]:
@@ -190,21 +227,32 @@ class ChromaToPinecone:
     def validate_migration(self, original_count: int):
         """Validate that the migration was successful"""
         try:
-            # Get Pinecone index stats
-            stats = self.index.describe_index_stats()
-            pinecone_count = stats['total_vector_count']
+            import time
             
-            logger.info(f"Migration validation:")
-            logger.info(f"  ChromaDB documents: {original_count}")
-            logger.info(f"  Pinecone vectors: {pinecone_count}")
+            # Wait a bit for Pinecone to update its stats (eventual consistency)
+            logger.info("Waiting for Pinecone stats to update...")
+            time.sleep(5)
             
-            if pinecone_count == original_count:
-                logger.info("✅ Migration validation successful - counts match!")
-                return True
-            else:
-                logger.warning(f"⚠️  Count mismatch: ChromaDB={original_count}, Pinecone={pinecone_count}")
-                return False
+            # Try validation multiple times due to eventual consistency
+            for attempt in range(3):
+                stats = self.index.describe_index_stats()
+                pinecone_count = stats['total_vector_count']
                 
+                logger.info(f"Migration validation (attempt {attempt + 1}):")
+                logger.info(f"  ChromaDB documents: {original_count}")
+                logger.info(f"  Pinecone vectors: {pinecone_count}")
+                
+                if pinecone_count == original_count:
+                    logger.info("✅ Migration validation successful - counts match!")
+                    return True
+                elif attempt < 2:  # Not the last attempt
+                    logger.info("Counts don't match yet, waiting for Pinecone to sync...")
+                    time.sleep(10)
+                else:
+                    logger.warning(f"⚠️  Count mismatch after 3 attempts: ChromaDB={original_count}, Pinecone={pinecone_count}")
+                    logger.warning("This might be due to Pinecone's eventual consistency. Check the index in a few minutes.")
+                    return False
+                    
         except Exception as e:
             logger.error(f"Failed to validate migration: {e}")
             return False
@@ -229,7 +277,7 @@ class ChromaToPinecone:
             logger.error(f"Failed to test search: {e}")
             return False
 
-    def run_migration(self, collection_name: str = 'la_plata_county_code', index_name: str = 'la-plata-county-code'):
+    def run_migration(self, collection_name: str = 'la_plata_county_code', index_name: str = 'la-plata-county-code', clear_first: bool = False):
         """Run the complete migration process"""
         logger.info("🚀 Starting ChromaDB to Pinecone migration")
         
@@ -251,6 +299,11 @@ class ChromaToPinecone:
         # Step 4: Create Pinecone index (default 1024 dimensions for e5-large-v2)
         if not self.create_pinecone_index(index_name, dimension=1024):
             return False
+            
+        # Step 4.5: Clear index if requested
+        if clear_first:
+            if not self.clear_pinecone_index():
+                return False
             
         # Step 5: Extract data from ChromaDB
         vectors = self.extract_from_chromadb(collection)
@@ -285,10 +338,9 @@ Examples:
   # Migrate county code collection (default)
   python migrate_chromadb_to_pinecone.py
   
-  # Specify custom collection and index names
+  # Specify custom collection name
   python migrate_chromadb_to_pinecone.py \\
-    --chroma-collection la_plata_assessor \\
-    --pinecone-index la-plata-assessor-data
+    --chroma-collection la_plata_assessor
   
   # Use custom ChromaDB path
   python migrate_chromadb_to_pinecone.py \\
@@ -302,11 +354,6 @@ Examples:
         help='ChromaDB collection name to migrate from (default: la_plata_county_code)'
     )
     
-    parser.add_argument(
-        '--pinecone-index', 
-        default='la-plata-county-code',
-        help='Pinecone index name to create/migrate to (default: la-plata-county-code)'
-    )
     
     parser.add_argument(
         '--chroma-path',
@@ -334,6 +381,12 @@ Examples:
         help='Show what would be migrated without actually doing it'
     )
     
+    parser.add_argument(
+        '--clear-index',
+        action='store_true',
+        help='Clear the Pinecone index before migration (removes all existing vectors)'
+    )
+    
     return parser.parse_args()
 
 
@@ -341,15 +394,20 @@ def main():
     """Main migration function"""
     args = parse_arguments()
     
+    # Always use la-plata-county-code as index name
+    pinecone_index = 'la-plata-county-code'
+    
     print("🔄 ChromaDB → Pinecone Migration")
     print("=" * 50)
     print(f"📁 ChromaDB path: {args.chroma_path}")
     print(f"📚 ChromaDB collection: {args.chroma_collection}")
-    print(f"🎯 Pinecone index: {args.pinecone_index}")
+    print(f"🎯 Pinecone index: {pinecone_index}")
     print(f"📏 Vector dimensions: {args.dimension}")
     print(f"📦 Batch size: {args.batch_size}")
     if args.dry_run:
         print("🔍 DRY RUN MODE - No data will be migrated")
+    if args.clear_index:
+        print("🗑️  CLEAR INDEX MODE - Existing vectors will be deleted")
     print("=" * 50)
     
     # Check environment variables
@@ -384,14 +442,15 @@ def main():
             
         doc_count = collection.count()
         print(f"✅ Would migrate {doc_count} documents")
-        print(f"✅ Would create/use Pinecone index: {args.pinecone_index}")
+        print(f"✅ Would create/use Pinecone index: {pinecone_index}")
         print("🔍 Dry run completed - no data was migrated")
         return
     
     # Run actual migration
     success = migrator.run_migration(
         collection_name=args.chroma_collection,
-        index_name=args.pinecone_index
+        index_name=pinecone_index,
+        clear_first=args.clear_index
     )
     
     if success:
