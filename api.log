@@ -1,744 +1,69 @@
-Could not initialize collection 'la_plata_assessor': Collection [la_plata_assessor] does not exists
+Could not initialize collection 'la_plata_county_code': (MaxRetryError('HTTPSConnectionPool(host=\'huggingface.co\', port=443): Max retries exceeded with url: /api/models/intfloat/e5-large-v2/tree/main/additional_chat_templates?recursive=False&expand=False (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x1422e11d0>: Failed to resolve \'huggingface.co\' ([Errno 8] nodename nor servname provided, or not known)"))'), '(Request ID: d2bb59a4-d265-4e1f-a1ab-ccd4a6c9fa1e)')
+Could not initialize collection 'la_plata_assessor': (MaxRetryError('HTTPSConnectionPool(host=\'huggingface.co\', port=443): Max retries exceeded with url: /api/models/intfloat/e5-large-v2/tree/main/additional_chat_templates?recursive=False&expand=False (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x14216bed0>: Failed to resolve \'huggingface.co\' ([Errno 8] nodename nor servname provided, or not known)"))'), '(Request ID: 9268810e-82a7-4188-bebc-786ef7a85c66)')
+No collections could be initialized
+[2025-08-26 18:01:31,952] ERROR in app_factory: Failed to initialize search system
 INFO:apis.search.search_engine:Connecting to ChromaDB...
-INFO:apis.search.search_engine:Connected to collection 'la_plata_county_code': 1298 documents
-WARNING:apis.search.search_engine:Could not initialize collection 'la_plata_assessor': Collection [la_plata_assessor] does not exists
-INFO:apis.search.search_engine:Successfully initialized 1 collections
-INFO:__main__:Search system initialized successfully
+INFO:apis.search.search_engine:Loading model: intfloat/e5-large-v2
+INFO:sentence_transformers.SentenceTransformer:Use pytorch device_name: mps
+INFO:sentence_transformers.SentenceTransformer:Load pretrained SentenceTransformer: intfloat/e5-large-v2
+WARNING:apis.search.search_engine:Could not initialize collection 'la_plata_county_code': (MaxRetryError('HTTPSConnectionPool(host=\'huggingface.co\', port=443): Max retries exceeded with url: /api/models/intfloat/e5-large-v2/tree/main/additional_chat_templates?recursive=False&expand=False (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x14216a850>: Failed to resolve \'huggingface.co\' ([Errno 8] nodename nor servname provided, or not known)"))'), '(Request ID: 4e99a6f4-470b-4c41-9d3a-6a7b3980ed99)')
+INFO:apis.search.search_engine:Loading model: intfloat/e5-large-v2
+INFO:sentence_transformers.SentenceTransformer:Use pytorch device_name: mps
+INFO:sentence_transformers.SentenceTransformer:Load pretrained SentenceTransformer: intfloat/e5-large-v2
+WARNING:urllib3.connectionpool:Retrying (Retry(total=1, connect=1, read=2, redirect=None, status=None)) after connection broken by 'NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x142169d10>: Failed to resolve 'us.i.posthog.com' ([Errno 8] nodename nor servname provided, or not known)")': /batch/
+WARNING:urllib3.connectionpool:Retrying (Retry(total=0, connect=0, read=2, redirect=None, status=None)) after connection broken by 'NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x14216ac10>: Failed to resolve 'us.i.posthog.com' ([Errno 8] nodename nor servname provided, or not known)")': /batch/
+INFO:backoff:Backing off send_request(...) for 0.7s (requests.exceptions.ConnectionError: HTTPSConnectionPool(host='us.i.posthog.com', port=443): Max retries exceeded with url: /batch/ (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x14216bed0>: Failed to resolve 'us.i.posthog.com' ([Errno 8] nodename nor servname provided, or not known)")))
+WARNING:apis.search.search_engine:Could not initialize collection 'la_plata_assessor': (MaxRetryError('HTTPSConnectionPool(host=\'huggingface.co\', port=443): Max retries exceeded with url: /api/models/intfloat/e5-large-v2/tree/main/additional_chat_templates?recursive=False&expand=False (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x14216aad0>: Failed to resolve \'huggingface.co\' ([Errno 8] nodename nor servname provided, or not known)"))'), '(Request ID: 5062f1d1-1da6-4602-80e0-16e23a16afba)')
+ERROR:apis.search.search_engine:No collections could be initialized
+ERROR:__main__:Failed to initialize search system. Starting anyway...
 INFO:__main__:Starting Flask server in development mode...
  * Serving Flask app 'apis.search.app_factory'
  * Debug mode: on
 INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
  * Running on all addresses (0.0.0.0)
  * Running on http://127.0.0.1:8000
- * Running on http://192.168.1.17:8000
+ * Running on http://127.0.0.1:8000
 INFO:werkzeug:[33mPress CTRL+C to quit[0m
 INFO:werkzeug: * Restarting with stat
-Could not initialize collection 'la_plata_assessor': Collection [la_plata_assessor] does not exists
+WARNING:urllib3.connectionpool:Retrying (Retry(total=1, connect=1, read=2, redirect=None, status=None)) after connection broken by 'NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x1422e2210>: Failed to resolve 'us.i.posthog.com' ([Errno 8] nodename nor servname provided, or not known)")': /batch/
+WARNING:urllib3.connectionpool:Retrying (Retry(total=0, connect=0, read=2, redirect=None, status=None)) after connection broken by 'NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x1422e20d0>: Failed to resolve 'us.i.posthog.com' ([Errno 8] nodename nor servname provided, or not known)")': /batch/
+INFO:backoff:Backing off send_request(...) for 1.4s (requests.exceptions.ConnectionError: HTTPSConnectionPool(host='us.i.posthog.com', port=443): Max retries exceeded with url: /batch/ (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x1422e1e50>: Failed to resolve 'us.i.posthog.com' ([Errno 8] nodename nor servname provided, or not known)")))
+Could not initialize collection 'la_plata_county_code': (MaxRetryError('HTTPSConnectionPool(host=\'huggingface.co\', port=443): Max retries exceeded with url: /api/models/intfloat/e5-large-v2/tree/main/additional_chat_templates?recursive=False&expand=False (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x130a051d0>: Failed to resolve \'huggingface.co\' ([Errno 8] nodename nor servname provided, or not known)"))'), '(Request ID: c3f5c9c9-386a-4e70-89ac-e5af27b18892)')
+Could not initialize collection 'la_plata_assessor': (MaxRetryError('HTTPSConnectionPool(host=\'huggingface.co\', port=443): Max retries exceeded with url: /api/models/intfloat/e5-large-v2/tree/main/additional_chat_templates?recursive=False&expand=False (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x127f6fed0>: Failed to resolve \'huggingface.co\' ([Errno 8] nodename nor servname provided, or not known)"))'), '(Request ID: cc9ba309-06a2-4f7c-9ef8-06cf19e2763b)')
+No collections could be initialized
+[2025-08-26 18:01:34,138] ERROR in app_factory: Failed to initialize search system
 INFO:apis.search.search_engine:Connecting to ChromaDB...
-INFO:apis.search.search_engine:Connected to collection 'la_plata_county_code': 1298 documents
-WARNING:apis.search.search_engine:Could not initialize collection 'la_plata_assessor': Collection [la_plata_assessor] does not exists
-INFO:apis.search.search_engine:Successfully initialized 1 collections
-INFO:__main__:Search system initialized successfully
+INFO:apis.search.search_engine:Loading model: intfloat/e5-large-v2
+INFO:sentence_transformers.SentenceTransformer:Use pytorch device_name: mps
+INFO:sentence_transformers.SentenceTransformer:Load pretrained SentenceTransformer: intfloat/e5-large-v2
+WARNING:apis.search.search_engine:Could not initialize collection 'la_plata_county_code': (MaxRetryError('HTTPSConnectionPool(host=\'huggingface.co\', port=443): Max retries exceeded with url: /api/models/intfloat/e5-large-v2/tree/main/additional_chat_templates?recursive=False&expand=False (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x127f6e850>: Failed to resolve \'huggingface.co\' ([Errno 8] nodename nor servname provided, or not known)"))'), '(Request ID: 384bd88b-4b72-4eee-8e56-39c17d9d1bc7)')
+INFO:apis.search.search_engine:Loading model: intfloat/e5-large-v2
+INFO:sentence_transformers.SentenceTransformer:Use pytorch device_name: mps
+INFO:sentence_transformers.SentenceTransformer:Load pretrained SentenceTransformer: intfloat/e5-large-v2
+WARNING:urllib3.connectionpool:Retrying (Retry(total=1, connect=1, read=2, redirect=None, status=None)) after connection broken by 'NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x1422e1d10>: Failed to resolve 'us.i.posthog.com' ([Errno 8] nodename nor servname provided, or not known)")': /batch/
+WARNING:urllib3.connectionpool:Retrying (Retry(total=0, connect=0, read=2, redirect=None, status=None)) after connection broken by 'NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x1422e1450>: Failed to resolve 'us.i.posthog.com' ([Errno 8] nodename nor servname provided, or not known)")': /batch/
+INFO:backoff:Backing off send_request(...) for 0.7s (requests.exceptions.ConnectionError: HTTPSConnectionPool(host='us.i.posthog.com', port=443): Max retries exceeded with url: /batch/ (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x1422e1a90>: Failed to resolve 'us.i.posthog.com' ([Errno 8] nodename nor servname provided, or not known)")))
+WARNING:apis.search.search_engine:Could not initialize collection 'la_plata_assessor': (MaxRetryError('HTTPSConnectionPool(host=\'huggingface.co\', port=443): Max retries exceeded with url: /api/models/intfloat/e5-large-v2/tree/main/additional_chat_templates?recursive=False&expand=False (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x127f6fb10>: Failed to resolve \'huggingface.co\' ([Errno 8] nodename nor servname provided, or not known)"))'), '(Request ID: 2a23817b-a256-4559-a376-179e43b93a05)')
+ERROR:apis.search.search_engine:No collections could be initialized
+ERROR:__main__:Failed to initialize search system. Starting anyway...
 INFO:__main__:Starting Flask server in development mode...
 WARNING:werkzeug: * Debugger is active!
 INFO:werkzeug: * Debugger PIN: 114-241-345
-Batches:   0%|          | 0/1 [00:00<?, ?it/s]/Users/matthewzienert/Documents/landuse/env/lib/python3.13/site-packages/torch/nn/modules/module.py:1762: FutureWarning: `encoder_attention_mask` is deprecated and will be removed in version 4.55.0 for `BertSdpaSelfAttention.forward`.
-  return forward_call(*args, **kwargs)
-Batches: 100%|██████████| 1/1 [00:00<00:00,  7.33it/s]Batches: 100%|██████████| 1/1 [00:00<00:00,  7.32it/s]
-INFO:werkzeug:127.0.0.1 - - [17/Aug/2025 22:25:47] "GET /search/simple?query=what+are+subdivision+requirements?&collection=la_plata_county_code&num_results=5 HTTP/1.1" 200 -
-Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 23.25it/s]
-INFO:werkzeug:127.0.0.1 - - [17/Aug/2025 22:25:48] "GET /search/simple?query=section+66-30&collection=la_plata_county_code&num_results=4 HTTP/1.1" 200 -
-Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 69.50it/s]
-INFO:werkzeug:127.0.0.1 - - [17/Aug/2025 22:25:48] "GET /search/simple?query=section+67-6&collection=la_plata_county_code&num_results=4 HTTP/1.1" 200 -
-Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 63.68it/s]
-INFO:werkzeug:127.0.0.1 - - [17/Aug/2025 22:25:48] "GET /search/simple?query=section+23-41&collection=la_plata_county_code&num_results=4 HTTP/1.1" 200 -
-Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 19.79it/s]
-INFO:werkzeug:127.0.0.1 - - [17/Aug/2025 22:27:49] "GET /search/simple?query=what+are+subdivision+requirements?&collection=la_plata_county_code&num_results=5 HTTP/1.1" 200 -
-Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 70.42it/s]
-INFO:werkzeug:127.0.0.1 - - [17/Aug/2025 22:27:49] "GET /search/simple?query=section+66-30&collection=la_plata_county_code&num_results=4 HTTP/1.1" 200 -
-Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 74.67it/s]
-INFO:werkzeug:127.0.0.1 - - [17/Aug/2025 22:27:49] "GET /search/simple?query=section+67-6&collection=la_plata_county_code&num_results=4 HTTP/1.1" 200 -
-Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 82.09it/s]
-INFO:werkzeug:127.0.0.1 - - [17/Aug/2025 22:27:49] "GET /search/simple?query=section+23-41&collection=la_plata_county_code&num_results=4 HTTP/1.1" 200 -
-Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 22.36it/s]
-INFO:werkzeug:127.0.0.1 - - [17/Aug/2025 22:28:03] "GET /search/simple?query=what+are+subdivision+requirements?&collection=la_plata_county_code&num_results=5 HTTP/1.1" 200 -
-Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 73.55it/s]
-INFO:werkzeug:127.0.0.1 - - [17/Aug/2025 22:28:03] "GET /search/simple?query=section+66-30&collection=la_plata_county_code&num_results=4 HTTP/1.1" 200 -
-Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 82.65it/s]
-INFO:werkzeug:127.0.0.1 - - [17/Aug/2025 22:28:03] "GET /search/simple?query=section+67-6&collection=la_plata_county_code&num_results=4 HTTP/1.1" 200 -
-Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 82.04it/s]
-INFO:werkzeug:127.0.0.1 - - [17/Aug/2025 22:28:03] "GET /search/simple?query=section+23-41&collection=la_plata_county_code&num_results=4 HTTP/1.1" 200 -
-Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 20.20it/s]
-INFO:werkzeug:127.0.0.1 - - [17/Aug/2025 22:33:09] "GET /search/simple?query=2%2B2+definition&collection=la_plata_county_code&num_results=5 HTTP/1.1" 200 -
-Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 22.43it/s]
-INFO:werkzeug:127.0.0.1 - - [17/Aug/2025 22:33:09] "GET /search/simple?query=section+38&collection=la_plata_county_code&num_results=4 HTTP/1.1" 200 -
-Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 73.41it/s]
-INFO:werkzeug:127.0.0.1 - - [17/Aug/2025 22:33:09] "GET /search/simple?query=section+24-32&collection=la_plata_county_code&num_results=4 HTTP/1.1" 200 -
-Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 82.78it/s]
-INFO:werkzeug:127.0.0.1 - - [17/Aug/2025 22:33:09] "GET /search/simple?query=section+42&collection=la_plata_county_code&num_results=4 HTTP/1.1" 200 -
-Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 22.10it/s]
-INFO:werkzeug:127.0.0.1 - - [17/Aug/2025 22:33:24] "GET /search/simple?query=what+are+subdivision+requirements?&collection=la_plata_county_code&num_results=5 HTTP/1.1" 200 -
-Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 72.94it/s]
-INFO:werkzeug:127.0.0.1 - - [17/Aug/2025 22:33:24] "GET /search/simple?query=section+74&collection=la_plata_county_code&num_results=4 HTTP/1.1" 200 -
-Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 74.49it/s]
-INFO:werkzeug:127.0.0.1 - - [17/Aug/2025 22:33:24] "GET /search/simple?query=section+38-51&collection=la_plata_county_code&num_results=4 HTTP/1.1" 200 -
-Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 81.03it/s]
-INFO:werkzeug:127.0.0.1 - - [17/Aug/2025 22:33:25] "GET /search/simple?query=section+66-30&collection=la_plata_county_code&num_results=4 HTTP/1.1" 200 -
-INFO:werkzeug: * Detected change in '/Users/matthewzienert/Documents/landuse/apis/rag/langchain_inference.py', reloading
+WARNING:urllib3.connectionpool:Retrying (Retry(total=1, connect=1, read=2, redirect=None, status=None)) after connection broken by 'NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x130a07110>: Failed to resolve 'us.i.posthog.com' ([Errno 8] nodename nor servname provided, or not known)")': /batch/
+WARNING:urllib3.connectionpool:Retrying (Retry(total=0, connect=0, read=2, redirect=None, status=None)) after connection broken by 'NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x130a06d50>: Failed to resolve 'us.i.posthog.com' ([Errno 8] nodename nor servname provided, or not known)")': /batch/
+INFO:backoff:Backing off send_request(...) for 0.8s (requests.exceptions.ConnectionError: HTTPSConnectionPool(host='us.i.posthog.com', port=443): Max retries exceeded with url: /batch/ (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x130a06850>: Failed to resolve 'us.i.posthog.com' ([Errno 8] nodename nor servname provided, or not known)")))
+WARNING:urllib3.connectionpool:Retrying (Retry(total=1, connect=1, read=2, redirect=None, status=None)) after connection broken by 'NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x1422e07d0>: Failed to resolve 'us.i.posthog.com' ([Errno 8] nodename nor servname provided, or not known)")': /batch/
+WARNING:urllib3.connectionpool:Retrying (Retry(total=0, connect=0, read=2, redirect=None, status=None)) after connection broken by 'NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x1422e1090>: Failed to resolve 'us.i.posthog.com' ([Errno 8] nodename nor servname provided, or not known)")': /batch/
+ERROR:backoff:Giving up send_request(...) after 4 tries (requests.exceptions.ConnectionError: HTTPSConnectionPool(host='us.i.posthog.com', port=443): Max retries exceeded with url: /batch/ (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x1422e3ed0>: Failed to resolve 'us.i.posthog.com' ([Errno 8] nodename nor servname provided, or not known)")))
+WARNING:urllib3.connectionpool:Retrying (Retry(total=1, connect=1, read=2, redirect=None, status=None)) after connection broken by 'NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x130a06210>: Failed to resolve 'us.i.posthog.com' ([Errno 8] nodename nor servname provided, or not known)")': /batch/
+WARNING:urllib3.connectionpool:Retrying (Retry(total=0, connect=0, read=2, redirect=None, status=None)) after connection broken by 'NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x130a060d0>: Failed to resolve 'us.i.posthog.com' ([Errno 8] nodename nor servname provided, or not known)")': /batch/
+INFO:backoff:Backing off send_request(...) for 1.1s (requests.exceptions.ConnectionError: HTTPSConnectionPool(host='us.i.posthog.com', port=443): Max retries exceeded with url: /batch/ (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x130a05e50>: Failed to resolve 'us.i.posthog.com' ([Errno 8] nodename nor servname provided, or not known)")))
+WARNING:urllib3.connectionpool:Retrying (Retry(total=1, connect=1, read=2, redirect=None, status=None)) after connection broken by 'NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x130a04a50>: Failed to resolve 'us.i.posthog.com' ([Errno 8] nodename nor servname provided, or not known)")': /batch/
+WARNING:urllib3.connectionpool:Retrying (Retry(total=0, connect=0, read=2, redirect=None, status=None)) after connection broken by 'NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x130a05450>: Failed to resolve 'us.i.posthog.com' ([Errno 8] nodename nor servname provided, or not known)")': /batch/
+INFO:backoff:Backing off send_request(...) for 2.8s (requests.exceptions.ConnectionError: HTTPSConnectionPool(host='us.i.posthog.com', port=443): Max retries exceeded with url: /batch/ (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x130a05a90>: Failed to resolve 'us.i.posthog.com' ([Errno 8] nodename nor servname provided, or not known)")))
+WARNING:urllib3.connectionpool:Retrying (Retry(total=1, connect=1, read=2, redirect=None, status=None)) after connection broken by 'NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x130a04910>: Failed to resolve 'us.i.posthog.com' ([Errno 8] nodename nor servname provided, or not known)")': /batch/
+WARNING:urllib3.connectionpool:Retrying (Retry(total=0, connect=0, read=2, redirect=None, status=None)) after connection broken by 'NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x130a05090>: Failed to resolve 'us.i.posthog.com' ([Errno 8] nodename nor servname provided, or not known)")': /batch/
+ERROR:backoff:Giving up send_request(...) after 4 tries (requests.exceptions.ConnectionError: HTTPSConnectionPool(host='us.i.posthog.com', port=443): Max retries exceeded with url: /batch/ (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x130a07ed0>: Failed to resolve 'us.i.posthog.com' ([Errno 8] nodename nor servname provided, or not known)")))
+INFO:werkzeug: * Detected change in '/Users/matthewzienert/Documents/landuse/services/rag/test_langchain_migration.py', reloading
 INFO:werkzeug: * Restarting with stat
-Could not initialize collection 'la_plata_assessor': Collection [la_plata_assessor] does not exists
-INFO:apis.search.search_engine:Connecting to ChromaDB...
-INFO:apis.search.search_engine:Connected to collection 'la_plata_county_code': 1298 documents
-WARNING:apis.search.search_engine:Could not initialize collection 'la_plata_assessor': Collection [la_plata_assessor] does not exists
-INFO:apis.search.search_engine:Successfully initialized 1 collections
-INFO:__main__:Search system initialized successfully
-INFO:__main__:Starting Flask server in development mode...
-WARNING:werkzeug: * Debugger is active!
-INFO:werkzeug: * Debugger PIN: 114-241-345
-INFO:werkzeug: * Detected change in '/Users/matthewzienert/Documents/landuse/apis/rag/langchain_inference.py', reloading
-INFO:werkzeug: * Restarting with stat
-Could not initialize collection 'la_plata_assessor': Collection [la_plata_assessor] does not exists
-INFO:apis.search.search_engine:Connecting to ChromaDB...
-INFO:apis.search.search_engine:Connected to collection 'la_plata_county_code': 1298 documents
-WARNING:apis.search.search_engine:Could not initialize collection 'la_plata_assessor': Collection [la_plata_assessor] does not exists
-INFO:apis.search.search_engine:Successfully initialized 1 collections
-INFO:__main__:Search system initialized successfully
-INFO:__main__:Starting Flask server in development mode...
-WARNING:werkzeug: * Debugger is active!
-INFO:werkzeug: * Debugger PIN: 114-241-345
-Batches:   0%|          | 0/1 [00:00<?, ?it/s]/Users/matthewzienert/Documents/landuse/env/lib/python3.13/site-packages/torch/nn/modules/module.py:1762: FutureWarning: `encoder_attention_mask` is deprecated and will be removed in version 4.55.0 for `BertSdpaSelfAttention.forward`.
-  return forward_call(*args, **kwargs)
-Batches: 100%|██████████| 1/1 [00:00<00:00,  9.15it/s]Batches: 100%|██████████| 1/1 [00:00<00:00,  9.14it/s]
-INFO:werkzeug:127.0.0.1 - - [17/Aug/2025 22:36:10] "GET /search/simple?query=2%2B2+definition&collection=la_plata_county_code&num_results=5 HTTP/1.1" 200 -
-Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 24.08it/s]
-INFO:werkzeug:127.0.0.1 - - [17/Aug/2025 22:36:10] "GET /search/simple?query=section+42&collection=la_plata_county_code&num_results=4 HTTP/1.1" 200 -
-Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 77.87it/s]
-INFO:werkzeug:127.0.0.1 - - [17/Aug/2025 22:36:10] "GET /search/simple?query=section+38&collection=la_plata_county_code&num_results=4 HTTP/1.1" 200 -
-Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 69.30it/s]
-INFO:werkzeug:127.0.0.1 - - [17/Aug/2025 22:36:10] "GET /search/simple?query=section+94-16&collection=la_plata_county_code&num_results=4 HTTP/1.1" 200 -
-Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 22.50it/s]
-INFO:werkzeug:127.0.0.1 - - [17/Aug/2025 22:37:12] "GET /search/simple?query=2%2B2+definition&collection=la_plata_county_code&num_results=5 HTTP/1.1" 200 -
-Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 63.67it/s]
-INFO:werkzeug:127.0.0.1 - - [17/Aug/2025 22:37:12] "GET /search/simple?query=section+42&collection=la_plata_county_code&num_results=4 HTTP/1.1" 200 -
-Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 73.15it/s]
-INFO:werkzeug:127.0.0.1 - - [17/Aug/2025 22:37:12] "GET /search/simple?query=section+38&collection=la_plata_county_code&num_results=4 HTTP/1.1" 200 -
-Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 71.55it/s]
-INFO:werkzeug:127.0.0.1 - - [17/Aug/2025 22:37:12] "GET /search/simple?query=section+94-16&collection=la_plata_county_code&num_results=4 HTTP/1.1" 200 -
-INFO:werkzeug: * Detected change in '/Users/matthewzienert/Documents/landuse/apis/rag/langchain_inference.py', reloading
-INFO:werkzeug: * Restarting with stat
-Could not initialize collection 'la_plata_assessor': Collection [la_plata_assessor] does not exists
-INFO:apis.search.search_engine:Connecting to ChromaDB...
-INFO:apis.search.search_engine:Connected to collection 'la_plata_county_code': 1298 documents
-WARNING:apis.search.search_engine:Could not initialize collection 'la_plata_assessor': Collection [la_plata_assessor] does not exists
-INFO:apis.search.search_engine:Successfully initialized 1 collections
-INFO:__main__:Search system initialized successfully
-INFO:__main__:Starting Flask server in development mode...
-WARNING:werkzeug: * Debugger is active!
-INFO:werkzeug: * Debugger PIN: 114-241-345
-INFO:werkzeug: * Detected change in '/Users/matthewzienert/Documents/landuse/apis/rag/llm_provider.py', reloading
-INFO:werkzeug: * Restarting with stat
-Could not initialize collection 'la_plata_assessor': Collection [la_plata_assessor] does not exists
-INFO:apis.search.search_engine:Connecting to ChromaDB...
-INFO:apis.search.search_engine:Connected to collection 'la_plata_county_code': 1298 documents
-WARNING:apis.search.search_engine:Could not initialize collection 'la_plata_assessor': Collection [la_plata_assessor] does not exists
-INFO:apis.search.search_engine:Successfully initialized 1 collections
-INFO:__main__:Search system initialized successfully
-INFO:__main__:Starting Flask server in development mode...
-WARNING:werkzeug: * Debugger is active!
-INFO:werkzeug: * Debugger PIN: 114-241-345
-INFO:werkzeug: * Detected change in '/Users/matthewzienert/Documents/landuse/apis/rag/llm_provider.py', reloading
-INFO:werkzeug: * Restarting with stat
-Could not initialize collection 'la_plata_assessor': Collection [la_plata_assessor] does not exists
-INFO:apis.search.search_engine:Connecting to ChromaDB...
-INFO:apis.search.search_engine:Connected to collection 'la_plata_county_code': 1298 documents
-WARNING:apis.search.search_engine:Could not initialize collection 'la_plata_assessor': Collection [la_plata_assessor] does not exists
-INFO:apis.search.search_engine:Successfully initialized 1 collections
-INFO:__main__:Search system initialized successfully
-INFO:__main__:Starting Flask server in development mode...
-WARNING:werkzeug: * Debugger is active!
-INFO:werkzeug: * Debugger PIN: 114-241-345
-INFO:werkzeug: * Detected change in '/Users/matthewzienert/Documents/landuse/apis/rag/validate_migration.py', reloading
-INFO:werkzeug: * Restarting with stat
-Could not initialize collection 'la_plata_assessor': Collection [la_plata_assessor] does not exists
-INFO:apis.search.search_engine:Connecting to ChromaDB...
-INFO:apis.search.search_engine:Connected to collection 'la_plata_county_code': 1298 documents
-WARNING:apis.search.search_engine:Could not initialize collection 'la_plata_assessor': Collection [la_plata_assessor] does not exists
-INFO:apis.search.search_engine:Successfully initialized 1 collections
-INFO:__main__:Search system initialized successfully
-INFO:__main__:Starting Flask server in development mode...
-WARNING:werkzeug: * Debugger is active!
-INFO:werkzeug: * Debugger PIN: 114-241-345
-INFO:werkzeug: * Detected change in '/Users/matthewzienert/Documents/landuse/apis/rag/test_langchain_migration.py', reloading
-INFO:werkzeug: * Restarting with stat
-Could not initialize collection 'la_plata_assessor': Collection [la_plata_assessor] does not exists
-INFO:apis.search.search_engine:Connecting to ChromaDB...
-INFO:apis.search.search_engine:Connected to collection 'la_plata_county_code': 1298 documents
-WARNING:apis.search.search_engine:Could not initialize collection 'la_plata_assessor': Collection [la_plata_assessor] does not exists
-INFO:apis.search.search_engine:Successfully initialized 1 collections
-INFO:__main__:Search system initialized successfully
-INFO:__main__:Starting Flask server in development mode...
-WARNING:werkzeug: * Debugger is active!
-INFO:werkzeug: * Debugger PIN: 114-241-345
-INFO:werkzeug: * Detected change in '/Users/matthewzienert/Documents/landuse/apis/rag/test_langchain_migration.py', reloading
-INFO:werkzeug: * Restarting with stat
-Could not initialize collection 'la_plata_assessor': Collection [la_plata_assessor] does not exists
-INFO:apis.search.search_engine:Connecting to ChromaDB...
-INFO:apis.search.search_engine:Connected to collection 'la_plata_county_code': 1298 documents
-WARNING:apis.search.search_engine:Could not initialize collection 'la_plata_assessor': Collection [la_plata_assessor] does not exists
-INFO:apis.search.search_engine:Successfully initialized 1 collections
-INFO:__main__:Search system initialized successfully
-INFO:__main__:Starting Flask server in development mode...
-WARNING:werkzeug: * Debugger is active!
-INFO:werkzeug: * Debugger PIN: 114-241-345
-INFO:werkzeug: * Detected change in '/Users/matthewzienert/Documents/landuse/apis/rag/llm_provider.py', reloading
-INFO:werkzeug: * Restarting with stat
-Could not initialize collection 'la_plata_assessor': Collection [la_plata_assessor] does not exists
-INFO:apis.search.search_engine:Connecting to ChromaDB...
-INFO:apis.search.search_engine:Connected to collection 'la_plata_county_code': 1298 documents
-WARNING:apis.search.search_engine:Could not initialize collection 'la_plata_assessor': Collection [la_plata_assessor] does not exists
-INFO:apis.search.search_engine:Successfully initialized 1 collections
-INFO:__main__:Search system initialized successfully
-INFO:__main__:Starting Flask server in development mode...
-WARNING:werkzeug: * Debugger is active!
-INFO:werkzeug: * Debugger PIN: 114-241-345
-INFO:werkzeug: * Detected change in '/Users/matthewzienert/Documents/landuse/apis/rag/test_langchain_migration.py', reloading
-INFO:werkzeug: * Restarting with stat
-Could not initialize collection 'la_plata_assessor': Collection [la_plata_assessor] does not exists
-INFO:apis.search.search_engine:Connecting to ChromaDB...
-INFO:apis.search.search_engine:Connected to collection 'la_plata_county_code': 1298 documents
-WARNING:apis.search.search_engine:Could not initialize collection 'la_plata_assessor': Collection [la_plata_assessor] does not exists
-INFO:apis.search.search_engine:Successfully initialized 1 collections
-INFO:__main__:Search system initialized successfully
-INFO:__main__:Starting Flask server in development mode...
-WARNING:werkzeug: * Debugger is active!
-INFO:werkzeug: * Debugger PIN: 114-241-345
-INFO:werkzeug: * Detected change in '/Users/matthewzienert/Documents/landuse/apis/rag/validate_migration.py', reloading
-INFO:werkzeug: * Restarting with stat
-Could not initialize collection 'la_plata_assessor': Collection [la_plata_assessor] does not exists
-INFO:apis.search.search_engine:Connecting to ChromaDB...
-INFO:apis.search.search_engine:Connected to collection 'la_plata_county_code': 1298 documents
-WARNING:apis.search.search_engine:Could not initialize collection 'la_plata_assessor': Collection [la_plata_assessor] does not exists
-INFO:apis.search.search_engine:Successfully initialized 1 collections
-INFO:__main__:Search system initialized successfully
-INFO:__main__:Starting Flask server in development mode...
-WARNING:werkzeug: * Debugger is active!
-INFO:werkzeug: * Debugger PIN: 114-241-345
-INFO:werkzeug: * Detected change in '/Users/matthewzienert/Documents/landuse/apis/rag/llm_provider.py', reloading
-INFO:werkzeug: * Restarting with stat
-Could not initialize collection 'la_plata_assessor': Collection [la_plata_assessor] does not exists
-INFO:apis.search.search_engine:Connecting to ChromaDB...
-INFO:apis.search.search_engine:Connected to collection 'la_plata_county_code': 1298 documents
-WARNING:apis.search.search_engine:Could not initialize collection 'la_plata_assessor': Collection [la_plata_assessor] does not exists
-INFO:apis.search.search_engine:Successfully initialized 1 collections
-INFO:__main__:Search system initialized successfully
-INFO:__main__:Starting Flask server in development mode...
-WARNING:werkzeug: * Debugger is active!
-INFO:werkzeug: * Debugger PIN: 114-241-345
-INFO:werkzeug: * Detected change in '/Users/matthewzienert/Documents/landuse/apis/rag/providers/__init__.py', reloading
-INFO:werkzeug: * Restarting with stat
-Could not initialize collection 'la_plata_assessor': Collection [la_plata_assessor] does not exists
-INFO:apis.search.search_engine:Connecting to ChromaDB...
-INFO:apis.search.search_engine:Connected to collection 'la_plata_county_code': 1298 documents
-WARNING:apis.search.search_engine:Could not initialize collection 'la_plata_assessor': Collection [la_plata_assessor] does not exists
-INFO:apis.search.search_engine:Successfully initialized 1 collections
-INFO:__main__:Search system initialized successfully
-INFO:__main__:Starting Flask server in development mode...
-WARNING:werkzeug: * Debugger is active!
-INFO:werkzeug: * Debugger PIN: 114-241-345
-INFO:werkzeug: * Detected change in '/Users/matthewzienert/Documents/landuse/apis/rag/langchain_inference.py', reloading
-INFO:werkzeug: * Restarting with stat
-Could not initialize collection 'la_plata_assessor': Collection [la_plata_assessor] does not exists
-INFO:apis.search.search_engine:Connecting to ChromaDB...
-INFO:apis.search.search_engine:Connected to collection 'la_plata_county_code': 1298 documents
-WARNING:apis.search.search_engine:Could not initialize collection 'la_plata_assessor': Collection [la_plata_assessor] does not exists
-INFO:apis.search.search_engine:Successfully initialized 1 collections
-INFO:__main__:Search system initialized successfully
-INFO:__main__:Starting Flask server in development mode...
-WARNING:werkzeug: * Debugger is active!
-INFO:werkzeug: * Debugger PIN: 114-241-345
-INFO:werkzeug: * Detected change in '/Users/matthewzienert/Documents/landuse/apis/rag/test_langchain_migration.py', reloading
-INFO:werkzeug: * Restarting with stat
-Could not initialize collection 'la_plata_assessor': Collection [la_plata_assessor] does not exists
-INFO:apis.search.search_engine:Connecting to ChromaDB...
-INFO:apis.search.search_engine:Connected to collection 'la_plata_county_code': 1298 documents
-WARNING:apis.search.search_engine:Could not initialize collection 'la_plata_assessor': Collection [la_plata_assessor] does not exists
-INFO:apis.search.search_engine:Successfully initialized 1 collections
-INFO:__main__:Search system initialized successfully
-INFO:__main__:Starting Flask server in development mode...
-WARNING:werkzeug: * Debugger is active!
-INFO:werkzeug: * Debugger PIN: 114-241-345
-INFO:werkzeug: * Detected change in '/Users/matthewzienert/Documents/landuse/apis/rag/validate_migration.py', reloading
-INFO:werkzeug: * Restarting with stat
-Could not initialize collection 'la_plata_assessor': Collection [la_plata_assessor] does not exists
-INFO:apis.search.search_engine:Connecting to ChromaDB...
-INFO:apis.search.search_engine:Connected to collection 'la_plata_county_code': 1298 documents
-WARNING:apis.search.search_engine:Could not initialize collection 'la_plata_assessor': Collection [la_plata_assessor] does not exists
-INFO:apis.search.search_engine:Successfully initialized 1 collections
-INFO:__main__:Search system initialized successfully
-INFO:__main__:Starting Flask server in development mode...
-WARNING:werkzeug: * Debugger is active!
-INFO:werkzeug: * Debugger PIN: 114-241-345
-INFO:werkzeug: * Detected change in '/Users/matthewzienert/Documents/landuse/apis/rag/validate_migration.py', reloading
-INFO:werkzeug: * Restarting with stat
-Could not initialize collection 'la_plata_assessor': Collection [la_plata_assessor] does not exists
-INFO:apis.search.search_engine:Connecting to ChromaDB...
-INFO:apis.search.search_engine:Connected to collection 'la_plata_county_code': 1298 documents
-WARNING:apis.search.search_engine:Could not initialize collection 'la_plata_assessor': Collection [la_plata_assessor] does not exists
-INFO:apis.search.search_engine:Successfully initialized 1 collections
-INFO:__main__:Search system initialized successfully
-INFO:__main__:Starting Flask server in development mode...
-WARNING:werkzeug: * Debugger is active!
-INFO:werkzeug: * Debugger PIN: 114-241-345
-INFO:werkzeug: * Detected change in '/Users/matthewzienert/Documents/landuse/apis/rag/providers/__init__.py', reloading
-INFO:werkzeug: * Restarting with stat
-Could not initialize collection 'la_plata_assessor': Collection [la_plata_assessor] does not exists
-INFO:apis.search.search_engine:Connecting to ChromaDB...
-INFO:apis.search.search_engine:Connected to collection 'la_plata_county_code': 1298 documents
-WARNING:apis.search.search_engine:Could not initialize collection 'la_plata_assessor': Collection [la_plata_assessor] does not exists
-INFO:apis.search.search_engine:Successfully initialized 1 collections
-INFO:__main__:Search system initialized successfully
-INFO:__main__:Starting Flask server in development mode...
-WARNING:werkzeug: * Debugger is active!
-INFO:werkzeug: * Debugger PIN: 114-241-345
-INFO:werkzeug: * Detected change in '/Users/matthewzienert/Documents/landuse/apis/rag/test_langchain_migration.py', reloading
-INFO:werkzeug: * Restarting with stat
-Could not initialize collection 'la_plata_assessor': Collection [la_plata_assessor] does not exists
-INFO:apis.search.search_engine:Connecting to ChromaDB...
-INFO:apis.search.search_engine:Connected to collection 'la_plata_county_code': 1298 documents
-WARNING:apis.search.search_engine:Could not initialize collection 'la_plata_assessor': Collection [la_plata_assessor] does not exists
-INFO:apis.search.search_engine:Successfully initialized 1 collections
-INFO:__main__:Search system initialized successfully
-INFO:__main__:Starting Flask server in development mode...
-WARNING:werkzeug: * Debugger is active!
-INFO:werkzeug: * Debugger PIN: 114-241-345
-INFO:werkzeug: * Detected change in '/Users/matthewzienert/Documents/landuse/apis/rag/test_langchain_migration.py', reloading
-INFO:werkzeug: * Restarting with stat
-Could not initialize collection 'la_plata_assessor': Collection [la_plata_assessor] does not exists
-INFO:apis.search.search_engine:Connecting to ChromaDB...
-INFO:apis.search.search_engine:Connected to collection 'la_plata_county_code': 1298 documents
-WARNING:apis.search.search_engine:Could not initialize collection 'la_plata_assessor': Collection [la_plata_assessor] does not exists
-INFO:apis.search.search_engine:Successfully initialized 1 collections
-INFO:__main__:Search system initialized successfully
-INFO:__main__:Starting Flask server in development mode...
-WARNING:werkzeug: * Debugger is active!
-INFO:werkzeug: * Debugger PIN: 114-241-345
-INFO:werkzeug: * Detected change in '/Users/matthewzienert/Documents/landuse/apis/rag/test_langchain_migration.py', reloading
-INFO:werkzeug: * Restarting with stat
-Could not initialize collection 'la_plata_assessor': Collection [la_plata_assessor] does not exists
-INFO:apis.search.search_engine:Connecting to ChromaDB...
-INFO:apis.search.search_engine:Connected to collection 'la_plata_county_code': 1298 documents
-WARNING:apis.search.search_engine:Could not initialize collection 'la_plata_assessor': Collection [la_plata_assessor] does not exists
-INFO:apis.search.search_engine:Successfully initialized 1 collections
-INFO:__main__:Search system initialized successfully
-INFO:__main__:Starting Flask server in development mode...
-WARNING:werkzeug: * Debugger is active!
-INFO:werkzeug: * Debugger PIN: 114-241-345
-INFO:werkzeug: * Detected change in '/Users/matthewzienert/Documents/landuse/apis/rag/test_langchain_migration.py', reloading
-INFO:werkzeug: * Restarting with stat
-Could not initialize collection 'la_plata_assessor': Collection [la_plata_assessor] does not exists
-INFO:apis.search.search_engine:Connecting to ChromaDB...
-INFO:apis.search.search_engine:Connected to collection 'la_plata_county_code': 1298 documents
-WARNING:apis.search.search_engine:Could not initialize collection 'la_plata_assessor': Collection [la_plata_assessor] does not exists
-INFO:apis.search.search_engine:Successfully initialized 1 collections
-INFO:__main__:Search system initialized successfully
-INFO:__main__:Starting Flask server in development mode...
-WARNING:werkzeug: * Debugger is active!
-INFO:werkzeug: * Debugger PIN: 114-241-345
-INFO:werkzeug: * Detected change in '/Users/matthewzienert/Documents/landuse/apis/rag/validate_migration.py', reloading
-INFO:werkzeug: * Restarting with stat
-Could not initialize collection 'la_plata_assessor': Collection [la_plata_assessor] does not exists
-INFO:apis.search.search_engine:Connecting to ChromaDB...
-INFO:apis.search.search_engine:Connected to collection 'la_plata_county_code': 1298 documents
-WARNING:apis.search.search_engine:Could not initialize collection 'la_plata_assessor': Collection [la_plata_assessor] does not exists
-INFO:apis.search.search_engine:Successfully initialized 1 collections
-INFO:__main__:Search system initialized successfully
-INFO:__main__:Starting Flask server in development mode...
-WARNING:werkzeug: * Debugger is active!
-INFO:werkzeug: * Debugger PIN: 114-241-345
-INFO:werkzeug: * Detected change in '/Users/matthewzienert/Documents/landuse/apis/rag/validate_migration.py', reloading
-INFO:werkzeug: * Restarting with stat
-Could not initialize collection 'la_plata_assessor': Collection [la_plata_assessor] does not exists
-INFO:apis.search.search_engine:Connecting to ChromaDB...
-INFO:apis.search.search_engine:Connected to collection 'la_plata_county_code': 1298 documents
-WARNING:apis.search.search_engine:Could not initialize collection 'la_plata_assessor': Collection [la_plata_assessor] does not exists
-INFO:apis.search.search_engine:Successfully initialized 1 collections
-INFO:__main__:Search system initialized successfully
-INFO:__main__:Starting Flask server in development mode...
-WARNING:werkzeug: * Debugger is active!
-INFO:werkzeug: * Debugger PIN: 114-241-345
-INFO:werkzeug: * Detected change in '/Users/matthewzienert/Documents/landuse/apis/rag/validate_migration.py', reloading
-INFO:werkzeug: * Restarting with stat
-Could not initialize collection 'la_plata_assessor': Collection [la_plata_assessor] does not exists
-INFO:apis.search.search_engine:Connecting to ChromaDB...
-INFO:apis.search.search_engine:Connected to collection 'la_plata_county_code': 1298 documents
-WARNING:apis.search.search_engine:Could not initialize collection 'la_plata_assessor': Collection [la_plata_assessor] does not exists
-INFO:apis.search.search_engine:Successfully initialized 1 collections
-INFO:__main__:Search system initialized successfully
-INFO:__main__:Starting Flask server in development mode...
-WARNING:werkzeug: * Debugger is active!
-INFO:werkzeug: * Debugger PIN: 114-241-345
-INFO:werkzeug: * Detected change in '/Users/matthewzienert/Documents/landuse/apis/rag/validate_migration.py', reloading
-INFO:werkzeug: * Restarting with stat
-Could not initialize collection 'la_plata_assessor': Collection [la_plata_assessor] does not exists
-INFO:apis.search.search_engine:Connecting to ChromaDB...
-INFO:apis.search.search_engine:Connected to collection 'la_plata_county_code': 1298 documents
-WARNING:apis.search.search_engine:Could not initialize collection 'la_plata_assessor': Collection [la_plata_assessor] does not exists
-INFO:apis.search.search_engine:Successfully initialized 1 collections
-INFO:__main__:Search system initialized successfully
-INFO:__main__:Starting Flask server in development mode...
-WARNING:werkzeug: * Debugger is active!
-INFO:werkzeug: * Debugger PIN: 114-241-345
-INFO:werkzeug: * Detected change in '/Users/matthewzienert/Documents/landuse/apis/rag/validate_migration.py', reloading
-INFO:werkzeug: * Restarting with stat
-Could not initialize collection 'la_plata_assessor': Collection [la_plata_assessor] does not exists
-INFO:apis.search.search_engine:Connecting to ChromaDB...
-INFO:apis.search.search_engine:Connected to collection 'la_plata_county_code': 1298 documents
-WARNING:apis.search.search_engine:Could not initialize collection 'la_plata_assessor': Collection [la_plata_assessor] does not exists
-INFO:apis.search.search_engine:Successfully initialized 1 collections
-INFO:__main__:Search system initialized successfully
-INFO:__main__:Starting Flask server in development mode...
-WARNING:werkzeug: * Debugger is active!
-INFO:werkzeug: * Debugger PIN: 114-241-345
-INFO:werkzeug: * Detected change in '/Users/matthewzienert/Documents/landuse/apis/rag/validate_migration.py', reloading
-INFO:werkzeug: * Restarting with stat
-Could not initialize collection 'la_plata_assessor': Collection [la_plata_assessor] does not exists
-INFO:apis.search.search_engine:Connecting to ChromaDB...
-INFO:apis.search.search_engine:Connected to collection 'la_plata_county_code': 1298 documents
-WARNING:apis.search.search_engine:Could not initialize collection 'la_plata_assessor': Collection [la_plata_assessor] does not exists
-INFO:apis.search.search_engine:Successfully initialized 1 collections
-INFO:__main__:Search system initialized successfully
-INFO:__main__:Starting Flask server in development mode...
-WARNING:werkzeug: * Debugger is active!
-INFO:werkzeug: * Debugger PIN: 114-241-345
-INFO:werkzeug: * Detected change in '/Users/matthewzienert/Documents/landuse/apis/rag/providers/__init__.py', reloading
-INFO:werkzeug: * Restarting with stat
-Could not initialize collection 'la_plata_assessor': Collection [la_plata_assessor] does not exists
-INFO:apis.search.search_engine:Connecting to ChromaDB...
-INFO:apis.search.search_engine:Connected to collection 'la_plata_county_code': 1298 documents
-WARNING:apis.search.search_engine:Could not initialize collection 'la_plata_assessor': Collection [la_plata_assessor] does not exists
-INFO:apis.search.search_engine:Successfully initialized 1 collections
-INFO:__main__:Search system initialized successfully
-INFO:__main__:Starting Flask server in development mode...
-WARNING:werkzeug: * Debugger is active!
-INFO:werkzeug: * Debugger PIN: 114-241-345
-INFO:werkzeug: * Detected change in '/Users/matthewzienert/Documents/landuse/apis/rag/providers/base.py', reloading
-INFO:werkzeug: * Restarting with stat
-Could not initialize collection 'la_plata_assessor': Collection [la_plata_assessor] does not exists
-INFO:apis.search.search_engine:Connecting to ChromaDB...
-INFO:apis.search.search_engine:Connected to collection 'la_plata_county_code': 1298 documents
-WARNING:apis.search.search_engine:Could not initialize collection 'la_plata_assessor': Collection [la_plata_assessor] does not exists
-INFO:apis.search.search_engine:Successfully initialized 1 collections
-INFO:__main__:Search system initialized successfully
-INFO:__main__:Starting Flask server in development mode...
-WARNING:werkzeug: * Debugger is active!
-INFO:werkzeug: * Debugger PIN: 114-241-345
-INFO:werkzeug: * Detected change in '/Users/matthewzienert/Documents/landuse/apis/rag/providers/factory.py', reloading
-INFO:werkzeug: * Restarting with stat
-Could not initialize collection 'la_plata_assessor': Collection [la_plata_assessor] does not exists
-INFO:apis.search.search_engine:Connecting to ChromaDB...
-INFO:apis.search.search_engine:Connected to collection 'la_plata_county_code': 1298 documents
-WARNING:apis.search.search_engine:Could not initialize collection 'la_plata_assessor': Collection [la_plata_assessor] does not exists
-INFO:apis.search.search_engine:Successfully initialized 1 collections
-INFO:__main__:Search system initialized successfully
-INFO:__main__:Starting Flask server in development mode...
-WARNING:werkzeug: * Debugger is active!
-INFO:werkzeug: * Debugger PIN: 114-241-345
-INFO:werkzeug: * Detected change in '/Users/matthewzienert/Documents/landuse/apis/rag/providers/__init__.py', reloading
-INFO:werkzeug: * Restarting with stat
-Could not initialize collection 'la_plata_assessor': Collection [la_plata_assessor] does not exists
-INFO:apis.search.search_engine:Connecting to ChromaDB...
-INFO:apis.search.search_engine:Connected to collection 'la_plata_county_code': 1298 documents
-WARNING:apis.search.search_engine:Could not initialize collection 'la_plata_assessor': Collection [la_plata_assessor] does not exists
-INFO:apis.search.search_engine:Successfully initialized 1 collections
-INFO:__main__:Search system initialized successfully
-INFO:__main__:Starting Flask server in development mode...
-WARNING:werkzeug: * Debugger is active!
-INFO:werkzeug: * Debugger PIN: 114-241-345
-INFO:werkzeug: * Detected change in '/Users/matthewzienert/Documents/landuse/apis/rag/rag_engine.py', reloading
-INFO:werkzeug: * Restarting with stat
-Could not initialize collection 'la_plata_assessor': Collection [la_plata_assessor] does not exists
-INFO:apis.search.search_engine:Connecting to ChromaDB...
-INFO:apis.search.search_engine:Connected to collection 'la_plata_county_code': 1298 documents
-WARNING:apis.search.search_engine:Could not initialize collection 'la_plata_assessor': Collection [la_plata_assessor] does not exists
-INFO:apis.search.search_engine:Successfully initialized 1 collections
-INFO:__main__:Search system initialized successfully
-INFO:__main__:Starting Flask server in development mode...
-WARNING:werkzeug: * Debugger is active!
-INFO:werkzeug: * Debugger PIN: 114-241-345
-INFO:werkzeug: * Detected change in '/Users/matthewzienert/Documents/landuse/apis/rag/config.py', reloading
-INFO:werkzeug: * Restarting with stat
-Could not initialize collection 'la_plata_assessor': Collection [la_plata_assessor] does not exists
-INFO:apis.search.search_engine:Connecting to ChromaDB...
-INFO:apis.search.search_engine:Connected to collection 'la_plata_county_code': 1298 documents
-WARNING:apis.search.search_engine:Could not initialize collection 'la_plata_assessor': Collection [la_plata_assessor] does not exists
-INFO:apis.search.search_engine:Successfully initialized 1 collections
-INFO:__main__:Search system initialized successfully
-INFO:__main__:Starting Flask server in development mode...
-WARNING:werkzeug: * Debugger is active!
-INFO:werkzeug: * Debugger PIN: 114-241-345
-INFO:werkzeug: * Detected change in '/Users/matthewzienert/Documents/landuse/apis/rag/handlers/health.py', reloading
-INFO:werkzeug: * Restarting with stat
-Could not initialize collection 'la_plata_assessor': Collection [la_plata_assessor] does not exists
-INFO:apis.search.search_engine:Connecting to ChromaDB...
-INFO:apis.search.search_engine:Connected to collection 'la_plata_county_code': 1298 documents
-WARNING:apis.search.search_engine:Could not initialize collection 'la_plata_assessor': Collection [la_plata_assessor] does not exists
-INFO:apis.search.search_engine:Successfully initialized 1 collections
-INFO:__main__:Search system initialized successfully
-INFO:__main__:Starting Flask server in development mode...
-WARNING:werkzeug: * Debugger is active!
-INFO:werkzeug: * Debugger PIN: 114-241-345
-INFO:werkzeug: * Detected change in '/Users/matthewzienert/Documents/landuse/apis/rag/routes.py', reloading
-INFO:werkzeug: * Restarting with stat
-Could not initialize collection 'la_plata_assessor': Collection [la_plata_assessor] does not exists
-INFO:apis.search.search_engine:Connecting to ChromaDB...
-INFO:apis.search.search_engine:Connected to collection 'la_plata_county_code': 1298 documents
-WARNING:apis.search.search_engine:Could not initialize collection 'la_plata_assessor': Collection [la_plata_assessor] does not exists
-INFO:apis.search.search_engine:Successfully initialized 1 collections
-INFO:__main__:Search system initialized successfully
-INFO:__main__:Starting Flask server in development mode...
-WARNING:werkzeug: * Debugger is active!
-INFO:werkzeug: * Debugger PIN: 114-241-345
-INFO:werkzeug: * Detected change in '/Users/matthewzienert/Documents/landuse/apis/rag/inference/langchain_manager.py', reloading
-INFO:werkzeug: * Restarting with stat
-Could not initialize collection 'la_plata_assessor': Collection [la_plata_assessor] does not exists
-INFO:apis.search.search_engine:Connecting to ChromaDB...
-INFO:apis.search.search_engine:Connected to collection 'la_plata_county_code': 1298 documents
-WARNING:apis.search.search_engine:Could not initialize collection 'la_plata_assessor': Collection [la_plata_assessor] does not exists
-INFO:apis.search.search_engine:Successfully initialized 1 collections
-INFO:__main__:Search system initialized successfully
-INFO:__main__:Starting Flask server in development mode...
-WARNING:werkzeug: * Debugger is active!
-INFO:werkzeug: * Debugger PIN: 114-241-345
-INFO:werkzeug: * Detected change in '/Users/matthewzienert/Documents/landuse/apis/rag/inference/langchain_manager.py', reloading
-INFO:werkzeug: * Restarting with stat
-Could not initialize collection 'la_plata_assessor': Collection [la_plata_assessor] does not exists
-INFO:apis.search.search_engine:Connecting to ChromaDB...
-INFO:apis.search.search_engine:Connected to collection 'la_plata_county_code': 1298 documents
-WARNING:apis.search.search_engine:Could not initialize collection 'la_plata_assessor': Collection [la_plata_assessor] does not exists
-INFO:apis.search.search_engine:Successfully initialized 1 collections
-INFO:__main__:Search system initialized successfully
-INFO:__main__:Starting Flask server in development mode...
-WARNING:werkzeug: * Debugger is active!
-INFO:werkzeug: * Debugger PIN: 114-241-345
-INFO:werkzeug: * Detected change in '/Users/matthewzienert/Documents/landuse/apis/rag/inference/langchain_manager.py', reloading
-INFO:werkzeug: * Restarting with stat
-Could not initialize collection 'la_plata_assessor': Collection [la_plata_assessor] does not exists
-INFO:apis.search.search_engine:Connecting to ChromaDB...
-INFO:apis.search.search_engine:Connected to collection 'la_plata_county_code': 1298 documents
-WARNING:apis.search.search_engine:Could not initialize collection 'la_plata_assessor': Collection [la_plata_assessor] does not exists
-INFO:apis.search.search_engine:Successfully initialized 1 collections
-INFO:__main__:Search system initialized successfully
-INFO:__main__:Starting Flask server in development mode...
-WARNING:werkzeug: * Debugger is active!
-INFO:werkzeug: * Debugger PIN: 114-241-345
-INFO:werkzeug: * Detected change in '/Users/matthewzienert/Documents/landuse/apis/rag/inference/langchain_manager.py', reloading
-INFO:werkzeug: * Restarting with stat
-Could not initialize collection 'la_plata_assessor': Collection [la_plata_assessor] does not exists
-INFO:apis.search.search_engine:Connecting to ChromaDB...
-INFO:apis.search.search_engine:Connected to collection 'la_plata_county_code': 1298 documents
-WARNING:apis.search.search_engine:Could not initialize collection 'la_plata_assessor': Collection [la_plata_assessor] does not exists
-INFO:apis.search.search_engine:Successfully initialized 1 collections
-INFO:__main__:Search system initialized successfully
-INFO:__main__:Starting Flask server in development mode...
-WARNING:werkzeug: * Debugger is active!
-INFO:werkzeug: * Debugger PIN: 114-241-345
-INFO:werkzeug: * Detected change in '/Users/matthewzienert/Documents/landuse/apis/rag/inference/langchain_manager.py', reloading
-INFO:werkzeug: * Restarting with stat
-Could not initialize collection 'la_plata_assessor': Collection [la_plata_assessor] does not exists
-INFO:apis.search.search_engine:Connecting to ChromaDB...
-INFO:apis.search.search_engine:Connected to collection 'la_plata_county_code': 1298 documents
-WARNING:apis.search.search_engine:Could not initialize collection 'la_plata_assessor': Collection [la_plata_assessor] does not exists
-INFO:apis.search.search_engine:Successfully initialized 1 collections
-INFO:__main__:Search system initialized successfully
-INFO:__main__:Starting Flask server in development mode...
-WARNING:werkzeug: * Debugger is active!
-INFO:werkzeug: * Debugger PIN: 114-241-345
-INFO:werkzeug: * Detected change in '/Users/matthewzienert/Documents/landuse/apis/rag/inference/langchain_manager.py', reloading
-INFO:werkzeug: * Restarting with stat
-Could not initialize collection 'la_plata_assessor': Collection [la_plata_assessor] does not exists
-INFO:apis.search.search_engine:Connecting to ChromaDB...
-INFO:apis.search.search_engine:Connected to collection 'la_plata_county_code': 1298 documents
-WARNING:apis.search.search_engine:Could not initialize collection 'la_plata_assessor': Collection [la_plata_assessor] does not exists
-INFO:apis.search.search_engine:Successfully initialized 1 collections
-INFO:__main__:Search system initialized successfully
-INFO:__main__:Starting Flask server in development mode...
-WARNING:werkzeug: * Debugger is active!
-INFO:werkzeug: * Debugger PIN: 114-241-345
-INFO:werkzeug: * Detected change in '/Users/matthewzienert/Documents/landuse/apis/rag/inference/langchain_manager.py', reloading
-INFO:werkzeug: * Restarting with stat
-Could not initialize collection 'la_plata_assessor': Collection [la_plata_assessor] does not exists
-INFO:apis.search.search_engine:Connecting to ChromaDB...
-INFO:apis.search.search_engine:Connected to collection 'la_plata_county_code': 1298 documents
-WARNING:apis.search.search_engine:Could not initialize collection 'la_plata_assessor': Collection [la_plata_assessor] does not exists
-INFO:apis.search.search_engine:Successfully initialized 1 collections
-INFO:__main__:Search system initialized successfully
-INFO:__main__:Starting Flask server in development mode...
-WARNING:werkzeug: * Debugger is active!
-INFO:werkzeug: * Debugger PIN: 114-241-345
-INFO:werkzeug: * Detected change in '/Users/matthewzienert/Documents/landuse/apis/rag/inference/base.py', reloading
-INFO:werkzeug: * Restarting with stat
-Could not initialize collection 'la_plata_assessor': Collection [la_plata_assessor] does not exists
-INFO:apis.search.search_engine:Connecting to ChromaDB...
-INFO:apis.search.search_engine:Connected to collection 'la_plata_county_code': 1298 documents
-WARNING:apis.search.search_engine:Could not initialize collection 'la_plata_assessor': Collection [la_plata_assessor] does not exists
-INFO:apis.search.search_engine:Successfully initialized 1 collections
-INFO:__main__:Search system initialized successfully
-INFO:__main__:Starting Flask server in development mode...
-WARNING:werkzeug: * Debugger is active!
-INFO:werkzeug: * Debugger PIN: 114-241-345
-INFO:werkzeug: * Detected change in '/Users/matthewzienert/Documents/landuse/apis/rag/inference/langchain_manager.py', reloading
-INFO:werkzeug: * Restarting with stat
-Could not initialize collection 'la_plata_assessor': Collection [la_plata_assessor] does not exists
-INFO:apis.search.search_engine:Connecting to ChromaDB...
-INFO:apis.search.search_engine:Connected to collection 'la_plata_county_code': 1298 documents
-WARNING:apis.search.search_engine:Could not initialize collection 'la_plata_assessor': Collection [la_plata_assessor] does not exists
-INFO:apis.search.search_engine:Successfully initialized 1 collections
-INFO:__main__:Search system initialized successfully
-INFO:__main__:Starting Flask server in development mode...
-WARNING:werkzeug: * Debugger is active!
-INFO:werkzeug: * Debugger PIN: 114-241-345
-INFO:werkzeug: * Detected change in '/Users/matthewzienert/Documents/landuse/apis/rag/inference/langchain_manager.py', reloading
-INFO:werkzeug: * Restarting with stat
-Could not initialize collection 'la_plata_assessor': Collection [la_plata_assessor] does not exists
-INFO:apis.search.search_engine:Connecting to ChromaDB...
-INFO:apis.search.search_engine:Connected to collection 'la_plata_county_code': 1298 documents
-WARNING:apis.search.search_engine:Could not initialize collection 'la_plata_assessor': Collection [la_plata_assessor] does not exists
-INFO:apis.search.search_engine:Successfully initialized 1 collections
-INFO:__main__:Search system initialized successfully
-INFO:__main__:Starting Flask server in development mode...
-WARNING:werkzeug: * Debugger is active!
-INFO:werkzeug: * Debugger PIN: 114-241-345
-INFO:werkzeug: * Detected change in '/Users/matthewzienert/Documents/landuse/apis/rag/rag_engine.py', reloading
-INFO:werkzeug: * Restarting with stat
-Could not initialize collection 'la_plata_assessor': Collection [la_plata_assessor] does not exists
-INFO:apis.search.search_engine:Connecting to ChromaDB...
-INFO:apis.search.search_engine:Connected to collection 'la_plata_county_code': 1298 documents
-WARNING:apis.search.search_engine:Could not initialize collection 'la_plata_assessor': Collection [la_plata_assessor] does not exists
-INFO:apis.search.search_engine:Successfully initialized 1 collections
-INFO:__main__:Search system initialized successfully
-INFO:__main__:Starting Flask server in development mode...
-WARNING:werkzeug: * Debugger is active!
-INFO:werkzeug: * Debugger PIN: 114-241-345
-INFO:werkzeug: * Detected change in '/Users/matthewzienert/Documents/landuse/apis/rag/handlers/answer.py', reloading
-INFO:werkzeug: * Restarting with stat
-Could not initialize collection 'la_plata_assessor': Collection [la_plata_assessor] does not exists
-INFO:apis.search.search_engine:Connecting to ChromaDB...
-INFO:apis.search.search_engine:Connected to collection 'la_plata_county_code': 1298 documents
-WARNING:apis.search.search_engine:Could not initialize collection 'la_plata_assessor': Collection [la_plata_assessor] does not exists
-INFO:apis.search.search_engine:Successfully initialized 1 collections
-INFO:__main__:Search system initialized successfully
-INFO:__main__:Starting Flask server in development mode...
-WARNING:werkzeug: * Debugger is active!
-INFO:werkzeug: * Debugger PIN: 114-241-345
-INFO:werkzeug: * Detected change in '/Users/matthewzienert/Documents/landuse/apis/rag/handlers/answer.py', reloading
-INFO:werkzeug: * Restarting with stat
-Could not initialize collection 'la_plata_assessor': Collection [la_plata_assessor] does not exists
-INFO:apis.search.search_engine:Connecting to ChromaDB...
-INFO:apis.search.search_engine:Connected to collection 'la_plata_county_code': 1298 documents
-WARNING:apis.search.search_engine:Could not initialize collection 'la_plata_assessor': Collection [la_plata_assessor] does not exists
-INFO:apis.search.search_engine:Successfully initialized 1 collections
-INFO:__main__:Search system initialized successfully
-INFO:__main__:Starting Flask server in development mode...
-WARNING:werkzeug: * Debugger is active!
-INFO:werkzeug: * Debugger PIN: 114-241-345
-INFO:werkzeug: * Detected change in '/Users/matthewzienert/Documents/landuse/apis/rag/handlers/answer.py', reloading
-INFO:werkzeug: * Restarting with stat
-Could not initialize collection 'la_plata_assessor': Collection [la_plata_assessor] does not exists
-INFO:apis.search.search_engine:Connecting to ChromaDB...
-INFO:apis.search.search_engine:Connected to collection 'la_plata_county_code': 1298 documents
-WARNING:apis.search.search_engine:Could not initialize collection 'la_plata_assessor': Collection [la_plata_assessor] does not exists
-INFO:apis.search.search_engine:Successfully initialized 1 collections
-INFO:__main__:Search system initialized successfully
-INFO:__main__:Starting Flask server in development mode...
-WARNING:werkzeug: * Debugger is active!
-INFO:werkzeug: * Debugger PIN: 114-241-345
-INFO:werkzeug: * Detected change in '/Users/matthewzienert/Documents/landuse/apis/rag/rag_engine.py', reloading
-INFO:werkzeug: * Restarting with stat
-Could not initialize collection 'la_plata_assessor': Collection [la_plata_assessor] does not exists
-INFO:apis.search.search_engine:Connecting to ChromaDB...
-INFO:apis.search.search_engine:Connected to collection 'la_plata_county_code': 1298 documents
-WARNING:apis.search.search_engine:Could not initialize collection 'la_plata_assessor': Collection [la_plata_assessor] does not exists
-INFO:apis.search.search_engine:Successfully initialized 1 collections
-INFO:__main__:Search system initialized successfully
-INFO:__main__:Starting Flask server in development mode...
-WARNING:werkzeug: * Debugger is active!
-INFO:werkzeug: * Debugger PIN: 114-241-345
-INFO:werkzeug: * Detected change in '/Users/matthewzienert/Documents/landuse/apis/rag/handlers/health.py', reloading
-INFO:werkzeug: * Restarting with stat
-Could not initialize collection 'la_plata_assessor': Collection [la_plata_assessor] does not exists
-INFO:apis.search.search_engine:Connecting to ChromaDB...
-INFO:apis.search.search_engine:Connected to collection 'la_plata_county_code': 1298 documents
-WARNING:apis.search.search_engine:Could not initialize collection 'la_plata_assessor': Collection [la_plata_assessor] does not exists
-INFO:apis.search.search_engine:Successfully initialized 1 collections
-INFO:__main__:Search system initialized successfully
-INFO:__main__:Starting Flask server in development mode...
-WARNING:werkzeug: * Debugger is active!
-INFO:werkzeug: * Debugger PIN: 114-241-345
-INFO:werkzeug: * Detected change in '/Users/matthewzienert/Documents/landuse/apis/rag/handlers/health.py', reloading
-INFO:werkzeug: * Restarting with stat
-Could not initialize collection 'la_plata_assessor': Collection [la_plata_assessor] does not exists
-INFO:apis.search.search_engine:Connecting to ChromaDB...
-INFO:apis.search.search_engine:Connected to collection 'la_plata_county_code': 1298 documents
-WARNING:apis.search.search_engine:Could not initialize collection 'la_plata_assessor': Collection [la_plata_assessor] does not exists
-INFO:apis.search.search_engine:Successfully initialized 1 collections
-INFO:__main__:Search system initialized successfully
-INFO:__main__:Starting Flask server in development mode...
-WARNING:werkzeug: * Debugger is active!
-INFO:werkzeug: * Debugger PIN: 114-241-345
-INFO:werkzeug: * Detected change in '/Users/matthewzienert/Documents/landuse/apis/rag/handlers/model.py', reloading
-INFO:werkzeug: * Restarting with stat
-Could not initialize collection 'la_plata_assessor': Collection [la_plata_assessor] does not exists
-INFO:apis.search.search_engine:Connecting to ChromaDB...
-INFO:apis.search.search_engine:Connected to collection 'la_plata_county_code': 1298 documents
-WARNING:apis.search.search_engine:Could not initialize collection 'la_plata_assessor': Collection [la_plata_assessor] does not exists
-INFO:apis.search.search_engine:Successfully initialized 1 collections
-INFO:__main__:Search system initialized successfully
-INFO:__main__:Starting Flask server in development mode...
-WARNING:werkzeug: * Debugger is active!
-INFO:werkzeug: * Debugger PIN: 114-241-345
-INFO:werkzeug: * Detected change in '/Users/matthewzienert/Documents/landuse/apis/rag/handlers/health.py', reloading
-INFO:werkzeug: * Restarting with stat
-Could not initialize collection 'la_plata_assessor': Collection [la_plata_assessor] does not exists
-INFO:apis.search.search_engine:Connecting to ChromaDB...
-INFO:apis.search.search_engine:Connected to collection 'la_plata_county_code': 1298 documents
-WARNING:apis.search.search_engine:Could not initialize collection 'la_plata_assessor': Collection [la_plata_assessor] does not exists
-INFO:apis.search.search_engine:Successfully initialized 1 collections
-INFO:__main__:Search system initialized successfully
-INFO:__main__:Starting Flask server in development mode...
-WARNING:werkzeug: * Debugger is active!
-INFO:werkzeug: * Debugger PIN: 114-241-345
-INFO:werkzeug: * Detected change in '/Users/matthewzienert/Documents/landuse/apis/rag/test_factory_structure.py', reloading
-INFO:werkzeug: * Restarting with stat
-Could not initialize collection 'la_plata_assessor': Collection [la_plata_assessor] does not exists
-INFO:apis.search.search_engine:Connecting to ChromaDB...
-INFO:apis.search.search_engine:Connected to collection 'la_plata_county_code': 1298 documents
-WARNING:apis.search.search_engine:Could not initialize collection 'la_plata_assessor': Collection [la_plata_assessor] does not exists
-INFO:apis.search.search_engine:Successfully initialized 1 collections
-INFO:__main__:Search system initialized successfully
-INFO:__main__:Starting Flask server in development mode...
-WARNING:werkzeug: * Debugger is active!
-INFO:werkzeug: * Debugger PIN: 114-241-345
-INFO:werkzeug: * Detected change in '/Users/matthewzienert/Documents/landuse/apis/rag/inference/__init__.py', reloading
-INFO:werkzeug: * Restarting with stat
-Could not initialize collection 'la_plata_assessor': Collection [la_plata_assessor] does not exists
-INFO:apis.search.search_engine:Connecting to ChromaDB...
-INFO:apis.search.search_engine:Connected to collection 'la_plata_county_code': 1298 documents
-WARNING:apis.search.search_engine:Could not initialize collection 'la_plata_assessor': Collection [la_plata_assessor] does not exists
-INFO:apis.search.search_engine:Successfully initialized 1 collections
-INFO:__main__:Search system initialized successfully
-INFO:__main__:Starting Flask server in development mode...
-WARNING:werkzeug: * Debugger is active!
-INFO:werkzeug: * Debugger PIN: 114-241-345
-INFO:werkzeug: * Detected change in '/Users/matthewzienert/Documents/landuse/apis/rag/test_factory_structure.py', reloading
-INFO:werkzeug: * Restarting with stat
-Could not initialize collection 'la_plata_assessor': Collection [la_plata_assessor] does not exists
-INFO:apis.search.search_engine:Connecting to ChromaDB...
-INFO:apis.search.search_engine:Connected to collection 'la_plata_county_code': 1298 documents
-WARNING:apis.search.search_engine:Could not initialize collection 'la_plata_assessor': Collection [la_plata_assessor] does not exists
-INFO:apis.search.search_engine:Successfully initialized 1 collections
-INFO:__main__:Search system initialized successfully
-INFO:__main__:Starting Flask server in development mode...
-WARNING:werkzeug: * Debugger is active!
-INFO:werkzeug: * Debugger PIN: 114-241-345
-INFO:werkzeug: * Detected change in '/Users/matthewzienert/Documents/landuse/apis/rag/test_factory_structure.py', reloading
-INFO:werkzeug: * Restarting with stat
-Could not initialize collection 'la_plata_assessor': Collection [la_plata_assessor] does not exists
-INFO:apis.search.search_engine:Connecting to ChromaDB...
-INFO:apis.search.search_engine:Connected to collection 'la_plata_county_code': 1298 documents
-WARNING:apis.search.search_engine:Could not initialize collection 'la_plata_assessor': Collection [la_plata_assessor] does not exists
-INFO:apis.search.search_engine:Successfully initialized 1 collections
-INFO:__main__:Search system initialized successfully
-INFO:__main__:Starting Flask server in development mode...
-WARNING:werkzeug: * Debugger is active!
-INFO:werkzeug: * Debugger PIN: 114-241-345
-INFO:werkzeug: * Detected change in '/Users/matthewzienert/Documents/landuse/apis/search/embeddings/create_assessor_embeddings.py', reloading
-INFO:werkzeug: * Restarting with stat
-Could not initialize collection 'la_plata_assessor': Collection [la_plata_assessor] does not exists
-INFO:apis.search.search_engine:Connecting to ChromaDB...
-INFO:apis.search.search_engine:Connected to collection 'la_plata_county_code': 1298 documents
-WARNING:apis.search.search_engine:Could not initialize collection 'la_plata_assessor': Collection [la_plata_assessor] does not exists
-INFO:apis.search.search_engine:Successfully initialized 1 collections
-INFO:__main__:Search system initialized successfully
-INFO:__main__:Starting Flask server in development mode...
-WARNING:werkzeug: * Debugger is active!
-INFO:werkzeug: * Debugger PIN: 114-241-345
+/Users/matthewzienert/Documents/landuse/env/bin/python: Error while finding module specification for 'apis.search.search_api' (ModuleNotFoundError: No module named 'apis')

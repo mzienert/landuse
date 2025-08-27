@@ -6,7 +6,7 @@ with automatic provider selection and fallback logic.
 
 Examples:
     Basic usage:
-    >>> from apis.rag.providers import LLMProviderFactory
+    >>> from services.rag.providers import LLMProviderFactory
     >>> provider = LLMProviderFactory.get_provider('local')
     >>> response = provider.generate([HumanMessage(content="Hello")])
     
@@ -24,6 +24,6 @@ __all__ = [
 ]
 
 # Internal components can be imported directly when needed:
-# from apis.rag.providers.base import LLMProvider
-# from apis.rag.providers.local_llamacpp import LocalLlamaCppProvider
-# from apis.rag.providers.bedrock import BedrockProvider
+# from services.rag.providers.base import LLMProvider
+# from services.rag.providers.local_llamacpp import LocalLlamaCppProvider
+# from services.rag.providers.bedrock import BedrockProvider

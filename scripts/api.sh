@@ -45,7 +45,7 @@ start_api() {
     # Check if ChromaDB exists
     if [ ! -d "chroma_db" ]; then
         echo "Error: ChromaDB not found at ./chroma_db"
-        echo "Please run: python apis/search/embeddings/create_legal_embeddings.py"
+        echo "Please run: python services/search/embeddings/create_legal_embeddings.py"
         return 1
     fi
     
@@ -53,7 +53,7 @@ start_api() {
     source env/bin/activate
     
     # Start server in background
-    nohup python -m apis.search.search_api > "$LOG_FILE" 2>&1 &
+    nohup python -m services.search.search_api > "$LOG_FILE" 2>&1 &
     local pid=$!
     
     # Save PID

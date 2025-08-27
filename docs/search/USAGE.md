@@ -412,7 +412,7 @@ for result in results:
 The Search API uses Flask's application factory pattern for better testability and configuration management:
 
 ```python
-from apis.search.app_factory import create_app
+from services.search.app_factory import create_app
 
 # Create test instance (in-memory database)
 test_app = create_app('testing')
@@ -447,7 +447,7 @@ search_engine = test_app.config['SEARCH_ENGINE']
 
 ```python
 import unittest
-from apis.search.app_factory import create_app
+from services.search.app_factory import create_app
 
 class TestSearchAPI(unittest.TestCase):
     def setUp(self):
@@ -499,10 +499,10 @@ python test_full_integration.py
 
 ```python
 import unittest.mock
-from apis.search.app_factory import create_app
+from services.search.app_factory import create_app
 
 class TestSearchAPIMocked(unittest.TestCase):
-    @unittest.mock.patch('apis.search.search_engine.chromadb.Client')
+    @unittest.mock.patch('services.search.search_engine.chromadb.Client')
     def test_search_with_mock_db(self, mock_client):
         # Mock ChromaDB responses
         mock_collection = unittest.mock.Mock()

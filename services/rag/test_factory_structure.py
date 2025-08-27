@@ -12,7 +12,7 @@ def test_inference_factory():
     print("Testing Inference Manager Factory...")
     
     try:
-        from apis.rag.inference import InferenceManagerFactory
+        from services.rag.inference import InferenceManagerFactory
         print("✅ Successfully imported InferenceManagerFactory")
         
         # Test getting factory info
@@ -44,7 +44,7 @@ def test_provider_factory():
     print("\nTesting LLM Provider Factory...")
     
     try:
-        from apis.rag.providers import LLMProviderFactory
+        from services.rag.providers import LLMProviderFactory
         print("✅ Successfully imported LLMProviderFactory")
         
         # Test creating a local provider
@@ -66,7 +66,7 @@ def test_rag_engine_integration():
     print("\nTesting RAG Engine Integration...")
     
     try:
-        from apis.rag.rag_engine import RAGEngine
+        from services.rag.rag_engine import RAGEngine
         print("✅ Successfully imported RAGEngine")
         
         # Test creating and initializing engine

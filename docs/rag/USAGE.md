@@ -174,7 +174,7 @@ curl -X POST http://localhost:8001/rag/answer \
 The RAG API uses Flask's application factory pattern for better testability and configuration management:
 
 ```python
-from apis.rag.app_factory import create_app
+from services.rag.app_factory import create_app
 
 # Create test instance
 test_app = create_app('testing')
@@ -214,7 +214,7 @@ with test_app.app_context():
 
 ```python
 import unittest
-from apis.rag.app_factory import create_app
+from services.rag.app_factory import create_app
 
 class TestRAGAPI(unittest.TestCase):
     def setUp(self):

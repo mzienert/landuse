@@ -50,7 +50,7 @@ run_test_category() {
     local test_pattern=$3
     
     print_status $YELLOW "Testing: $description"
-    if python -m pytest "apis/rag/test_langchain_migration.py::$test_pattern" -v; then
+    if python -m pytest "services/rag/test_langchain_migration.py::$test_pattern" -v; then
         print_status $GREEN "✅ $description passed"
     else
         print_status $RED "❌ $description failed"
@@ -80,7 +80,7 @@ run_test_category "errors" "Error Handling" "TestErrorHandling"
 
 # Integration tests (optional)
 print_status $YELLOW "🔗 Running integration tests (optional)..."
-if python -m pytest "apis/rag/test_langchain_migration.py::TestIntegration" -v -m integration; then
+if python -m pytest "services/rag/test_langchain_migration.py::TestIntegration" -v -m integration; then
     print_status $GREEN "✅ Integration tests passed"
 else
     print_status $YELLOW "⚠️  Integration tests skipped (llama.cpp server not running)"
@@ -122,7 +122,7 @@ import sys
 import os
 sys.path.insert(0, '.')
 try:
-    from apis.rag.config import Config
+    from services.rag.config import Config
     config = Config()
     
     # Check LangChain settings exist

@@ -30,7 +30,7 @@ apis/rag/providers/
 
 ```python
 # Primary usage - Factory pattern (recommended)
-from apis.rag.providers import LLMProviderFactory
+from services.rag.providers import LLMProviderFactory
 
 # Basic provider creation
 provider = LLMProviderFactory.get_provider('local')
@@ -681,14 +681,14 @@ echo "AWS_PROFILE=production" >> .env.production
 ```bash
 # Test staging environment
 DEPLOYMENT_ENV=staging python -c "
-from apis.rag.llm_provider import LLMProviderFactory
+from services.rag.llm_provider import LLMProviderFactory
 provider = LLMProviderFactory.get_provider('staging')
 print('Staging available:', provider.is_available())
 "
 
 # Test production environment
 DEPLOYMENT_ENV=production python -c "
-from apis.rag.llm_provider import LLMProviderFactory
+from services.rag.llm_provider import LLMProviderFactory
 provider = LLMProviderFactory.get_provider('production')
 print('Production available:', provider.is_available())
 "

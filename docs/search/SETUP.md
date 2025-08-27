@@ -187,16 +187,16 @@ Starting La Plata County Search API...
 ```bash
 # Run directly from project root
 cd /Users/matthewzienert/Documents/landuse
-python -m apis.search.search_api
+python -m services.search.search_api
 
 # Or with specific environment
 export FLASK_ENV=testing
-python -m apis.search.search_api
+python -m services.search.search_api
 
 # Or production mode
 export FLASK_ENV=production
 export SECRET_KEY=your-secret
-python -m apis.search.search_api
+python -m services.search.search_api
 ```
 
 **Expected Output**:

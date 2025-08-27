@@ -36,7 +36,7 @@ class LangChainInferenceManager(InferenceManagerBase):
 ### 3. **Clean Factory Pattern**
 ```python
 # Usage
-from apis.rag.inference import InferenceManagerFactory
+from services.rag.inference import InferenceManagerFactory
 
 # Get manager (automatic selection with fallback)
 manager = InferenceManagerFactory.get_available_manager()
@@ -175,7 +175,7 @@ python apis/rag/test_factory_structure.py
 
 ### **Basic Text Generation**
 ```python
-from apis.rag.inference import InferenceManagerFactory
+from services.rag.inference import InferenceManagerFactory
 
 manager = InferenceManagerFactory.get_available_manager()
 response = manager.generate("Explain building permits")

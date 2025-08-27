@@ -6,9 +6,9 @@ from unittest.mock import patch, MagicMock
 # Add the project root to the Python path
 sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), '../..')))
 
-from apis.rag.providers import LLMProviderFactory
-from apis.rag.config import Config
-from apis.rag.langchain_inference import LangChainInferenceManager
+from services.rag.providers import LLMProviderFactory
+from services.rag.config import Config
+from services.rag.langchain_inference import LangChainInferenceManager
 
 class TestLLMProviders:
     """Test suite for LLM provider classes"""
@@ -87,8 +87,8 @@ class TestLLMProviders:
 class TestLangChainInferenceManager:
     """Test suite for LangChain inference manager"""
     
-    @patch('apis.rag.langchain_inference.LLMProviderFactory.get_available_provider')
-    @patch('apis.rag.langchain_inference.current_app')
+    @patch('services.rag.langchain_inference.LLMProviderFactory.get_available_provider')
+    @patch('services.rag.langchain_inference.current_app')
     def test_inference_manager_initialization(self, mock_app, mock_factory):
         """Test inference manager initializes correctly"""
         # Mock provider
@@ -106,8 +106,8 @@ class TestLangChainInferenceManager:
         assert manager.is_available == True
         assert manager.is_loaded == True
     
-    @patch('apis.rag.langchain_inference.LLMProviderFactory.get_available_provider')
-    @patch('apis.rag.langchain_inference.current_app')
+    @patch('services.rag.langchain_inference.LLMProviderFactory.get_available_provider')
+    @patch('services.rag.langchain_inference.current_app')
     def test_inference_manager_load_model(self, mock_app, mock_factory):
         """Test model loading functionality"""
         # Mock provider
@@ -125,8 +125,8 @@ class TestLangChainInferenceManager:
         assert result["max_context"] == 4096
         assert manager.model_id == "test-model"
     
-    @patch('apis.rag.langchain_inference.LLMProviderFactory.get_available_provider')
-    @patch('apis.rag.langchain_inference.current_app')
+    @patch('services.rag.langchain_inference.LLMProviderFactory.get_available_provider')
+    @patch('services.rag.langchain_inference.current_app')
     def test_generate_text(self, mock_app, mock_factory):
         """Test text generation functionality"""
         # Mock provider
@@ -144,8 +144,8 @@ class TestLangChainInferenceManager:
         assert response == "Generated response"
         mock_provider.generate.assert_called_once()
     
-    @patch('apis.rag.langchain_inference.LLMProviderFactory.get_available_provider')
-    @patch('apis.rag.langchain_inference.current_app')
+    @patch('services.rag.langchain_inference.LLMProviderFactory.get_available_provider')
+    @patch('services.rag.langchain_inference.current_app')
     def test_stream_generate_compatibility(self, mock_app, mock_factory):
         """Test stream_generate maintains ModelManager interface"""
         # Mock provider
@@ -207,10 +207,10 @@ class TestLangSmithIntegration:
         'LANGSMITH_API_KEY': 'test-key',
         'LANGSMITH_PROJECT': 'test-project'
     })
-    @patch('apis.rag.langchain_inference.Client')
-    @patch('apis.rag.langchain_inference.LangChainTracer')
-    @patch('apis.rag.langchain_inference.LLMProviderFactory.get_available_provider')
-    @patch('apis.rag.langchain_inference.current_app')
+    @patch('services.rag.langchain_inference.Client')
+    @patch('services.rag.langchain_inference.LangChainTracer')
+    @patch('services.rag.langchain_inference.LLMProviderFactory.get_available_provider')
+    @patch('services.rag.langchain_inference.current_app')
     def test_langsmith_setup_enabled(self, mock_app, mock_factory, mock_tracer, mock_client):
         """Test LangSmith setup when tracing is enabled"""
         # Mock provider
@@ -239,8 +239,8 @@ class TestLangSmithIntegration:
         assert manager.tracer == mock_tracer_instance
     
     @patch.dict(os.environ, {'LANGSMITH_TRACING': 'false'})
-    @patch('apis.rag.langchain_inference.LLMProviderFactory.get_available_provider')
-    @patch('apis.rag.langchain_inference.current_app')
+    @patch('services.rag.langchain_inference.LLMProviderFactory.get_available_provider')
+    @patch('services.rag.langchain_inference.current_app')
     def test_langsmith_setup_disabled(self, mock_app, mock_factory):
         """Test LangSmith setup when tracing is disabled"""
         # Mock provider
@@ -260,7 +260,7 @@ class TestLangSmithIntegration:
 class TestErrorHandling:
     """Test error handling in the LangChain migration"""
     
-    @patch('apis.rag.langchain_inference.LLMProviderFactory.get_available_provider')
+    @patch('services.rag.langchain_inference.LLMProviderFactory.get_available_provider')
     def test_no_providers_available(self, mock_factory):
         """Test error handling when no providers are available"""
         mock_factory.side_effect = RuntimeError("No LLM providers are available")
@@ -268,8 +268,8 @@ class TestErrorHandling:
         with pytest.raises(RuntimeError, match="No LLM providers available"):
             LangChainInferenceManager()
     
-    @patch('apis.rag.langchain_inference.LLMProviderFactory.get_available_provider')
-    @patch('apis.rag.langchain_inference.current_app')
+    @patch('services.rag.langchain_inference.LLMProviderFactory.get_available_provider')
+    @patch('services.rag.langchain_inference.current_app')
     def test_generation_error_handling(self, mock_app, mock_factory):
         """Test error handling during text generation"""
         # Mock provider that fails generation

@@ -109,7 +109,7 @@ export FLASK_ENV=production
 ./scripts/run_rag.sh start
 
 # Or direct Python execution
-python -m apis.rag.rag_api
+python -m services.rag.rag_api
 ```
 
 The service will:

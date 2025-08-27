@@ -28,9 +28,9 @@ def test_imports():
         print("  ✅ LangChain dependencies available")
         
         # Test local module imports
-        from apis.rag.providers import LLMProviderFactory
-        from apis.rag.langchain_inference import LangChainInferenceManager
-        from apis.rag.config import Config
+        from services.rag.providers import LLMProviderFactory
+        from services.rag.langchain_inference import LangChainInferenceManager
+        from services.rag.config import Config
         print("  ✅ Local modules importable")
         
         return True
@@ -43,8 +43,8 @@ def test_provider_factory():
     print("🔍 Testing provider factory...")
     
     try:
-        from apis.rag.providers import LLMProviderFactory
-        from apis.rag.config import Config
+        from services.rag.providers import LLMProviderFactory
+        from services.rag.config import Config
         
         # Test local environment
         os.environ['DEPLOYMENT_ENV'] = 'local'
@@ -84,7 +84,7 @@ def test_configuration():
     print("🔍 Testing configuration...")
     
     try:
-        from apis.rag.config import Config
+        from services.rag.config import Config
         
         config = Config()
         
@@ -115,8 +115,8 @@ def test_consistency_parameters():
     print("🔍 Testing parameter consistency...")
     
     try:
-        from apis.rag.providers import LLMProviderFactory
-        from apis.rag.config import Config
+        from services.rag.providers import LLMProviderFactory
+        from services.rag.config import Config
         
         # Test local provider
         local_provider = LLMProviderFactory.get_provider('local')
@@ -148,7 +148,7 @@ def test_inference_manager_interface():
     print("🔍 Testing inference manager interface...")
     
     try:
-        from apis.rag.langchain_inference import LangChainInferenceManager
+        from services.rag.langchain_inference import LangChainInferenceManager
         
         # Create mock Flask app context
         class MockApp:
@@ -165,14 +165,14 @@ def test_inference_manager_interface():
             def stream_generate(self, messages, **kwargs): yield "Mock"; yield " response"
         
         # Mock the factory
-        import apis.rag.langchain_inference
-        original_factory = apis.rag.langchain_inference.LLMProviderFactory.get_available_provider
-        apis.rag.langchain_inference.LLMProviderFactory.get_available_provider = lambda: MockProvider()
+        import services.rag.langchain_inference
+        original_factory = services.rag.langchain_inference.LLMProviderFactory.get_available_provider
+        services.rag.langchain_inference.LLMProviderFactory.get_available_provider = lambda: MockProvider()
         
         # Mock Flask current_app
-        import apis.rag.langchain_inference
-        original_current_app = getattr(apis.rag.langchain_inference, 'current_app', None)
-        apis.rag.langchain_inference.current_app = MockApp()
+        import services.rag.langchain_inference
+        original_current_app = getattr(services.rag.langchain_inference, 'current_app', None)
+        services.rag.langchain_inference.current_app = MockApp()
         
         try:
             # Test manager creation
@@ -200,9 +200,9 @@ def test_inference_manager_interface():
             
         finally:
             # Restore mocks
-            apis.rag.langchain_inference.LLMProviderFactory.get_available_provider = original_factory
+            services.rag.langchain_inference.LLMProviderFactory.get_available_provider = original_factory
             if original_current_app:
-                apis.rag.langchain_inference.current_app = original_current_app
+                services.rag.langchain_inference.current_app = original_current_app
             
     except Exception as e:
         print(f"  ❌ Inference manager error: {e}")

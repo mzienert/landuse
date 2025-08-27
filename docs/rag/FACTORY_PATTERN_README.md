@@ -28,7 +28,7 @@ apis/rag/
 ### 1. Inference Manager Factory (`inference/factory.py`)
 
 ```python
-from apis.rag.inference import InferenceManagerFactory
+from services.rag.inference import InferenceManagerFactory
 
 # Get specific manager type
 manager = InferenceManagerFactory.get_manager('langchain')

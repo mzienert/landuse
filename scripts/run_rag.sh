@@ -52,7 +52,7 @@ start_api() {
 
   echo "Starting RAG API on port $API_PORT..."
   echo "Environment: $env_type"
-  nohup python -m apis.rag.rag_api > "$LOG_FILE" 2>&1 &
+  nohup python -m services.rag.rag_api > "$LOG_FILE" 2>&1 &
   local pid=$!
   echo "$pid" > "$PID_FILE"
   sleep 2

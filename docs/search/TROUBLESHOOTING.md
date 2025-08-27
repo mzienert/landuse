@@ -524,7 +524,7 @@ watch -n 1 'ps aux | grep search_api.py | grep -v grep'
 # Run searches and monitor memory growth
 
 # Profile memory usage
-python3 -m memory_profiler -m apis.search.search_api
+python3 -m memory_profiler -m services.search.search_api
 ```
 
 ## Prevention and Monitoring
