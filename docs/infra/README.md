@@ -172,8 +172,8 @@ JSON Response (search results)
 - [ ] **Plan monitoring and logging approach** - Observability setup
 
 ### Phase 2: Lambda Search Service Deployment
-- [x] **Deploy basic Lambda function** - Lambda deployed to both environments:
-  - **Staging**: `https://5xq37t3ljg.execute-api.us-west-2.amazonaws.com/staging/search`
+- [x] **Deploy basic Lambda function** - Lambda deployed with refactored clean constructs:
+  - **Staging**: `https://0vf263niik.execute-api.us-west-2.amazonaws.com/staging/search`
   - **Production**: `https://6l08vehbs6.execute-api.us-west-2.amazonaws.com/prod/search`
 - [ ] **Setup Bedrock integration** - Configure Lambda IAM roles and Bedrock access for embedding generation
 - [ ] **Implement embedding generation** - Add sentence transformer functionality via Bedrock in Lambda
