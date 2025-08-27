@@ -8,15 +8,26 @@ from stacks.landuse_stack import LanduseStack
 
 app = cdk.App()
 
-# Get environment from context or default to dev
-env_name = app.node.try_get_context("env") or "dev"
+# Get environment from context - NO DEFAULT, must be explicitly set
+env_name = app.node.try_get_context("env")
+
+if not env_name:
+    raise ValueError(
+        "Environment must be specified using --context env=<environment>\n"
+        "Valid environments: staging, prod\n"
+        "Example: cdk deploy --context env=staging"
+    )
+
+# Only allow staging and prod deployments
+if env_name not in ["staging", "prod"]:
+    raise ValueError(
+        f"Invalid environment: {env_name}\n"
+        "Valid environments: staging, prod\n"
+        "Development should be done locally - never deploy 'dev' to AWS"
+    )
 
 # Define environment-specific configurations
 environments = {
-    "dev": {
-        "account": app.node.try_get_context("dev_account"),
-        "region": app.node.try_get_context("dev_region") or "us-west-2"
-    },
     "staging": {
         "account": app.node.try_get_context("staging_account"),
         "region": app.node.try_get_context("staging_region") or "us-west-2"
@@ -27,7 +38,7 @@ environments = {
     }
 }
 
-env_config = environments.get(env_name, environments["dev"])
+env_config = environments[env_name]
 
 # Create the stack with environment-specific configuration
 LanduseStack(
