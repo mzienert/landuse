@@ -1,9 +1,4 @@
-error: failed to get manifest at https://huggingface.co/v2/Qwen/Qwen2.5-3B-Instruct-GGUF/manifests/q4_k_m: error: cannot make GET request: Couldn't resolve host name
-trying to read manifest from cache: /Users/matthewzienert/Library/Caches/llama.cpp/manifest=Qwen_Qwen2.5-3B-Instruct-GGUF=q4_k_m.json
 curl_perform_with_retry: HEAD https://huggingface.co/Qwen/Qwen2.5-3B-Instruct-GGUF/resolve/main/qwen2.5-3b-instruct-q4_k_m.gguf (attempt 1 of 1)...
-curl_perform_with_retry: curl_easy_perform() failed: Couldn't resolve host name, retrying after 1000 milliseconds...
-curl_perform_with_retry: curl_easy_perform() failed after 1 attempts
-common_download_file_single: HEAD invalid http status code received: 0
 common_download_file_single: using cached file: /Users/matthewzienert/Library/Caches/llama.cpp/Qwen_Qwen2.5-3B-Instruct-GGUF_qwen2.5-3b-instruct-q4_k_m.gguf
 build: 6140 (b0493156) with Apple clang version 17.0.0 (clang-1700.0.13.3) for arm64-apple-darwin24.4.0
 system info: n_threads = 8, n_threads_batch = 8, total_threads = 12
@@ -270,4 +265,25 @@ srv  log_server_r: request: GET /health 127.0.0.1 200
 srv  log_server_r: request: GET /health 127.0.0.1 200
 srv  log_server_r: request: GET /health 127.0.0.1 200
 srv  log_server_r: request: GET /health 127.0.0.1 200
-srv  log_server_r: request: GET /favicon.ico 127.0.0.1 404
+srv  log_server_r: request: GET /health 127.0.0.1 200
+srv  params_from_: Chat format: Content-only
+slot launch_slot_: id  0 | task 0 | processing task
+slot update_slots: id  0 | task 0 | new prompt, n_ctx_slot = 4096, n_keep = 0, n_prompt_tokens = 2821
+slot update_slots: id  0 | task 0 | kv cache rm [0, end)
+slot update_slots: id  0 | task 0 | prompt processing progress, n_past = 2048, n_tokens = 2048, progress = 0.725984
+slot update_slots: id  0 | task 0 | kv cache rm [2048, end)
+slot update_slots: id  0 | task 0 | prompt processing progress, n_past = 2821, n_tokens = 773, progress = 1.000000
+slot update_slots: id  0 | task 0 | prompt done, n_past = 2821, n_tokens = 773
+slot      release: id  0 | task 0 | stop processing: n_past = 3212, truncated = 0
+slot print_timing: id  0 | task 0 | 
+prompt eval time =    3652.12 ms /  2821 tokens (    1.29 ms per token,   772.43 tokens per second)
+       eval time =    7593.86 ms /   392 tokens (   19.37 ms per token,    51.62 tokens per second)
+      total time =   11245.99 ms /  3213 tokens
+srv  update_slots: all slots are idle
+srv  log_server_r: request: POST /v1/chat/completions 127.0.0.1 200
+srv  log_server_r: request: GET /health 127.0.0.1 200
+srv  log_server_r: request: GET /health 127.0.0.1 200
+srv  log_server_r: request: GET /health 127.0.0.1 200
+srv  log_server_r: request: GET /health 127.0.0.1 200
+srv  log_server_r: request: GET /health 127.0.0.1 200
+srv  log_server_r: request: GET /health 127.0.0.1 200
