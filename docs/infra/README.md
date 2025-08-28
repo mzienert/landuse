@@ -21,7 +21,7 @@ The complete RAG system consists of three core services being migrated to AWS:
 - **Data**: Migrated to cloud Pinecone (1,298 county code vectors completed)
 
 ### LocalStack Integration (New Parallel Path)
-- **LocalStack**: Complete AWS service emulation (API Gateway, Lambda, Bedrock simulation)
+- **LocalStack**: AWS service emulation (API Gateway, Lambda) + existing llama.cpp inference
 - **Dual Development**: Run existing RAG system **alongside** LocalStack implementation
 - **Gradual Migration**: Move complete RAG functionality piece-by-piece from direct services → LocalStack → AWS
 - **Validation Pipeline**: Local RAG → LocalStack RAG → Staging RAG → Production RAG
@@ -59,14 +59,14 @@ AWS Production RAG Environment
 ## 🚀 Implementation Roadmap
 
 ### Phase 1: LocalStack Foundation (Current)
-- [ ] **LocalStack Docker Setup** - Configure LocalStack with API Gateway + Lambda + Bedrock services
-- [ ] **CDK LocalStack Integration** - Deploy complete RAG Lambda functions to LocalStack
-- [ ] **Parallel Development Script** - Modified start script running existing RAG system + LocalStack RAG
+- [ ] **LocalStack Docker Setup** - Configure LocalStack with API Gateway + Lambda services
+- [ ] **CDK LocalStack Integration** - Deploy RAG Lambda functions to LocalStack
+- [ ] **Parallel Development Script** - Modified start script running existing RAG system + LocalStack + llama.cpp
 - [ ] **Local Testing Framework** - Compare RAG responses between direct system and LocalStack implementation
 
 ### Phase 2: Search Service Migration (Starting Point)
 - [ ] **Search Lambda Health Check** - Migrate search `/health` endpoint functionality
-- [ ] **Bedrock Integration Setup** - Configure LocalStack Bedrock simulation for embeddings
+- [ ] **Embedding Generation Setup** - Configure embedding generation for LocalStack (initially via existing service)
 - [ ] **Pinecone Connection** - Connect LocalStack search Lambda to cloud Pinecone
 - [ ] **Simple Search Migration** - Move basic search functionality to Lambda
 - [ ] **Search Response Alignment** - Ensure LocalStack search responses match existing API
@@ -79,9 +79,9 @@ AWS Production RAG Environment
 - [ ] **RAG API Compatibility** - Ensure LocalStack RAG API matches existing interface
 
 ### Phase 4: Inference Service Migration
-- [ ] **Bedrock LLM Integration** - Replace llama.cpp with AWS Bedrock models
+- [ ] **Bedrock LLM Integration** - Replace llama.cpp with AWS Bedrock models (production only)
 - [ ] **Model Configuration** - Configure Bedrock models to match local llama.cpp behavior
-- [ ] **Inference Lambda Development** - Create inference abstraction Lambda if needed
+- [ ] **Inference Abstraction** - Create abstraction layer for llama.cpp → Bedrock transition
 - [ ] **Response Format Compatibility** - Ensure Bedrock responses match llama.cpp format
 
 ### Phase 5: Complete RAG System Integration
@@ -119,7 +119,7 @@ AWS Production RAG Environment
 ├─────────────────┤    ├─────────────────┤
 │ Search API :8000│    │ Search Lambda   │
 │ RAG API    :8001│    │ RAG Lambda      │
-│ llama.cpp  :8003│    │ Bedrock (mock)  │
+│ llama.cpp  :8003│    │ llama.cpp :8003 │
 └─────────────────┘    └─────────────────┘
          │                       │
          │                       │
