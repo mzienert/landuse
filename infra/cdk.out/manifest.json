@@ -1,32 +1,32 @@
 {
   "version": "36.0.0",
   "artifacts": {
-    "LanduseStack-staging.assets": {
+    "LanduseStack-prod.assets": {
       "type": "cdk:asset-manifest",
       "properties": {
-        "file": "LanduseStack-staging.assets.json",
+        "file": "LanduseStack-prod.assets.json",
         "requiresBootstrapStackVersion": 6,
         "bootstrapStackVersionSsmParameter": "/cdk-bootstrap/hnb659fds/version"
       }
     },
-    "LanduseStack-staging": {
+    "LanduseStack-prod": {
       "type": "aws:cloudformation:stack",
       "environment": "aws://unknown-account/us-west-2",
       "properties": {
-        "templateFile": "LanduseStack-staging.template.json",
+        "templateFile": "LanduseStack-prod.template.json",
         "terminationProtection": false,
         "tags": {
-          "Environment": "staging",
+          "Environment": "prod",
           "Project": "LaPlataCo-RAG"
         },
         "validateOnSynth": false,
         "assumeRoleArn": "arn:${AWS::Partition}:iam::${AWS::AccountId}:role/cdk-hnb659fds-deploy-role-${AWS::AccountId}-us-west-2",
         "cloudFormationExecutionRoleArn": "arn:${AWS::Partition}:iam::${AWS::AccountId}:role/cdk-hnb659fds-cfn-exec-role-${AWS::AccountId}-us-west-2",
-        "stackTemplateAssetObjectUrl": "s3://cdk-hnb659fds-assets-${AWS::AccountId}-us-west-2/23acaea013603130fbc5a51b56e9c996d557635258e87d108b4711f34afe4abe.json",
+        "stackTemplateAssetObjectUrl": "s3://cdk-hnb659fds-assets-${AWS::AccountId}-us-west-2/82f50ad01e7658ef5ccdd53577fcc46523f4f7e337166addf925536a17ad6113.json",
         "requiresBootstrapStackVersion": 6,
         "bootstrapStackVersionSsmParameter": "/cdk-bootstrap/hnb659fds/version",
         "additionalDependencies": [
-          "LanduseStack-staging.assets"
+          "LanduseStack-prod.assets"
         ],
         "lookupRole": {
           "arn": "arn:${AWS::Partition}:iam::${AWS::AccountId}:role/cdk-hnb659fds-lookup-role-${AWS::AccountId}-us-west-2",
@@ -35,16 +35,16 @@
         }
       },
       "dependencies": [
-        "LanduseStack-staging.assets"
+        "LanduseStack-prod.assets"
       ],
       "metadata": {
-        "/LanduseStack-staging": [
+        "/LanduseStack-prod": [
           {
             "type": "aws:cdk:stack-tags",
             "data": [
               {
                 "Key": "Environment",
-                "Value": "staging"
+                "Value": "prod"
               },
               {
                 "Key": "Project",
@@ -53,122 +53,122 @@
             ]
           }
         ],
-        "/LanduseStack-staging/SearchLambda/Function/ServiceRole/Resource": [
+        "/LanduseStack-prod/SearchLambda/Function/ServiceRole/Resource": [
           {
             "type": "aws:cdk:logicalId",
             "data": "SearchLambdaFunctionServiceRole554FEC7F"
           }
         ],
-        "/LanduseStack-staging/SearchLambda/Function/Resource": [
+        "/LanduseStack-prod/SearchLambda/Function/Resource": [
           {
             "type": "aws:cdk:logicalId",
             "data": "SearchLambdaFunctionA2AF8715"
           }
         ],
-        "/LanduseStack-staging/SearchAPI/RestApi/Resource": [
+        "/LanduseStack-prod/SearchAPI/RestApi/Resource": [
           {
             "type": "aws:cdk:logicalId",
             "data": "SearchAPIRestApiE9EC80E7"
           }
         ],
-        "/LanduseStack-staging/SearchAPI/RestApi/Deployment/Resource": [
+        "/LanduseStack-prod/SearchAPI/RestApi/Deployment/Resource": [
           {
             "type": "aws:cdk:logicalId",
-            "data": "SearchAPIRestApiDeploymentBF7C4B25fc8d71ff543b13e30e9e0c413f0eb16c"
+            "data": "SearchAPIRestApiDeploymentBF7C4B25fa1ebe8e982b27e0b1964cf0158b4978"
           }
         ],
-        "/LanduseStack-staging/SearchAPI/RestApi/DeploymentStage.staging/Resource": [
+        "/LanduseStack-prod/SearchAPI/RestApi/DeploymentStage.prod/Resource": [
           {
             "type": "aws:cdk:logicalId",
-            "data": "SearchAPIRestApiDeploymentStagestaging1B936656"
+            "data": "SearchAPIRestApiDeploymentStageprod1D3A0733"
           }
         ],
-        "/LanduseStack-staging/SearchAPI/RestApi/Endpoint": [
+        "/LanduseStack-prod/SearchAPI/RestApi/Endpoint": [
           {
             "type": "aws:cdk:logicalId",
             "data": "SearchAPIRestApiEndpoint986BFBC4"
           }
         ],
-        "/LanduseStack-staging/SearchAPI/RestApi/Default/OPTIONS/Resource": [
+        "/LanduseStack-prod/SearchAPI/RestApi/Default/OPTIONS/Resource": [
           {
             "type": "aws:cdk:logicalId",
             "data": "SearchAPIRestApiOPTIONS453BD7F1"
           }
         ],
-        "/LanduseStack-staging/SearchAPI/RestApi/Default/search/Resource": [
+        "/LanduseStack-prod/SearchAPI/RestApi/Default/search/Resource": [
           {
             "type": "aws:cdk:logicalId",
             "data": "SearchAPIRestApisearch199C2EB0"
           }
         ],
-        "/LanduseStack-staging/SearchAPI/RestApi/Default/search/OPTIONS/Resource": [
+        "/LanduseStack-prod/SearchAPI/RestApi/Default/search/OPTIONS/Resource": [
           {
             "type": "aws:cdk:logicalId",
             "data": "SearchAPIRestApisearchOPTIONSC0ADAB4F"
           }
         ],
-        "/LanduseStack-staging/SearchAPI/RestApi/Default/search/GET/ApiPermission.LanduseStackstagingSearchAPIRestApi617F7371.GET..search": [
+        "/LanduseStack-prod/SearchAPI/RestApi/Default/search/GET/ApiPermission.LanduseStackprodSearchAPIRestApiDBBBAF71.GET..search": [
           {
             "type": "aws:cdk:logicalId",
-            "data": "SearchAPIRestApisearchGETApiPermissionLanduseStackstagingSearchAPIRestApi617F7371GETsearch38E51B28"
+            "data": "SearchAPIRestApisearchGETApiPermissionLanduseStackprodSearchAPIRestApiDBBBAF71GETsearchE523F324"
           }
         ],
-        "/LanduseStack-staging/SearchAPI/RestApi/Default/search/GET/ApiPermission.Test.LanduseStackstagingSearchAPIRestApi617F7371.GET..search": [
+        "/LanduseStack-prod/SearchAPI/RestApi/Default/search/GET/ApiPermission.Test.LanduseStackprodSearchAPIRestApiDBBBAF71.GET..search": [
           {
             "type": "aws:cdk:logicalId",
-            "data": "SearchAPIRestApisearchGETApiPermissionTestLanduseStackstagingSearchAPIRestApi617F7371GETsearchD75FD3C0"
+            "data": "SearchAPIRestApisearchGETApiPermissionTestLanduseStackprodSearchAPIRestApiDBBBAF71GETsearch7250F973"
           }
         ],
-        "/LanduseStack-staging/SearchAPI/RestApi/Default/search/GET/Resource": [
+        "/LanduseStack-prod/SearchAPI/RestApi/Default/search/GET/Resource": [
           {
             "type": "aws:cdk:logicalId",
             "data": "SearchAPIRestApisearchGET15E5EC10"
           }
         ],
-        "/LanduseStack-staging/SearchAPI/RestApi/Default/search/POST/ApiPermission.LanduseStackstagingSearchAPIRestApi617F7371.POST..search": [
+        "/LanduseStack-prod/SearchAPI/RestApi/Default/search/POST/ApiPermission.LanduseStackprodSearchAPIRestApiDBBBAF71.POST..search": [
           {
             "type": "aws:cdk:logicalId",
-            "data": "SearchAPIRestApisearchPOSTApiPermissionLanduseStackstagingSearchAPIRestApi617F7371POSTsearch8E87ACFF"
+            "data": "SearchAPIRestApisearchPOSTApiPermissionLanduseStackprodSearchAPIRestApiDBBBAF71POSTsearchEA772864"
           }
         ],
-        "/LanduseStack-staging/SearchAPI/RestApi/Default/search/POST/ApiPermission.Test.LanduseStackstagingSearchAPIRestApi617F7371.POST..search": [
+        "/LanduseStack-prod/SearchAPI/RestApi/Default/search/POST/ApiPermission.Test.LanduseStackprodSearchAPIRestApiDBBBAF71.POST..search": [
           {
             "type": "aws:cdk:logicalId",
-            "data": "SearchAPIRestApisearchPOSTApiPermissionTestLanduseStackstagingSearchAPIRestApi617F7371POSTsearch00C779BC"
+            "data": "SearchAPIRestApisearchPOSTApiPermissionTestLanduseStackprodSearchAPIRestApiDBBBAF71POSTsearchB71F230D"
           }
         ],
-        "/LanduseStack-staging/SearchAPI/RestApi/Default/search/POST/Resource": [
+        "/LanduseStack-prod/SearchAPI/RestApi/Default/search/POST/Resource": [
           {
             "type": "aws:cdk:logicalId",
             "data": "SearchAPIRestApisearchPOSTE553E7B8"
           }
         ],
-        "/LanduseStack-staging/SearchAPI/APIEndpoint": [
+        "/LanduseStack-prod/SearchAPI/APIEndpoint": [
           {
             "type": "aws:cdk:logicalId",
             "data": "SearchAPIAPIEndpointAACEDA10"
           }
         ],
-        "/LanduseStack-staging/CDKMetadata/Default": [
+        "/LanduseStack-prod/CDKMetadata/Default": [
           {
             "type": "aws:cdk:logicalId",
             "data": "CDKMetadata"
           }
         ],
-        "/LanduseStack-staging/BootstrapVersion": [
+        "/LanduseStack-prod/BootstrapVersion": [
           {
             "type": "aws:cdk:logicalId",
             "data": "BootstrapVersion"
           }
         ],
-        "/LanduseStack-staging/CheckBootstrapVersion": [
+        "/LanduseStack-prod/CheckBootstrapVersion": [
           {
             "type": "aws:cdk:logicalId",
             "data": "CheckBootstrapVersion"
           }
         ]
       },
-      "displayName": "LanduseStack-staging"
+      "displayName": "LanduseStack-prod"
     },
     "Tree": {
       "type": "cdk:tree",

@@ -4,25 +4,25 @@
     "id": "App",
     "path": "",
     "children": {
-      "LanduseStack-staging": {
-        "id": "LanduseStack-staging",
-        "path": "LanduseStack-staging",
+      "LanduseStack-prod": {
+        "id": "LanduseStack-prod",
+        "path": "LanduseStack-prod",
         "children": {
           "SearchLambda": {
             "id": "SearchLambda",
-            "path": "LanduseStack-staging/SearchLambda",
+            "path": "LanduseStack-prod/SearchLambda",
             "children": {
               "Function": {
                 "id": "Function",
-                "path": "LanduseStack-staging/SearchLambda/Function",
+                "path": "LanduseStack-prod/SearchLambda/Function",
                 "children": {
                   "ServiceRole": {
                     "id": "ServiceRole",
-                    "path": "LanduseStack-staging/SearchLambda/Function/ServiceRole",
+                    "path": "LanduseStack-prod/SearchLambda/Function/ServiceRole",
                     "children": {
                       "ImportServiceRole": {
                         "id": "ImportServiceRole",
-                        "path": "LanduseStack-staging/SearchLambda/Function/ServiceRole/ImportServiceRole",
+                        "path": "LanduseStack-prod/SearchLambda/Function/ServiceRole/ImportServiceRole",
                         "constructInfo": {
                           "fqn": "aws-cdk-lib.Resource",
                           "version": "2.148.0"
@@ -30,7 +30,7 @@
                       },
                       "Resource": {
                         "id": "Resource",
-                        "path": "LanduseStack-staging/SearchLambda/Function/ServiceRole/Resource",
+                        "path": "LanduseStack-prod/SearchLambda/Function/ServiceRole/Resource",
                         "attributes": {
                           "aws:cdk:cloudformation:type": "AWS::IAM::Role",
                           "aws:cdk:cloudformation:props": {
@@ -67,7 +67,7 @@
                               },
                               {
                                 "key": "Environment",
-                                "value": "staging"
+                                "value": "prod"
                               },
                               {
                                 "key": "Project",
@@ -93,11 +93,11 @@
                   },
                   "Code": {
                     "id": "Code",
-                    "path": "LanduseStack-staging/SearchLambda/Function/Code",
+                    "path": "LanduseStack-prod/SearchLambda/Function/Code",
                     "children": {
                       "Stage": {
                         "id": "Stage",
-                        "path": "LanduseStack-staging/SearchLambda/Function/Code/Stage",
+                        "path": "LanduseStack-prod/SearchLambda/Function/Code/Stage",
                         "constructInfo": {
                           "fqn": "aws-cdk-lib.AssetStaging",
                           "version": "2.148.0"
@@ -105,7 +105,7 @@
                       },
                       "AssetBucket": {
                         "id": "AssetBucket",
-                        "path": "LanduseStack-staging/SearchLambda/Function/Code/AssetBucket",
+                        "path": "LanduseStack-prod/SearchLambda/Function/Code/AssetBucket",
                         "constructInfo": {
                           "fqn": "aws-cdk-lib.aws_s3.BucketBase",
                           "version": "2.148.0"
@@ -119,7 +119,7 @@
                   },
                   "Resource": {
                     "id": "Resource",
-                    "path": "LanduseStack-staging/SearchLambda/Function/Resource",
+                    "path": "LanduseStack-prod/SearchLambda/Function/Resource",
                     "attributes": {
                       "aws:cdk:cloudformation:type": "AWS::Lambda::Function",
                       "aws:cdk:cloudformation:props": {
@@ -129,14 +129,14 @@
                           },
                           "s3Key": "9b220f7800c328e1d7816b6f8fd0d9aeb1c91c9b32649b70785cc46b1f4e07f8.zip"
                         },
-                        "description": "La Plata County Search Service - staging",
+                        "description": "La Plata County Search Service - prod",
                         "environment": {
                           "variables": {
-                            "ENVIRONMENT": "staging",
+                            "ENVIRONMENT": "prod",
                             "LOG_LEVEL": "INFO"
                           }
                         },
-                        "functionName": "landuse-search-staging",
+                        "functionName": "landuse-search-prod",
                         "handler": "lambda_function.lambda_handler",
                         "memorySize": 512,
                         "role": {
@@ -153,7 +153,7 @@
                           },
                           {
                             "key": "Environment",
-                            "value": "staging"
+                            "value": "prod"
                           },
                           {
                             "key": "Project",
@@ -186,20 +186,20 @@
           },
           "SearchAPI": {
             "id": "SearchAPI",
-            "path": "LanduseStack-staging/SearchAPI",
+            "path": "LanduseStack-prod/SearchAPI",
             "children": {
               "RestApi": {
                 "id": "RestApi",
-                "path": "LanduseStack-staging/SearchAPI/RestApi",
+                "path": "LanduseStack-prod/SearchAPI/RestApi",
                 "children": {
                   "Resource": {
                     "id": "Resource",
-                    "path": "LanduseStack-staging/SearchAPI/RestApi/Resource",
+                    "path": "LanduseStack-prod/SearchAPI/RestApi/Resource",
                     "attributes": {
                       "aws:cdk:cloudformation:type": "AWS::ApiGateway::RestApi",
                       "aws:cdk:cloudformation:props": {
-                        "description": "La Plata County RAG API - staging",
-                        "name": "landuse-api-staging",
+                        "description": "La Plata County RAG API - prod",
+                        "name": "landuse-api-prod",
                         "tags": [
                           {
                             "key": "Component",
@@ -207,7 +207,7 @@
                           },
                           {
                             "key": "Environment",
-                            "value": "staging"
+                            "value": "prod"
                           },
                           {
                             "key": "Project",
@@ -227,15 +227,15 @@
                   },
                   "Deployment": {
                     "id": "Deployment",
-                    "path": "LanduseStack-staging/SearchAPI/RestApi/Deployment",
+                    "path": "LanduseStack-prod/SearchAPI/RestApi/Deployment",
                     "children": {
                       "Resource": {
                         "id": "Resource",
-                        "path": "LanduseStack-staging/SearchAPI/RestApi/Deployment/Resource",
+                        "path": "LanduseStack-prod/SearchAPI/RestApi/Deployment/Resource",
                         "attributes": {
                           "aws:cdk:cloudformation:type": "AWS::ApiGateway::Deployment",
                           "aws:cdk:cloudformation:props": {
-                            "description": "La Plata County RAG API - staging stage",
+                            "description": "La Plata County RAG API - prod stage",
                             "restApiId": {
                               "Ref": "SearchAPIRestApiE9EC80E7"
                             }
@@ -252,24 +252,24 @@
                       "version": "2.148.0"
                     }
                   },
-                  "DeploymentStage.staging": {
-                    "id": "DeploymentStage.staging",
-                    "path": "LanduseStack-staging/SearchAPI/RestApi/DeploymentStage.staging",
+                  "DeploymentStage.prod": {
+                    "id": "DeploymentStage.prod",
+                    "path": "LanduseStack-prod/SearchAPI/RestApi/DeploymentStage.prod",
                     "children": {
                       "Resource": {
                         "id": "Resource",
-                        "path": "LanduseStack-staging/SearchAPI/RestApi/DeploymentStage.staging/Resource",
+                        "path": "LanduseStack-prod/SearchAPI/RestApi/DeploymentStage.prod/Resource",
                         "attributes": {
                           "aws:cdk:cloudformation:type": "AWS::ApiGateway::Stage",
                           "aws:cdk:cloudformation:props": {
                             "deploymentId": {
-                              "Ref": "SearchAPIRestApiDeploymentBF7C4B25fc8d71ff543b13e30e9e0c413f0eb16c"
+                              "Ref": "SearchAPIRestApiDeploymentBF7C4B25fa1ebe8e982b27e0b1964cf0158b4978"
                             },
-                            "description": "La Plata County RAG API - staging stage",
+                            "description": "La Plata County RAG API - prod stage",
                             "restApiId": {
                               "Ref": "SearchAPIRestApiE9EC80E7"
                             },
-                            "stageName": "staging",
+                            "stageName": "prod",
                             "tags": [
                               {
                                 "key": "Component",
@@ -277,7 +277,7 @@
                               },
                               {
                                 "key": "Environment",
-                                "value": "staging"
+                                "value": "prod"
                               },
                               {
                                 "key": "Project",
@@ -303,7 +303,7 @@
                   },
                   "Endpoint": {
                     "id": "Endpoint",
-                    "path": "LanduseStack-staging/SearchAPI/RestApi/Endpoint",
+                    "path": "LanduseStack-prod/SearchAPI/RestApi/Endpoint",
                     "constructInfo": {
                       "fqn": "aws-cdk-lib.CfnOutput",
                       "version": "2.148.0"
@@ -311,15 +311,15 @@
                   },
                   "Default": {
                     "id": "Default",
-                    "path": "LanduseStack-staging/SearchAPI/RestApi/Default",
+                    "path": "LanduseStack-prod/SearchAPI/RestApi/Default",
                     "children": {
                       "OPTIONS": {
                         "id": "OPTIONS",
-                        "path": "LanduseStack-staging/SearchAPI/RestApi/Default/OPTIONS",
+                        "path": "LanduseStack-prod/SearchAPI/RestApi/Default/OPTIONS",
                         "children": {
                           "Resource": {
                             "id": "Resource",
-                            "path": "LanduseStack-staging/SearchAPI/RestApi/Default/OPTIONS/Resource",
+                            "path": "LanduseStack-prod/SearchAPI/RestApi/Default/OPTIONS/Resource",
                             "attributes": {
                               "aws:cdk:cloudformation:type": "AWS::ApiGateway::Method",
                               "aws:cdk:cloudformation:props": {
@@ -376,11 +376,11 @@
                       },
                       "search": {
                         "id": "search",
-                        "path": "LanduseStack-staging/SearchAPI/RestApi/Default/search",
+                        "path": "LanduseStack-prod/SearchAPI/RestApi/Default/search",
                         "children": {
                           "Resource": {
                             "id": "Resource",
-                            "path": "LanduseStack-staging/SearchAPI/RestApi/Default/search/Resource",
+                            "path": "LanduseStack-prod/SearchAPI/RestApi/Default/search/Resource",
                             "attributes": {
                               "aws:cdk:cloudformation:type": "AWS::ApiGateway::Resource",
                               "aws:cdk:cloudformation:props": {
@@ -403,11 +403,11 @@
                           },
                           "OPTIONS": {
                             "id": "OPTIONS",
-                            "path": "LanduseStack-staging/SearchAPI/RestApi/Default/search/OPTIONS",
+                            "path": "LanduseStack-prod/SearchAPI/RestApi/Default/search/OPTIONS",
                             "children": {
                               "Resource": {
                                 "id": "Resource",
-                                "path": "LanduseStack-staging/SearchAPI/RestApi/Default/search/OPTIONS/Resource",
+                                "path": "LanduseStack-prod/SearchAPI/RestApi/Default/search/OPTIONS/Resource",
                                 "attributes": {
                                   "aws:cdk:cloudformation:type": "AWS::ApiGateway::Method",
                                   "aws:cdk:cloudformation:props": {
@@ -461,11 +461,11 @@
                           },
                           "GET": {
                             "id": "GET",
-                            "path": "LanduseStack-staging/SearchAPI/RestApi/Default/search/GET",
+                            "path": "LanduseStack-prod/SearchAPI/RestApi/Default/search/GET",
                             "children": {
-                              "ApiPermission.LanduseStackstagingSearchAPIRestApi617F7371.GET..search": {
-                                "id": "ApiPermission.LanduseStackstagingSearchAPIRestApi617F7371.GET..search",
-                                "path": "LanduseStack-staging/SearchAPI/RestApi/Default/search/GET/ApiPermission.LanduseStackstagingSearchAPIRestApi617F7371.GET..search",
+                              "ApiPermission.LanduseStackprodSearchAPIRestApiDBBBAF71.GET..search": {
+                                "id": "ApiPermission.LanduseStackprodSearchAPIRestApiDBBBAF71.GET..search",
+                                "path": "LanduseStack-prod/SearchAPI/RestApi/Default/search/GET/ApiPermission.LanduseStackprodSearchAPIRestApiDBBBAF71.GET..search",
                                 "attributes": {
                                   "aws:cdk:cloudformation:type": "AWS::Lambda::Permission",
                                   "aws:cdk:cloudformation:props": {
@@ -491,7 +491,7 @@
                                           },
                                           "/",
                                           {
-                                            "Ref": "SearchAPIRestApiDeploymentStagestaging1B936656"
+                                            "Ref": "SearchAPIRestApiDeploymentStageprod1D3A0733"
                                           },
                                           "/GET/search"
                                         ]
@@ -504,9 +504,9 @@
                                   "version": "2.148.0"
                                 }
                               },
-                              "ApiPermission.Test.LanduseStackstagingSearchAPIRestApi617F7371.GET..search": {
-                                "id": "ApiPermission.Test.LanduseStackstagingSearchAPIRestApi617F7371.GET..search",
-                                "path": "LanduseStack-staging/SearchAPI/RestApi/Default/search/GET/ApiPermission.Test.LanduseStackstagingSearchAPIRestApi617F7371.GET..search",
+                              "ApiPermission.Test.LanduseStackprodSearchAPIRestApiDBBBAF71.GET..search": {
+                                "id": "ApiPermission.Test.LanduseStackprodSearchAPIRestApiDBBBAF71.GET..search",
+                                "path": "LanduseStack-prod/SearchAPI/RestApi/Default/search/GET/ApiPermission.Test.LanduseStackprodSearchAPIRestApiDBBBAF71.GET..search",
                                 "attributes": {
                                   "aws:cdk:cloudformation:type": "AWS::Lambda::Permission",
                                   "aws:cdk:cloudformation:props": {
@@ -543,7 +543,7 @@
                               },
                               "Resource": {
                                 "id": "Resource",
-                                "path": "LanduseStack-staging/SearchAPI/RestApi/Default/search/GET/Resource",
+                                "path": "LanduseStack-prod/SearchAPI/RestApi/Default/search/GET/Resource",
                                 "attributes": {
                                   "aws:cdk:cloudformation:type": "AWS::ApiGateway::Method",
                                   "aws:cdk:cloudformation:props": {
@@ -592,11 +592,11 @@
                           },
                           "POST": {
                             "id": "POST",
-                            "path": "LanduseStack-staging/SearchAPI/RestApi/Default/search/POST",
+                            "path": "LanduseStack-prod/SearchAPI/RestApi/Default/search/POST",
                             "children": {
-                              "ApiPermission.LanduseStackstagingSearchAPIRestApi617F7371.POST..search": {
-                                "id": "ApiPermission.LanduseStackstagingSearchAPIRestApi617F7371.POST..search",
-                                "path": "LanduseStack-staging/SearchAPI/RestApi/Default/search/POST/ApiPermission.LanduseStackstagingSearchAPIRestApi617F7371.POST..search",
+                              "ApiPermission.LanduseStackprodSearchAPIRestApiDBBBAF71.POST..search": {
+                                "id": "ApiPermission.LanduseStackprodSearchAPIRestApiDBBBAF71.POST..search",
+                                "path": "LanduseStack-prod/SearchAPI/RestApi/Default/search/POST/ApiPermission.LanduseStackprodSearchAPIRestApiDBBBAF71.POST..search",
                                 "attributes": {
                                   "aws:cdk:cloudformation:type": "AWS::Lambda::Permission",
                                   "aws:cdk:cloudformation:props": {
@@ -622,7 +622,7 @@
                                           },
                                           "/",
                                           {
-                                            "Ref": "SearchAPIRestApiDeploymentStagestaging1B936656"
+                                            "Ref": "SearchAPIRestApiDeploymentStageprod1D3A0733"
                                           },
                                           "/POST/search"
                                         ]
@@ -635,9 +635,9 @@
                                   "version": "2.148.0"
                                 }
                               },
-                              "ApiPermission.Test.LanduseStackstagingSearchAPIRestApi617F7371.POST..search": {
-                                "id": "ApiPermission.Test.LanduseStackstagingSearchAPIRestApi617F7371.POST..search",
-                                "path": "LanduseStack-staging/SearchAPI/RestApi/Default/search/POST/ApiPermission.Test.LanduseStackstagingSearchAPIRestApi617F7371.POST..search",
+                              "ApiPermission.Test.LanduseStackprodSearchAPIRestApiDBBBAF71.POST..search": {
+                                "id": "ApiPermission.Test.LanduseStackprodSearchAPIRestApiDBBBAF71.POST..search",
+                                "path": "LanduseStack-prod/SearchAPI/RestApi/Default/search/POST/ApiPermission.Test.LanduseStackprodSearchAPIRestApiDBBBAF71.POST..search",
                                 "attributes": {
                                   "aws:cdk:cloudformation:type": "AWS::Lambda::Permission",
                                   "aws:cdk:cloudformation:props": {
@@ -674,7 +674,7 @@
                               },
                               "Resource": {
                                 "id": "Resource",
-                                "path": "LanduseStack-staging/SearchAPI/RestApi/Default/search/POST/Resource",
+                                "path": "LanduseStack-prod/SearchAPI/RestApi/Default/search/POST/Resource",
                                 "attributes": {
                                   "aws:cdk:cloudformation:type": "AWS::ApiGateway::Method",
                                   "aws:cdk:cloudformation:props": {
@@ -741,7 +741,7 @@
               },
               "APIEndpoint": {
                 "id": "APIEndpoint",
-                "path": "LanduseStack-staging/SearchAPI/APIEndpoint",
+                "path": "LanduseStack-prod/SearchAPI/APIEndpoint",
                 "constructInfo": {
                   "fqn": "aws-cdk-lib.CfnOutput",
                   "version": "2.148.0"
@@ -755,11 +755,11 @@
           },
           "CDKMetadata": {
             "id": "CDKMetadata",
-            "path": "LanduseStack-staging/CDKMetadata",
+            "path": "LanduseStack-prod/CDKMetadata",
             "children": {
               "Default": {
                 "id": "Default",
-                "path": "LanduseStack-staging/CDKMetadata/Default",
+                "path": "LanduseStack-prod/CDKMetadata/Default",
                 "constructInfo": {
                   "fqn": "aws-cdk-lib.CfnResource",
                   "version": "2.148.0"
@@ -773,7 +773,7 @@
           },
           "BootstrapVersion": {
             "id": "BootstrapVersion",
-            "path": "LanduseStack-staging/BootstrapVersion",
+            "path": "LanduseStack-prod/BootstrapVersion",
             "constructInfo": {
               "fqn": "aws-cdk-lib.CfnParameter",
               "version": "2.148.0"
@@ -781,7 +781,7 @@
           },
           "CheckBootstrapVersion": {
             "id": "CheckBootstrapVersion",
-            "path": "LanduseStack-staging/CheckBootstrapVersion",
+            "path": "LanduseStack-prod/CheckBootstrapVersion",
             "constructInfo": {
               "fqn": "aws-cdk-lib.CfnRule",
               "version": "2.148.0"

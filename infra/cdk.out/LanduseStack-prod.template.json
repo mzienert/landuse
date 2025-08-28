@@ -1,7 +1,7 @@
 {
  "Description": "La Plata County RAG System - Prod Environment",
  "Resources": {
-  "SearchLambdaprodServiceRole12D417E2": {
+  "SearchLambdaFunctionServiceRole554FEC7F": {
    "Type": "AWS::IAM::Role",
    "Properties": {
     "AssumeRolePolicyDocument": {
@@ -50,10 +50,10 @@
     ]
    },
    "Metadata": {
-    "aws:cdk:path": "LanduseStack-prod/SearchLambda-prod/ServiceRole/Resource"
+    "aws:cdk:path": "LanduseStack-prod/SearchLambda/Function/ServiceRole/Resource"
    }
   },
-  "SearchLambdaprodDAAED8F1": {
+  "SearchLambdaFunctionA2AF8715": {
    "Type": "AWS::Lambda::Function",
    "Properties": {
     "Code": {
@@ -62,6 +62,7 @@
      },
      "S3Key": "9b220f7800c328e1d7816b6f8fd0d9aeb1c91c9b32649b70785cc46b1f4e07f8.zip"
     },
+    "Description": "La Plata County Search Service - prod",
     "Environment": {
      "Variables": {
       "ENVIRONMENT": "prod",
@@ -73,7 +74,7 @@
     "MemorySize": 512,
     "Role": {
      "Fn::GetAtt": [
-      "SearchLambdaprodServiceRole12D417E2",
+      "SearchLambdaFunctionServiceRole554FEC7F",
       "Arn"
      ]
     },
@@ -99,16 +100,16 @@
     "Timeout": 30
    },
    "DependsOn": [
-    "SearchLambdaprodServiceRole12D417E2"
+    "SearchLambdaFunctionServiceRole554FEC7F"
    ],
    "Metadata": {
-    "aws:cdk:path": "LanduseStack-prod/SearchLambda-prod/Resource",
+    "aws:cdk:path": "LanduseStack-prod/SearchLambda/Function/Resource",
     "aws:asset:path": "asset.9b220f7800c328e1d7816b6f8fd0d9aeb1c91c9b32649b70785cc46b1f4e07f8",
     "aws:asset:is-bundled": false,
     "aws:asset:property": "Code"
    }
   },
-  "LanduseAPIprodAB88B34A": {
+  "SearchAPIRestApiE9EC80E7": {
    "Type": "AWS::ApiGateway::RestApi",
    "Properties": {
     "Description": "La Plata County RAG API - prod",
@@ -133,37 +134,37 @@
     ]
    },
    "Metadata": {
-    "aws:cdk:path": "LanduseStack-prod/LanduseAPI-prod/Resource"
+    "aws:cdk:path": "LanduseStack-prod/SearchAPI/RestApi/Resource"
    }
   },
-  "LanduseAPIprodDeploymentFB7B8D6A1163aea5f7a069992eef26e2caaf4b4e": {
+  "SearchAPIRestApiDeploymentBF7C4B25fa1ebe8e982b27e0b1964cf0158b4978": {
    "Type": "AWS::ApiGateway::Deployment",
    "Properties": {
     "Description": "La Plata County RAG API - prod stage",
     "RestApiId": {
-     "Ref": "LanduseAPIprodAB88B34A"
+     "Ref": "SearchAPIRestApiE9EC80E7"
     }
    },
    "DependsOn": [
-    "LanduseAPIprodOPTIONS995FA691",
-    "LanduseAPIprodsearchGET8677E10D",
-    "LanduseAPIprodsearchOPTIONSD931C45B",
-    "LanduseAPIprodsearchPOST4EE941B6",
-    "LanduseAPIprodsearchE0B3C314"
+    "SearchAPIRestApiOPTIONS453BD7F1",
+    "SearchAPIRestApisearchGET15E5EC10",
+    "SearchAPIRestApisearchOPTIONSC0ADAB4F",
+    "SearchAPIRestApisearchPOSTE553E7B8",
+    "SearchAPIRestApisearch199C2EB0"
    ],
    "Metadata": {
-    "aws:cdk:path": "LanduseStack-prod/LanduseAPI-prod/Deployment/Resource"
+    "aws:cdk:path": "LanduseStack-prod/SearchAPI/RestApi/Deployment/Resource"
    }
   },
-  "LanduseAPIprodDeploymentStageprod93307DC8": {
+  "SearchAPIRestApiDeploymentStageprod1D3A0733": {
    "Type": "AWS::ApiGateway::Stage",
    "Properties": {
     "DeploymentId": {
-     "Ref": "LanduseAPIprodDeploymentFB7B8D6A1163aea5f7a069992eef26e2caaf4b4e"
+     "Ref": "SearchAPIRestApiDeploymentBF7C4B25fa1ebe8e982b27e0b1964cf0158b4978"
     },
     "Description": "La Plata County RAG API - prod stage",
     "RestApiId": {
-     "Ref": "LanduseAPIprodAB88B34A"
+     "Ref": "SearchAPIRestApiE9EC80E7"
     },
     "StageName": "prod",
     "Tags": [
@@ -186,10 +187,10 @@
     ]
    },
    "Metadata": {
-    "aws:cdk:path": "LanduseStack-prod/LanduseAPI-prod/DeploymentStage.prod/Resource"
+    "aws:cdk:path": "LanduseStack-prod/SearchAPI/RestApi/DeploymentStage.prod/Resource"
    }
   },
-  "LanduseAPIprodOPTIONS995FA691": {
+  "SearchAPIRestApiOPTIONS453BD7F1": {
    "Type": "AWS::ApiGateway::Method",
    "Properties": {
     "ApiKeyRequired": false,
@@ -223,37 +224,37 @@
     ],
     "ResourceId": {
      "Fn::GetAtt": [
-      "LanduseAPIprodAB88B34A",
+      "SearchAPIRestApiE9EC80E7",
       "RootResourceId"
      ]
     },
     "RestApiId": {
-     "Ref": "LanduseAPIprodAB88B34A"
+     "Ref": "SearchAPIRestApiE9EC80E7"
     }
    },
    "Metadata": {
-    "aws:cdk:path": "LanduseStack-prod/LanduseAPI-prod/Default/OPTIONS/Resource"
+    "aws:cdk:path": "LanduseStack-prod/SearchAPI/RestApi/Default/OPTIONS/Resource"
    }
   },
-  "LanduseAPIprodsearchE0B3C314": {
+  "SearchAPIRestApisearch199C2EB0": {
    "Type": "AWS::ApiGateway::Resource",
    "Properties": {
     "ParentId": {
      "Fn::GetAtt": [
-      "LanduseAPIprodAB88B34A",
+      "SearchAPIRestApiE9EC80E7",
       "RootResourceId"
      ]
     },
     "PathPart": "search",
     "RestApiId": {
-     "Ref": "LanduseAPIprodAB88B34A"
+     "Ref": "SearchAPIRestApiE9EC80E7"
     }
    },
    "Metadata": {
-    "aws:cdk:path": "LanduseStack-prod/LanduseAPI-prod/Default/search/Resource"
+    "aws:cdk:path": "LanduseStack-prod/SearchAPI/RestApi/Default/search/Resource"
    }
   },
-  "LanduseAPIprodsearchOPTIONSD931C45B": {
+  "SearchAPIRestApisearchOPTIONSC0ADAB4F": {
    "Type": "AWS::ApiGateway::Method",
    "Properties": {
     "ApiKeyRequired": false,
@@ -286,23 +287,23 @@
      }
     ],
     "ResourceId": {
-     "Ref": "LanduseAPIprodsearchE0B3C314"
+     "Ref": "SearchAPIRestApisearch199C2EB0"
     },
     "RestApiId": {
-     "Ref": "LanduseAPIprodAB88B34A"
+     "Ref": "SearchAPIRestApiE9EC80E7"
     }
    },
    "Metadata": {
-    "aws:cdk:path": "LanduseStack-prod/LanduseAPI-prod/Default/search/OPTIONS/Resource"
+    "aws:cdk:path": "LanduseStack-prod/SearchAPI/RestApi/Default/search/OPTIONS/Resource"
    }
   },
-  "LanduseAPIprodsearchGETApiPermissionLanduseStackprodLanduseAPIprod363B3763GETsearch28A0EC8D": {
+  "SearchAPIRestApisearchGETApiPermissionLanduseStackprodSearchAPIRestApiDBBBAF71GETsearchE523F324": {
    "Type": "AWS::Lambda::Permission",
    "Properties": {
     "Action": "lambda:InvokeFunction",
     "FunctionName": {
      "Fn::GetAtt": [
-      "SearchLambdaprodDAAED8F1",
+      "SearchLambdaFunctionA2AF8715",
       "Arn"
      ]
     },
@@ -317,11 +318,11 @@
        },
        ":",
        {
-        "Ref": "LanduseAPIprodAB88B34A"
+        "Ref": "SearchAPIRestApiE9EC80E7"
        },
        "/",
        {
-        "Ref": "LanduseAPIprodDeploymentStageprod93307DC8"
+        "Ref": "SearchAPIRestApiDeploymentStageprod1D3A0733"
        },
        "/GET/search"
       ]
@@ -329,16 +330,16 @@
     }
    },
    "Metadata": {
-    "aws:cdk:path": "LanduseStack-prod/LanduseAPI-prod/Default/search/GET/ApiPermission.LanduseStackprodLanduseAPIprod363B3763.GET..search"
+    "aws:cdk:path": "LanduseStack-prod/SearchAPI/RestApi/Default/search/GET/ApiPermission.LanduseStackprodSearchAPIRestApiDBBBAF71.GET..search"
    }
   },
-  "LanduseAPIprodsearchGETApiPermissionTestLanduseStackprodLanduseAPIprod363B3763GETsearchC5ADD7BA": {
+  "SearchAPIRestApisearchGETApiPermissionTestLanduseStackprodSearchAPIRestApiDBBBAF71GETsearch7250F973": {
    "Type": "AWS::Lambda::Permission",
    "Properties": {
     "Action": "lambda:InvokeFunction",
     "FunctionName": {
      "Fn::GetAtt": [
-      "SearchLambdaprodDAAED8F1",
+      "SearchLambdaFunctionA2AF8715",
       "Arn"
      ]
     },
@@ -353,7 +354,7 @@
        },
        ":",
        {
-        "Ref": "LanduseAPIprodAB88B34A"
+        "Ref": "SearchAPIRestApiE9EC80E7"
        },
        "/test-invoke-stage/GET/search"
       ]
@@ -361,10 +362,10 @@
     }
    },
    "Metadata": {
-    "aws:cdk:path": "LanduseStack-prod/LanduseAPI-prod/Default/search/GET/ApiPermission.Test.LanduseStackprodLanduseAPIprod363B3763.GET..search"
+    "aws:cdk:path": "LanduseStack-prod/SearchAPI/RestApi/Default/search/GET/ApiPermission.Test.LanduseStackprodSearchAPIRestApiDBBBAF71.GET..search"
    }
   },
-  "LanduseAPIprodsearchGET8677E10D": {
+  "SearchAPIRestApisearchGET15E5EC10": {
    "Type": "AWS::ApiGateway::Method",
    "Properties": {
     "AuthorizationType": "NONE",
@@ -382,7 +383,7 @@
         "arn:aws:apigateway:us-west-2:lambda:path/2015-03-31/functions/",
         {
          "Fn::GetAtt": [
-          "SearchLambdaprodDAAED8F1",
+          "SearchLambdaFunctionA2AF8715",
           "Arn"
          ]
         },
@@ -392,23 +393,23 @@
      }
     },
     "ResourceId": {
-     "Ref": "LanduseAPIprodsearchE0B3C314"
+     "Ref": "SearchAPIRestApisearch199C2EB0"
     },
     "RestApiId": {
-     "Ref": "LanduseAPIprodAB88B34A"
+     "Ref": "SearchAPIRestApiE9EC80E7"
     }
    },
    "Metadata": {
-    "aws:cdk:path": "LanduseStack-prod/LanduseAPI-prod/Default/search/GET/Resource"
+    "aws:cdk:path": "LanduseStack-prod/SearchAPI/RestApi/Default/search/GET/Resource"
    }
   },
-  "LanduseAPIprodsearchPOSTApiPermissionLanduseStackprodLanduseAPIprod363B3763POSTsearch7EC624B7": {
+  "SearchAPIRestApisearchPOSTApiPermissionLanduseStackprodSearchAPIRestApiDBBBAF71POSTsearchEA772864": {
    "Type": "AWS::Lambda::Permission",
    "Properties": {
     "Action": "lambda:InvokeFunction",
     "FunctionName": {
      "Fn::GetAtt": [
-      "SearchLambdaprodDAAED8F1",
+      "SearchLambdaFunctionA2AF8715",
       "Arn"
      ]
     },
@@ -423,11 +424,11 @@
        },
        ":",
        {
-        "Ref": "LanduseAPIprodAB88B34A"
+        "Ref": "SearchAPIRestApiE9EC80E7"
        },
        "/",
        {
-        "Ref": "LanduseAPIprodDeploymentStageprod93307DC8"
+        "Ref": "SearchAPIRestApiDeploymentStageprod1D3A0733"
        },
        "/POST/search"
       ]
@@ -435,16 +436,16 @@
     }
    },
    "Metadata": {
-    "aws:cdk:path": "LanduseStack-prod/LanduseAPI-prod/Default/search/POST/ApiPermission.LanduseStackprodLanduseAPIprod363B3763.POST..search"
+    "aws:cdk:path": "LanduseStack-prod/SearchAPI/RestApi/Default/search/POST/ApiPermission.LanduseStackprodSearchAPIRestApiDBBBAF71.POST..search"
    }
   },
-  "LanduseAPIprodsearchPOSTApiPermissionTestLanduseStackprodLanduseAPIprod363B3763POSTsearchDEAD3CD0": {
+  "SearchAPIRestApisearchPOSTApiPermissionTestLanduseStackprodSearchAPIRestApiDBBBAF71POSTsearchB71F230D": {
    "Type": "AWS::Lambda::Permission",
    "Properties": {
     "Action": "lambda:InvokeFunction",
     "FunctionName": {
      "Fn::GetAtt": [
-      "SearchLambdaprodDAAED8F1",
+      "SearchLambdaFunctionA2AF8715",
       "Arn"
      ]
     },
@@ -459,7 +460,7 @@
        },
        ":",
        {
-        "Ref": "LanduseAPIprodAB88B34A"
+        "Ref": "SearchAPIRestApiE9EC80E7"
        },
        "/test-invoke-stage/POST/search"
       ]
@@ -467,10 +468,10 @@
     }
    },
    "Metadata": {
-    "aws:cdk:path": "LanduseStack-prod/LanduseAPI-prod/Default/search/POST/ApiPermission.Test.LanduseStackprodLanduseAPIprod363B3763.POST..search"
+    "aws:cdk:path": "LanduseStack-prod/SearchAPI/RestApi/Default/search/POST/ApiPermission.Test.LanduseStackprodSearchAPIRestApiDBBBAF71.POST..search"
    }
   },
-  "LanduseAPIprodsearchPOST4EE941B6": {
+  "SearchAPIRestApisearchPOSTE553E7B8": {
    "Type": "AWS::ApiGateway::Method",
    "Properties": {
     "AuthorizationType": "NONE",
@@ -488,7 +489,7 @@
         "arn:aws:apigateway:us-west-2:lambda:path/2015-03-31/functions/",
         {
          "Fn::GetAtt": [
-          "SearchLambdaprodDAAED8F1",
+          "SearchLambdaFunctionA2AF8715",
           "Arn"
          ]
         },
@@ -498,14 +499,14 @@
      }
     },
     "ResourceId": {
-     "Ref": "LanduseAPIprodsearchE0B3C314"
+     "Ref": "SearchAPIRestApisearch199C2EB0"
     },
     "RestApiId": {
-     "Ref": "LanduseAPIprodAB88B34A"
+     "Ref": "SearchAPIRestApiE9EC80E7"
     }
    },
    "Metadata": {
-    "aws:cdk:path": "LanduseStack-prod/LanduseAPI-prod/Default/search/POST/Resource"
+    "aws:cdk:path": "LanduseStack-prod/SearchAPI/RestApi/Default/search/POST/Resource"
    }
   },
   "CDKMetadata": {
@@ -519,14 +520,14 @@
   }
  },
  "Outputs": {
-  "LanduseAPIprodEndpoint18E6C3C8": {
+  "SearchAPIRestApiEndpoint986BFBC4": {
    "Value": {
     "Fn::Join": [
      "",
      [
       "https://",
       {
-       "Ref": "LanduseAPIprodAB88B34A"
+       "Ref": "SearchAPIRestApiE9EC80E7"
       },
       ".execute-api.us-west-2.",
       {
@@ -534,22 +535,22 @@
       },
       "/",
       {
-       "Ref": "LanduseAPIprodDeploymentStageprod93307DC8"
+       "Ref": "SearchAPIRestApiDeploymentStageprod1D3A0733"
       },
       "/"
      ]
     ]
    }
   },
-  "APIEndpointprod": {
-   "Description": "API Gateway endpoint URL for prod environment",
+  "SearchAPIAPIEndpointAACEDA10": {
+   "Description": "Search API endpoint URL for prod environment",
    "Value": {
     "Fn::Join": [
      "",
      [
       "https://",
       {
-       "Ref": "LanduseAPIprodAB88B34A"
+       "Ref": "SearchAPIRestApiE9EC80E7"
       },
       ".execute-api.us-west-2.",
       {
@@ -557,11 +558,14 @@
       },
       "/",
       {
-       "Ref": "LanduseAPIprodDeploymentStageprod93307DC8"
+       "Ref": "SearchAPIRestApiDeploymentStageprod1D3A0733"
       },
-      "/"
+      "/search"
      ]
     ]
+   },
+   "Export": {
+    "Name": "LanduseSearchAPI-prod"
    }
   }
  },
