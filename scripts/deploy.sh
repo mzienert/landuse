@@ -2,8 +2,8 @@
 
 # La Plata County RAG System - CDK Deployment Script
 # Usage: ./deploy.sh <environment> [action]
-#   environment: staging, prod
-#   action: deploy (default), destroy, diff, synth
+#   environment: dev, staging, prod
+#   action: deploy (default), watch, destroy, diff, synth
 
 set -e  # Exit on any error
 
@@ -47,12 +47,14 @@ show_usage() {
     echo ""
     echo "Actions:"
     echo "  deploy   - Deploy the stack (default)"
+    echo "  watch    - Start watch mode for rapid development (dev only)"
     echo "  destroy  - Destroy the stack"
     echo "  diff     - Show differences between deployed and local"
     echo "  synth    - Synthesize CloudFormation template"
     echo ""
     echo "Examples:"
     echo "  $0 dev             # Deploy to LocalStack"
+    echo "  $0 dev watch       # Start watch mode for rapid development"
     echo "  $0 staging         # Deploy to staging"
     echo "  $0 prod deploy     # Deploy to production"
     echo "  $0 staging destroy # Destroy staging stack"
@@ -78,8 +80,15 @@ if [[ "$ENVIRONMENT" != "dev" && "$ENVIRONMENT" != "staging" && "$ENVIRONMENT" !
 fi
 
 # Validate action
-if [[ "$ACTION" != "deploy" && "$ACTION" != "destroy" && "$ACTION" != "diff" && "$ACTION" != "synth" ]]; then
+if [[ "$ACTION" != "deploy" && "$ACTION" != "watch" && "$ACTION" != "destroy" && "$ACTION" != "diff" && "$ACTION" != "synth" ]]; then
     print_error "Invalid action: $ACTION"
+    show_usage
+    exit 1
+fi
+
+# Validate watch action is only for dev
+if [ "$ACTION" == "watch" ] && [ "$ENVIRONMENT" != "dev" ]; then
+    print_error "Watch mode is only available for dev environment"
     show_usage
     exit 1
 fi
@@ -241,6 +250,24 @@ case $ACTION in
             --stack-name $STACK_NAME \
             --query 'Stacks[0].Outputs' \
             --output table 2>/dev/null || print_warning "Could not retrieve stack outputs"
+        ;;
+    
+    watch)
+        print_info "🚀 Starting watch mode for rapid Lambda development..."
+        print_info "This will auto-redeploy your Lambda function on file changes (~1-2 seconds)"
+        print_info "Make changes to: lambda/search/lambda_function.py"
+        print_info "Test endpoint: https://ewti59m6iv.execute-api.localhost.localstack.cloud:4566/dev/search"
+        echo ""
+        print_warning "Press Ctrl+C to stop watch mode"
+        echo ""
+        
+        # Initial bootstrap if needed
+        print_info "Checking CDK bootstrap..."
+        cdklocal bootstrap --context env=$ENVIRONMENT 2>/dev/null || true
+        
+        # Start watch mode (LocalStack only for now)
+        print_info "Starting watch mode..."
+        cdklocal deploy --context env=$ENVIRONMENT --hotswap --watch
         ;;
     
     destroy)

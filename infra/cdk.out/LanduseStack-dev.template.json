@@ -58,7 +58,7 @@
    "Properties": {
     "Code": {
      "S3Bucket": "cdk-hnb659fds-assets-000000000000-us-west-2",
-     "S3Key": "871c0c40ebaa71149ab70e920c0642cc1b4bf59a4612f9513f9168158272e969.zip"
+     "S3Key": "5f8c35506b6c780e60758138d32b82bbf5fdb3289863e787817da15ab1541355.zip"
     },
     "Description": "La Plata County Search Service - dev",
     "Environment": {
@@ -102,7 +102,7 @@
    ],
    "Metadata": {
     "aws:cdk:path": "LanduseStack-dev/SearchLambda/Function/Resource",
-    "aws:asset:path": "asset.871c0c40ebaa71149ab70e920c0642cc1b4bf59a4612f9513f9168158272e969",
+    "aws:asset:path": "asset.5f8c35506b6c780e60758138d32b82bbf5fdb3289863e787817da15ab1541355",
     "aws:asset:is-bundled": false,
     "aws:asset:property": "Code"
    }

@@ -186,11 +186,47 @@ curl -s "https://ewti59m6iv.execute-api.localhost.localstack.cloud:4566/dev/sear
 ## 💡 Development Workflow
 
 ### Daily Development
+
+#### Quick Setup
+1. **Start LocalStack**: `./scripts/localstack.sh start`
+2. **Initial Deploy**: `./scripts/deploy.sh dev deploy`
+
+#### Development Iteration Cycles
+
+**🚀 Fast Development (Recommended): CDK Watch Mode**
+```bash
+# Auto-redeploy on file changes (~1-2 seconds per change)
+./scripts/deploy.sh dev watch
+
+# Make changes to lambda/search/lambda_function.py
+# Changes auto-deploy with hotswap in ~1-2 seconds
+# Test: curl "https://ewti59m6iv.execute-api.localhost.localstack.cloud:4566/dev/search"
+```
+
+**⚡ Ultra-Fast Development: Hot Reload (For Algorithm Tuning)**
+```bash
+# Add to docker-compose.localstack.yml for instant code changes
+environment:
+  - LAMBDA_MOUNT_CODE=1
+volumes:
+  - "./infra/lambda:/var/lib/localstack/lambda"
+
+# Changes to lambda files are instant (no deployment needed)
+# Note: LocalStack-specific, may have inconsistencies with real AWS
+```
+
+**🐢 Full Deployment: Traditional CDK**
+```bash
+# For infrastructure changes or final validation (~7-10 seconds)
+./scripts/deploy.sh dev deploy
+```
+
+#### Complete Development Workflow
 1. **Start Existing RAG System**: `./scripts/start_both.sh` (unchanged)
-2. **Start LocalStack**: `./scripts/localstack.sh start`
-3. **Deploy to LocalStack**: `./scripts/deploy.sh dev deploy`
+2. **Start LocalStack**: `./scripts/localstack.sh start` 
+3. **Begin Watch Mode**: Use CDK watch for rapid Lambda development
 4. **RAG Feature Development**: Build in existing RAG system first, then migrate to LocalStack
-5. **Independent Testing**: Test each service independently
+5. **Algorithm Tuning**: Switch to hot reload for intensive iteration sessions
 6. **AWS Testing**: Deploy to staging when LocalStack implementation validates
 
 ### RAG Migration Validation

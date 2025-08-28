@@ -125,7 +125,7 @@
                       "aws:cdk:cloudformation:props": {
                         "code": {
                           "s3Bucket": "cdk-hnb659fds-assets-000000000000-us-west-2",
-                          "s3Key": "871c0c40ebaa71149ab70e920c0642cc1b4bf59a4612f9513f9168158272e969.zip"
+                          "s3Key": "5f8c35506b6c780e60758138d32b82bbf5fdb3289863e787817da15ab1541355.zip"
                         },
                         "description": "La Plata County Search Service - dev",
                         "environment": {
