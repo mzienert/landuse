@@ -17,16 +17,20 @@ if not env_name:
         "Example: cdk deploy --context env=staging"
     )
 
-# Only allow staging and prod deployments
-if env_name not in ["staging", "prod"]:
+# Allow dev, staging and prod deployments
+if env_name not in ["dev", "staging", "prod"]:
     raise ValueError(
         f"Invalid environment: {env_name}\n"
-        "Valid environments: staging, prod\n"
-        "Development should be done locally - never deploy 'dev' to AWS"
+        "Valid environments: dev, staging, prod\n"
+        "Use 'dev' for LocalStack development environment"
     )
 
 # Define environment-specific configurations
 environments = {
+    "dev": {
+        "account": "000000000000",  # LocalStack default account
+        "region": "us-west-2"
+    },
     "staging": {
         "account": app.node.try_get_context("staging_account"),
         "region": app.node.try_get_context("staging_region") or "us-west-2"

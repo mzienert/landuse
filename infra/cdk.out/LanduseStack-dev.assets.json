@@ -7,25 +7,25 @@
         "packaging": "zip"
       },
       "destinations": {
-        "current_account-us-west-2": {
-          "bucketName": "cdk-hnb659fds-assets-${AWS::AccountId}-us-west-2",
+        "000000000000-us-west-2": {
+          "bucketName": "cdk-hnb659fds-assets-000000000000-us-west-2",
           "objectKey": "9b220f7800c328e1d7816b6f8fd0d9aeb1c91c9b32649b70785cc46b1f4e07f8.zip",
           "region": "us-west-2",
-          "assumeRoleArn": "arn:${AWS::Partition}:iam::${AWS::AccountId}:role/cdk-hnb659fds-file-publishing-role-${AWS::AccountId}-us-west-2"
+          "assumeRoleArn": "arn:${AWS::Partition}:iam::000000000000:role/cdk-hnb659fds-file-publishing-role-000000000000-us-west-2"
         }
       }
     },
-    "998c04a23ef3cfbfd76354769851096d566b73e8e1a6f0a4abecd55aec51aef5": {
+    "9529314494507d323ae2f95d1ea4b395c52bb0b37e7a851c66537df23bf6d55e": {
       "source": {
         "path": "LanduseStack-dev.template.json",
         "packaging": "file"
       },
       "destinations": {
-        "current_account-us-west-2": {
-          "bucketName": "cdk-hnb659fds-assets-${AWS::AccountId}-us-west-2",
-          "objectKey": "998c04a23ef3cfbfd76354769851096d566b73e8e1a6f0a4abecd55aec51aef5.json",
+        "000000000000-us-west-2": {
+          "bucketName": "cdk-hnb659fds-assets-000000000000-us-west-2",
+          "objectKey": "9529314494507d323ae2f95d1ea4b395c52bb0b37e7a851c66537df23bf6d55e.json",
           "region": "us-west-2",
-          "assumeRoleArn": "arn:${AWS::Partition}:iam::${AWS::AccountId}:role/cdk-hnb659fds-file-publishing-role-${AWS::AccountId}-us-west-2"
+          "assumeRoleArn": "arn:${AWS::Partition}:iam::000000000000:role/cdk-hnb659fds-file-publishing-role-000000000000-us-west-2"
         }
       }
     }

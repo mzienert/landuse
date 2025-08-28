@@ -41,6 +41,7 @@ show_usage() {
     echo "Usage: $0 <environment> [action]"
     echo ""
     echo "Environments:"
+    echo "  dev      - Deploy to local development (LocalStack)"
     echo "  staging  - Deploy to staging environment"
     echo "  prod     - Deploy to production environment"
     echo ""
@@ -51,6 +52,7 @@ show_usage() {
     echo "  synth    - Synthesize CloudFormation template"
     echo ""
     echo "Examples:"
+    echo "  $0 dev             # Deploy to LocalStack"
     echo "  $0 staging         # Deploy to staging"
     echo "  $0 prod deploy     # Deploy to production"
     echo "  $0 staging destroy # Destroy staging stack"
@@ -68,9 +70,9 @@ ENVIRONMENT=$1
 ACTION=${2:-deploy}
 
 # Validate environment
-if [[ "$ENVIRONMENT" != "staging" && "$ENVIRONMENT" != "prod" ]]; then
+if [[ "$ENVIRONMENT" != "dev" && "$ENVIRONMENT" != "staging" && "$ENVIRONMENT" != "prod" ]]; then
     print_error "Invalid environment: $ENVIRONMENT"
-    print_info "Valid environments are: staging, prod"
+    print_info "Valid environments are: dev, staging, prod"
     show_usage
     exit 1
 fi
@@ -80,6 +82,48 @@ if [[ "$ACTION" != "deploy" && "$ACTION" != "destroy" && "$ACTION" != "diff" && 
     print_error "Invalid action: $ACTION"
     show_usage
     exit 1
+fi
+
+# LocalStack setup for dev environment
+if [ "$ENVIRONMENT" == "dev" ]; then
+    print_info "🐳 Setting up LocalStack for development environment..."
+    
+    # Check if docker-compose is available
+    if ! command -v docker-compose &> /dev/null; then
+        print_error "docker-compose not found. Please install Docker Compose first."
+        exit 1
+    fi
+    
+    # Start LocalStack if not already running
+    COMPOSE_FILE="../docker-compose.localstack.yml"
+    if ! docker-compose -f "$COMPOSE_FILE" ps | grep -q "Up"; then
+        print_info "Starting LocalStack..."
+        docker-compose -f "$COMPOSE_FILE" up -d
+        
+        # Wait for LocalStack to be ready
+        print_info "Waiting for LocalStack to be ready..."
+        for i in {1..30}; do
+            if curl -s http://localhost:4566/_localstack/health &> /dev/null; then
+                print_success "LocalStack is ready!"
+                break
+            fi
+            sleep 2
+            if [ $i -eq 30 ]; then
+                print_error "LocalStack failed to start within 60 seconds"
+                exit 1
+            fi
+        done
+    else
+        print_success "LocalStack is already running"
+    fi
+    
+    # Set AWS credentials for LocalStack (dummy values)
+    export AWS_ACCESS_KEY_ID=test
+    export AWS_SECRET_ACCESS_KEY=test
+    export AWS_DEFAULT_REGION=us-west-2
+    
+    print_success "LocalStack environment configured"
+    echo ""
 fi
 
 # Set stack name
@@ -103,26 +147,48 @@ if [ ! -d "env" ] && [ ! -d "venv" ] && [ ! -d ".venv" ]; then
     print_info "Make sure you have activated your virtual environment and installed requirements.txt"
 fi
 
-# Check AWS credentials
-if ! aws sts get-caller-identity &> /dev/null; then
-    print_error "AWS credentials not configured or invalid"
-    print_info "Please configure your AWS credentials using:"
-    echo "  aws configure"
-    echo "  # or"
-    echo "  export AWS_PROFILE=your-profile"
-    exit 1
+# Check AWS credentials (skip for dev/LocalStack)
+if [ "$ENVIRONMENT" != "dev" ]; then
+    if ! aws sts get-caller-identity &> /dev/null; then
+        print_error "AWS credentials not configured or invalid"
+        print_info "Please configure your AWS credentials using:"
+        echo "  aws configure"
+        echo "  # or"
+        echo "  export AWS_PROFILE=your-profile"
+        exit 1
+    fi
+    
+    # Get AWS account info
+    AWS_ACCOUNT=$(aws sts get-caller-identity --query Account --output text)
+    AWS_REGION=$(aws configure get region || echo "us-west-2")
+    
+    print_info "AWS Account: $AWS_ACCOUNT"
+    print_info "AWS Region: $AWS_REGION"
+else
+    # LocalStack dev environment
+    AWS_ACCOUNT="000000000000"  # Default LocalStack account ID
+    AWS_REGION="us-west-2"
+    
+    print_info "LocalStack Account: $AWS_ACCOUNT"
+    print_info "LocalStack Region: $AWS_REGION"
 fi
-
-# Get AWS account info
-AWS_ACCOUNT=$(aws sts get-caller-identity --query Account --output text)
-AWS_REGION=$(aws configure get region || echo "us-west-2")
-
-print_info "AWS Account: $AWS_ACCOUNT"
-print_info "AWS Region: $AWS_REGION"
 echo ""
 
 # Acknowledge CDK notices to reduce noise
 cdk acknowledge 34892 2>/dev/null || true
+
+# Configure CDK for LocalStack if dev environment
+if [ "$ENVIRONMENT" == "dev" ]; then
+    export CDK_CLI_OPTIONS="--no-lookups"
+    CDK_ENDPOINT_ARGS="--context @aws-cdk/core:target-partitions=[aws,aws-cn] --context @aws-cdk/aws-apigateway:usagePlanKeyOrderInsensitiveId=true"
+    
+    # Set up LocalStack environment variables for CDK
+    export AWS_ENDPOINT_URL=http://localhost:4566
+    export LOCALSTACK_HOSTNAME=localhost
+    
+    print_info "CDK configured for LocalStack deployment"
+    echo ""
+fi
 
 # Execute the requested action
 case $ACTION in
