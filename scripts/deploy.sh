@@ -256,7 +256,7 @@ case $ACTION in
         print_info "🚀 Starting watch mode for rapid Lambda development..."
         print_info "This will auto-redeploy your Lambda function on file changes (~1-2 seconds)"
         print_info "Make changes to: lambda/search/lambda_function.py"
-        print_info "Test endpoint: https://ewti59m6iv.execute-api.localhost.localstack.cloud:4566/dev/search"
+        print_info "Test endpoint will be shown in deployment output"
         echo ""
         print_warning "Press Ctrl+C to stop watch mode"
         echo ""

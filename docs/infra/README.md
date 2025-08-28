@@ -39,8 +39,8 @@ pip install -r requirements.txt
 # 5. Initial deployment
 ./scripts/deploy.sh dev deploy
 
-# 6. Test the deployment
-curl "https://ewti59m6iv.execute-api.localhost.localstack.cloud:4566/dev/search"
+# 6. Test the deployment (endpoint will be shown in deploy output)
+curl "https://YOUR_API_ID.execute-api.localhost.localstack.cloud:4566/dev/search"
 ```
 
 ### Daily Development Workflow
@@ -54,6 +54,7 @@ curl "https://ewti59m6iv.execute-api.localhost.localstack.cloud:4566/dev/search"
 
 # Make changes to lambda/search/lambda_function.py
 # Changes auto-deploy in ~1-2 seconds
+# Test with: curl "https://YOUR_API_ID.execute-api.localhost.localstack.cloud:4566/dev/search"
 ```
 
 ## 📋 Overview
@@ -364,10 +365,34 @@ When working with LocalStack, these environment variables are automatically set 
 - `AWS_ENDPOINT_URL=http://localhost:4566`
 - `AWS_ENDPOINT_URL_S3=http://s3.localhost.localstack.cloud:4566`
 
-### Current API Endpoints
-- **Search API**: `https://ewti59m6iv.execute-api.localhost.localstack.cloud:4566/dev/search`
-- **API Root**: `https://ewti59m6iv.execute-api.localhost.localstack.cloud:4566/dev/`
+### Finding Your API Endpoints
+
+After deployment, the API endpoints are shown in the deploy script output:
+
+```bash
+# Deploy and note the endpoint URLs in the output
+./scripts/deploy.sh dev deploy
+
+# Example output:
+# ✅  LanduseStack-dev
+# Outputs:
+# LanduseStack-dev.SearchAPIAPIEndpointAACEDA10 = https://YOUR_UNIQUE_ID.execute-api.localhost.localstack.cloud:4566/dev/search
+```
+
+**Standard Endpoints:**
+- **Search API**: `https://YOUR_API_ID.execute-api.localhost.localstack.cloud:4566/dev/search`
+- **API Root**: `https://YOUR_API_ID.execute-api.localhost.localstack.cloud:4566/dev/`
 - **LocalStack Health**: `http://localhost:4566/_localstack/health`
+
+**Get Current Endpoints:**
+```bash
+# Query deployed stack for current endpoints
+AWS_ACCESS_KEY_ID=test AWS_SECRET_ACCESS_KEY=test aws cloudformation describe-stacks \
+  --stack-name LanduseStack-dev \
+  --endpoint-url http://localhost:4566 \
+  --region us-west-2 \
+  --query 'Stacks[0].Outputs'
+```
 
 ## 📁 Project Structure
 
