@@ -2,6 +2,60 @@
 
 This directory contains infrastructure documentation for migrating the complete La Plata County RAG system to AWS.
 
+## 🚀 Quick Start
+
+### Prerequisites
+
+Before setting up the local development environment, ensure you have the following installed:
+
+**Required:**
+- **Node.js (v18+)**: [Download here](https://nodejs.org/)
+- **Docker & Docker Compose**: [Download Docker Desktop](https://www.docker.com/products/docker-desktop/)
+- **Python 3.11+**: [Download here](https://www.python.org/downloads/)
+- **AWS CDK**: Install globally with `npm install -g aws-cdk`
+- **CDK Local**: Install globally with `npm install -g aws-cdk-local`
+
+**Optional but Recommended:**
+- **AWS CLI**: [Installation guide](https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html)
+
+### Local Setup (First Time)
+
+```bash
+# 1. Clone and navigate to project
+cd /path/to/landuse
+
+# 2. Install CDK dependencies
+npm install -g aws-cdk aws-cdk-local
+
+# 3. Set up Python environment (recommended)
+cd infra
+python3 -m venv venv
+source venv/bin/activate  # On Windows: venv\Scripts\activate
+pip install -r requirements.txt
+
+# 4. Start LocalStack
+./scripts/localstack.sh start
+
+# 5. Initial deployment
+./scripts/deploy.sh dev deploy
+
+# 6. Test the deployment
+curl "https://ewti59m6iv.execute-api.localhost.localstack.cloud:4566/dev/search"
+```
+
+### Daily Development Workflow
+
+```bash
+# Start LocalStack (if not already running)
+./scripts/localstack.sh start
+
+# Start rapid development mode
+./scripts/deploy.sh dev watch
+
+# Make changes to lambda/search/lambda_function.py
+# Changes auto-deploy in ~1-2 seconds
+```
+
 ## 📋 Overview
 
 The complete RAG system consists of three core services being migrated to AWS:
@@ -183,50 +237,65 @@ curl -s "https://ewti59m6iv.execute-api.localhost.localstack.cloud:4566/dev/sear
 3. Connect LocalStack Lambda to cloud Pinecone for vector search
 4. Implement embedding generation integration
 
-## 💡 Development Workflow
+## 💡 Available Scripts
 
-### Daily Development
-
-#### Quick Setup
-1. **Start LocalStack**: `./scripts/localstack.sh start`
-2. **Initial Deploy**: `./scripts/deploy.sh dev deploy`
-
-#### Development Iteration Cycles
-
-**🚀 Fast Development (Recommended): CDK Watch Mode**
+### LocalStack Management
 ```bash
-# Auto-redeploy on file changes (~1-2 seconds per change)
-./scripts/deploy.sh dev watch
-
-# Make changes to lambda/search/lambda_function.py
-# Changes auto-deploy with hotswap in ~1-2 seconds
-# Test: curl "https://ewti59m6iv.execute-api.localhost.localstack.cloud:4566/dev/search"
+./scripts/localstack.sh start    # Start LocalStack container
+./scripts/localstack.sh stop     # Stop LocalStack container  
+./scripts/localstack.sh status   # Check LocalStack status
+./scripts/localstack.sh health   # Detailed health check
+./scripts/localstack.sh logs     # View LocalStack logs
 ```
 
-**⚡ Ultra-Fast Development: Hot Reload (For Algorithm Tuning)**
+### Deployment Commands
 ```bash
-# Add to docker-compose.localstack.yml for instant code changes
+./scripts/deploy.sh dev deploy   # Deploy to LocalStack (one-time)
+./scripts/deploy.sh dev watch    # Start watch mode (rapid development)
+./scripts/deploy.sh dev destroy  # Destroy LocalStack resources
+./scripts/deploy.sh dev diff     # Show differences
+./scripts/deploy.sh dev synth    # Generate CloudFormation template
+
+# Staging/Production (when ready)
+./scripts/deploy.sh staging deploy
+./scripts/deploy.sh prod deploy
+```
+
+## 🔧 Development Iteration Cycles
+
+### 🚀 Primary: CDK Watch Mode (Recommended)
+```bash
+./scripts/deploy.sh dev watch
+# - Auto-redeploy on file changes (~1-2 seconds)
+# - Uses hotswap for Lambda-only changes  
+# - Perfect for rapid development
+```
+
+### ⚡ Advanced: Hot Reload (For Algorithm Tuning)
+```bash
+# Add to docker-compose.localstack.yml for instant changes:
 environment:
   - LAMBDA_MOUNT_CODE=1
 volumes:
   - "./infra/lambda:/var/lib/localstack/lambda"
 
-# Changes to lambda files are instant (no deployment needed)
-# Note: LocalStack-specific, may have inconsistencies with real AWS
+# Changes are instant (no deployment cycle)
+# Use for intensive algorithm iteration sessions
 ```
 
-**🐢 Full Deployment: Traditional CDK**
+### 🐢 Full Stack: Traditional Deployment  
 ```bash
-# For infrastructure changes or final validation (~7-10 seconds)
 ./scripts/deploy.sh dev deploy
+# - Complete infrastructure deployment (~7-10 seconds)
+# - Use for infrastructure changes or final validation
 ```
 
-#### Complete Development Workflow
+## 🔄 Complete Development Workflow
 1. **Start Existing RAG System**: `./scripts/start_both.sh` (unchanged)
 2. **Start LocalStack**: `./scripts/localstack.sh start` 
-3. **Begin Watch Mode**: Use CDK watch for rapid Lambda development
-4. **RAG Feature Development**: Build in existing RAG system first, then migrate to LocalStack
-5. **Algorithm Tuning**: Switch to hot reload for intensive iteration sessions
+3. **Deploy Initial Infrastructure**: `./scripts/deploy.sh dev deploy`
+4. **Begin Rapid Development**: `./scripts/deploy.sh dev watch`
+5. **RAG Feature Development**: Build in existing system first, then migrate to LocalStack
 6. **AWS Testing**: Deploy to staging when LocalStack implementation validates
 
 ### RAG Migration Validation
@@ -236,3 +305,105 @@ volumes:
 - **Integration Testing**: Verify complete RAG workflow in both environments
 
 This approach ensures zero downtime and provides confidence at each RAG migration step while maintaining the ability to rollback to the complete local RAG system if issues arise.
+
+## 🔧 Troubleshooting
+
+### Common Issues
+
+**LocalStack not starting:**
+```bash
+# Check Docker is running
+docker ps
+
+# Check LocalStack logs
+./scripts/localstack.sh logs
+
+# Restart LocalStack
+./scripts/localstack.sh restart
+```
+
+**CDK deployment fails:**
+```bash
+# Ensure LocalStack is healthy
+./scripts/localstack.sh health
+
+# Check environment variables are set
+echo $AWS_ENDPOINT_URL
+echo $AWS_ENDPOINT_URL_S3
+
+# Try destroying and redeploying
+./scripts/deploy.sh dev destroy
+./scripts/deploy.sh dev deploy
+```
+
+**API endpoint not responding:**
+```bash
+# Check LocalStack API Gateway is running
+curl -s http://localhost:4566/_localstack/health | python3 -m json.tool
+
+# Verify Lambda function exists
+AWS_ACCESS_KEY_ID=test AWS_SECRET_ACCESS_KEY=test aws lambda list-functions --endpoint-url http://localhost:4566 --region us-west-2
+
+# Check CloudFormation stack
+AWS_ACCESS_KEY_ID=test AWS_SECRET_ACCESS_KEY=test aws cloudformation describe-stacks --stack-name LanduseStack-dev --endpoint-url http://localhost:4566 --region us-west-2
+```
+
+**Python dependencies:**
+```bash
+# Ensure virtual environment is active
+source infra/venv/bin/activate
+
+# Install/update requirements
+pip install -r infra/requirements.txt
+```
+
+### Key Environment Variables
+When working with LocalStack, these environment variables are automatically set by the deploy script:
+- `AWS_ACCESS_KEY_ID=test`
+- `AWS_SECRET_ACCESS_KEY=test` 
+- `AWS_ENDPOINT_URL=http://localhost:4566`
+- `AWS_ENDPOINT_URL_S3=http://s3.localhost.localstack.cloud:4566`
+
+### Current API Endpoints
+- **Search API**: `https://ewti59m6iv.execute-api.localhost.localstack.cloud:4566/dev/search`
+- **API Root**: `https://ewti59m6iv.execute-api.localhost.localstack.cloud:4566/dev/`
+- **LocalStack Health**: `http://localhost:4566/_localstack/health`
+
+## 📁 Project Structure
+
+```
+landuse/
+├── infra/                          # Infrastructure as Code (CDK)
+│   ├── app.py                      # CDK app entry point
+│   ├── cdk.json                    # CDK configuration (watch settings)
+│   ├── requirements.txt            # Python dependencies  
+│   ├── lambda/                     # Lambda function source code
+│   │   └── search/
+│   │       └── lambda_function.py  # Search Lambda implementation
+│   ├── landuse_constructs/         # Reusable CDK constructs
+│   │   ├── search_lambda.py        # Lambda construct
+│   │   └── search_api_gateway.py   # API Gateway construct
+│   └── stacks/                     # CDK stack definitions
+│       └── landuse_stack.py        # Main application stack
+├── scripts/                        # Automation scripts
+│   ├── deploy.sh                   # Deployment script (dev/staging/prod)
+│   └── localstack.sh              # LocalStack management
+├── docker-compose.localstack.yml   # LocalStack container config
+└── docs/
+    └── infra/
+        └── README.md               # This file
+```
+
+### Key Files to Modify During Development
+
+**Lambda Function Logic:**
+- `infra/lambda/search/lambda_function.py` - Main search functionality
+
+**Infrastructure Configuration:**  
+- `infra/landuse_constructs/search_lambda.py` - Lambda configuration
+- `infra/landuse_constructs/search_api_gateway.py` - API Gateway setup
+- `infra/stacks/landuse_stack.py` - Overall stack composition
+
+**Environment Configuration:**
+- `infra/app.py` - Environment-specific settings
+- `docker-compose.localstack.yml` - LocalStack container settings
