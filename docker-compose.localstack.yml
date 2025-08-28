@@ -14,7 +14,7 @@ services:
       - LAMBDA_REMOTE_DOCKER=false
       
       # AWS Services to emulate (minimal set for RAG system)
-      - SERVICES=lambda,apigateway,logs,iam,sts
+      - SERVICES=lambda,apigateway,logs,iam,sts,cloudformation
       
       # Data persistence
       - DATA_DIR=/tmp/localstack/data

@@ -23,3 +23,5 @@ chroma_db/
 !.env.example
 
 LPC-Assessor-Data-Files/
+
+localstack_data/
