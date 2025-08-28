@@ -526,3 +526,13 @@ MODEL RESPONSE:
  * Restarting with stat
  * Debugger is active!
  * Debugger PIN: 114-241-345
+ * Detected change in '/Users/matthewzienert/Documents/landuse/infra/cdk.out/asset.9b220f7800c328e1d7816b6f8fd0d9aeb1c91c9b32649b70785cc46b1f4e07f8/lambda_function.py', reloading
+✅ Inference manager ready using LocalLlamaCppProvider
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 114-241-345
+ * Detected change in '/Users/matthewzienert/Documents/landuse/infra/landuse_constructs/search_lambda.py', reloading
+✅ Inference manager ready using LocalLlamaCppProvider
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 114-241-345

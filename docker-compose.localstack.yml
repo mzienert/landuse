@@ -3,7 +3,7 @@ version: '3.8'
 services:
   localstack:
     container_name: "landuse-localstack"
-    image: localstack/localstack:3.0
+    image: localstack/localstack:4.7.0
     ports:
       - "127.0.0.1:4566:4566"            # LocalStack Gateway
     environment:
@@ -14,7 +14,7 @@ services:
       - LAMBDA_REMOTE_DOCKER=false
       
       # AWS Services to emulate (minimal set for RAG system)
-      - SERVICES=lambda,apigateway,logs,iam,sts,cloudformation
+      - SERVICES=lambda,apigateway,logs,iam,sts,cloudformation,ssm,s3
       
       # Data persistence
       - DATA_DIR=/tmp/localstack/data

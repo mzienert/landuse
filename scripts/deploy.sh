@@ -117,12 +117,14 @@ if [ "$ENVIRONMENT" == "dev" ]; then
         print_success "LocalStack is already running"
     fi
     
-    # Set AWS credentials for LocalStack (dummy values)
+    # Set AWS credentials for LocalStack (dummy values) with specialized S3 endpoint
     export AWS_ACCESS_KEY_ID=test
     export AWS_SECRET_ACCESS_KEY=test
     export AWS_DEFAULT_REGION=us-west-2
+    export AWS_ENDPOINT_URL=http://localhost:4566
+    export AWS_ENDPOINT_URL_S3=http://s3.localhost.localstack.cloud:4566
     
-    print_success "LocalStack environment configured"
+    print_success "LocalStack environment configured with specialized S3 endpoint"
     echo ""
 fi
 
@@ -219,11 +221,19 @@ case $ACTION in
         
         # Bootstrap if needed (this doesn't need context)
         print_info "Checking CDK bootstrap..."
-        cdk bootstrap aws://$AWS_ACCOUNT/$AWS_REGION 2>/dev/null || true
+        if [ "$ENVIRONMENT" == "dev" ]; then
+            cdklocal bootstrap --context env=$ENVIRONMENT 2>/dev/null || true
+        else
+            cdk bootstrap aws://$AWS_ACCOUNT/$AWS_REGION 2>/dev/null || true
+        fi
         
         # Deploy
         print_info "Deploying stack..."
-        cdk deploy --context env=$ENVIRONMENT --require-approval never
+        if [ "$ENVIRONMENT" == "dev" ]; then
+            cdklocal deploy --context env=$ENVIRONMENT --require-approval never
+        else
+            cdk deploy --context env=$ENVIRONMENT --require-approval never
+        fi
         
         print_success "Deployment completed!"
         print_info "Getting stack outputs..."

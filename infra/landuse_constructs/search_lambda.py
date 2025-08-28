@@ -40,12 +40,63 @@ class SearchLambda(Construct):
     def _create_function(self, timeout_seconds: int, memory_size: int) -> _lambda.Function:
         """Create the Lambda function with specified configuration"""
         
+        # For LocalStack dev environment, use inline code to avoid S3 asset issues
+        if self.env_name == "dev":
+            lambda_code = '''
+import json
+import os
+import logging
+
+logger = logging.getLogger()
+logger.setLevel(os.environ.get('LOG_LEVEL', 'INFO'))
+
+def lambda_handler(event, context):
+    """Basic Lambda function handler for La Plata County search service."""
+    
+    logger.info(f"Received event: {json.dumps(event)}")
+    
+    environment = os.environ.get('ENVIRONMENT', 'unknown')
+    
+    response_body = {
+        "message": "Hello World from La Plata County Search API",
+        "environment": environment,
+        "status": "online",
+        "step": "1 - Basic Lambda Deployment (LocalStack)",
+        "timestamp": context.aws_request_id
+    }
+    
+    http_method = event.get('httpMethod', 'UNKNOWN')
+    logger.info(f"Handling {http_method} request")
+    
+    if http_method == 'POST' and event.get('body'):
+        try:
+            request_body = json.loads(event['body'])
+            response_body['received_data'] = request_body
+        except json.JSONDecodeError:
+            response_body['received_data'] = event['body']
+    
+    return {
+        'statusCode': 200,
+        'headers': {
+            'Content-Type': 'application/json',
+            'Access-Control-Allow-Origin': '*',
+            'Access-Control-Allow-Methods': 'GET,POST,OPTIONS',
+            'Access-Control-Allow-Headers': 'Content-Type,Authorization'
+        },
+        'body': json.dumps(response_body, indent=2)
+    }
+'''
+            code = _lambda.Code.from_inline(lambda_code)
+        else:
+            # For staging/prod, use asset-based deployment
+            code = _lambda.Code.from_asset("lambda/search")
+        
         function = _lambda.Function(
             self,
             f"Function",
             runtime=_lambda.Runtime.PYTHON_3_11,
-            handler="lambda_function.lambda_handler",
-            code=_lambda.Code.from_asset("lambda/search"),
+            handler="index.lambda_handler",
+            code=code,
             timeout=Duration.seconds(timeout_seconds),
             memory_size=memory_size,
             environment={

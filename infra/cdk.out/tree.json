@@ -91,32 +91,6 @@
                       "version": "2.148.0"
                     }
                   },
-                  "Code": {
-                    "id": "Code",
-                    "path": "LanduseStack-dev/SearchLambda/Function/Code",
-                    "children": {
-                      "Stage": {
-                        "id": "Stage",
-                        "path": "LanduseStack-dev/SearchLambda/Function/Code/Stage",
-                        "constructInfo": {
-                          "fqn": "aws-cdk-lib.AssetStaging",
-                          "version": "2.148.0"
-                        }
-                      },
-                      "AssetBucket": {
-                        "id": "AssetBucket",
-                        "path": "LanduseStack-dev/SearchLambda/Function/Code/AssetBucket",
-                        "constructInfo": {
-                          "fqn": "aws-cdk-lib.aws_s3.BucketBase",
-                          "version": "2.148.0"
-                        }
-                      }
-                    },
-                    "constructInfo": {
-                      "fqn": "aws-cdk-lib.aws_s3_assets.Asset",
-                      "version": "2.148.0"
-                    }
-                  },
                   "Resource": {
                     "id": "Resource",
                     "path": "LanduseStack-dev/SearchLambda/Function/Resource",
@@ -124,8 +98,7 @@
                       "aws:cdk:cloudformation:type": "AWS::Lambda::Function",
                       "aws:cdk:cloudformation:props": {
                         "code": {
-                          "s3Bucket": "cdk-hnb659fds-assets-000000000000-us-west-2",
-                          "s3Key": "9b220f7800c328e1d7816b6f8fd0d9aeb1c91c9b32649b70785cc46b1f4e07f8.zip"
+                          "zipFile": "\nimport json\nimport os\nimport logging\n\nlogger = logging.getLogger()\nlogger.setLevel(os.environ.get('LOG_LEVEL', 'INFO'))\n\ndef lambda_handler(event, context):\n    \"\"\"Basic Lambda function handler for La Plata County search service.\"\"\"\n    \n    logger.info(f\"Received event: {json.dumps(event)}\")\n    \n    environment = os.environ.get('ENVIRONMENT', 'unknown')\n    \n    response_body = {\n        \"message\": \"Hello World from La Plata County Search API\",\n        \"environment\": environment,\n        \"status\": \"online\",\n        \"step\": \"1 - Basic Lambda Deployment (LocalStack)\",\n        \"timestamp\": context.aws_request_id\n    }\n    \n    http_method = event.get('httpMethod', 'UNKNOWN')\n    logger.info(f\"Handling {http_method} request\")\n    \n    if http_method == 'POST' and event.get('body'):\n        try:\n            request_body = json.loads(event['body'])\n            response_body['received_data'] = request_body\n        except json.JSONDecodeError:\n            response_body['received_data'] = event['body']\n    \n    return {\n        'statusCode': 200,\n        'headers': {\n            'Content-Type': 'application/json',\n            'Access-Control-Allow-Origin': '*',\n            'Access-Control-Allow-Methods': 'GET,POST,OPTIONS',\n            'Access-Control-Allow-Headers': 'Content-Type,Authorization'\n        },\n        'body': json.dumps(response_body, indent=2)\n    }\n"
                         },
                         "description": "La Plata County Search Service - dev",
                         "environment": {
@@ -135,7 +108,7 @@
                           }
                         },
                         "functionName": "landuse-search-dev",
-                        "handler": "lambda_function.lambda_handler",
+                        "handler": "index.lambda_handler",
                         "memorySize": 512,
                         "role": {
                           "Fn::GetAtt": [
